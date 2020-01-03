@@ -1,0 +1,186 @@
+mudar(se):
+  infinitive: mudar(se)
+  gerund: mudando
+  pastparticiple: mudado
+  definitions: {en: 'to change, alter; to move'}
+  tenses:
+  - Presente Indicativo:
+      tenses: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I move, am moving'}
+      1s: mudo
+      1p: mudamos
+      2s: mudas
+      2p: mudáis
+      3s: muda
+      3p: mudan
+  - Futuro Indicativo:
+      tenses: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will move}
+      1s: mudaré
+      1p: mudaremos
+      2s: mudarás
+      2p: mudaréis
+      3s: mudará
+      3p: mudarán
+  - Imperfecto Indicativo:
+      tenses: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was moving, used to move, moved'}
+      1s: mudaba
+      1p: mudábamos
+      2s: mudabas
+      2p: mudabais
+      3s: mudaba
+      3p: mudaban
+  - Pretérito Indicativo:
+      tenses: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I moved}
+      1s: mudé
+      1p: mudamos
+      2s: mudaste
+      2p: mudasteis
+      3s: mudó
+      3p: mudaron
+  - Condicional Indicativo:
+      tenses: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would move}
+      1s: mudaría
+      1p: mudaríamos
+      2s: mudarías
+      2p: mudaríais
+      3s: mudaría
+      3p: mudarían
+  - Presente perfecto Indicativo:
+      tenses: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have moved}
+      1s: he mudado
+      1p: hemos mudado
+      2s: has mudado
+      2p: habéis mudado
+      3s: ha mudado
+      3p: han mudado
+  - Futuro perfecto Indicativo:
+      tenses: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have moved}
+      1s: habré mudado
+      1p: habremos mudado
+      2s: habrás mudado
+      2p: habréis mudado
+      3s: habrá mudado
+      3p: habrán mudado
+  - Pluscuamperfecto Indicativo:
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had moved}
+      1s: había mudado
+      1p: habíamos mudado
+      2s: habías mudado
+      2p: habíais mudado
+      3s: había mudado
+      3p: habían mudado
+  - Pretérito anterior Indicativo:
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had moved}
+      1s: hube mudado
+      1p: hubimos mudado
+      2s: hubiste mudado
+      2p: hubisteis mudado
+      3s: hubo mudado
+      3p: hubieron mudado
+  - Condicional perfecto Indicativo:
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have moved}
+      1s: habría mudado
+      1p: habríamos mudado
+      2s: habrías mudado
+      2p: habríais mudado
+      3s: habría mudado
+      3p: habrían mudado
+  - Presente Subjuntivo:
+      tenses: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I move, am moving'}
+      1s: mude
+      1p: mudemos
+      2s: mudes
+      2p: mudéis
+      3s: mude
+      3p: muden
+  - Imperfecto Subjuntivo:
+      tenses: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I moved, was moving'}
+      1s: mudara
+      1p: mudáramos
+      2s: mudaras
+      2p: mudarais
+      3s: mudara
+      3p: mudaran
+  - Futuro Subjuntivo:
+      tenses: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will move}
+      1s: mudare
+      1p: mudáremos
+      2s: mudares
+      2p: mudareis
+      3s: mudare
+      3p: mudaren
+  - Presente perfecto Subjuntivo:
+      tenses: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have moved, moved'}
+      1s: haya mudado
+      1p: hayamos mudado
+      2s: hayas mudado
+      2p: hayáis mudado
+      3s: haya mudado
+      3p: hayan mudado
+  - Futuro perfecto Subjuntivo:
+      tenses: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have moved}
+      1s: hubiere mudado
+      1p: hubiéremos mudado
+      2s: hubieres mudado
+      2p: hubiereis mudado
+      3s: hubiere mudado
+      3p: hubieren mudado
+  - Pluscuamperfecto Subjuntivo:
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had moved}
+      1s: hubiera mudado
+      1p: hubiéramos mudado
+      2s: hubieras mudado
+      2p: hubierais mudado
+      3s: hubiera mudado
+      3p: hubieran mudado
+  - Presente Imperativo Afirmativo:
+      tenses: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Move! Don't move!}
+      1s: ''
+      1p: ''
+      2s: muda
+      2p: mudad
+      3s: mude
+      3p: muden
+  - Presente Imperativo Negativo:
+      tenses: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Move! Don't move!}
+      1s: ''
+      1p: ''
+      2s: no mudes
+      2p: no mudéis
+      3s: no mude
+      3p: no muden

@@ -1,0 +1,186 @@
+leer:
+  infinitive: leer
+  gerund: leyendo
+  pastparticiple: leído
+  definitions: {en: to read}
+  tenses:
+  - Presente Indicativo:
+      tenses: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I read, am reading'}
+      1s: leo
+      1p: leemos
+      2s: lees
+      2p: leéis
+      3s: lee
+      3p: leen
+  - Futuro Indicativo:
+      tenses: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will read}
+      1s: leeré
+      1p: leeremos
+      2s: leerás
+      2p: leeréis
+      3s: leerá
+      3p: leerán
+  - Imperfecto Indicativo:
+      tenses: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was reading, used to read, read'}
+      1s: leía
+      1p: leíamos
+      2s: leías
+      2p: leíais
+      3s: leía
+      3p: leían
+  - Pretérito Indicativo:
+      tenses: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I read}
+      1s: leí
+      1p: leímos
+      2s: leíste
+      2p: leísteis
+      3s: leyó
+      3p: leyeron
+  - Condicional Indicativo:
+      tenses: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would read}
+      1s: leería
+      1p: leeríamos
+      2s: leerías
+      2p: leeríais
+      3s: leería
+      3p: leerían
+  - Presente perfecto Indicativo:
+      tenses: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have read}
+      1s: he leído
+      1p: hemos leído
+      2s: has leído
+      2p: habéis leído
+      3s: ha leído
+      3p: han leído
+  - Futuro perfecto Indicativo:
+      tenses: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have read}
+      1s: habré leído
+      1p: habremos leído
+      2s: habrás leído
+      2p: habréis leído
+      3s: habrá leído
+      3p: habrán leído
+  - Pluscuamperfecto Indicativo:
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had read}
+      1s: había leído
+      1p: habíamos leído
+      2s: habías leído
+      2p: habíais leído
+      3s: había leído
+      3p: habían leído
+  - Pretérito anterior Indicativo:
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had read}
+      1s: hube leído
+      1p: hubimos leído
+      2s: hubiste leído
+      2p: hubisteis leído
+      3s: hubo leído
+      3p: hubieron leído
+  - Condicional perfecto Indicativo:
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have read}
+      1s: habría leído
+      1p: habríamos leído
+      2s: habrías leído
+      2p: habríais leído
+      3s: habría leído
+      3p: habrían leído
+  - Presente Subjuntivo:
+      tenses: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I read, am reading'}
+      1s: lea
+      1p: leamos
+      2s: leas
+      2p: leáis
+      3s: lea
+      3p: lean
+  - Imperfecto Subjuntivo:
+      tenses: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I read, was reading'}
+      1s: leyera
+      1p: leyéramos
+      2s: leyeras
+      2p: leyerais
+      3s: leyera
+      3p: leyeran
+  - Futuro Subjuntivo:
+      tenses: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will read}
+      1s: leyere
+      1p: leyéremos
+      2s: leyeres
+      2p: leyereis
+      3s: leyere
+      3p: leyeren
+  - Presente perfecto Subjuntivo:
+      tenses: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have read, read'}
+      1s: haya leído
+      1p: hayamos leído
+      2s: hayas leído
+      2p: hayáis leído
+      3s: haya leído
+      3p: hayan leído
+  - Futuro perfecto Subjuntivo:
+      tenses: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have read}
+      1s: hubiere leído
+      1p: hubiéremos leído
+      2s: hubieres leído
+      2p: hubiereis leído
+      3s: hubiere leído
+      3p: hubieren leído
+  - Pluscuamperfecto Subjuntivo:
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had read}
+      1s: hubiera leído
+      1p: hubiéramos leído
+      2s: hubieras leído
+      2p: hubierais leído
+      3s: hubiera leído
+      3p: hubieran leído
+  - Presente Imperativo Afirmativo:
+      tenses: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Read! Don't read!}
+      1s: ''
+      1p: ''
+      2s: lee
+      2p: leed
+      3s: lea
+      3p: lean
+  - Presente Imperativo Negativo:
+      tenses: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Read! Don't read!}
+      1s: ''
+      1p: ''
+      2s: no leas
+      2p: no leáis
+      3s: no lea
+      3p: no lean

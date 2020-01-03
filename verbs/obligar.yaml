@@ -1,0 +1,186 @@
+obligar:
+  infinitive: obligar
+  gerund: obligando
+  pastparticiple: obligado
+  definitions: {en: to oblige}
+  tenses:
+  - Presente Indicativo:
+      tenses: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I oblige, am obliging'}
+      1s: obligo
+      1p: obligamos
+      2s: obligas
+      2p: obligáis
+      3s: obliga
+      3p: obligan
+  - Futuro Indicativo:
+      tenses: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will oblige}
+      1s: obligaré
+      1p: obligaremos
+      2s: obligarás
+      2p: obligaréis
+      3s: obligará
+      3p: obligarán
+  - Imperfecto Indicativo:
+      tenses: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'I was obliging, used to oblige, obliged'}
+      1s: obligaba
+      1p: obligábamos
+      2s: obligabas
+      2p: obligabais
+      3s: obligaba
+      3p: obligaban
+  - Pretérito Indicativo:
+      tenses: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I obliged}
+      1s: obligué
+      1p: obligamos
+      2s: obligaste
+      2p: obligasteis
+      3s: obligó
+      3p: obligaron
+  - Condicional Indicativo:
+      tenses: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would oblige}
+      1s: obligaría
+      1p: obligaríamos
+      2s: obligarías
+      2p: obligaríais
+      3s: obligaría
+      3p: obligarían
+  - Presente perfecto Indicativo:
+      tenses: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I have obliged}
+      1s: he obligado
+      1p: hemos obligado
+      2s: has obligado
+      2p: habéis obligado
+      3s: ha obligado
+      3p: han obligado
+  - Futuro perfecto Indicativo:
+      tenses: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I will have obliged}
+      1s: habré obligado
+      1p: habremos obligado
+      2s: habrás obligado
+      2p: habréis obligado
+      3s: habrá obligado
+      3p: habrán obligado
+  - Pluscuamperfecto Indicativo:
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had obliged}
+      1s: había obligado
+      1p: habíamos obligado
+      2s: habías obligado
+      2p: habíais obligado
+      3s: había obligado
+      3p: habían obligado
+  - Pretérito anterior Indicativo:
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I had obliged}
+      1s: hube obligado
+      1p: hubimos obligado
+      2s: hubiste obligado
+      2p: hubisteis obligado
+      3s: hubo obligado
+      3p: hubieron obligado
+  - Condicional perfecto Indicativo:
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: I would have obliged}
+      1s: habría obligado
+      1p: habríamos obligado
+      2s: habrías obligado
+      2p: habríais obligado
+      3s: habría obligado
+      3p: habrían obligado
+  - Presente Subjuntivo:
+      tenses: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I oblige, am obliging'}
+      1s: obligue
+      1p: obliguemos
+      2s: obligues
+      2p: obliguéis
+      3s: obligue
+      3p: obliguen
+  - Imperfecto Subjuntivo:
+      tenses: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I obliged, was obliging'}
+      1s: obligara
+      1p: obligáramos
+      2s: obligaras
+      2p: obligarais
+      3s: obligara
+      3p: obligaran
+  - Futuro Subjuntivo:
+      tenses: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will oblige}
+      1s: obligare
+      1p: obligáremos
+      2s: obligares
+      2p: obligareis
+      3s: obligare
+      3p: obligaren
+  - Presente perfecto Subjuntivo:
+      tenses: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'I have obliged, obliged'}
+      1s: haya obligado
+      1p: hayamos obligado
+      2s: hayas obligado
+      2p: hayáis obligado
+      3s: haya obligado
+      3p: hayan obligado
+  - Futuro perfecto Subjuntivo:
+      tenses: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I will have obliged}
+      1s: hubiere obligado
+      1p: hubiéremos obligado
+      2s: hubieres obligado
+      2p: hubiereis obligado
+      3s: hubiere obligado
+      3p: hubieren obligado
+  - Pluscuamperfecto Subjuntivo:
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: I had obliged}
+      1s: hubiera obligado
+      1p: hubiéramos obligado
+      2s: hubieras obligado
+      2p: hubierais obligado
+      3s: hubiera obligado
+      3p: hubieran obligado
+  - Presente Imperativo Afirmativo:
+      tenses: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Oblige! Don't oblige!}
+      1s: ''
+      1p: ''
+      2s: obliga
+      2p: obligad
+      3s: obligue
+      3p: obliguen
+  - Presente Imperativo Negativo:
+      tenses: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Oblige! Don't oblige!}
+      1s: ''
+      1p: ''
+      2s: no obligues
+      2p: no obliguéis
+      3s: no obligue
+      3p: no obliguen

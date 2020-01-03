@@ -1,0 +1,186 @@
+nevar:
+  infinitive: nevar
+  gerund: nevando
+  pastparticiple: nevado
+  definitions: {en: to snow}
+  tenses:
+  - Presente Indicativo:
+      tenses: {en: Present, es: Presente}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'it snows, is snowing'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: nieva
+      3p: ''
+  - Futuro Indicativo:
+      tenses: {en: Future, es: Futuro}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it will snow}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: nevará
+      3p: ''
+  - Imperfecto Indicativo:
+      tenses: {en: Imperfect, es: Imperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: 'it was snowing, used to snow, snowed'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: nevaba
+      3p: ''
+  - Pretérito Indicativo:
+      tenses: {en: Preterite, es: Pretérito}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it snowed}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: nevó
+      3p: ''
+  - Condicional Indicativo:
+      tenses: {en: Conditional, es: Condicional}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it would snow}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: nevaría
+      3p: ''
+  - Presente perfecto Indicativo:
+      tenses: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it has snowed}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: ha nevado
+      3p: ''
+  - Futuro perfecto Indicativo:
+      tenses: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it will have snowed}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: habrá nevado
+      3p: ''
+  - Pluscuamperfecto Indicativo:
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it had snowed}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: había nevado
+      3p: ''
+  - Pretérito anterior Indicativo:
+      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it had snowed}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: hubo nevado
+      3p: ''
+  - Condicional perfecto Indicativo:
+      tenses: {en: Conditional Perfect, es: Condicional perfecto}
+      moods: {en: Indicative, es: Indicativo}
+      samples: {en: it would have snowed}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: habría nevado
+      3p: ''
+  - Presente Subjuntivo:
+      tenses: {en: Present, es: Presente}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'it snows, is snowing'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: nieve
+      3p: ''
+  - Imperfecto Subjuntivo:
+      tenses: {en: Imperfect, es: Imperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'it snowed, was snowing'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: nevara
+      3p: ''
+  - Futuro Subjuntivo:
+      tenses: {en: Future, es: Futuro}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: it will snow}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: nevare
+      3p: ''
+  - Presente perfecto Subjuntivo:
+      tenses: {en: Present Perfect, es: Presente perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: 'it has snowed, snowed'}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: haya nevado
+      3p: ''
+  - Futuro perfecto Subjuntivo:
+      tenses: {en: Future Perfect, es: Futuro perfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: it will have snowed}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: hubiere nevado
+      3p: ''
+  - Pluscuamperfecto Subjuntivo:
+      tenses: {en: Past Perfect, es: Pluscuamperfecto}
+      moods: {en: Subjunctive, es: Subjuntivo}
+      samples: {en: it had snowed}
+      1s: ''
+      1p: ''
+      2s: ''
+      2p: ''
+      3s: hubiera nevado
+      3p: ''
+  - Presente Imperativo Afirmativo:
+      tenses: {en: Present, es: Presente}
+      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      samples: {en: Snow! Don't snow!}
+      1s: ''
+      1p: ''
+      2s: nieva
+      2p: nevad
+      3s: nieve
+      3p: nieven
+  - Presente Imperativo Negativo:
+      tenses: {en: Present, es: Presente}
+      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      samples: {en: Snow! Don't snow!}
+      1s: ''
+      1p: ''
+      2s: no nieves
+      2p: no nevéis
+      3s: no nieve
+      3p: no nieven
