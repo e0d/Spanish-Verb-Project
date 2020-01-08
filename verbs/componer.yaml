@@ -2,11 +2,11 @@ componer:
   infinitive: componer
   gerund: componiendo
   pastparticiple: compuesto
-  definitions: {en: 'to compose, make up, put together'}
-  tenses:
+  definition: {en: 'to compose, make up, put together'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I compose, am composing'}
       1s: compongo
       1p: componemos
@@ -15,8 +15,8 @@ componer:
       3s: compone
       3p: componen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will compose}
       1s: compondré
       1p: compondremos
@@ -25,8 +25,8 @@ componer:
       3s: compondrá
       3p: compondrán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was composing, used to compose, composed'}
       1s: componía
       1p: componíamos
@@ -35,8 +35,8 @@ componer:
       3s: componía
       3p: componían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I composed}
       1s: compuse
       1p: compusimos
@@ -45,8 +45,8 @@ componer:
       3s: compuso
       3p: compusieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would compose}
       1s: compondría
       1p: compondríamos
@@ -55,8 +55,8 @@ componer:
       3s: compondría
       3p: compondrían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have composed}
       1s: he compuesto
       1p: hemos compuesto
@@ -65,8 +65,8 @@ componer:
       3s: ha compuesto
       3p: han compuesto
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have composed}
       1s: habré compuesto
       1p: habremos compuesto
@@ -75,8 +75,8 @@ componer:
       3s: habrá compuesto
       3p: habrán compuesto
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had composed}
       1s: había compuesto
       1p: habíamos compuesto
@@ -85,8 +85,8 @@ componer:
       3s: había compuesto
       3p: habían compuesto
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had composed}
       1s: hube compuesto
       1p: hubimos compuesto
@@ -95,8 +95,8 @@ componer:
       3s: hubo compuesto
       3p: hubieron compuesto
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have composed}
       1s: habría compuesto
       1p: habríamos compuesto
@@ -105,8 +105,8 @@ componer:
       3s: habría compuesto
       3p: habrían compuesto
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I compose, am composing'}
       1s: componga
       1p: compongamos
@@ -115,8 +115,8 @@ componer:
       3s: componga
       3p: compongan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I composed, was composing'}
       1s: compusiera
       1p: compusiéramos
@@ -125,8 +125,8 @@ componer:
       3s: compusiera
       3p: compusieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will compose}
       1s: compusiere
       1p: compusiéremos
@@ -135,8 +135,8 @@ componer:
       3s: compusiere
       3p: compusieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have composed, composed'}
       1s: haya compuesto
       1p: hayamos compuesto
@@ -145,8 +145,8 @@ componer:
       3s: haya compuesto
       3p: hayan compuesto
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have composed}
       1s: hubiere compuesto
       1p: hubiéremos compuesto
@@ -155,8 +155,8 @@ componer:
       3s: hubiere compuesto
       3p: hubieren compuesto
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had composed}
       1s: hubiera compuesto
       1p: hubiéramos compuesto
@@ -165,8 +165,8 @@ componer:
       3s: hubiera compuesto
       3p: hubieran compuesto
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Compose! Don't compose!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ componer:
       3s: componga
       3p: compongan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Compose! Don't compose!}
       1s: ''
       1p: ''

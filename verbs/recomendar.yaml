@@ -2,11 +2,11 @@ recomendar:
   infinitive: recomendar
   gerund: recomendando
   pastparticiple: recomendado
-  definitions: {en: to recommend}
-  tenses:
+  definition: {en: to recommend}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I recommend, am recommending'}
       1s: recomiendo
       1p: recomendamos
@@ -15,8 +15,8 @@ recomendar:
       3s: recomienda
       3p: recomiendan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will recommend}
       1s: recomendaré
       1p: recomendaremos
@@ -25,8 +25,8 @@ recomendar:
       3s: recomendará
       3p: recomendarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was recommending, used to recommend, recommended'}
       1s: recomendaba
       1p: recomendábamos
@@ -35,8 +35,8 @@ recomendar:
       3s: recomendaba
       3p: recomendaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I recommended}
       1s: recomendé
       1p: recomendamos
@@ -45,8 +45,8 @@ recomendar:
       3s: recomendó
       3p: recomendaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would recommend}
       1s: recomendaría
       1p: recomendaríamos
@@ -55,8 +55,8 @@ recomendar:
       3s: recomendaría
       3p: recomendarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have recommended}
       1s: he recomendado
       1p: hemos recomendado
@@ -65,8 +65,8 @@ recomendar:
       3s: ha recomendado
       3p: han recomendado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have recommended}
       1s: habré recomendado
       1p: habremos recomendado
@@ -75,8 +75,8 @@ recomendar:
       3s: habrá recomendado
       3p: habrán recomendado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had recommended}
       1s: había recomendado
       1p: habíamos recomendado
@@ -85,8 +85,8 @@ recomendar:
       3s: había recomendado
       3p: habían recomendado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had recommended}
       1s: hube recomendado
       1p: hubimos recomendado
@@ -95,8 +95,8 @@ recomendar:
       3s: hubo recomendado
       3p: hubieron recomendado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have recommended}
       1s: habría recomendado
       1p: habríamos recomendado
@@ -105,8 +105,8 @@ recomendar:
       3s: habría recomendado
       3p: habrían recomendado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I recommend, am recommending'}
       1s: recomiende
       1p: recomendemos
@@ -115,8 +115,8 @@ recomendar:
       3s: recomiende
       3p: recomienden
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I recommended, was recommending'}
       1s: recomendara
       1p: recomendáramos
@@ -125,8 +125,8 @@ recomendar:
       3s: recomendara
       3p: recomendaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will recommend}
       1s: recomendare
       1p: recomendáremos
@@ -135,8 +135,8 @@ recomendar:
       3s: recomendare
       3p: recomendaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have recommended, recommended'}
       1s: haya recomendado
       1p: hayamos recomendado
@@ -145,8 +145,8 @@ recomendar:
       3s: haya recomendado
       3p: hayan recomendado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have recommended}
       1s: hubiere recomendado
       1p: hubiéremos recomendado
@@ -155,8 +155,8 @@ recomendar:
       3s: hubiere recomendado
       3p: hubieren recomendado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had recommended}
       1s: hubiera recomendado
       1p: hubiéramos recomendado
@@ -165,8 +165,8 @@ recomendar:
       3s: hubiera recomendado
       3p: hubieran recomendado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Recommend! Don't recommend!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ recomendar:
       3s: recomiende
       3p: recomienden
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Recommend! Don't recommend!}
       1s: ''
       1p: ''

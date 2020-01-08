@@ -2,11 +2,11 @@ obedecer:
   infinitive: obedecer
   gerund: obedeciendo
   pastparticiple: obedecido
-  definitions: {en: to obey}
-  tenses:
+  definition: {en: to obey}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I obey, am obeying'}
       1s: obedezco
       1p: obedecemos
@@ -15,8 +15,8 @@ obedecer:
       3s: obedece
       3p: obedecen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will obey}
       1s: obedeceré
       1p: obedeceremos
@@ -25,8 +25,8 @@ obedecer:
       3s: obedecerá
       3p: obedecerán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was obeying, used to obey, obeyed'}
       1s: obedecía
       1p: obedecíamos
@@ -35,8 +35,8 @@ obedecer:
       3s: obedecía
       3p: obedecían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I obeyed}
       1s: obedecí
       1p: obedecimos
@@ -45,8 +45,8 @@ obedecer:
       3s: obedeció
       3p: obedecieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would obey}
       1s: obedecería
       1p: obedeceríamos
@@ -55,8 +55,8 @@ obedecer:
       3s: obedecería
       3p: obedecerían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have obeyed}
       1s: he obedecido
       1p: hemos obedecido
@@ -65,8 +65,8 @@ obedecer:
       3s: ha obedecido
       3p: han obedecido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have obeyed}
       1s: habré obedecido
       1p: habremos obedecido
@@ -75,8 +75,8 @@ obedecer:
       3s: habrá obedecido
       3p: habrán obedecido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had obeyed}
       1s: había obedecido
       1p: habíamos obedecido
@@ -85,8 +85,8 @@ obedecer:
       3s: había obedecido
       3p: habían obedecido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had obeyed}
       1s: hube obedecido
       1p: hubimos obedecido
@@ -95,8 +95,8 @@ obedecer:
       3s: hubo obedecido
       3p: hubieron obedecido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have obeyed}
       1s: habría obedecido
       1p: habríamos obedecido
@@ -105,8 +105,8 @@ obedecer:
       3s: habría obedecido
       3p: habrían obedecido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I obey, am obeying'}
       1s: obedezca
       1p: obedezcamos
@@ -115,8 +115,8 @@ obedecer:
       3s: obedezca
       3p: obedezcan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I obeyed, was obeying'}
       1s: obedeciera
       1p: obedeciéramos
@@ -125,8 +125,8 @@ obedecer:
       3s: obedeciera
       3p: obedecieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will obey}
       1s: obedeciere
       1p: obedeciéremos
@@ -135,8 +135,8 @@ obedecer:
       3s: obedeciere
       3p: obedecieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have obeyed, obeyed'}
       1s: haya obedecido
       1p: hayamos obedecido
@@ -145,8 +145,8 @@ obedecer:
       3s: haya obedecido
       3p: hayan obedecido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have obeyed}
       1s: hubiere obedecido
       1p: hubiéremos obedecido
@@ -155,8 +155,8 @@ obedecer:
       3s: hubiere obedecido
       3p: hubieren obedecido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had obeyed}
       1s: hubiera obedecido
       1p: hubiéramos obedecido
@@ -165,8 +165,8 @@ obedecer:
       3s: hubiera obedecido
       3p: hubieran obedecido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Obey! Don't obey!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ obedecer:
       3s: obedezca
       3p: obedezcan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Obey! Don't obey!}
       1s: ''
       1p: ''

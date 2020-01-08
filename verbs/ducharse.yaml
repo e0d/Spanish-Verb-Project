@@ -2,11 +2,11 @@ ducharse:
   infinitive: ducharse
   gerund: duchándose
   pastparticiple: duchado
-  definitions: {en: 'to take a shower, shower [oneself]'}
-  tenses:
+  definition: {en: 'to take a shower, shower [oneself]'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I take a shower, am taking a shower'}
       1s: me ducho
       1p: nos duchamos
@@ -15,8 +15,8 @@ ducharse:
       3s: se ducha
       3p: se duchan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will take a shower}
       1s: me ducharé
       1p: nos ducharemos
@@ -25,8 +25,8 @@ ducharse:
       3s: se duchará
       3p: se ducharán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was taking a shower, used to take a shower, took a shower'}
       1s: me duchaba
       1p: nos duchábamos
@@ -35,8 +35,8 @@ ducharse:
       3s: se duchaba
       3p: se duchaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I took a shower}
       1s: me duché
       1p: nos duchamos
@@ -45,8 +45,8 @@ ducharse:
       3s: se duchó
       3p: se ducharon
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would take a shower}
       1s: me ducharía
       1p: nos ducharíamos
@@ -55,8 +55,8 @@ ducharse:
       3s: se ducharía
       3p: se ducharían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have taken a shower}
       1s: me he duchado
       1p: nos hemos duchado
@@ -65,8 +65,8 @@ ducharse:
       3s: se ha duchado
       3p: se han duchado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have taken a shower}
       1s: me habré duchado
       1p: nos habremos duchado
@@ -75,8 +75,8 @@ ducharse:
       3s: se habrá duchado
       3p: se habrán duchado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had taken a shower}
       1s: me había duchado
       1p: nos habíamos duchado
@@ -85,8 +85,8 @@ ducharse:
       3s: se había duchado
       3p: se habían duchado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had taken a shower}
       1s: me hube duchado
       1p: nos hubimos duchado
@@ -95,8 +95,8 @@ ducharse:
       3s: se hubo duchado
       3p: se hubieron duchado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have taken a shower}
       1s: me habría duchado
       1p: nos habríamos duchado
@@ -105,8 +105,8 @@ ducharse:
       3s: se habría duchado
       3p: se habrían duchado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I take a shower, am taking a shower'}
       1s: me duche
       1p: nos duchemos
@@ -115,8 +115,8 @@ ducharse:
       3s: se duche
       3p: se duchen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I took a shower, was taking a shower'}
       1s: me duchara
       1p: nos ducháramos
@@ -125,8 +125,8 @@ ducharse:
       3s: se duchara
       3p: se ducharan
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will take a shower}
       1s: me duchare
       1p: nos ducháremos
@@ -135,8 +135,8 @@ ducharse:
       3s: se duchare
       3p: se ducharen
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have taken a shower, took a shower'}
       1s: me haya duchado
       1p: nos hayamos duchado
@@ -145,8 +145,8 @@ ducharse:
       3s: se haya duchado
       3p: se hayan duchado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have taken a shower}
       1s: me hubiere duchado
       1p: nos hubiéremos duchado
@@ -155,8 +155,8 @@ ducharse:
       3s: se hubiere duchado
       3p: se hubieren duchado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had taken a shower}
       1s: me hubiera duchado
       1p: nos hubiéramos duchado
@@ -165,8 +165,8 @@ ducharse:
       3s: se hubiera duchado
       3p: se hubieran duchado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Take a shower! Don't take a shower!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ ducharse:
       3s: dúchese
       3p: dúchense
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Take a shower! Don't take a shower!}
       1s: ''
       1p: ''

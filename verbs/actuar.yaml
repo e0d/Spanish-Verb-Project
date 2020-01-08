@@ -2,11 +2,11 @@ actuar:
   infinitive: actuar
   gerund: actuando
   pastparticiple: actuado
-  definitions: {en: 'to act, perform, actuate, operate'}
-  tenses:
+  definition: {en: 'to act, perform, actuate, operate'}
+  conjugations:
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have acted, acted'}
       1s: haya actuado
       1p: hayamos actuado
@@ -15,8 +15,8 @@ actuar:
       3s: haya actuado
       3p: hayan actuado
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I act, am acting'}
       1s: actúo
       1p: actuamos
@@ -25,8 +25,8 @@ actuar:
       3s: actúa
       3p: actúan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will act}
       1s: actuaré
       1p: actuaremos
@@ -35,8 +35,8 @@ actuar:
       3s: actuará
       3p: actuarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was acting, used to act, acted'}
       1s: actuaba
       1p: actuábamos
@@ -45,8 +45,8 @@ actuar:
       3s: actuaba
       3p: actuaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I acted}
       1s: actué
       1p: actuamos
@@ -55,8 +55,8 @@ actuar:
       3s: actuó
       3p: actuaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would act}
       1s: actuaría
       1p: actuaríamos
@@ -65,8 +65,8 @@ actuar:
       3s: actuaría
       3p: actuarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have acted}
       1s: he actuado
       1p: hemos actuado
@@ -75,8 +75,8 @@ actuar:
       3s: ha actuado
       3p: han actuado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have acted}
       1s: habré actuado
       1p: habremos actuado
@@ -85,8 +85,8 @@ actuar:
       3s: habrá actuado
       3p: habrán actuado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had acted}
       1s: había actuado
       1p: habíamos actuado
@@ -95,8 +95,8 @@ actuar:
       3s: había actuado
       3p: habían actuado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had acted}
       1s: hube actuado
       1p: hubimos actuado
@@ -105,8 +105,8 @@ actuar:
       3s: hubo actuado
       3p: hubieron actuado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have acted}
       1s: habría actuado
       1p: habríamos actuado
@@ -115,8 +115,8 @@ actuar:
       3s: habría actuado
       3p: habrían actuado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I act, am acting'}
       1s: actúe
       1p: actuemos
@@ -125,8 +125,8 @@ actuar:
       3s: actúe
       3p: actúen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I acted, was acting'}
       1s: actuara
       1p: actuáramos
@@ -135,8 +135,8 @@ actuar:
       3s: actuara
       3p: actuaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will act}
       1s: actuare
       1p: actuáremos
@@ -145,8 +145,8 @@ actuar:
       3s: actuare
       3p: actuaren
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have acted}
       1s: hubiere actuado
       1p: hubiéremos actuado
@@ -155,8 +155,8 @@ actuar:
       3s: hubiere actuado
       3p: hubieren actuado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had acted}
       1s: hubiera actuado
       1p: hubiéramos actuado
@@ -165,8 +165,8 @@ actuar:
       3s: hubiera actuado
       3p: hubieran actuado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Act! Don't act!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ actuar:
       3s: actúe
       3p: actúen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Act! Don't act!}
       1s: ''
       1p: ''

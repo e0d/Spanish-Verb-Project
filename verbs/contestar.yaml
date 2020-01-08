@@ -2,11 +2,11 @@ contestar:
   infinitive: contestar
   gerund: contestando
   pastparticiple: contestado
-  definitions: {en: to answer}
-  tenses:
+  definition: {en: to answer}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I answer, am answering'}
       1s: contesto
       1p: contestamos
@@ -15,8 +15,8 @@ contestar:
       3s: contesta
       3p: contestan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will answer}
       1s: contestaré
       1p: contestaremos
@@ -25,8 +25,8 @@ contestar:
       3s: contestará
       3p: contestarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was answering, used to answer, answered'}
       1s: contestaba
       1p: contestábamos
@@ -35,8 +35,8 @@ contestar:
       3s: contestaba
       3p: contestaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I answered}
       1s: contesté
       1p: contestamos
@@ -45,8 +45,8 @@ contestar:
       3s: contestó
       3p: contestaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would answer}
       1s: contestaría
       1p: contestaríamos
@@ -55,8 +55,8 @@ contestar:
       3s: contestaría
       3p: contestarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have answered}
       1s: he contestado
       1p: hemos contestado
@@ -65,8 +65,8 @@ contestar:
       3s: ha contestado
       3p: han contestado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have answered}
       1s: habré contestado
       1p: habremos contestado
@@ -75,8 +75,8 @@ contestar:
       3s: habrá contestado
       3p: habrán contestado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had answered}
       1s: había contestado
       1p: habíamos contestado
@@ -85,8 +85,8 @@ contestar:
       3s: había contestado
       3p: habían contestado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had answered}
       1s: hube contestado
       1p: hubimos contestado
@@ -95,8 +95,8 @@ contestar:
       3s: hubo contestado
       3p: hubieron contestado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have answered}
       1s: habría contestado
       1p: habríamos contestado
@@ -105,8 +105,8 @@ contestar:
       3s: habría contestado
       3p: habrían contestado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I answer, am answering'}
       1s: conteste
       1p: contestemos
@@ -115,8 +115,8 @@ contestar:
       3s: conteste
       3p: contesten
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I answered, was answering'}
       1s: contestara
       1p: contestáramos
@@ -125,8 +125,8 @@ contestar:
       3s: contestara
       3p: contestaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will answer}
       1s: contestare
       1p: contestáremos
@@ -135,8 +135,8 @@ contestar:
       3s: contestare
       3p: contestaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have answered, answered'}
       1s: haya contestado
       1p: hayamos contestado
@@ -145,8 +145,8 @@ contestar:
       3s: haya contestado
       3p: hayan contestado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have answered}
       1s: hubiere contestado
       1p: hubiéremos contestado
@@ -155,8 +155,8 @@ contestar:
       3s: hubiere contestado
       3p: hubieren contestado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had answered}
       1s: hubiera contestado
       1p: hubiéramos contestado
@@ -165,8 +165,8 @@ contestar:
       3s: hubiera contestado
       3p: hubieran contestado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Answer! Don't answer!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ contestar:
       3s: conteste
       3p: contesten
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Answer! Don't answer!}
       1s: ''
       1p: ''

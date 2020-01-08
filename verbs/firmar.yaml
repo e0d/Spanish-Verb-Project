@@ -2,11 +2,11 @@ firmar:
   infinitive: firmar
   gerund: firmando
   pastparticiple: firmado
-  definitions: {en: to sign}
-  tenses:
+  definition: {en: to sign}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I sign, am signing'}
       1s: firmo
       1p: firmamos
@@ -15,8 +15,8 @@ firmar:
       3s: firma
       3p: firman
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will sign}
       1s: firmaré
       1p: firmaremos
@@ -25,8 +25,8 @@ firmar:
       3s: firmará
       3p: firmarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was signing, used to sign, signed'}
       1s: firmaba
       1p: firmábamos
@@ -35,8 +35,8 @@ firmar:
       3s: firmaba
       3p: firmaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I signed}
       1s: firmé
       1p: firmamos
@@ -45,8 +45,8 @@ firmar:
       3s: firmó
       3p: firmaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would sign}
       1s: firmaría
       1p: firmaríamos
@@ -55,8 +55,8 @@ firmar:
       3s: firmaría
       3p: firmarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have signed}
       1s: he firmado
       1p: hemos firmado
@@ -65,8 +65,8 @@ firmar:
       3s: ha firmado
       3p: han firmado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have signed}
       1s: habré firmado
       1p: habremos firmado
@@ -75,8 +75,8 @@ firmar:
       3s: habrá firmado
       3p: habrán firmado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had signed}
       1s: había firmado
       1p: habíamos firmado
@@ -85,8 +85,8 @@ firmar:
       3s: había firmado
       3p: habían firmado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had signed}
       1s: hube firmado
       1p: hubimos firmado
@@ -95,8 +95,8 @@ firmar:
       3s: hubo firmado
       3p: hubieron firmado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have signed}
       1s: habría firmado
       1p: habríamos firmado
@@ -105,8 +105,8 @@ firmar:
       3s: habría firmado
       3p: habrían firmado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I sign, am signing'}
       1s: firme
       1p: firmemos
@@ -115,8 +115,8 @@ firmar:
       3s: firme
       3p: firmen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I signed, was signing'}
       1s: firmara
       1p: firmáramos
@@ -125,8 +125,8 @@ firmar:
       3s: firmara
       3p: firmaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will sign}
       1s: firmare
       1p: firmáremos
@@ -135,8 +135,8 @@ firmar:
       3s: firmare
       3p: firmaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have signed, signed'}
       1s: haya firmado
       1p: hayamos firmado
@@ -145,8 +145,8 @@ firmar:
       3s: haya firmado
       3p: hayan firmado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have signed}
       1s: hubiere firmado
       1p: hubiéremos firmado
@@ -155,8 +155,8 @@ firmar:
       3s: hubiere firmado
       3p: hubieren firmado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had signed}
       1s: hubiera firmado
       1p: hubiéramos firmado
@@ -165,8 +165,8 @@ firmar:
       3s: hubiera firmado
       3p: hubieran firmado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Sign! Don't sign!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ firmar:
       3s: firme
       3p: firmen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Sign! Don't sign!}
       1s: ''
       1p: ''

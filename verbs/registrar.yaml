@@ -2,11 +2,11 @@ registrar:
   infinitive: registrar
   gerund: registrando
   pastparticiple: registrado
-  definitions: {en: 'to register, record; to search'}
-  tenses:
+  definition: {en: 'to register, record; to search'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I register, am registering'}
       1s: registro
       1p: registramos
@@ -15,8 +15,8 @@ registrar:
       3s: registra
       3p: registran
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will register}
       1s: registraré
       1p: registraremos
@@ -25,8 +25,8 @@ registrar:
       3s: registrará
       3p: registrarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was registering, used to register, registered'}
       1s: registraba
       1p: registrábamos
@@ -35,8 +35,8 @@ registrar:
       3s: registraba
       3p: registraban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I registered}
       1s: registré
       1p: registramos
@@ -45,8 +45,8 @@ registrar:
       3s: registró
       3p: registraron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would register}
       1s: registraría
       1p: registraríamos
@@ -55,8 +55,8 @@ registrar:
       3s: registraría
       3p: registrarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have registered}
       1s: he registrado
       1p: hemos registrado
@@ -65,8 +65,8 @@ registrar:
       3s: ha registrado
       3p: han registrado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have registered}
       1s: habré registrado
       1p: habremos registrado
@@ -75,8 +75,8 @@ registrar:
       3s: habrá registrado
       3p: habrán registrado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had registered}
       1s: había registrado
       1p: habíamos registrado
@@ -85,8 +85,8 @@ registrar:
       3s: había registrado
       3p: habían registrado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had registered}
       1s: hube registrado
       1p: hubimos registrado
@@ -95,8 +95,8 @@ registrar:
       3s: hubo registrado
       3p: hubieron registrado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have registered}
       1s: habría registrado
       1p: habríamos registrado
@@ -105,8 +105,8 @@ registrar:
       3s: habría registrado
       3p: habrían registrado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I register, am registering'}
       1s: registre
       1p: registremos
@@ -115,8 +115,8 @@ registrar:
       3s: registre
       3p: registren
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I registered, was registering'}
       1s: registrara
       1p: registráramos
@@ -125,8 +125,8 @@ registrar:
       3s: registrara
       3p: registraran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will register}
       1s: registrare
       1p: registráremos
@@ -135,8 +135,8 @@ registrar:
       3s: registrare
       3p: registraren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have registered, registered'}
       1s: haya registrado
       1p: hayamos registrado
@@ -145,8 +145,8 @@ registrar:
       3s: haya registrado
       3p: hayan registrado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have registered}
       1s: hubiere registrado
       1p: hubiéremos registrado
@@ -155,8 +155,8 @@ registrar:
       3s: hubiere registrado
       3p: hubieren registrado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had registered}
       1s: hubiera registrado
       1p: hubiéramos registrado
@@ -165,8 +165,8 @@ registrar:
       3s: hubiera registrado
       3p: hubieran registrado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Register! Don't register!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ registrar:
       3s: registre
       3p: registren
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Register! Don't register!}
       1s: ''
       1p: ''

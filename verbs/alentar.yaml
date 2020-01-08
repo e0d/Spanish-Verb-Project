@@ -2,11 +2,11 @@ alentar:
   infinitive: alentar
   gerund: alentando
   pastparticiple: alentado
-  definitions: {en: 'to encourage, cheer, inspire, bolster up'}
-  tenses:
+  definition: {en: 'to encourage, cheer, inspire, bolster up'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I encourage, am encouraging'}
       1s: aliento
       1p: alentamos
@@ -15,8 +15,8 @@ alentar:
       3s: alienta
       3p: alientan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will encourage}
       1s: alentaré
       1p: alentaremos
@@ -25,8 +25,8 @@ alentar:
       3s: alentará
       3p: alentarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was encouraging, used to encourage, encouraged'}
       1s: alentaba
       1p: alentábamos
@@ -35,8 +35,8 @@ alentar:
       3s: alentaba
       3p: alentaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I encouraged}
       1s: alenté
       1p: alentamos
@@ -45,8 +45,8 @@ alentar:
       3s: alentó
       3p: alentaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would encourage}
       1s: alentaría
       1p: alentaríamos
@@ -55,8 +55,8 @@ alentar:
       3s: alentaría
       3p: alentarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have encouraged}
       1s: he alentado
       1p: hemos alentado
@@ -65,8 +65,8 @@ alentar:
       3s: ha alentado
       3p: han alentado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have encouraged}
       1s: habré alentado
       1p: habremos alentado
@@ -75,8 +75,8 @@ alentar:
       3s: habrá alentado
       3p: habrán alentado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had encouraged}
       1s: había alentado
       1p: habíamos alentado
@@ -85,8 +85,8 @@ alentar:
       3s: había alentado
       3p: habían alentado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had encouraged}
       1s: hube alentado
       1p: hubimos alentado
@@ -95,8 +95,8 @@ alentar:
       3s: hubo alentado
       3p: hubieron alentado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have encouraged}
       1s: habría alentado
       1p: habríamos alentado
@@ -105,8 +105,8 @@ alentar:
       3s: habría alentado
       3p: habrían alentado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I encourage, am encouraging'}
       1s: aliente
       1p: alentemos
@@ -115,8 +115,8 @@ alentar:
       3s: aliente
       3p: alienten
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I encouraged, was encouraging'}
       1s: alentara
       1p: alentáramos
@@ -125,8 +125,8 @@ alentar:
       3s: alentara
       3p: alentaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will encourage}
       1s: alentare
       1p: alentáremos
@@ -135,8 +135,8 @@ alentar:
       3s: alentare
       3p: alentaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have encouraged, encouraged'}
       1s: haya alentado
       1p: hayamos alentado
@@ -145,8 +145,8 @@ alentar:
       3s: haya alentado
       3p: hayan alentado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have encouraged}
       1s: hubiere alentado
       1p: hubiéremos alentado
@@ -155,8 +155,8 @@ alentar:
       3s: hubiere alentado
       3p: hubieren alentado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had encouraged}
       1s: hubiera alentado
       1p: hubiéramos alentado
@@ -165,8 +165,8 @@ alentar:
       3s: hubiera alentado
       3p: hubieran alentado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Encourage! Don't encourage!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ alentar:
       3s: aliente
       3p: alienten
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Encourage! Don't encourage!}
       1s: ''
       1p: ''

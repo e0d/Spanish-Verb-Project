@@ -2,11 +2,11 @@ herir:
   infinitive: herir
   gerund: hiriendo
   pastparticiple: herido
-  definitions: {en: 'to injure, hurt, wound; to beat, strike'}
-  tenses:
+  definition: {en: 'to injure, hurt, wound; to beat, strike'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I injure, am injuring'}
       1s: hiero
       1p: herimos
@@ -15,8 +15,8 @@ herir:
       3s: hiere
       3p: hieren
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will injure}
       1s: heriré
       1p: heriremos
@@ -25,8 +25,8 @@ herir:
       3s: herirá
       3p: herirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was injuring, used to injure, injured'}
       1s: hería
       1p: heríamos
@@ -35,8 +35,8 @@ herir:
       3s: hería
       3p: herían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I injured}
       1s: herí
       1p: herimos
@@ -45,8 +45,8 @@ herir:
       3s: hirió
       3p: hirieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would injure}
       1s: heriría
       1p: heriríamos
@@ -55,8 +55,8 @@ herir:
       3s: heriría
       3p: herirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have injured}
       1s: he herido
       1p: hemos herido
@@ -65,8 +65,8 @@ herir:
       3s: ha herido
       3p: han herido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have injured}
       1s: habré herido
       1p: habremos herido
@@ -75,8 +75,8 @@ herir:
       3s: habrá herido
       3p: habrán herido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had injured}
       1s: había herido
       1p: habíamos herido
@@ -85,8 +85,8 @@ herir:
       3s: había herido
       3p: habían herido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had injured}
       1s: hube herido
       1p: hubimos herido
@@ -95,8 +95,8 @@ herir:
       3s: hubo herido
       3p: hubieron herido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have injured}
       1s: habría herido
       1p: habríamos herido
@@ -105,8 +105,8 @@ herir:
       3s: habría herido
       3p: habrían herido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I injure, am injuring'}
       1s: hiera
       1p: hiramos
@@ -115,8 +115,8 @@ herir:
       3s: hiera
       3p: hieran
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I injured, was injuring'}
       1s: hiriera
       1p: hiriéramos
@@ -125,8 +125,8 @@ herir:
       3s: hiriera
       3p: hirieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will injure}
       1s: hiriere
       1p: hiriéremos
@@ -135,8 +135,8 @@ herir:
       3s: hiriere
       3p: hirieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have injured, injured'}
       1s: haya herido
       1p: hayamos herido
@@ -145,8 +145,8 @@ herir:
       3s: haya herido
       3p: hayan herido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have injured}
       1s: hubiere herido
       1p: hubiéremos herido
@@ -155,8 +155,8 @@ herir:
       3s: hubiere herido
       3p: hubieren herido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had injured}
       1s: hubiera herido
       1p: hubiéramos herido
@@ -165,8 +165,8 @@ herir:
       3s: hubiera herido
       3p: hubieran herido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Injure! Don't injure!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ herir:
       3s: hiera
       3p: hieran
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Injure! Don't injure!}
       1s: ''
       1p: ''

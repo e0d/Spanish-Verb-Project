@@ -2,11 +2,11 @@ derretir:
   infinitive: derretir
   gerund: derritiendo
   pastparticiple: derretido
-  definitions: {en: 'to melt, liquefy, thaw'}
-  tenses:
+  definition: {en: 'to melt, liquefy, thaw'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I melt, am melting'}
       1s: derrito
       1p: derretimos
@@ -15,8 +15,8 @@ derretir:
       3s: derrite
       3p: derriten
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will melt}
       1s: derretiré
       1p: derretiremos
@@ -25,8 +25,8 @@ derretir:
       3s: derretirá
       3p: derretirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was melting, used to melt, melted'}
       1s: derretía
       1p: derretíamos
@@ -35,8 +35,8 @@ derretir:
       3s: derretía
       3p: derretían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I melted}
       1s: derretí
       1p: derretimos
@@ -45,8 +45,8 @@ derretir:
       3s: derritió
       3p: derritieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would melt}
       1s: derretiría
       1p: derretiríamos
@@ -55,8 +55,8 @@ derretir:
       3s: derretiría
       3p: derretirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have melted}
       1s: he derretido
       1p: hemos derretido
@@ -65,8 +65,8 @@ derretir:
       3s: ha derretido
       3p: han derretido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have melted}
       1s: habré derretido
       1p: habremos derretido
@@ -75,8 +75,8 @@ derretir:
       3s: habrá derretido
       3p: habrán derretido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had melted}
       1s: había derretido
       1p: habíamos derretido
@@ -85,8 +85,8 @@ derretir:
       3s: había derretido
       3p: habían derretido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had melted}
       1s: hube derretido
       1p: hubimos derretido
@@ -95,8 +95,8 @@ derretir:
       3s: hubo derretido
       3p: hubieron derretido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have melted}
       1s: habría derretido
       1p: habríamos derretido
@@ -105,8 +105,8 @@ derretir:
       3s: habría derretido
       3p: habrían derretido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I melt, am melting'}
       1s: derrita
       1p: derritamos
@@ -115,8 +115,8 @@ derretir:
       3s: derrita
       3p: derritan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I melted, was melting'}
       1s: derritiera
       1p: derritiéramos
@@ -125,8 +125,8 @@ derretir:
       3s: derritiera
       3p: derritieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will melt}
       1s: derritiere
       1p: derritiéremos
@@ -135,8 +135,8 @@ derretir:
       3s: derritiere
       3p: derritieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have melted, melted'}
       1s: haya derretido
       1p: hayamos derretido
@@ -145,8 +145,8 @@ derretir:
       3s: haya derretido
       3p: hayan derretido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have melted}
       1s: hubiere derretido
       1p: hubiéremos derretido
@@ -155,8 +155,8 @@ derretir:
       3s: hubiere derretido
       3p: hubieren derretido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had melted}
       1s: hubiera derretido
       1p: hubiéramos derretido
@@ -165,8 +165,8 @@ derretir:
       3s: hubiera derretido
       3p: hubieran derretido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Melt! Don't melt!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ derretir:
       3s: derrita
       3p: derritan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Melt! Don't melt!}
       1s: ''
       1p: ''

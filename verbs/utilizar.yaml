@@ -2,11 +2,11 @@ utilizar:
   infinitive: utilizar
   gerund: utilizando
   pastparticiple: utilizado
-  definitions: {en: 'to use, utilize'}
-  tenses:
+  definition: {en: 'to use, utilize'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I use, am using'}
       1s: utilizo
       1p: utilizamos
@@ -15,8 +15,8 @@ utilizar:
       3s: utiliza
       3p: utilizan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will use}
       1s: utilizaré
       1p: utilizaremos
@@ -25,8 +25,8 @@ utilizar:
       3s: utilizará
       3p: utilizarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was using, used to use, used'}
       1s: utilizaba
       1p: utilizábamos
@@ -35,8 +35,8 @@ utilizar:
       3s: utilizaba
       3p: utilizaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I used}
       1s: utilicé
       1p: utilizamos
@@ -45,8 +45,8 @@ utilizar:
       3s: utilizó
       3p: utilizaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would use}
       1s: utilizaría
       1p: utilizaríamos
@@ -55,8 +55,8 @@ utilizar:
       3s: utilizaría
       3p: utilizarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have used}
       1s: he utilizado
       1p: hemos utilizado
@@ -65,8 +65,8 @@ utilizar:
       3s: ha utilizado
       3p: han utilizado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have used}
       1s: habré utilizado
       1p: habremos utilizado
@@ -75,8 +75,8 @@ utilizar:
       3s: habrá utilizado
       3p: habrán utilizado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had used}
       1s: había utilizado
       1p: habíamos utilizado
@@ -85,8 +85,8 @@ utilizar:
       3s: había utilizado
       3p: habían utilizado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had used}
       1s: hube utilizado
       1p: hubimos utilizado
@@ -95,8 +95,8 @@ utilizar:
       3s: hubo utilizado
       3p: hubieron utilizado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have used}
       1s: habría utilizado
       1p: habríamos utilizado
@@ -105,8 +105,8 @@ utilizar:
       3s: habría utilizado
       3p: habrían utilizado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I use, am using'}
       1s: utilice
       1p: utilicemos
@@ -115,8 +115,8 @@ utilizar:
       3s: utilice
       3p: utilicen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I used, was using'}
       1s: utilizara
       1p: utilizáramos
@@ -125,8 +125,8 @@ utilizar:
       3s: utilizara
       3p: utilizaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will use}
       1s: utilizare
       1p: utilizáremos
@@ -135,8 +135,8 @@ utilizar:
       3s: utilizare
       3p: utilizaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have used, used'}
       1s: haya utilizado
       1p: hayamos utilizado
@@ -145,8 +145,8 @@ utilizar:
       3s: haya utilizado
       3p: hayan utilizado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have used}
       1s: hubiere utilizado
       1p: hubiéremos utilizado
@@ -155,8 +155,8 @@ utilizar:
       3s: hubiere utilizado
       3p: hubieren utilizado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had used}
       1s: hubiera utilizado
       1p: hubiéramos utilizado
@@ -165,8 +165,8 @@ utilizar:
       3s: hubiera utilizado
       3p: hubieran utilizado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Use! Don't use!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ utilizar:
       3s: utilice
       3p: utilicen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Use! Don't use!}
       1s: ''
       1p: ''

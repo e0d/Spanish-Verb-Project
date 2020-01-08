@@ -2,11 +2,11 @@ fumar:
   infinitive: fumar
   gerund: fumando
   pastparticiple: fumado
-  definitions: {en: to smoke}
-  tenses:
+  definition: {en: to smoke}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I smoke, am smoking'}
       1s: fumo
       1p: fumamos
@@ -15,8 +15,8 @@ fumar:
       3s: fuma
       3p: fuman
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will smoke}
       1s: fumaré
       1p: fumaremos
@@ -25,8 +25,8 @@ fumar:
       3s: fumará
       3p: fumarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was smoking, used to smoke, smoked'}
       1s: fumaba
       1p: fumábamos
@@ -35,8 +35,8 @@ fumar:
       3s: fumaba
       3p: fumaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I smoked}
       1s: fumé
       1p: fumamos
@@ -45,8 +45,8 @@ fumar:
       3s: fumó
       3p: fumaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would smoke}
       1s: fumaría
       1p: fumaríamos
@@ -55,8 +55,8 @@ fumar:
       3s: fumaría
       3p: fumarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have smoked}
       1s: he fumado
       1p: hemos fumado
@@ -65,8 +65,8 @@ fumar:
       3s: ha fumado
       3p: han fumado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have smoked}
       1s: habré fumado
       1p: habremos fumado
@@ -75,8 +75,8 @@ fumar:
       3s: habrá fumado
       3p: habrán fumado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had smoked}
       1s: había fumado
       1p: habíamos fumado
@@ -85,8 +85,8 @@ fumar:
       3s: había fumado
       3p: habían fumado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had smoked}
       1s: hube fumado
       1p: hubimos fumado
@@ -95,8 +95,8 @@ fumar:
       3s: hubo fumado
       3p: hubieron fumado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have smoked}
       1s: habría fumado
       1p: habríamos fumado
@@ -105,8 +105,8 @@ fumar:
       3s: habría fumado
       3p: habrían fumado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I smoke, am smoking'}
       1s: fume
       1p: fumemos
@@ -115,8 +115,8 @@ fumar:
       3s: fume
       3p: fumen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I smoked, was smoking'}
       1s: fumara
       1p: fumáramos
@@ -125,8 +125,8 @@ fumar:
       3s: fumara
       3p: fumaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will smoke}
       1s: fumare
       1p: fumáremos
@@ -135,8 +135,8 @@ fumar:
       3s: fumare
       3p: fumaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have smoked, smoked'}
       1s: haya fumado
       1p: hayamos fumado
@@ -145,8 +145,8 @@ fumar:
       3s: haya fumado
       3p: hayan fumado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have smoked}
       1s: hubiere fumado
       1p: hubiéremos fumado
@@ -155,8 +155,8 @@ fumar:
       3s: hubiere fumado
       3p: hubieren fumado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had smoked}
       1s: hubiera fumado
       1p: hubiéramos fumado
@@ -165,8 +165,8 @@ fumar:
       3s: hubiera fumado
       3p: hubieran fumado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Smoke! Don't smoke!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ fumar:
       3s: fume
       3p: fumen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Smoke! Don't smoke!}
       1s: ''
       1p: ''

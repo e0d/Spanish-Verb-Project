@@ -2,11 +2,11 @@ oler:
   infinitive: oler
   gerund: oliendo
   pastparticiple: olido
-  definitions: {en: to smell}
-  tenses:
+  definition: {en: to smell}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I smell, am smelling'}
       1s: huelo
       1p: olemos
@@ -15,8 +15,8 @@ oler:
       3s: huele
       3p: huelen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will smell}
       1s: oleré
       1p: oleremos
@@ -25,8 +25,8 @@ oler:
       3s: olerá
       3p: olerán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was smelling, used to smell, smelled'}
       1s: olía
       1p: olíamos
@@ -35,8 +35,8 @@ oler:
       3s: olía
       3p: olían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I smelled}
       1s: olí
       1p: olimos
@@ -45,8 +45,8 @@ oler:
       3s: olió
       3p: olieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would smell}
       1s: olería
       1p: oleríamos
@@ -55,8 +55,8 @@ oler:
       3s: olería
       3p: olerían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have smelled}
       1s: he olido
       1p: hemos olido
@@ -65,8 +65,8 @@ oler:
       3s: ha olido
       3p: han olido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have smelled}
       1s: habré olido
       1p: habremos olido
@@ -75,8 +75,8 @@ oler:
       3s: habrá olido
       3p: habrán olido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had smelled}
       1s: había olido
       1p: habíamos olido
@@ -85,8 +85,8 @@ oler:
       3s: había olido
       3p: habían olido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had smelled}
       1s: hube olido
       1p: hubimos olido
@@ -95,8 +95,8 @@ oler:
       3s: hubo olido
       3p: hubieron olido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have smelled}
       1s: habría olido
       1p: habríamos olido
@@ -105,8 +105,8 @@ oler:
       3s: habría olido
       3p: habrían olido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I smell, am smelling'}
       1s: huela
       1p: olamos
@@ -115,8 +115,8 @@ oler:
       3s: huela
       3p: huelan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I smelled, was smelling'}
       1s: oliera
       1p: oliéramos
@@ -125,8 +125,8 @@ oler:
       3s: oliera
       3p: olieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will smell}
       1s: oliere
       1p: oliéremos
@@ -135,8 +135,8 @@ oler:
       3s: oliere
       3p: olieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have smelled, smelled'}
       1s: haya olido
       1p: hayamos olido
@@ -145,8 +145,8 @@ oler:
       3s: haya olido
       3p: hayan olido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have smelled}
       1s: hubiere olido
       1p: hubiéremos olido
@@ -155,8 +155,8 @@ oler:
       3s: hubiere olido
       3p: hubieren olido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had smelled}
       1s: hubiera olido
       1p: hubiéramos olido
@@ -165,8 +165,8 @@ oler:
       3s: hubiera olido
       3p: hubieran olido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Smell! Don't smell!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ oler:
       3s: huela
       3p: huelan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Smell! Don't smell!}
       1s: ''
       1p: ''

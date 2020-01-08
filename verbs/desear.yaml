@@ -2,11 +2,11 @@ desear:
   infinitive: desear
   gerund: deseando
   pastparticiple: deseado
-  definitions: {en: 'to desire, want, wish'}
-  tenses:
+  definition: {en: 'to desire, want, wish'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I desire, am desiring'}
       1s: deseo
       1p: deseamos
@@ -15,8 +15,8 @@ desear:
       3s: desea
       3p: desean
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will desire}
       1s: desearé
       1p: desearemos
@@ -25,8 +25,8 @@ desear:
       3s: deseará
       3p: desearán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was desiring, used to desire, desired'}
       1s: deseaba
       1p: deseábamos
@@ -35,8 +35,8 @@ desear:
       3s: deseaba
       3p: deseaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I desired}
       1s: deseé
       1p: deseamos
@@ -45,8 +45,8 @@ desear:
       3s: deseó
       3p: desearon
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would desire}
       1s: desearía
       1p: desearíamos
@@ -55,8 +55,8 @@ desear:
       3s: desearía
       3p: desearían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have desired}
       1s: he deseado
       1p: hemos deseado
@@ -65,8 +65,8 @@ desear:
       3s: ha deseado
       3p: han deseado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have desired}
       1s: habré deseado
       1p: habremos deseado
@@ -75,8 +75,8 @@ desear:
       3s: habrá deseado
       3p: habrán deseado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had desired}
       1s: había deseado
       1p: habíamos deseado
@@ -85,8 +85,8 @@ desear:
       3s: había deseado
       3p: habían deseado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had desired}
       1s: hube deseado
       1p: hubimos deseado
@@ -95,8 +95,8 @@ desear:
       3s: hubo deseado
       3p: hubieron deseado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have desired}
       1s: habría deseado
       1p: habríamos deseado
@@ -105,8 +105,8 @@ desear:
       3s: habría deseado
       3p: habrían deseado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I desire, am desiring'}
       1s: desee
       1p: deseemos
@@ -115,8 +115,8 @@ desear:
       3s: desee
       3p: deseen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I desired, was desiring'}
       1s: deseara
       1p: deseáramos
@@ -125,8 +125,8 @@ desear:
       3s: deseara
       3p: desearan
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will desire}
       1s: deseare
       1p: deseáremos
@@ -135,8 +135,8 @@ desear:
       3s: deseare
       3p: desearen
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have desired, desired'}
       1s: haya deseado
       1p: hayamos deseado
@@ -145,8 +145,8 @@ desear:
       3s: haya deseado
       3p: hayan deseado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have desired}
       1s: hubiere deseado
       1p: hubiéremos deseado
@@ -155,8 +155,8 @@ desear:
       3s: hubiere deseado
       3p: hubieren deseado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had desired}
       1s: hubiera deseado
       1p: hubiéramos deseado
@@ -165,8 +165,8 @@ desear:
       3s: hubiera deseado
       3p: hubieran deseado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Desire! Don't desire!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ desear:
       3s: desee
       3p: deseen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Desire! Don't desire!}
       1s: ''
       1p: ''

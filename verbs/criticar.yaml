@@ -2,11 +2,11 @@ criticar:
   infinitive: criticar
   gerund: criticando
   pastparticiple: criticado
-  definitions: {en: to criticize}
-  tenses:
+  definition: {en: to criticize}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I criticize, am criticizing'}
       1s: critico
       1p: criticamos
@@ -15,8 +15,8 @@ criticar:
       3s: critica
       3p: critican
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will criticize}
       1s: criticaré
       1p: criticaremos
@@ -25,8 +25,8 @@ criticar:
       3s: criticará
       3p: criticarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was criticizing, used to criticize, criticized'}
       1s: criticaba
       1p: criticábamos
@@ -35,8 +35,8 @@ criticar:
       3s: criticaba
       3p: criticaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I criticized}
       1s: critiqué
       1p: criticamos
@@ -45,8 +45,8 @@ criticar:
       3s: criticó
       3p: criticaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would criticize}
       1s: criticaría
       1p: criticaríamos
@@ -55,8 +55,8 @@ criticar:
       3s: criticaría
       3p: criticarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have criticized}
       1s: he criticado
       1p: hemos criticado
@@ -65,8 +65,8 @@ criticar:
       3s: ha criticado
       3p: han criticado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have criticized}
       1s: habré criticado
       1p: habremos criticado
@@ -75,8 +75,8 @@ criticar:
       3s: habrá criticado
       3p: habrán criticado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had criticized}
       1s: había criticado
       1p: habíamos criticado
@@ -85,8 +85,8 @@ criticar:
       3s: había criticado
       3p: habían criticado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had criticized}
       1s: hube criticado
       1p: hubimos criticado
@@ -95,8 +95,8 @@ criticar:
       3s: hubo criticado
       3p: hubieron criticado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have criticized}
       1s: habría criticado
       1p: habríamos criticado
@@ -105,8 +105,8 @@ criticar:
       3s: habría criticado
       3p: habrían criticado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I criticize, am criticizing'}
       1s: critique
       1p: critiquemos
@@ -115,8 +115,8 @@ criticar:
       3s: critique
       3p: critiquen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I criticized, was criticizing'}
       1s: criticara
       1p: criticáramos
@@ -125,8 +125,8 @@ criticar:
       3s: criticara
       3p: criticaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will criticize}
       1s: criticare
       1p: criticáremos
@@ -135,8 +135,8 @@ criticar:
       3s: criticare
       3p: criticaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have criticized, criticized'}
       1s: haya criticado
       1p: hayamos criticado
@@ -145,8 +145,8 @@ criticar:
       3s: haya criticado
       3p: hayan criticado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have criticized}
       1s: hubiere criticado
       1p: hubiéremos criticado
@@ -155,8 +155,8 @@ criticar:
       3s: hubiere criticado
       3p: hubieren criticado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had criticized}
       1s: hubiera criticado
       1p: hubiéramos criticado
@@ -165,8 +165,8 @@ criticar:
       3s: hubiera criticado
       3p: hubieran criticado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Criticize! Don't criticize!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ criticar:
       3s: critique
       3p: critiquen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Criticize! Don't criticize!}
       1s: ''
       1p: ''

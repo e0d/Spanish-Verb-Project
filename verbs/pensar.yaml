@@ -2,11 +2,11 @@ pensar:
   infinitive: pensar
   gerund: pensando
   pastparticiple: pensado
-  definitions: {en: to think}
-  tenses:
+  definition: {en: to think}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I think, am thinking'}
       1s: pienso
       1p: pensamos
@@ -15,8 +15,8 @@ pensar:
       3s: piensa
       3p: piensan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will think}
       1s: pensaré
       1p: pensaremos
@@ -25,8 +25,8 @@ pensar:
       3s: pensará
       3p: pensarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was thinking, used to think, thought'}
       1s: pensaba
       1p: pensábamos
@@ -35,8 +35,8 @@ pensar:
       3s: pensaba
       3p: pensaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I thought}
       1s: pensé
       1p: pensamos
@@ -45,8 +45,8 @@ pensar:
       3s: pensó
       3p: pensaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would think}
       1s: pensaría
       1p: pensaríamos
@@ -55,8 +55,8 @@ pensar:
       3s: pensaría
       3p: pensarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have thought}
       1s: he pensado
       1p: hemos pensado
@@ -65,8 +65,8 @@ pensar:
       3s: ha pensado
       3p: han pensado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have thought}
       1s: habré pensado
       1p: habremos pensado
@@ -75,8 +75,8 @@ pensar:
       3s: habrá pensado
       3p: habrán pensado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had thought}
       1s: había pensado
       1p: habíamos pensado
@@ -85,8 +85,8 @@ pensar:
       3s: había pensado
       3p: habían pensado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had thought}
       1s: hube pensado
       1p: hubimos pensado
@@ -95,8 +95,8 @@ pensar:
       3s: hubo pensado
       3p: hubieron pensado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have thought}
       1s: habría pensado
       1p: habríamos pensado
@@ -105,8 +105,8 @@ pensar:
       3s: habría pensado
       3p: habrían pensado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I think, am thinking'}
       1s: piense
       1p: pensemos
@@ -115,8 +115,8 @@ pensar:
       3s: piense
       3p: piensen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I thought, was thinking'}
       1s: pensara
       1p: pensáramos
@@ -125,8 +125,8 @@ pensar:
       3s: pensara
       3p: pensaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will think}
       1s: pensare
       1p: pensáremos
@@ -135,8 +135,8 @@ pensar:
       3s: pensare
       3p: pensaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have thought, thought'}
       1s: haya pensado
       1p: hayamos pensado
@@ -145,8 +145,8 @@ pensar:
       3s: haya pensado
       3p: hayan pensado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have thought}
       1s: hubiere pensado
       1p: hubiéremos pensado
@@ -155,8 +155,8 @@ pensar:
       3s: hubiere pensado
       3p: hubieren pensado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had thought}
       1s: hubiera pensado
       1p: hubiéramos pensado
@@ -165,8 +165,8 @@ pensar:
       3s: hubiera pensado
       3p: hubieran pensado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Think! Don't think!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ pensar:
       3s: piense
       3p: piensen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Think! Don't think!}
       1s: ''
       1p: ''

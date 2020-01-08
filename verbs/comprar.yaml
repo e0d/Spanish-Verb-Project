@@ -2,11 +2,11 @@ comprar:
   infinitive: comprar
   gerund: comprando
   pastparticiple: comprado
-  definitions: {en: 'to buy, purchase'}
-  tenses:
+  definition: {en: 'to buy, purchase'}
+  conjugations:
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will buy}
       1s: compraré
       1p: compraremos
@@ -15,8 +15,8 @@ comprar:
       3s: comprará
       3p: comprarán
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I buy, am buying'}
       1s: compro
       1p: compramos
@@ -25,8 +25,8 @@ comprar:
       3s: compra
       3p: compran
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was buying, used to buy, bought'}
       1s: compraba
       1p: comprábamos
@@ -35,8 +35,8 @@ comprar:
       3s: compraba
       3p: compraban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I bought}
       1s: compré
       1p: compramos
@@ -45,8 +45,8 @@ comprar:
       3s: compró
       3p: compraron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would buy}
       1s: compraría
       1p: compraríamos
@@ -55,8 +55,8 @@ comprar:
       3s: compraría
       3p: comprarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have bought}
       1s: he comprado
       1p: hemos comprado
@@ -65,8 +65,8 @@ comprar:
       3s: ha comprado
       3p: han comprado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have bought}
       1s: habré comprado
       1p: habremos comprado
@@ -75,8 +75,8 @@ comprar:
       3s: habrá comprado
       3p: habrán comprado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had bought}
       1s: había comprado
       1p: habíamos comprado
@@ -85,8 +85,8 @@ comprar:
       3s: había comprado
       3p: habían comprado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had bought}
       1s: hube comprado
       1p: hubimos comprado
@@ -95,8 +95,8 @@ comprar:
       3s: hubo comprado
       3p: hubieron comprado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have bought}
       1s: habría comprado
       1p: habríamos comprado
@@ -105,8 +105,8 @@ comprar:
       3s: habría comprado
       3p: habrían comprado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I buy, am buying'}
       1s: compre
       1p: compremos
@@ -115,8 +115,8 @@ comprar:
       3s: compre
       3p: compren
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I bought, was buying'}
       1s: comprara
       1p: compráramos
@@ -125,8 +125,8 @@ comprar:
       3s: comprara
       3p: compraran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will buy}
       1s: comprare
       1p: compráremos
@@ -135,8 +135,8 @@ comprar:
       3s: comprare
       3p: compraren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have bought, bought'}
       1s: haya comprado
       1p: hayamos comprado
@@ -145,8 +145,8 @@ comprar:
       3s: haya comprado
       3p: hayan comprado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have bought}
       1s: hubiere comprado
       1p: hubiéremos comprado
@@ -155,8 +155,8 @@ comprar:
       3s: hubiere comprado
       3p: hubieren comprado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had bought}
       1s: hubiera comprado
       1p: hubiéramos comprado
@@ -165,8 +165,8 @@ comprar:
       3s: hubiera comprado
       3p: hubieran comprado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Buy! Don't buy!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ comprar:
       3s: compre
       3p: compren
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Buy! Don't buy!}
       1s: ''
       1p: ''

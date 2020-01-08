@@ -2,11 +2,11 @@ practicar:
   infinitive: practicar
   gerund: practicando
   pastparticiple: practicado
-  definitions: {en: to practice}
-  tenses:
+  definition: {en: to practice}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I practice, am practicing'}
       1s: practico
       1p: practicamos
@@ -15,8 +15,8 @@ practicar:
       3s: practica
       3p: practican
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will practice}
       1s: practicaré
       1p: practicaremos
@@ -25,8 +25,8 @@ practicar:
       3s: practicará
       3p: practicarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was practicing, used to practice, practiced'}
       1s: practicaba
       1p: practicábamos
@@ -35,8 +35,8 @@ practicar:
       3s: practicaba
       3p: practicaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I practiced}
       1s: practiqué
       1p: practicamos
@@ -45,8 +45,8 @@ practicar:
       3s: practicó
       3p: practicaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would practice}
       1s: practicaría
       1p: practicaríamos
@@ -55,8 +55,8 @@ practicar:
       3s: practicaría
       3p: practicarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have practiced}
       1s: he practicado
       1p: hemos practicado
@@ -65,8 +65,8 @@ practicar:
       3s: ha practicado
       3p: han practicado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have practiced}
       1s: habré practicado
       1p: habremos practicado
@@ -75,8 +75,8 @@ practicar:
       3s: habrá practicado
       3p: habrán practicado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had practiced}
       1s: había practicado
       1p: habíamos practicado
@@ -85,8 +85,8 @@ practicar:
       3s: había practicado
       3p: habían practicado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had practiced}
       1s: hube practicado
       1p: hubimos practicado
@@ -95,8 +95,8 @@ practicar:
       3s: hubo practicado
       3p: hubieron practicado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have practiced}
       1s: habría practicado
       1p: habríamos practicado
@@ -105,8 +105,8 @@ practicar:
       3s: habría practicado
       3p: habrían practicado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I practice, am practicing'}
       1s: practique
       1p: practiquemos
@@ -115,8 +115,8 @@ practicar:
       3s: practique
       3p: practiquen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I practiced, was practicing'}
       1s: practicara
       1p: practicáramos
@@ -125,8 +125,8 @@ practicar:
       3s: practicara
       3p: practicaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will practice}
       1s: practicare
       1p: practicáremos
@@ -135,8 +135,8 @@ practicar:
       3s: practicare
       3p: practicaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have practiced, practiced'}
       1s: haya practicado
       1p: hayamos practicado
@@ -145,8 +145,8 @@ practicar:
       3s: haya practicado
       3p: hayan practicado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have practiced}
       1s: hubiere practicado
       1p: hubiéremos practicado
@@ -155,8 +155,8 @@ practicar:
       3s: hubiere practicado
       3p: hubieren practicado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had practiced}
       1s: hubiera practicado
       1p: hubiéramos practicado
@@ -165,8 +165,8 @@ practicar:
       3s: hubiera practicado
       3p: hubieran practicado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Practice! Don't practice!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ practicar:
       3s: practique
       3p: practiquen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Practice! Don't practice!}
       1s: ''
       1p: ''

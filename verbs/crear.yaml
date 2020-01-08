@@ -2,11 +2,11 @@ crear:
   infinitive: crear
   gerund: creando
   pastparticiple: creado
-  definitions: {en: to create; to make}
-  tenses:
+  definition: {en: to create; to make}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I create, am creating'}
       1s: creo
       1p: creamos
@@ -15,8 +15,8 @@ crear:
       3s: crea
       3p: crean
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will create}
       1s: crearé
       1p: crearemos
@@ -25,8 +25,8 @@ crear:
       3s: creará
       3p: crearán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was creating, used to create, created'}
       1s: creaba
       1p: creábamos
@@ -35,8 +35,8 @@ crear:
       3s: creaba
       3p: creaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I created}
       1s: creé
       1p: creamos
@@ -45,8 +45,8 @@ crear:
       3s: creó
       3p: crearon
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would create}
       1s: crearía
       1p: crearíamos
@@ -55,8 +55,8 @@ crear:
       3s: crearía
       3p: crearían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have created}
       1s: he creado
       1p: hemos creado
@@ -65,8 +65,8 @@ crear:
       3s: ha creado
       3p: han creado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have created}
       1s: habré creado
       1p: habremos creado
@@ -75,8 +75,8 @@ crear:
       3s: habrá creado
       3p: habrán creado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had created}
       1s: había creado
       1p: habíamos creado
@@ -85,8 +85,8 @@ crear:
       3s: había creado
       3p: habían creado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had created}
       1s: hube creado
       1p: hubimos creado
@@ -95,8 +95,8 @@ crear:
       3s: hubo creado
       3p: hubieron creado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have created}
       1s: habría creado
       1p: habríamos creado
@@ -105,8 +105,8 @@ crear:
       3s: habría creado
       3p: habrían creado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I create, am creating'}
       1s: cree
       1p: creemos
@@ -115,8 +115,8 @@ crear:
       3s: cree
       3p: creen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I created, was creating'}
       1s: creara
       1p: creáramos
@@ -125,8 +125,8 @@ crear:
       3s: creara
       3p: crearan
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will create}
       1s: creare
       1p: creáremos
@@ -135,8 +135,8 @@ crear:
       3s: creare
       3p: crearen
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have created, created'}
       1s: haya creado
       1p: hayamos creado
@@ -145,8 +145,8 @@ crear:
       3s: haya creado
       3p: hayan creado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have created}
       1s: hubiere creado
       1p: hubiéremos creado
@@ -155,8 +155,8 @@ crear:
       3s: hubiere creado
       3p: hubieren creado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had created}
       1s: hubiera creado
       1p: hubiéramos creado
@@ -165,8 +165,8 @@ crear:
       3s: hubiera creado
       3p: hubieran creado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Create! Don't create!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ crear:
       3s: cree
       3p: creen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Create! Don't create!}
       1s: ''
       1p: ''

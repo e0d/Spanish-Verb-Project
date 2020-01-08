@@ -2,11 +2,11 @@ quebrarse:
   infinitive: quebrarse
   gerund: quebrándose
   pastparticiple: quebrado
-  definitions: {en: 'to break, smash, get broken'}
-  tenses:
+  definition: {en: 'to break, smash, get broken'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I break, am breaking'}
       1s: me quiebro
       1p: nos quebramos
@@ -15,8 +15,8 @@ quebrarse:
       3s: se quiebra
       3p: se quiebran
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will break}
       1s: me quebraré
       1p: nos quebraremos
@@ -25,8 +25,8 @@ quebrarse:
       3s: se quebrará
       3p: se quebrarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was breaking, used to break, broke'}
       1s: me quebraba
       1p: nos quebrábamos
@@ -35,8 +35,8 @@ quebrarse:
       3s: se quebraba
       3p: se quebraban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I broke}
       1s: me quebré
       1p: nos quebramos
@@ -45,8 +45,8 @@ quebrarse:
       3s: se quebró
       3p: se quebraron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would break}
       1s: me quebraría
       1p: nos quebraríamos
@@ -55,8 +55,8 @@ quebrarse:
       3s: se quebraría
       3p: se quebrarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have broken}
       1s: me he quebrado
       1p: nos hemos quebrado
@@ -65,8 +65,8 @@ quebrarse:
       3s: se ha quebrado
       3p: se han quebrado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have broken}
       1s: me habré quebrado
       1p: nos habremos quebrado
@@ -75,8 +75,8 @@ quebrarse:
       3s: se habrá quebrado
       3p: se habrán quebrado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had broken}
       1s: me había quebrado
       1p: nos habíamos quebrado
@@ -85,8 +85,8 @@ quebrarse:
       3s: se había quebrado
       3p: se habían quebrado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had broken}
       1s: me hube quebrado
       1p: nos hubimos quebrado
@@ -95,8 +95,8 @@ quebrarse:
       3s: se hubo quebrado
       3p: se hubieron quebrado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have broken}
       1s: me habría quebrado
       1p: nos habríamos quebrado
@@ -105,8 +105,8 @@ quebrarse:
       3s: se habría quebrado
       3p: se habrían quebrado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I break, am breaking'}
       1s: me quiebre
       1p: nos quebremos
@@ -115,8 +115,8 @@ quebrarse:
       3s: se quiebre
       3p: se quiebren
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I broke, was breaking'}
       1s: me quebrara
       1p: nos quebráramos
@@ -125,8 +125,8 @@ quebrarse:
       3s: se quebrara
       3p: se quebraran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will break}
       1s: me quebrare
       1p: nos quebráremos
@@ -135,8 +135,8 @@ quebrarse:
       3s: se quebrare
       3p: se quebraren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have broken, broke'}
       1s: me haya quebrado
       1p: nos hayamos quebrado
@@ -145,8 +145,8 @@ quebrarse:
       3s: se haya quebrado
       3p: se hayan quebrado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have broken}
       1s: me hubiere quebrado
       1p: nos hubiéremos quebrado
@@ -155,8 +155,8 @@ quebrarse:
       3s: se hubiere quebrado
       3p: se hubieren quebrado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had broken}
       1s: me hubiera quebrado
       1p: nos hubiéramos quebrado
@@ -165,8 +165,8 @@ quebrarse:
       3s: se hubiera quebrado
       3p: se hubieran quebrado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Break! Don't break!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ quebrarse:
       3s: quiébrese
       3p: quiébrense
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Break! Don't break!}
       1s: ''
       1p: ''

@@ -2,11 +2,11 @@ abordar:
   infinitive: abordar
   gerund: abordando
   pastparticiple: abordado
-  definitions: {en: 'to board, get on [plane, bus, etc.]; to approach, accost [a person]'}
-  tenses:
+  definition: {en: 'to board, get on [plane, bus, etc.]; to approach, accost [a person]'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I board, am boarding'}
       1s: abordo
       1p: abordamos
@@ -15,8 +15,8 @@ abordar:
       3s: aborda
       3p: abordan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will board}
       1s: abordaré
       1p: abordaremos
@@ -25,8 +25,8 @@ abordar:
       3s: abordará
       3p: abordarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was boarding, used to board, boarded'}
       1s: abordaba
       1p: abordábamos
@@ -35,8 +35,8 @@ abordar:
       3s: abordaba
       3p: abordaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I boarded}
       1s: abordé
       1p: abordamos
@@ -45,8 +45,8 @@ abordar:
       3s: abordó
       3p: abordaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would board}
       1s: abordaría
       1p: abordaríamos
@@ -55,8 +55,8 @@ abordar:
       3s: abordaría
       3p: abordarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have boarded}
       1s: he abordado
       1p: hemos abordado
@@ -65,8 +65,8 @@ abordar:
       3s: ha abordado
       3p: han abordado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have boarded}
       1s: habré abordado
       1p: habremos abordado
@@ -75,8 +75,8 @@ abordar:
       3s: habrá abordado
       3p: habrán abordado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had boarded}
       1s: había abordado
       1p: habíamos abordado
@@ -85,8 +85,8 @@ abordar:
       3s: había abordado
       3p: habían abordado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had boarded}
       1s: hube abordado
       1p: hubimos abordado
@@ -95,8 +95,8 @@ abordar:
       3s: hubo abordado
       3p: hubieron abordado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have boarded}
       1s: habría abordado
       1p: habríamos abordado
@@ -105,8 +105,8 @@ abordar:
       3s: habría abordado
       3p: habrían abordado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I board, am boarding'}
       1s: aborde
       1p: abordemos
@@ -115,8 +115,8 @@ abordar:
       3s: aborde
       3p: aborden
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I boarded, was boarding'}
       1s: abordara
       1p: abordáramos
@@ -125,8 +125,8 @@ abordar:
       3s: abordara
       3p: abordaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will board}
       1s: abordare
       1p: abordáremos
@@ -135,8 +135,8 @@ abordar:
       3s: abordare
       3p: abordaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have boarded, boarded'}
       1s: haya abordado
       1p: hayamos abordado
@@ -145,8 +145,8 @@ abordar:
       3s: haya abordado
       3p: hayan abordado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have boarded}
       1s: hubiere abordado
       1p: hubiéremos abordado
@@ -155,8 +155,8 @@ abordar:
       3s: hubiere abordado
       3p: hubieren abordado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had boarded}
       1s: hubiera abordado
       1p: hubiéramos abordado
@@ -165,8 +165,8 @@ abordar:
       3s: hubiera abordado
       3p: hubieran abordado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Board! Don't board!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ abordar:
       3s: aborde
       3p: aborden
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Board! Don't board!}
       1s: ''
       1p: ''

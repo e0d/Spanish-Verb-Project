@@ -2,11 +2,11 @@ informar:
   infinitive: informar
   gerund: informando
   pastparticiple: informado
-  definitions: {en: 'to inform, tell, announce'}
-  tenses:
+  definition: {en: 'to inform, tell, announce'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I inform, am informing'}
       1s: informo
       1p: informamos
@@ -15,8 +15,8 @@ informar:
       3s: informa
       3p: informan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will inform}
       1s: informaré
       1p: informaremos
@@ -25,8 +25,8 @@ informar:
       3s: informará
       3p: informarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was informing, used to inform, informed'}
       1s: informaba
       1p: informábamos
@@ -35,8 +35,8 @@ informar:
       3s: informaba
       3p: informaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I informed}
       1s: informé
       1p: informamos
@@ -45,8 +45,8 @@ informar:
       3s: informó
       3p: informaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would inform}
       1s: informaría
       1p: informaríamos
@@ -55,8 +55,8 @@ informar:
       3s: informaría
       3p: informarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have informed}
       1s: he informado
       1p: hemos informado
@@ -65,8 +65,8 @@ informar:
       3s: ha informado
       3p: han informado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have informed}
       1s: habré informado
       1p: habremos informado
@@ -75,8 +75,8 @@ informar:
       3s: habrá informado
       3p: habrán informado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had informed}
       1s: había informado
       1p: habíamos informado
@@ -85,8 +85,8 @@ informar:
       3s: había informado
       3p: habían informado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had informed}
       1s: hube informado
       1p: hubimos informado
@@ -95,8 +95,8 @@ informar:
       3s: hubo informado
       3p: hubieron informado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have informed}
       1s: habría informado
       1p: habríamos informado
@@ -105,8 +105,8 @@ informar:
       3s: habría informado
       3p: habrían informado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I inform, am informing'}
       1s: informe
       1p: informemos
@@ -115,8 +115,8 @@ informar:
       3s: informe
       3p: informen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I informed, was informing'}
       1s: informara
       1p: informáramos
@@ -125,8 +125,8 @@ informar:
       3s: informara
       3p: informaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will inform}
       1s: informare
       1p: informáremos
@@ -135,8 +135,8 @@ informar:
       3s: informare
       3p: informaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have informed, informed'}
       1s: haya informado
       1p: hayamos informado
@@ -145,8 +145,8 @@ informar:
       3s: haya informado
       3p: hayan informado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have informed}
       1s: hubiere informado
       1p: hubiéremos informado
@@ -155,8 +155,8 @@ informar:
       3s: hubiere informado
       3p: hubieren informado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had informed}
       1s: hubiera informado
       1p: hubiéramos informado
@@ -165,8 +165,8 @@ informar:
       3s: hubiera informado
       3p: hubieran informado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Inform! Don't inform!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ informar:
       3s: informe
       3p: informen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Inform! Don't inform!}
       1s: ''
       1p: ''

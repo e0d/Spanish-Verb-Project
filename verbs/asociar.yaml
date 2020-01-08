@@ -2,11 +2,11 @@ asociar:
   infinitive: asociar
   gerund: asociando
   pastparticiple: asociado
-  definitions: {en: 'to associate; to pool, put together'}
-  tenses:
+  definition: {en: 'to associate; to pool, put together'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I associate, am associating'}
       1s: asocio
       1p: asociamos
@@ -15,8 +15,8 @@ asociar:
       3s: asocia
       3p: asocian
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will associate}
       1s: asociaré
       1p: asociaremos
@@ -25,8 +25,8 @@ asociar:
       3s: asociará
       3p: asociarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was associating, used to associate, associated'}
       1s: asociaba
       1p: asociábamos
@@ -35,8 +35,8 @@ asociar:
       3s: asociaba
       3p: asociaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I associated}
       1s: asocié
       1p: asociamos
@@ -45,8 +45,8 @@ asociar:
       3s: asoció
       3p: asociaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would associate}
       1s: asociaría
       1p: asociaríamos
@@ -55,8 +55,8 @@ asociar:
       3s: asociaría
       3p: asociarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have associated}
       1s: he asociado
       1p: hemos asociado
@@ -65,8 +65,8 @@ asociar:
       3s: ha asociado
       3p: han asociado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have associated}
       1s: habré asociado
       1p: habremos asociado
@@ -75,8 +75,8 @@ asociar:
       3s: habrá asociado
       3p: habrán asociado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had associated}
       1s: había asociado
       1p: habíamos asociado
@@ -85,8 +85,8 @@ asociar:
       3s: había asociado
       3p: habían asociado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had associated}
       1s: hube asociado
       1p: hubimos asociado
@@ -95,8 +95,8 @@ asociar:
       3s: hubo asociado
       3p: hubieron asociado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have associated}
       1s: habría asociado
       1p: habríamos asociado
@@ -105,8 +105,8 @@ asociar:
       3s: habría asociado
       3p: habrían asociado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I associate, am associating'}
       1s: asocie
       1p: asociemos
@@ -115,8 +115,8 @@ asociar:
       3s: asocie
       3p: asocien
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I associated, was associating'}
       1s: asociara
       1p: asociáramos
@@ -125,8 +125,8 @@ asociar:
       3s: asociara
       3p: asociaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will associate}
       1s: asociare
       1p: asociáremos
@@ -135,8 +135,8 @@ asociar:
       3s: asociare
       3p: asociaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have associated, associated'}
       1s: haya asociado
       1p: hayamos asociado
@@ -145,8 +145,8 @@ asociar:
       3s: haya asociado
       3p: hayan asociado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have associated}
       1s: hubiere asociado
       1p: hubiéremos asociado
@@ -155,8 +155,8 @@ asociar:
       3s: hubiere asociado
       3p: hubieren asociado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had associated}
       1s: hubiera asociado
       1p: hubiéramos asociado
@@ -165,8 +165,8 @@ asociar:
       3s: hubiera asociado
       3p: hubieran asociado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Associate! Don't associate!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ asociar:
       3s: asocie
       3p: asocien
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Associate! Don't associate!}
       1s: ''
       1p: ''

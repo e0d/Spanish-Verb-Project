@@ -2,11 +2,11 @@ decir:
   infinitive: decir
   gerund: diciendo
   pastparticiple: dicho
-  definitions: {en: 'to say, tell'}
-  tenses:
+  definition: {en: 'to say, tell'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I say, am saying'}
       1s: digo
       1p: decimos
@@ -15,8 +15,8 @@ decir:
       3s: dice
       3p: dicen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will say}
       1s: diré
       1p: diremos
@@ -25,8 +25,8 @@ decir:
       3s: dirá
       3p: dirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was saying, used to say, said'}
       1s: decía
       1p: decíamos
@@ -35,8 +35,8 @@ decir:
       3s: decía
       3p: decían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I said}
       1s: dije
       1p: dijimos
@@ -45,8 +45,8 @@ decir:
       3s: dijo
       3p: dijeron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would say}
       1s: diría
       1p: diríamos
@@ -55,8 +55,8 @@ decir:
       3s: diría
       3p: dirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have said}
       1s: he dicho
       1p: hemos dicho
@@ -65,8 +65,8 @@ decir:
       3s: ha dicho
       3p: han dicho
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have said}
       1s: habré dicho
       1p: habremos dicho
@@ -75,8 +75,8 @@ decir:
       3s: habrá dicho
       3p: habrán dicho
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had said}
       1s: había dicho
       1p: habíamos dicho
@@ -85,8 +85,8 @@ decir:
       3s: había dicho
       3p: habían dicho
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had said}
       1s: hube dicho
       1p: hubimos dicho
@@ -95,8 +95,8 @@ decir:
       3s: hubo dicho
       3p: hubieron dicho
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have said}
       1s: habría dicho
       1p: habríamos dicho
@@ -105,8 +105,8 @@ decir:
       3s: habría dicho
       3p: habrían dicho
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I say, am saying'}
       1s: diga
       1p: digamos
@@ -115,8 +115,8 @@ decir:
       3s: diga
       3p: digan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I said, was saying'}
       1s: dijera
       1p: dijéramos
@@ -125,8 +125,8 @@ decir:
       3s: dijera
       3p: dijeran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will say}
       1s: dijere
       1p: dijéremos
@@ -135,8 +135,8 @@ decir:
       3s: dijere
       3p: dijeren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have said, said'}
       1s: haya dicho
       1p: hayamos dicho
@@ -145,8 +145,8 @@ decir:
       3s: haya dicho
       3p: hayan dicho
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have said}
       1s: hubiere dicho
       1p: hubiéremos dicho
@@ -155,8 +155,8 @@ decir:
       3s: hubiere dicho
       3p: hubieren dicho
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had said}
       1s: hubiera dicho
       1p: hubiéramos dicho
@@ -165,8 +165,8 @@ decir:
       3s: hubiera dicho
       3p: hubieran dicho
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Say! Don't say!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ decir:
       3s: diga
       3p: digan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Say! Don't say!}
       1s: ''
       1p: ''

@@ -2,11 +2,11 @@ dudar:
   infinitive: dudar
   gerund: dudando
   pastparticiple: dudado
-  definitions: {en: to doubt}
-  tenses:
+  definition: {en: to doubt}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I doubt, am doubting'}
       1s: dudo
       1p: dudamos
@@ -15,8 +15,8 @@ dudar:
       3s: duda
       3p: dudan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will doubt}
       1s: dudaré
       1p: dudaremos
@@ -25,8 +25,8 @@ dudar:
       3s: dudará
       3p: dudarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was doubting, used to doubt, doubted'}
       1s: dudaba
       1p: dudábamos
@@ -35,8 +35,8 @@ dudar:
       3s: dudaba
       3p: dudaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I doubted}
       1s: dudé
       1p: dudamos
@@ -45,8 +45,8 @@ dudar:
       3s: dudó
       3p: dudaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would doubt}
       1s: dudaría
       1p: dudaríamos
@@ -55,8 +55,8 @@ dudar:
       3s: dudaría
       3p: dudarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have doubted}
       1s: he dudado
       1p: hemos dudado
@@ -65,8 +65,8 @@ dudar:
       3s: ha dudado
       3p: han dudado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have doubted}
       1s: habré dudado
       1p: habremos dudado
@@ -75,8 +75,8 @@ dudar:
       3s: habrá dudado
       3p: habrán dudado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had doubted}
       1s: había dudado
       1p: habíamos dudado
@@ -85,8 +85,8 @@ dudar:
       3s: había dudado
       3p: habían dudado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had doubted}
       1s: hube dudado
       1p: hubimos dudado
@@ -95,8 +95,8 @@ dudar:
       3s: hubo dudado
       3p: hubieron dudado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have doubted}
       1s: habría dudado
       1p: habríamos dudado
@@ -105,8 +105,8 @@ dudar:
       3s: habría dudado
       3p: habrían dudado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I doubt, am doubting'}
       1s: dude
       1p: dudemos
@@ -115,8 +115,8 @@ dudar:
       3s: dude
       3p: duden
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I doubted, was doubting'}
       1s: dudara
       1p: dudáramos
@@ -125,8 +125,8 @@ dudar:
       3s: dudara
       3p: dudaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will doubt}
       1s: dudare
       1p: dudáremos
@@ -135,8 +135,8 @@ dudar:
       3s: dudare
       3p: dudaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have doubted, doubted'}
       1s: haya dudado
       1p: hayamos dudado
@@ -145,8 +145,8 @@ dudar:
       3s: haya dudado
       3p: hayan dudado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have doubted}
       1s: hubiere dudado
       1p: hubiéremos dudado
@@ -155,8 +155,8 @@ dudar:
       3s: hubiere dudado
       3p: hubieren dudado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had doubted}
       1s: hubiera dudado
       1p: hubiéramos dudado
@@ -165,8 +165,8 @@ dudar:
       3s: hubiera dudado
       3p: hubieran dudado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Doubt! Don't doubt!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ dudar:
       3s: dude
       3p: duden
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Doubt! Don't doubt!}
       1s: ''
       1p: ''

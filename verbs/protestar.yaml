@@ -2,11 +2,11 @@ protestar:
   infinitive: protestar
   gerund: protestando
   pastparticiple: protestado
-  definitions: {en: to protest}
-  tenses:
+  definition: {en: to protest}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I protest, am protesting'}
       1s: protesto
       1p: protestamos
@@ -15,8 +15,8 @@ protestar:
       3s: protesta
       3p: protestan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will protest}
       1s: protestaré
       1p: protestaremos
@@ -25,8 +25,8 @@ protestar:
       3s: protestará
       3p: protestarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was protesting, used to protest, protested'}
       1s: protestaba
       1p: protestábamos
@@ -35,8 +35,8 @@ protestar:
       3s: protestaba
       3p: protestaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I protested}
       1s: protesté
       1p: protestamos
@@ -45,8 +45,8 @@ protestar:
       3s: protestó
       3p: protestaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would protest}
       1s: protestaría
       1p: protestaríamos
@@ -55,8 +55,8 @@ protestar:
       3s: protestaría
       3p: protestarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have protested}
       1s: he protestado
       1p: hemos protestado
@@ -65,8 +65,8 @@ protestar:
       3s: ha protestado
       3p: han protestado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have protested}
       1s: habré protestado
       1p: habremos protestado
@@ -75,8 +75,8 @@ protestar:
       3s: habrá protestado
       3p: habrán protestado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had protested}
       1s: había protestado
       1p: habíamos protestado
@@ -85,8 +85,8 @@ protestar:
       3s: había protestado
       3p: habían protestado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had protested}
       1s: hube protestado
       1p: hubimos protestado
@@ -95,8 +95,8 @@ protestar:
       3s: hubo protestado
       3p: hubieron protestado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have protested}
       1s: habría protestado
       1p: habríamos protestado
@@ -105,8 +105,8 @@ protestar:
       3s: habría protestado
       3p: habrían protestado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I protest, am protesting'}
       1s: proteste
       1p: protestemos
@@ -115,8 +115,8 @@ protestar:
       3s: proteste
       3p: protesten
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I protested, was protesting'}
       1s: protestara
       1p: protestáramos
@@ -125,8 +125,8 @@ protestar:
       3s: protestara
       3p: protestaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will protest}
       1s: protestare
       1p: protestáremos
@@ -135,8 +135,8 @@ protestar:
       3s: protestare
       3p: protestaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have protested, protested'}
       1s: haya protestado
       1p: hayamos protestado
@@ -145,8 +145,8 @@ protestar:
       3s: haya protestado
       3p: hayan protestado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have protested}
       1s: hubiere protestado
       1p: hubiéremos protestado
@@ -155,8 +155,8 @@ protestar:
       3s: hubiere protestado
       3p: hubieren protestado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had protested}
       1s: hubiera protestado
       1p: hubiéramos protestado
@@ -165,8 +165,8 @@ protestar:
       3s: hubiera protestado
       3p: hubieran protestado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Protest! Don't protest!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ protestar:
       3s: proteste
       3p: protesten
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Protest! Don't protest!}
       1s: ''
       1p: ''

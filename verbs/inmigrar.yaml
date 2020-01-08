@@ -2,11 +2,11 @@ inmigrar:
   infinitive: inmigrar
   gerund: inmigrando
   pastparticiple: inmigrado
-  definitions: {en: to immigrate}
-  tenses:
+  definition: {en: to immigrate}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I immigrate, am immigrating'}
       1s: inmigro
       1p: inmigramos
@@ -15,8 +15,8 @@ inmigrar:
       3s: inmigra
       3p: inmigran
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will immigrate}
       1s: inmigraré
       1p: inmigraremos
@@ -25,8 +25,8 @@ inmigrar:
       3s: inmigrará
       3p: inmigrarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was immigrating, used to immigrate, immigratingd'}
       1s: inmigraba
       1p: inmigrábamos
@@ -35,8 +35,8 @@ inmigrar:
       3s: inmigraba
       3p: inmigraban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I immigratingd}
       1s: inmigré
       1p: inmigramos
@@ -45,8 +45,8 @@ inmigrar:
       3s: inmigró
       3p: inmigraron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would immigrate}
       1s: inmigraría
       1p: inmigraríamos
@@ -55,8 +55,8 @@ inmigrar:
       3s: inmigraría
       3p: inmigrarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have immigratingd}
       1s: he inmigrado
       1p: hemos inmigrado
@@ -65,8 +65,8 @@ inmigrar:
       3s: ha inmigrado
       3p: han inmigrado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have immigratingd}
       1s: habré inmigrado
       1p: habremos inmigrado
@@ -75,8 +75,8 @@ inmigrar:
       3s: habrá inmigrado
       3p: habrán inmigrado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had immigratingd}
       1s: había inmigrado
       1p: habíamos inmigrado
@@ -85,8 +85,8 @@ inmigrar:
       3s: había inmigrado
       3p: habían inmigrado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had immigratingd}
       1s: hube inmigrado
       1p: hubimos inmigrado
@@ -95,8 +95,8 @@ inmigrar:
       3s: hubo inmigrado
       3p: hubieron inmigrado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have immigratingd}
       1s: habría inmigrado
       1p: habríamos inmigrado
@@ -105,8 +105,8 @@ inmigrar:
       3s: habría inmigrado
       3p: habrían inmigrado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I immigrate, am immigrating'}
       1s: inmigre
       1p: inmigremos
@@ -115,8 +115,8 @@ inmigrar:
       3s: inmigre
       3p: inmigren
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I immigratingd, was immigrating'}
       1s: inmigrara
       1p: inmigráramos
@@ -125,8 +125,8 @@ inmigrar:
       3s: inmigrara
       3p: inmigraran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will immigrate}
       1s: inmigrare
       1p: inmigráremos
@@ -135,8 +135,8 @@ inmigrar:
       3s: inmigrare
       3p: inmigraren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have immigratingd, immigratingd'}
       1s: haya inmigrado
       1p: hayamos inmigrado
@@ -145,8 +145,8 @@ inmigrar:
       3s: haya inmigrado
       3p: hayan inmigrado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have immigratingd}
       1s: hubiere inmigrado
       1p: hubiéremos inmigrado
@@ -155,8 +155,8 @@ inmigrar:
       3s: hubiere inmigrado
       3p: hubieren inmigrado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had immigratingd}
       1s: hubiera inmigrado
       1p: hubiéramos inmigrado
@@ -165,8 +165,8 @@ inmigrar:
       3s: hubiera inmigrado
       3p: hubieran inmigrado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Immigrate! Don't immigrate!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ inmigrar:
       3s: inmigre
       3p: inmigren
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Immigrate! Don't immigrate!}
       1s: ''
       1p: ''

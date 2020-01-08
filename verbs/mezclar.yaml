@@ -2,11 +2,11 @@ mezclar:
   infinitive: mezclar
   gerund: mezclando
   pastparticiple: mezclado
-  definitions: {en: 'to mix, mix up, mix together, blend; to combine, merge, shuffle'}
-  tenses:
+  definition: {en: 'to mix, mix up, mix together, blend; to combine, merge, shuffle'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I mix, am mixing'}
       1s: mezclo
       1p: mezclamos
@@ -15,8 +15,8 @@ mezclar:
       3s: mezcla
       3p: mezclan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will mix}
       1s: mezclaré
       1p: mezclaremos
@@ -25,8 +25,8 @@ mezclar:
       3s: mezclará
       3p: mezclarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was mixing, used to mix, mixed'}
       1s: mezclaba
       1p: mezclábamos
@@ -35,8 +35,8 @@ mezclar:
       3s: mezclaba
       3p: mezclaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I mixed}
       1s: mezclé
       1p: mezclamos
@@ -45,8 +45,8 @@ mezclar:
       3s: mezcló
       3p: mezclaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would mix}
       1s: mezclaría
       1p: mezclaríamos
@@ -55,8 +55,8 @@ mezclar:
       3s: mezclaría
       3p: mezclarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have mixed}
       1s: he mezclado
       1p: hemos mezclado
@@ -65,8 +65,8 @@ mezclar:
       3s: ha mezclado
       3p: han mezclado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have mixed}
       1s: habré mezclado
       1p: habremos mezclado
@@ -75,8 +75,8 @@ mezclar:
       3s: habrá mezclado
       3p: habrán mezclado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had mixed}
       1s: había mezclado
       1p: habíamos mezclado
@@ -85,8 +85,8 @@ mezclar:
       3s: había mezclado
       3p: habían mezclado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had mixed}
       1s: hube mezclado
       1p: hubimos mezclado
@@ -95,8 +95,8 @@ mezclar:
       3s: hubo mezclado
       3p: hubieron mezclado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have mixed}
       1s: habría mezclado
       1p: habríamos mezclado
@@ -105,8 +105,8 @@ mezclar:
       3s: habría mezclado
       3p: habrían mezclado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I mix, am mixing'}
       1s: mezcle
       1p: mezclemos
@@ -115,8 +115,8 @@ mezclar:
       3s: mezcle
       3p: mezclen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I mixed, was mixing'}
       1s: mezclara
       1p: mezcláramos
@@ -125,8 +125,8 @@ mezclar:
       3s: mezclara
       3p: mezclaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will mix}
       1s: mezclare
       1p: mezcláremos
@@ -135,8 +135,8 @@ mezclar:
       3s: mezclare
       3p: mezclaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have mixed, mixed'}
       1s: haya mezclado
       1p: hayamos mezclado
@@ -145,8 +145,8 @@ mezclar:
       3s: haya mezclado
       3p: hayan mezclado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have mixed}
       1s: hubiere mezclado
       1p: hubiéremos mezclado
@@ -155,8 +155,8 @@ mezclar:
       3s: hubiere mezclado
       3p: hubieren mezclado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had mixed}
       1s: hubiera mezclado
       1p: hubiéramos mezclado
@@ -165,8 +165,8 @@ mezclar:
       3s: hubiera mezclado
       3p: hubieran mezclado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Mix! Don't mix!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ mezclar:
       3s: mezcle
       3p: mezclen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Mix! Don't mix!}
       1s: ''
       1p: ''

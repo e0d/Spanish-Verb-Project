@@ -2,11 +2,11 @@ cesar:
   infinitive: cesar
   gerund: cesando
   pastparticiple: cesado
-  definitions: {en: 'to cease, stop'}
-  tenses:
+  definition: {en: 'to cease, stop'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I cease, am ceasing'}
       1s: ceso
       1p: cesamos
@@ -15,8 +15,8 @@ cesar:
       3s: cesa
       3p: cesan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will cease}
       1s: cesaré
       1p: cesaremos
@@ -25,8 +25,8 @@ cesar:
       3s: cesará
       3p: cesarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was ceasing, used to cease, ceased'}
       1s: cesaba
       1p: cesábamos
@@ -35,8 +35,8 @@ cesar:
       3s: cesaba
       3p: cesaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I ceased}
       1s: cesé
       1p: cesamos
@@ -45,8 +45,8 @@ cesar:
       3s: cesó
       3p: cesaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would cease}
       1s: cesaría
       1p: cesaríamos
@@ -55,8 +55,8 @@ cesar:
       3s: cesaría
       3p: cesarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have ceased}
       1s: he cesado
       1p: hemos cesado
@@ -65,8 +65,8 @@ cesar:
       3s: ha cesado
       3p: han cesado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have ceased}
       1s: habré cesado
       1p: habremos cesado
@@ -75,8 +75,8 @@ cesar:
       3s: habrá cesado
       3p: habrán cesado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had ceased}
       1s: había cesado
       1p: habíamos cesado
@@ -85,8 +85,8 @@ cesar:
       3s: había cesado
       3p: habían cesado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had ceased}
       1s: hube cesado
       1p: hubimos cesado
@@ -95,8 +95,8 @@ cesar:
       3s: hubo cesado
       3p: hubieron cesado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have ceased}
       1s: habría cesado
       1p: habríamos cesado
@@ -105,8 +105,8 @@ cesar:
       3s: habría cesado
       3p: habrían cesado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I cease, am ceasing'}
       1s: cese
       1p: cesemos
@@ -115,8 +115,8 @@ cesar:
       3s: cese
       3p: cesen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I ceased, was ceasing'}
       1s: cesara
       1p: cesáramos
@@ -125,8 +125,8 @@ cesar:
       3s: cesara
       3p: cesaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will cease}
       1s: cesare
       1p: cesáremos
@@ -135,8 +135,8 @@ cesar:
       3s: cesare
       3p: cesaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have ceased, ceased'}
       1s: haya cesado
       1p: hayamos cesado
@@ -145,8 +145,8 @@ cesar:
       3s: haya cesado
       3p: hayan cesado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have ceased}
       1s: hubiere cesado
       1p: hubiéremos cesado
@@ -155,8 +155,8 @@ cesar:
       3s: hubiere cesado
       3p: hubieren cesado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had ceased}
       1s: hubiera cesado
       1p: hubiéramos cesado
@@ -165,8 +165,8 @@ cesar:
       3s: hubiera cesado
       3p: hubieran cesado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Cease! Don't cease!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ cesar:
       3s: cese
       3p: cesen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Cease! Don't cease!}
       1s: ''
       1p: ''

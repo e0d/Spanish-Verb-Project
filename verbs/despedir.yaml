@@ -2,11 +2,11 @@ despedir:
   infinitive: despedir
   gerund: despidiendo
   pastparticiple: despedido
-  definitions: {en: 'to say goodbye to, show out, dismiss'}
-  tenses:
+  definition: {en: 'to say goodbye to, show out, dismiss'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I say goodbye to, am saying goodbye to'}
       1s: despido
       1p: despedimos
@@ -15,8 +15,8 @@ despedir:
       3s: despide
       3p: despiden
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will say goodbye to}
       1s: despediré
       1p: despediremos
@@ -25,8 +25,8 @@ despedir:
       3s: despedirá
       3p: despedirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was saying goodbye to, used to say goodbye to, said goodbye
           to'}
       1s: despedía
@@ -36,8 +36,8 @@ despedir:
       3s: despedía
       3p: despedían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I said goodbye to}
       1s: despedí
       1p: despedimos
@@ -46,8 +46,8 @@ despedir:
       3s: despidió
       3p: despidieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would say goodbye to}
       1s: despediría
       1p: despediríamos
@@ -56,8 +56,8 @@ despedir:
       3s: despediría
       3p: despedirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have said goodbye to}
       1s: he despedido
       1p: hemos despedido
@@ -66,8 +66,8 @@ despedir:
       3s: ha despedido
       3p: han despedido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have said goodbye to}
       1s: habré despedido
       1p: habremos despedido
@@ -76,8 +76,8 @@ despedir:
       3s: habrá despedido
       3p: habrán despedido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had said goodbye to}
       1s: había despedido
       1p: habíamos despedido
@@ -86,8 +86,8 @@ despedir:
       3s: había despedido
       3p: habían despedido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had said goodbye to}
       1s: hube despedido
       1p: hubimos despedido
@@ -96,8 +96,8 @@ despedir:
       3s: hubo despedido
       3p: hubieron despedido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have said goodbye to}
       1s: habría despedido
       1p: habríamos despedido
@@ -106,8 +106,8 @@ despedir:
       3s: habría despedido
       3p: habrían despedido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I say goodbye to, am saying goodbye to'}
       1s: despida
       1p: despidamos
@@ -116,8 +116,8 @@ despedir:
       3s: despida
       3p: despidan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I said goodbye to, was saying goodbye to'}
       1s: despidiera
       1p: despidiéramos
@@ -126,8 +126,8 @@ despedir:
       3s: despidiera
       3p: despidieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will say goodbye to}
       1s: despidiere
       1p: despidiéremos
@@ -136,8 +136,8 @@ despedir:
       3s: despidiere
       3p: despidieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have said goodbye to, said goodbye to'}
       1s: haya despedido
       1p: hayamos despedido
@@ -146,8 +146,8 @@ despedir:
       3s: haya despedido
       3p: hayan despedido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have said goodbye to}
       1s: hubiere despedido
       1p: hubiéremos despedido
@@ -156,8 +156,8 @@ despedir:
       3s: hubiere despedido
       3p: hubieren despedido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had said goodbye to}
       1s: hubiera despedido
       1p: hubiéramos despedido
@@ -166,8 +166,8 @@ despedir:
       3s: hubiera despedido
       3p: hubieran despedido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Say goodbye to! Don't say goodbye to!}
       1s: ''
       1p: ''
@@ -176,8 +176,8 @@ despedir:
       3s: despida
       3p: despidan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Say goodbye to! Don't say goodbye to!}
       1s: ''
       1p: ''

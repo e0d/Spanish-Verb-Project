@@ -2,11 +2,11 @@ aburrirse:
   infinitive: aburrirse
   gerund: aburriéndose
   pastparticiple: aburrido
-  definitions: {en: 'to get bored, become bored, be bored'}
-  tenses:
+  definition: {en: 'to get bored, become bored, be bored'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I get bored, am getting bored'}
       1s: me aburro
       1p: nos aburrimos
@@ -15,8 +15,8 @@ aburrirse:
       3s: se aburre
       3p: se aburren
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will get bored}
       1s: me aburriré
       1p: nos aburriremos
@@ -25,8 +25,8 @@ aburrirse:
       3s: se aburrirá
       3p: se aburrirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was getting bored, used to get bored, got bored'}
       1s: me aburría
       1p: nos aburríamos
@@ -35,8 +35,8 @@ aburrirse:
       3s: se aburría
       3p: se aburrían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I got bored}
       1s: me aburrí
       1p: nos aburrimos
@@ -45,8 +45,8 @@ aburrirse:
       3s: se aburrió
       3p: se aburrieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would get bored}
       1s: me aburriría
       1p: nos aburriríamos
@@ -55,8 +55,8 @@ aburrirse:
       3s: se aburriría
       3p: se aburrirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have gotten bored}
       1s: me he aburrido
       1p: nos hemos aburrido
@@ -65,8 +65,8 @@ aburrirse:
       3s: se ha aburrido
       3p: se han aburrido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have gotten bored}
       1s: me habré aburrido
       1p: nos habremos aburrido
@@ -75,8 +75,8 @@ aburrirse:
       3s: se habrá aburrido
       3p: se habrán aburrido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten bored}
       1s: me había aburrido
       1p: nos habíamos aburrido
@@ -85,8 +85,8 @@ aburrirse:
       3s: se había aburrido
       3p: se habían aburrido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten bored}
       1s: me hube aburrido
       1p: nos hubimos aburrido
@@ -95,8 +95,8 @@ aburrirse:
       3s: se hubo aburrido
       3p: se hubieron aburrido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have gotten bored}
       1s: me habría aburrido
       1p: nos habríamos aburrido
@@ -105,8 +105,8 @@ aburrirse:
       3s: se habría aburrido
       3p: se habrían aburrido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I get bored, am getting bored'}
       1s: me aburra
       1p: nos aburramos
@@ -115,8 +115,8 @@ aburrirse:
       3s: se aburra
       3p: se aburran
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I got bored, was getting bored'}
       1s: me aburriera
       1p: nos aburriéramos
@@ -125,8 +125,8 @@ aburrirse:
       3s: se aburriera
       3p: se aburrieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will get bored}
       1s: me aburriere
       1p: nos aburriéremos
@@ -135,8 +135,8 @@ aburrirse:
       3s: se aburriere
       3p: se aburrieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have gotten bored, got bored'}
       1s: me haya aburrido
       1p: nos hayamos aburrido
@@ -145,8 +145,8 @@ aburrirse:
       3s: se haya aburrido
       3p: se hayan aburrido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have gotten bored}
       1s: me hubiere aburrido
       1p: nos hubiéremos aburrido
@@ -155,8 +155,8 @@ aburrirse:
       3s: se hubiere aburrido
       3p: se hubieren aburrido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had gotten bored}
       1s: me hubiera aburrido
       1p: nos hubiéramos aburrido
@@ -165,8 +165,8 @@ aburrirse:
       3s: se hubiera aburrido
       3p: se hubieran aburrido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Get bored! Don't get bored!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ aburrirse:
       3s: abúrrase
       3p: abúrranse
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Get bored! Don't get bored!}
       1s: ''
       1p: ''

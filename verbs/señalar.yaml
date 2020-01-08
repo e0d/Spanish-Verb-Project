@@ -2,11 +2,11 @@ señalar:
   infinitive: señalar
   gerund: señalando
   pastparticiple: señalado
-  definitions: {en: 'to point out, point to, indicate; to signal; to mark'}
-  tenses:
+  definition: {en: 'to point out, point to, indicate; to signal; to mark'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I point out, am pointing out'}
       1s: señalo
       1p: señalamos
@@ -15,8 +15,8 @@ señalar:
       3s: señala
       3p: señalan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will point out}
       1s: señalaré
       1p: señalaremos
@@ -25,8 +25,8 @@ señalar:
       3s: señalará
       3p: señalarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was pointing out, used to point out, pointed out'}
       1s: señalaba
       1p: señalábamos
@@ -35,8 +35,8 @@ señalar:
       3s: señalaba
       3p: señalaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I pointed out}
       1s: señalé
       1p: señalamos
@@ -45,8 +45,8 @@ señalar:
       3s: señaló
       3p: señalaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would point out}
       1s: señalaría
       1p: señalaríamos
@@ -55,8 +55,8 @@ señalar:
       3s: señalaría
       3p: señalarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have pointed out}
       1s: he señalado
       1p: hemos señalado
@@ -65,8 +65,8 @@ señalar:
       3s: ha señalado
       3p: han señalado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have pointed out}
       1s: habré señalado
       1p: habremos señalado
@@ -75,8 +75,8 @@ señalar:
       3s: habrá señalado
       3p: habrán señalado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had pointed out}
       1s: había señalado
       1p: habíamos señalado
@@ -85,8 +85,8 @@ señalar:
       3s: había señalado
       3p: habían señalado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had pointed out}
       1s: hube señalado
       1p: hubimos señalado
@@ -95,8 +95,8 @@ señalar:
       3s: hubo señalado
       3p: hubieron señalado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have pointed out}
       1s: habría señalado
       1p: habríamos señalado
@@ -105,8 +105,8 @@ señalar:
       3s: habría señalado
       3p: habrían señalado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I point out, am pointing out'}
       1s: señale
       1p: señalemos
@@ -115,8 +115,8 @@ señalar:
       3s: señale
       3p: señalen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I pointed out, was pointing out'}
       1s: señalara
       1p: señaláramos
@@ -125,8 +125,8 @@ señalar:
       3s: señalara
       3p: señalaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will point out}
       1s: señalare
       1p: señaláremos
@@ -135,8 +135,8 @@ señalar:
       3s: señalare
       3p: señalaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have pointed out, pointed out'}
       1s: haya señalado
       1p: hayamos señalado
@@ -145,8 +145,8 @@ señalar:
       3s: haya señalado
       3p: hayan señalado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have pointed out}
       1s: hubiere señalado
       1p: hubiéremos señalado
@@ -155,8 +155,8 @@ señalar:
       3s: hubiere señalado
       3p: hubieren señalado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had pointed out}
       1s: hubiera señalado
       1p: hubiéramos señalado
@@ -165,8 +165,8 @@ señalar:
       3s: hubiera señalado
       3p: hubieran señalado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Point out! Don't point out!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ señalar:
       3s: señale
       3p: señalen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Point out! Don't point out!}
       1s: ''
       1p: ''

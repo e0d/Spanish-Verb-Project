@@ -2,11 +2,11 @@ causar:
   infinitive: causar
   gerund: causando
   pastparticiple: causado
-  definitions: {en: 'to cause; to create, make'}
-  tenses:
+  definition: {en: 'to cause; to create, make'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I cause, am causing'}
       1s: causo
       1p: causamos
@@ -15,8 +15,8 @@ causar:
       3s: causa
       3p: causan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will cause}
       1s: causaré
       1p: causaremos
@@ -25,8 +25,8 @@ causar:
       3s: causará
       3p: causarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was causing, used to cause, caused'}
       1s: causaba
       1p: causábamos
@@ -35,8 +35,8 @@ causar:
       3s: causaba
       3p: causaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I caused}
       1s: causé
       1p: causamos
@@ -45,8 +45,8 @@ causar:
       3s: causó
       3p: causaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would cause}
       1s: causaría
       1p: causaríamos
@@ -55,8 +55,8 @@ causar:
       3s: causaría
       3p: causarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have caused}
       1s: he causado
       1p: hemos causado
@@ -65,8 +65,8 @@ causar:
       3s: ha causado
       3p: han causado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have caused}
       1s: habré causado
       1p: habremos causado
@@ -75,8 +75,8 @@ causar:
       3s: habrá causado
       3p: habrán causado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had caused}
       1s: había causado
       1p: habíamos causado
@@ -85,8 +85,8 @@ causar:
       3s: había causado
       3p: habían causado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had caused}
       1s: hube causado
       1p: hubimos causado
@@ -95,8 +95,8 @@ causar:
       3s: hubo causado
       3p: hubieron causado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have caused}
       1s: habría causado
       1p: habríamos causado
@@ -105,8 +105,8 @@ causar:
       3s: habría causado
       3p: habrían causado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I cause, am causing'}
       1s: cause
       1p: causemos
@@ -115,8 +115,8 @@ causar:
       3s: cause
       3p: causen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I caused, was causing'}
       1s: causara
       1p: causáramos
@@ -125,8 +125,8 @@ causar:
       3s: causara
       3p: causaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will cause}
       1s: causare
       1p: causáremos
@@ -135,8 +135,8 @@ causar:
       3s: causare
       3p: causaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have caused, caused'}
       1s: haya causado
       1p: hayamos causado
@@ -145,8 +145,8 @@ causar:
       3s: haya causado
       3p: hayan causado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have caused}
       1s: hubiere causado
       1p: hubiéremos causado
@@ -155,8 +155,8 @@ causar:
       3s: hubiere causado
       3p: hubieren causado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had caused}
       1s: hubiera causado
       1p: hubiéramos causado
@@ -165,8 +165,8 @@ causar:
       3s: hubiera causado
       3p: hubieran causado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Cause! Don't cause!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ causar:
       3s: cause
       3p: causen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Cause! Don't cause!}
       1s: ''
       1p: ''

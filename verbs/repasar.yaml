@@ -2,11 +2,11 @@ repasar:
   infinitive: repasar
   gerund: repasando
   pastparticiple: repasado
-  definitions: {en: 'to review, go over again; to do again'}
-  tenses:
+  definition: {en: 'to review, go over again; to do again'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I review, am reviewing'}
       1s: repaso
       1p: repasamos
@@ -15,8 +15,8 @@ repasar:
       3s: repasa
       3p: repasan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will review}
       1s: repasaré
       1p: repasaremos
@@ -25,8 +25,8 @@ repasar:
       3s: repasará
       3p: repasarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was reviewing, used to review, reviewed'}
       1s: repasaba
       1p: repasábamos
@@ -35,8 +35,8 @@ repasar:
       3s: repasaba
       3p: repasaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I reviewed}
       1s: repasé
       1p: repasamos
@@ -45,8 +45,8 @@ repasar:
       3s: repasó
       3p: repasaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would review}
       1s: repasaría
       1p: repasaríamos
@@ -55,8 +55,8 @@ repasar:
       3s: repasaría
       3p: repasarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have reviewed}
       1s: he repasado
       1p: hemos repasado
@@ -65,8 +65,8 @@ repasar:
       3s: ha repasado
       3p: han repasado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have reviewed}
       1s: habré repasado
       1p: habremos repasado
@@ -75,8 +75,8 @@ repasar:
       3s: habrá repasado
       3p: habrán repasado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had reviewed}
       1s: había repasado
       1p: habíamos repasado
@@ -85,8 +85,8 @@ repasar:
       3s: había repasado
       3p: habían repasado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had reviewed}
       1s: hube repasado
       1p: hubimos repasado
@@ -95,8 +95,8 @@ repasar:
       3s: hubo repasado
       3p: hubieron repasado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have reviewed}
       1s: habría repasado
       1p: habríamos repasado
@@ -105,8 +105,8 @@ repasar:
       3s: habría repasado
       3p: habrían repasado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I review, am reviewing'}
       1s: repase
       1p: repasemos
@@ -115,8 +115,8 @@ repasar:
       3s: repase
       3p: repasen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I reviewed, was reviewing'}
       1s: repasara
       1p: repasáramos
@@ -125,8 +125,8 @@ repasar:
       3s: repasara
       3p: repasaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will review}
       1s: repasare
       1p: repasáremos
@@ -135,8 +135,8 @@ repasar:
       3s: repasare
       3p: repasaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have reviewed, reviewed'}
       1s: haya repasado
       1p: hayamos repasado
@@ -145,8 +145,8 @@ repasar:
       3s: haya repasado
       3p: hayan repasado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have reviewed}
       1s: hubiere repasado
       1p: hubiéremos repasado
@@ -155,8 +155,8 @@ repasar:
       3s: hubiere repasado
       3p: hubieren repasado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had reviewed}
       1s: hubiera repasado
       1p: hubiéramos repasado
@@ -165,8 +165,8 @@ repasar:
       3s: hubiera repasado
       3p: hubieran repasado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Review! Don't review!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ repasar:
       3s: repase
       3p: repasen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Review! Don't review!}
       1s: ''
       1p: ''

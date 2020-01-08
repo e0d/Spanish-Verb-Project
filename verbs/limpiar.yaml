@@ -2,11 +2,11 @@ limpiar:
   infinitive: limpiar
   gerund: limpiando
   pastparticiple: limpiado
-  definitions: {en: to clean}
-  tenses:
+  definition: {en: to clean}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I clean, am cleaning'}
       1s: limpio
       1p: limpiamos
@@ -15,8 +15,8 @@ limpiar:
       3s: limpia
       3p: limpian
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will clean}
       1s: limpiaré
       1p: limpiaremos
@@ -25,8 +25,8 @@ limpiar:
       3s: limpiará
       3p: limpiarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was cleaning, used to clean, cleaned'}
       1s: limpiaba
       1p: limpiábamos
@@ -35,8 +35,8 @@ limpiar:
       3s: limpiaba
       3p: limpiaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I cleaned}
       1s: limpié
       1p: limpiamos
@@ -45,8 +45,8 @@ limpiar:
       3s: limpió
       3p: limpiaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would clean}
       1s: limpiaría
       1p: limpiaríamos
@@ -55,8 +55,8 @@ limpiar:
       3s: limpiaría
       3p: limpiarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have cleaned}
       1s: he limpiado
       1p: hemos limpiado
@@ -65,8 +65,8 @@ limpiar:
       3s: ha limpiado
       3p: han limpiado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have cleaned}
       1s: habré limpiado
       1p: habremos limpiado
@@ -75,8 +75,8 @@ limpiar:
       3s: habrá limpiado
       3p: habrán limpiado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had cleaned}
       1s: había limpiado
       1p: habíamos limpiado
@@ -85,8 +85,8 @@ limpiar:
       3s: había limpiado
       3p: habían limpiado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had cleaned}
       1s: hube limpiado
       1p: hubimos limpiado
@@ -95,8 +95,8 @@ limpiar:
       3s: hubo limpiado
       3p: hubieron limpiado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have cleaned}
       1s: habría limpiado
       1p: habríamos limpiado
@@ -105,8 +105,8 @@ limpiar:
       3s: habría limpiado
       3p: habrían limpiado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I clean, am cleaning'}
       1s: limpie
       1p: limpiemos
@@ -115,8 +115,8 @@ limpiar:
       3s: limpie
       3p: limpien
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I cleaned, was cleaning'}
       1s: limpiara
       1p: limpiáramos
@@ -125,8 +125,8 @@ limpiar:
       3s: limpiara
       3p: limpiaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will clean}
       1s: limpiare
       1p: limpiáremos
@@ -135,8 +135,8 @@ limpiar:
       3s: limpiare
       3p: limpiaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have cleaned, cleaned'}
       1s: haya limpiado
       1p: hayamos limpiado
@@ -145,8 +145,8 @@ limpiar:
       3s: haya limpiado
       3p: hayan limpiado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have cleaned}
       1s: hubiere limpiado
       1p: hubiéremos limpiado
@@ -155,8 +155,8 @@ limpiar:
       3s: hubiere limpiado
       3p: hubieren limpiado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had cleaned}
       1s: hubiera limpiado
       1p: hubiéramos limpiado
@@ -165,8 +165,8 @@ limpiar:
       3s: hubiera limpiado
       3p: hubieran limpiado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Clean! Don't clean!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ limpiar:
       3s: limpie
       3p: limpien
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Clean! Don't clean!}
       1s: ''
       1p: ''

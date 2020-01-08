@@ -2,11 +2,11 @@ aceptar:
   infinitive: aceptar
   gerund: aceptando
   pastparticiple: aceptado
-  definitions: {en: 'to accept, approve; to agree to'}
-  tenses:
+  definition: {en: 'to accept, approve; to agree to'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I accept, am accepting'}
       1s: acepto
       1p: aceptamos
@@ -15,8 +15,8 @@ aceptar:
       3s: acepta
       3p: aceptan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will accept}
       1s: aceptaré
       1p: aceptaremos
@@ -25,8 +25,8 @@ aceptar:
       3s: aceptará
       3p: aceptarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was accepting, used to accept, accepted'}
       1s: aceptaba
       1p: aceptábamos
@@ -35,8 +35,8 @@ aceptar:
       3s: aceptaba
       3p: aceptaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I accepted}
       1s: acepté
       1p: aceptamos
@@ -45,8 +45,8 @@ aceptar:
       3s: aceptó
       3p: aceptaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would accept}
       1s: aceptaría
       1p: aceptaríamos
@@ -55,8 +55,8 @@ aceptar:
       3s: aceptaría
       3p: aceptarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have accepted}
       1s: he aceptado
       1p: hemos aceptado
@@ -65,8 +65,8 @@ aceptar:
       3s: ha aceptado
       3p: han aceptado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have accepted}
       1s: habré aceptado
       1p: habremos aceptado
@@ -75,8 +75,8 @@ aceptar:
       3s: habrá aceptado
       3p: habrán aceptado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had accepted}
       1s: había aceptado
       1p: habíamos aceptado
@@ -85,8 +85,8 @@ aceptar:
       3s: había aceptado
       3p: habían aceptado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had accepted}
       1s: hube aceptado
       1p: hubimos aceptado
@@ -95,8 +95,8 @@ aceptar:
       3s: hubo aceptado
       3p: hubieron aceptado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have accepted}
       1s: habría aceptado
       1p: habríamos aceptado
@@ -105,8 +105,8 @@ aceptar:
       3s: habría aceptado
       3p: habrían aceptado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I accept, am accepting'}
       1s: acepte
       1p: aceptemos
@@ -115,8 +115,8 @@ aceptar:
       3s: acepte
       3p: acepten
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I accepted, was accepting'}
       1s: aceptara
       1p: aceptáramos
@@ -125,8 +125,8 @@ aceptar:
       3s: aceptara
       3p: aceptaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will accept}
       1s: aceptare
       1p: aceptáremos
@@ -135,8 +135,8 @@ aceptar:
       3s: aceptare
       3p: aceptaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have accepted, accepted'}
       1s: haya aceptado
       1p: hayamos aceptado
@@ -145,8 +145,8 @@ aceptar:
       3s: haya aceptado
       3p: hayan aceptado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have accepted}
       1s: hubiere aceptado
       1p: hubiéremos aceptado
@@ -155,8 +155,8 @@ aceptar:
       3s: hubiere aceptado
       3p: hubieren aceptado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had accepted}
       1s: hubiera aceptado
       1p: hubiéramos aceptado
@@ -165,8 +165,8 @@ aceptar:
       3s: hubiera aceptado
       3p: hubieran aceptado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Accept! Don't accept!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ aceptar:
       3s: acepte
       3p: acepten
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Accept! Don't accept!}
       1s: ''
       1p: ''

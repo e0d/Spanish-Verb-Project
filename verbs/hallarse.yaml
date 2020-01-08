@@ -2,11 +2,11 @@ hallarse:
   infinitive: hallarse
   gerund: hallándose
   pastparticiple: hallado
-  definitions: {en: 'to be, to find oneself; to be located, found'}
-  tenses:
+  definition: {en: 'to be, to find oneself; to be located, found'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I am, am being'}
       1s: me hallo
       1p: nos hallamos
@@ -15,8 +15,8 @@ hallarse:
       3s: se halla
       3p: se hallan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will be}
       1s: me hallaré
       1p: nos hallaremos
@@ -25,8 +25,8 @@ hallarse:
       3s: se hallará
       3p: se hallarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was being, used to be, was'}
       1s: me hallaba
       1p: nos hallábamos
@@ -35,8 +35,8 @@ hallarse:
       3s: se hallaba
       3p: se hallaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I was}
       1s: me hallé
       1p: nos hallamos
@@ -45,8 +45,8 @@ hallarse:
       3s: se halló
       3p: se hallaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would be}
       1s: me hallaría
       1p: nos hallaríamos
@@ -55,8 +55,8 @@ hallarse:
       3s: se hallaría
       3p: se hallarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have been}
       1s: me he hallado
       1p: nos hemos hallado
@@ -65,8 +65,8 @@ hallarse:
       3s: se ha hallado
       3p: se han hallado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have been}
       1s: me habré hallado
       1p: nos habremos hallado
@@ -75,8 +75,8 @@ hallarse:
       3s: se habrá hallado
       3p: se habrán hallado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had been}
       1s: me había hallado
       1p: nos habíamos hallado
@@ -85,8 +85,8 @@ hallarse:
       3s: se había hallado
       3p: se habían hallado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had been}
       1s: me hube hallado
       1p: nos hubimos hallado
@@ -95,8 +95,8 @@ hallarse:
       3s: se hubo hallado
       3p: se hubieron hallado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have been}
       1s: me habría hallado
       1p: nos habríamos hallado
@@ -105,8 +105,8 @@ hallarse:
       3s: se habría hallado
       3p: se habrían hallado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I am, am being'}
       1s: me halle
       1p: nos hallemos
@@ -115,8 +115,8 @@ hallarse:
       3s: se halle
       3p: se hallen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I was, was being'}
       1s: me hallara
       1p: nos halláramos
@@ -125,8 +125,8 @@ hallarse:
       3s: se hallara
       3p: se hallaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will be}
       1s: me hallare
       1p: nos halláremos
@@ -135,8 +135,8 @@ hallarse:
       3s: se hallare
       3p: se hallaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have been, was'}
       1s: me haya hallado
       1p: nos hayamos hallado
@@ -145,8 +145,8 @@ hallarse:
       3s: se haya hallado
       3p: se hayan hallado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have been}
       1s: me hubiere hallado
       1p: nos hubiéremos hallado
@@ -155,8 +155,8 @@ hallarse:
       3s: se hubiere hallado
       3p: se hubieren hallado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had been}
       1s: me hubiera hallado
       1p: nos hubiéramos hallado
@@ -165,8 +165,8 @@ hallarse:
       3s: se hubiera hallado
       3p: se hubieran hallado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Be! Don't be!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ hallarse:
       3s: hállese
       3p: hállense
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Be! Don't be!}
       1s: ''
       1p: ''

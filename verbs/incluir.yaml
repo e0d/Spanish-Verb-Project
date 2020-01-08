@@ -2,11 +2,11 @@ incluir:
   infinitive: incluir
   gerund: incluyendo
   pastparticiple: incluido
-  definitions: {en: to include}
-  tenses:
+  definition: {en: to include}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I include, am including'}
       1s: incluyo
       1p: incluimos
@@ -15,8 +15,8 @@ incluir:
       3s: incluye
       3p: incluyen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will include}
       1s: incluiré
       1p: incluiremos
@@ -25,8 +25,8 @@ incluir:
       3s: incluirá
       3p: incluirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was including, used to include, included'}
       1s: incluía
       1p: incluíamos
@@ -35,8 +35,8 @@ incluir:
       3s: incluía
       3p: incluían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I included}
       1s: incluí
       1p: incluimos
@@ -45,8 +45,8 @@ incluir:
       3s: incluyó
       3p: incluyeron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would include}
       1s: incluiría
       1p: incluiríamos
@@ -55,8 +55,8 @@ incluir:
       3s: incluiría
       3p: incluirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have included}
       1s: he incluido
       1p: hemos incluido
@@ -65,8 +65,8 @@ incluir:
       3s: ha incluido
       3p: han incluido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have included}
       1s: habré incluido
       1p: habremos incluido
@@ -75,8 +75,8 @@ incluir:
       3s: habrá incluido
       3p: habrán incluido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had included}
       1s: había incluido
       1p: habíamos incluido
@@ -85,8 +85,8 @@ incluir:
       3s: había incluido
       3p: habían incluido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had included}
       1s: hube incluido
       1p: hubimos incluido
@@ -95,8 +95,8 @@ incluir:
       3s: hubo incluido
       3p: hubieron incluido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have included}
       1s: habría incluido
       1p: habríamos incluido
@@ -105,8 +105,8 @@ incluir:
       3s: habría incluido
       3p: habrían incluido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I include, am including'}
       1s: incluya
       1p: incluyamos
@@ -115,8 +115,8 @@ incluir:
       3s: incluya
       3p: incluyan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I included, was including'}
       1s: incluyera
       1p: incluyéramos
@@ -125,8 +125,8 @@ incluir:
       3s: incluyera
       3p: incluyeran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will include}
       1s: incluyere
       1p: incluyéremos
@@ -135,8 +135,8 @@ incluir:
       3s: incluyere
       3p: incluyeren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have included, included'}
       1s: haya incluido
       1p: hayamos incluido
@@ -145,8 +145,8 @@ incluir:
       3s: haya incluido
       3p: hayan incluido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have included}
       1s: hubiere incluido
       1p: hubiéremos incluido
@@ -155,8 +155,8 @@ incluir:
       3s: hubiere incluido
       3p: hubieren incluido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had included}
       1s: hubiera incluido
       1p: hubiéramos incluido
@@ -165,8 +165,8 @@ incluir:
       3s: hubiera incluido
       3p: hubieran incluido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Include! Don't include!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ incluir:
       3s: incluya
       3p: incluyan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Include! Don't include!}
       1s: ''
       1p: ''

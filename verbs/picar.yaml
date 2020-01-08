@@ -2,11 +2,11 @@ picar:
   infinitive: picar
   gerund: picando
   pastparticiple: picado
-  definitions: {en: 'to prick, puncture, perforate; to sting, bite'}
-  tenses:
+  definition: {en: 'to prick, puncture, perforate; to sting, bite'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I prick, am pricking'}
       1s: pico
       1p: picamos
@@ -15,8 +15,8 @@ picar:
       3s: pica
       3p: pican
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will prick}
       1s: picaré
       1p: picaremos
@@ -25,8 +25,8 @@ picar:
       3s: picará
       3p: picarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was pricking, used to prick, pricked'}
       1s: picaba
       1p: picábamos
@@ -35,8 +35,8 @@ picar:
       3s: picaba
       3p: picaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I pricked}
       1s: piqué
       1p: picamos
@@ -45,8 +45,8 @@ picar:
       3s: picó
       3p: picaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would prick}
       1s: picaría
       1p: picaríamos
@@ -55,8 +55,8 @@ picar:
       3s: picaría
       3p: picarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have pricked}
       1s: he picado
       1p: hemos picado
@@ -65,8 +65,8 @@ picar:
       3s: ha picado
       3p: han picado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have pricked}
       1s: habré picado
       1p: habremos picado
@@ -75,8 +75,8 @@ picar:
       3s: habrá picado
       3p: habrán picado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had pricked}
       1s: había picado
       1p: habíamos picado
@@ -85,8 +85,8 @@ picar:
       3s: había picado
       3p: habían picado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had pricked}
       1s: hube picado
       1p: hubimos picado
@@ -95,8 +95,8 @@ picar:
       3s: hubo picado
       3p: hubieron picado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have pricked}
       1s: habría picado
       1p: habríamos picado
@@ -105,8 +105,8 @@ picar:
       3s: habría picado
       3p: habrían picado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I prick, am pricking'}
       1s: pique
       1p: piquemos
@@ -115,8 +115,8 @@ picar:
       3s: pique
       3p: piquen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I pricked, was pricking'}
       1s: picara
       1p: picáramos
@@ -125,8 +125,8 @@ picar:
       3s: picara
       3p: picaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will prick}
       1s: picare
       1p: picáremos
@@ -135,8 +135,8 @@ picar:
       3s: picare
       3p: picaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have pricked, pricked'}
       1s: haya picado
       1p: hayamos picado
@@ -145,8 +145,8 @@ picar:
       3s: haya picado
       3p: hayan picado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have pricked}
       1s: hubiere picado
       1p: hubiéremos picado
@@ -155,8 +155,8 @@ picar:
       3s: hubiere picado
       3p: hubieren picado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had pricked}
       1s: hubiera picado
       1p: hubiéramos picado
@@ -165,8 +165,8 @@ picar:
       3s: hubiera picado
       3p: hubieran picado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Prick! Don't prick!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ picar:
       3s: pique
       3p: piquen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Prick! Don't prick!}
       1s: ''
       1p: ''

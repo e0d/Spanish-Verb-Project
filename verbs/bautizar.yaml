@@ -2,11 +2,11 @@ bautizar:
   infinitive: bautizar
   gerund: bautizando
   pastparticiple: bautizado
-  definitions: {en: 'to baptize, christen'}
-  tenses:
+  definition: {en: 'to baptize, christen'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I baptize, am baptizing'}
       1s: bautizo
       1p: bautizamos
@@ -15,8 +15,8 @@ bautizar:
       3s: bautiza
       3p: bautizan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will baptize}
       1s: bautizaré
       1p: bautizaremos
@@ -25,8 +25,8 @@ bautizar:
       3s: bautizará
       3p: bautizarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was baptizing, used to baptize, baptized'}
       1s: bautizaba
       1p: bautizábamos
@@ -35,8 +35,8 @@ bautizar:
       3s: bautizaba
       3p: bautizaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I baptized}
       1s: bauticé
       1p: bautizamos
@@ -45,8 +45,8 @@ bautizar:
       3s: bautizó
       3p: bautizaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would baptize}
       1s: bautizaría
       1p: bautizaríamos
@@ -55,8 +55,8 @@ bautizar:
       3s: bautizaría
       3p: bautizarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have baptized}
       1s: he bautizado
       1p: hemos bautizado
@@ -65,8 +65,8 @@ bautizar:
       3s: ha bautizado
       3p: han bautizado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have baptized}
       1s: habré bautizado
       1p: habremos bautizado
@@ -75,8 +75,8 @@ bautizar:
       3s: habrá bautizado
       3p: habrán bautizado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had baptized}
       1s: había bautizado
       1p: habíamos bautizado
@@ -85,8 +85,8 @@ bautizar:
       3s: había bautizado
       3p: habían bautizado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had baptized}
       1s: hube bautizado
       1p: hubimos bautizado
@@ -95,8 +95,8 @@ bautizar:
       3s: hubo bautizado
       3p: hubieron bautizado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have baptized}
       1s: habría bautizado
       1p: habríamos bautizado
@@ -105,8 +105,8 @@ bautizar:
       3s: habría bautizado
       3p: habrían bautizado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I baptize, am baptizing'}
       1s: bautice
       1p: bauticemos
@@ -115,8 +115,8 @@ bautizar:
       3s: bautice
       3p: bauticen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I baptized, was baptizing'}
       1s: bautizara
       1p: bautizáramos
@@ -125,8 +125,8 @@ bautizar:
       3s: bautizara
       3p: bautizaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will baptize}
       1s: bautizare
       1p: bautizáremos
@@ -135,8 +135,8 @@ bautizar:
       3s: bautizare
       3p: bautizaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have baptized, baptized'}
       1s: haya bautizado
       1p: hayamos bautizado
@@ -145,8 +145,8 @@ bautizar:
       3s: haya bautizado
       3p: hayan bautizado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have baptized}
       1s: hubiere bautizado
       1p: hubiéremos bautizado
@@ -155,8 +155,8 @@ bautizar:
       3s: hubiere bautizado
       3p: hubieren bautizado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had baptized}
       1s: hubiera bautizado
       1p: hubiéramos bautizado
@@ -165,8 +165,8 @@ bautizar:
       3s: hubiera bautizado
       3p: hubieran bautizado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Baptize! Don't baptize!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ bautizar:
       3s: bautice
       3p: bauticen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Baptize! Don't baptize!}
       1s: ''
       1p: ''

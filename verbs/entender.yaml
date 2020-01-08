@@ -2,11 +2,11 @@ entender:
   infinitive: entender
   gerund: entendiendo
   pastparticiple: entendido
-  definitions: {en: to understand}
-  tenses:
+  definition: {en: to understand}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I understand, am understanding'}
       1s: entiendo
       1p: entendemos
@@ -15,8 +15,8 @@ entender:
       3s: entiende
       3p: entienden
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will understand}
       1s: entenderé
       1p: entenderemos
@@ -25,8 +25,8 @@ entender:
       3s: entenderá
       3p: entenderán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was understanding, used to understand, understood'}
       1s: entendía
       1p: entendíamos
@@ -35,8 +35,8 @@ entender:
       3s: entendía
       3p: entendían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I understood}
       1s: entendí
       1p: entendimos
@@ -45,8 +45,8 @@ entender:
       3s: entendió
       3p: entendieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would understand}
       1s: entendería
       1p: entenderíamos
@@ -55,8 +55,8 @@ entender:
       3s: entendería
       3p: entenderían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have understood}
       1s: he entendido
       1p: hemos entendido
@@ -65,8 +65,8 @@ entender:
       3s: ha entendido
       3p: han entendido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have understood}
       1s: habré entendido
       1p: habremos entendido
@@ -75,8 +75,8 @@ entender:
       3s: habrá entendido
       3p: habrán entendido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had understood}
       1s: había entendido
       1p: habíamos entendido
@@ -85,8 +85,8 @@ entender:
       3s: había entendido
       3p: habían entendido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had understood}
       1s: hube entendido
       1p: hubimos entendido
@@ -95,8 +95,8 @@ entender:
       3s: hubo entendido
       3p: hubieron entendido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have understood}
       1s: habría entendido
       1p: habríamos entendido
@@ -105,8 +105,8 @@ entender:
       3s: habría entendido
       3p: habrían entendido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I understand, am understanding'}
       1s: entienda
       1p: entendamos
@@ -115,8 +115,8 @@ entender:
       3s: entienda
       3p: entiendan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I understood, was understanding'}
       1s: entendiera
       1p: entendiéramos
@@ -125,8 +125,8 @@ entender:
       3s: entendiera
       3p: entendieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will understand}
       1s: entendiere
       1p: entendiéremos
@@ -135,8 +135,8 @@ entender:
       3s: entendiere
       3p: entendieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have understood, understood'}
       1s: haya entendido
       1p: hayamos entendido
@@ -145,8 +145,8 @@ entender:
       3s: haya entendido
       3p: hayan entendido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have understood}
       1s: hubiere entendido
       1p: hubiéremos entendido
@@ -155,8 +155,8 @@ entender:
       3s: hubiere entendido
       3p: hubieren entendido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had understood}
       1s: hubiera entendido
       1p: hubiéramos entendido
@@ -165,8 +165,8 @@ entender:
       3s: hubiera entendido
       3p: hubieran entendido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Understand! Don't understand!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ entender:
       3s: entienda
       3p: entiendan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Understand! Don't understand!}
       1s: ''
       1p: ''

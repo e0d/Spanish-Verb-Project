@@ -2,11 +2,11 @@ cumplir:
   infinitive: cumplir
   gerund: cumpliendo
   pastparticiple: cumplido
-  definitions: {en: 'to fulfil, carry out; to reach ['}
-  tenses:
+  definition: {en: 'to fulfil, carry out; to reach ['}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I fulfil, am fulfilling'}
       1s: cumplo
       1p: cumplimos
@@ -15,8 +15,8 @@ cumplir:
       3s: cumple
       3p: cumplen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will fulfil}
       1s: cumpliré
       1p: cumpliremos
@@ -25,8 +25,8 @@ cumplir:
       3s: cumplirá
       3p: cumplirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was fulfilling, used to fulfil, fulfilled'}
       1s: cumplía
       1p: cumplíamos
@@ -35,8 +35,8 @@ cumplir:
       3s: cumplía
       3p: cumplían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I fulfilled}
       1s: cumplí
       1p: cumplimos
@@ -45,8 +45,8 @@ cumplir:
       3s: cumplió
       3p: cumplieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would fulfil}
       1s: cumpliría
       1p: cumpliríamos
@@ -55,8 +55,8 @@ cumplir:
       3s: cumpliría
       3p: cumplirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have fulfilled}
       1s: he cumplido
       1p: hemos cumplido
@@ -65,8 +65,8 @@ cumplir:
       3s: ha cumplido
       3p: han cumplido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have fulfilled}
       1s: habré cumplido
       1p: habremos cumplido
@@ -75,8 +75,8 @@ cumplir:
       3s: habrá cumplido
       3p: habrán cumplido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had fulfilled}
       1s: había cumplido
       1p: habíamos cumplido
@@ -85,8 +85,8 @@ cumplir:
       3s: había cumplido
       3p: habían cumplido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had fulfilled}
       1s: hube cumplido
       1p: hubimos cumplido
@@ -95,8 +95,8 @@ cumplir:
       3s: hubo cumplido
       3p: hubieron cumplido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have fulfilled}
       1s: habría cumplido
       1p: habríamos cumplido
@@ -105,8 +105,8 @@ cumplir:
       3s: habría cumplido
       3p: habrían cumplido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fulfil, am fulfilling'}
       1s: cumpla
       1p: cumplamos
@@ -115,8 +115,8 @@ cumplir:
       3s: cumpla
       3p: cumplan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fulfilled, was fulfilling'}
       1s: cumpliera
       1p: cumpliéramos
@@ -125,8 +125,8 @@ cumplir:
       3s: cumpliera
       3p: cumplieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will fulfil}
       1s: cumpliere
       1p: cumpliéremos
@@ -135,8 +135,8 @@ cumplir:
       3s: cumpliere
       3p: cumplieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have fulfilled, fulfilled'}
       1s: haya cumplido
       1p: hayamos cumplido
@@ -145,8 +145,8 @@ cumplir:
       3s: haya cumplido
       3p: hayan cumplido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have fulfilled}
       1s: hubiere cumplido
       1p: hubiéremos cumplido
@@ -155,8 +155,8 @@ cumplir:
       3s: hubiere cumplido
       3p: hubieren cumplido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had fulfilled}
       1s: hubiera cumplido
       1p: hubiéramos cumplido
@@ -165,8 +165,8 @@ cumplir:
       3s: hubiera cumplido
       3p: hubieran cumplido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Fulfil! Don't fulfil!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ cumplir:
       3s: cumpla
       3p: cumplan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Fulfil! Don't fulfil!}
       1s: ''
       1p: ''

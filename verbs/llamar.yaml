@@ -2,11 +2,11 @@ llamar:
   infinitive: llamar
   gerund: llamando
   pastparticiple: llamado
-  definitions: {en: 'to call, to name'}
-  tenses:
+  definition: {en: 'to call, to name'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I call, am calling'}
       1s: llamo
       1p: llamamos
@@ -15,8 +15,8 @@ llamar:
       3s: llama
       3p: llaman
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will call}
       1s: llamaré
       1p: llamaremos
@@ -25,8 +25,8 @@ llamar:
       3s: llamará
       3p: llamarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was calling, used to call, called'}
       1s: llamaba
       1p: llamábamos
@@ -35,8 +35,8 @@ llamar:
       3s: llamaba
       3p: llamaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I called}
       1s: llamé
       1p: llamamos
@@ -45,8 +45,8 @@ llamar:
       3s: llamó
       3p: llamaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would call}
       1s: llamaría
       1p: llamaríamos
@@ -55,8 +55,8 @@ llamar:
       3s: llamaría
       3p: llamarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have called}
       1s: he llamado
       1p: hemos llamado
@@ -65,8 +65,8 @@ llamar:
       3s: ha llamado
       3p: han llamado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have called}
       1s: habré llamado
       1p: habremos llamado
@@ -75,8 +75,8 @@ llamar:
       3s: habrá llamado
       3p: habrán llamado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had called}
       1s: había llamado
       1p: habíamos llamado
@@ -85,8 +85,8 @@ llamar:
       3s: había llamado
       3p: habían llamado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had called}
       1s: hube llamado
       1p: hubimos llamado
@@ -95,8 +95,8 @@ llamar:
       3s: hubo llamado
       3p: hubieron llamado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have called}
       1s: habría llamado
       1p: habríamos llamado
@@ -105,8 +105,8 @@ llamar:
       3s: habría llamado
       3p: habrían llamado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I call, am calling'}
       1s: llame
       1p: llamemos
@@ -115,8 +115,8 @@ llamar:
       3s: llame
       3p: llamen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I called, was calling'}
       1s: llamara
       1p: llamáramos
@@ -125,8 +125,8 @@ llamar:
       3s: llamara
       3p: llamaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will call}
       1s: llamare
       1p: llamáremos
@@ -135,8 +135,8 @@ llamar:
       3s: llamare
       3p: llamaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have called, called'}
       1s: haya llamado
       1p: hayamos llamado
@@ -145,8 +145,8 @@ llamar:
       3s: haya llamado
       3p: hayan llamado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have called}
       1s: hubiere llamado
       1p: hubiéremos llamado
@@ -155,8 +155,8 @@ llamar:
       3s: hubiere llamado
       3p: hubieren llamado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had called}
       1s: hubiera llamado
       1p: hubiéramos llamado
@@ -165,8 +165,8 @@ llamar:
       3s: hubiera llamado
       3p: hubieran llamado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Call! Don't call!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ llamar:
       3s: llame
       3p: llamen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Call! Don't call!}
       1s: ''
       1p: ''

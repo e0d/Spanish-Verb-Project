@@ -2,11 +2,11 @@ florecer:
   infinitive: florecer
   gerund: floreciendo
   pastparticiple: florecido
-  definitions: {en: 'to flourish, flower, bloom'}
-  tenses:
+  definition: {en: 'to flourish, flower, bloom'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I flourish, am flourishing'}
       1s: florezco
       1p: florecemos
@@ -15,8 +15,8 @@ florecer:
       3s: florece
       3p: florecen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will flourish}
       1s: floreceré
       1p: floreceremos
@@ -25,8 +25,8 @@ florecer:
       3s: florecerá
       3p: florecerán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was flourishing, used to flourish, flourished'}
       1s: florecía
       1p: florecíamos
@@ -35,8 +35,8 @@ florecer:
       3s: florecía
       3p: florecían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I flourished}
       1s: florecí
       1p: florecimos
@@ -45,8 +45,8 @@ florecer:
       3s: floreció
       3p: florecieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would flourish}
       1s: florecería
       1p: floreceríamos
@@ -55,8 +55,8 @@ florecer:
       3s: florecería
       3p: florecerían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have flourished}
       1s: he florecido
       1p: hemos florecido
@@ -65,8 +65,8 @@ florecer:
       3s: ha florecido
       3p: han florecido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have flourished}
       1s: habré florecido
       1p: habremos florecido
@@ -75,8 +75,8 @@ florecer:
       3s: habrá florecido
       3p: habrán florecido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had flourished}
       1s: había florecido
       1p: habíamos florecido
@@ -85,8 +85,8 @@ florecer:
       3s: había florecido
       3p: habían florecido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had flourished}
       1s: hube florecido
       1p: hubimos florecido
@@ -95,8 +95,8 @@ florecer:
       3s: hubo florecido
       3p: hubieron florecido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have flourished}
       1s: habría florecido
       1p: habríamos florecido
@@ -105,8 +105,8 @@ florecer:
       3s: habría florecido
       3p: habrían florecido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I flourish, am flourishing'}
       1s: florezca
       1p: florezcamos
@@ -115,8 +115,8 @@ florecer:
       3s: florezca
       3p: florezcan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I flourished, was flourishing'}
       1s: floreciera
       1p: floreciéramos
@@ -125,8 +125,8 @@ florecer:
       3s: floreciera
       3p: florecieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will flourish}
       1s: floreciere
       1p: floreciéremos
@@ -135,8 +135,8 @@ florecer:
       3s: floreciere
       3p: florecieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have flourished, flourished'}
       1s: haya florecido
       1p: hayamos florecido
@@ -145,8 +145,8 @@ florecer:
       3s: haya florecido
       3p: hayan florecido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have flourished}
       1s: hubiere florecido
       1p: hubiéremos florecido
@@ -155,8 +155,8 @@ florecer:
       3s: hubiere florecido
       3p: hubieren florecido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had flourished}
       1s: hubiera florecido
       1p: hubiéramos florecido
@@ -165,8 +165,8 @@ florecer:
       3s: hubiera florecido
       3p: hubieran florecido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Flourish! Don't flourish!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ florecer:
       3s: florezca
       3p: florezcan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Flourish! Don't flourish!}
       1s: ''
       1p: ''

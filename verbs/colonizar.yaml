@@ -2,11 +2,11 @@ colonizar:
   infinitive: colonizar
   gerund: colonizando
   pastparticiple: colonizado
-  definitions: {en: 'to colonize, settle'}
-  tenses:
+  definition: {en: 'to colonize, settle'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I colonize, am colonizing'}
       1s: colonizo
       1p: colonizamos
@@ -15,8 +15,8 @@ colonizar:
       3s: coloniza
       3p: colonizan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will colonize}
       1s: colonizaré
       1p: colonizaremos
@@ -25,8 +25,8 @@ colonizar:
       3s: colonizará
       3p: colonizarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was colonizing, used to colonize, colonized'}
       1s: colonizaba
       1p: colonizábamos
@@ -35,8 +35,8 @@ colonizar:
       3s: colonizaba
       3p: colonizaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I colonized}
       1s: colonicé
       1p: colonizamos
@@ -45,8 +45,8 @@ colonizar:
       3s: colonizó
       3p: colonizaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would colonize}
       1s: colonizaría
       1p: colonizaríamos
@@ -55,8 +55,8 @@ colonizar:
       3s: colonizaría
       3p: colonizarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have colonized}
       1s: he colonizado
       1p: hemos colonizado
@@ -65,8 +65,8 @@ colonizar:
       3s: ha colonizado
       3p: han colonizado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have colonized}
       1s: habré colonizado
       1p: habremos colonizado
@@ -75,8 +75,8 @@ colonizar:
       3s: habrá colonizado
       3p: habrán colonizado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had colonized}
       1s: había colonizado
       1p: habíamos colonizado
@@ -85,8 +85,8 @@ colonizar:
       3s: había colonizado
       3p: habían colonizado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had colonized}
       1s: hube colonizado
       1p: hubimos colonizado
@@ -95,8 +95,8 @@ colonizar:
       3s: hubo colonizado
       3p: hubieron colonizado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have colonized}
       1s: habría colonizado
       1p: habríamos colonizado
@@ -105,8 +105,8 @@ colonizar:
       3s: habría colonizado
       3p: habrían colonizado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I colonize, am colonizing'}
       1s: colonice
       1p: colonicemos
@@ -115,8 +115,8 @@ colonizar:
       3s: colonice
       3p: colonicen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I colonized, was colonizing'}
       1s: colonizara
       1p: colonizáramos
@@ -125,8 +125,8 @@ colonizar:
       3s: colonizara
       3p: colonizaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will colonize}
       1s: colonizare
       1p: colonizáremos
@@ -135,8 +135,8 @@ colonizar:
       3s: colonizare
       3p: colonizaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have colonized, colonized'}
       1s: haya colonizado
       1p: hayamos colonizado
@@ -145,8 +145,8 @@ colonizar:
       3s: haya colonizado
       3p: hayan colonizado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have colonized}
       1s: hubiere colonizado
       1p: hubiéremos colonizado
@@ -155,8 +155,8 @@ colonizar:
       3s: hubiere colonizado
       3p: hubieren colonizado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had colonized}
       1s: hubiera colonizado
       1p: hubiéramos colonizado
@@ -165,8 +165,8 @@ colonizar:
       3s: hubiera colonizado
       3p: hubieran colonizado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Colonize! Don't colonize!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ colonizar:
       3s: colonice
       3p: colonicen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Colonize! Don't colonize!}
       1s: ''
       1p: ''

@@ -2,11 +2,11 @@ replicar:
   infinitive: replicar
   gerund: replicando
   pastparticiple: replicado
-  definitions: {en: 'to reply, answer back'}
-  tenses:
+  definition: {en: 'to reply, answer back'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I reply, am replying'}
       1s: replico
       1p: replicamos
@@ -15,8 +15,8 @@ replicar:
       3s: replica
       3p: replican
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will reply}
       1s: replicaré
       1p: replicaremos
@@ -25,8 +25,8 @@ replicar:
       3s: replicará
       3p: replicarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was replying, used to reply, replied'}
       1s: replicaba
       1p: replicábamos
@@ -35,8 +35,8 @@ replicar:
       3s: replicaba
       3p: replicaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I replied}
       1s: repliqué
       1p: replicamos
@@ -45,8 +45,8 @@ replicar:
       3s: replicó
       3p: replicaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would reply}
       1s: replicaría
       1p: replicaríamos
@@ -55,8 +55,8 @@ replicar:
       3s: replicaría
       3p: replicarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have replied}
       1s: he replicado
       1p: hemos replicado
@@ -65,8 +65,8 @@ replicar:
       3s: ha replicado
       3p: han replicado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have replied}
       1s: habré replicado
       1p: habremos replicado
@@ -75,8 +75,8 @@ replicar:
       3s: habrá replicado
       3p: habrán replicado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had replied}
       1s: había replicado
       1p: habíamos replicado
@@ -85,8 +85,8 @@ replicar:
       3s: había replicado
       3p: habían replicado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had replied}
       1s: hube replicado
       1p: hubimos replicado
@@ -95,8 +95,8 @@ replicar:
       3s: hubo replicado
       3p: hubieron replicado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have replied}
       1s: habría replicado
       1p: habríamos replicado
@@ -105,8 +105,8 @@ replicar:
       3s: habría replicado
       3p: habrían replicado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I reply, am replying'}
       1s: replique
       1p: repliquemos
@@ -115,8 +115,8 @@ replicar:
       3s: replique
       3p: repliquen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I replied, was replying'}
       1s: replicara
       1p: replicáramos
@@ -125,8 +125,8 @@ replicar:
       3s: replicara
       3p: replicaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will reply}
       1s: replicare
       1p: replicáremos
@@ -135,8 +135,8 @@ replicar:
       3s: replicare
       3p: replicaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have replied, replied'}
       1s: haya replicado
       1p: hayamos replicado
@@ -145,8 +145,8 @@ replicar:
       3s: haya replicado
       3p: hayan replicado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have replied}
       1s: hubiere replicado
       1p: hubiéremos replicado
@@ -155,8 +155,8 @@ replicar:
       3s: hubiere replicado
       3p: hubieren replicado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had replied}
       1s: hubiera replicado
       1p: hubiéramos replicado
@@ -165,8 +165,8 @@ replicar:
       3s: hubiera replicado
       3p: hubieran replicado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Reply! Don't reply!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ replicar:
       3s: replique
       3p: repliquen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Reply! Don't reply!}
       1s: ''
       1p: ''

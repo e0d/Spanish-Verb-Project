@@ -2,11 +2,11 @@ entrevistar:
   infinitive: entrevistar
   gerund: entrevistando
   pastparticiple: entrevistado
-  definitions: {en: to interview}
-  tenses:
+  definition: {en: to interview}
+  conjugations:
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I interview, am interviewing'}
       1s: entreviste
       1p: entrevistemos
@@ -15,8 +15,8 @@ entrevistar:
       3s: entreviste
       3p: entrevisten
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I interview, am interviewing'}
       1s: entrevisto
       1p: entrevistamos
@@ -25,8 +25,8 @@ entrevistar:
       3s: entrevista
       3p: entrevistan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will interview}
       1s: entrevistaré
       1p: entrevistaremos
@@ -35,8 +35,8 @@ entrevistar:
       3s: entrevistará
       3p: entrevistarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was interviewing, used to interview, interviewed'}
       1s: entrevistaba
       1p: entrevistábamos
@@ -45,8 +45,8 @@ entrevistar:
       3s: entrevistaba
       3p: entrevistaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I interviewed}
       1s: entrevisté
       1p: entrevistamos
@@ -55,8 +55,8 @@ entrevistar:
       3s: entrevistó
       3p: entrevistaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would interview}
       1s: entrevistaría
       1p: entrevistaríamos
@@ -65,8 +65,8 @@ entrevistar:
       3s: entrevistaría
       3p: entrevistarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have interviewed}
       1s: he entrevistado
       1p: hemos entrevistado
@@ -75,8 +75,8 @@ entrevistar:
       3s: ha entrevistado
       3p: han entrevistado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have interviewed}
       1s: habré entrevistado
       1p: habremos entrevistado
@@ -85,8 +85,8 @@ entrevistar:
       3s: habrá entrevistado
       3p: habrán entrevistado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had interviewed}
       1s: había entrevistado
       1p: habíamos entrevistado
@@ -95,8 +95,8 @@ entrevistar:
       3s: había entrevistado
       3p: habían entrevistado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had interviewed}
       1s: hube entrevistado
       1p: hubimos entrevistado
@@ -105,8 +105,8 @@ entrevistar:
       3s: hubo entrevistado
       3p: hubieron entrevistado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have interviewed}
       1s: habría entrevistado
       1p: habríamos entrevistado
@@ -115,8 +115,8 @@ entrevistar:
       3s: habría entrevistado
       3p: habrían entrevistado
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I interviewed, was interviewing'}
       1s: entrevistara
       1p: entrevistáramos
@@ -125,8 +125,8 @@ entrevistar:
       3s: entrevistara
       3p: entrevistaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will interview}
       1s: entrevistare
       1p: entrevistáremos
@@ -135,8 +135,8 @@ entrevistar:
       3s: entrevistare
       3p: entrevistaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have interviewed, interviewed'}
       1s: haya entrevistado
       1p: hayamos entrevistado
@@ -145,8 +145,8 @@ entrevistar:
       3s: haya entrevistado
       3p: hayan entrevistado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have interviewed}
       1s: hubiere entrevistado
       1p: hubiéremos entrevistado
@@ -155,8 +155,8 @@ entrevistar:
       3s: hubiere entrevistado
       3p: hubieren entrevistado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had interviewed}
       1s: hubiera entrevistado
       1p: hubiéramos entrevistado
@@ -165,8 +165,8 @@ entrevistar:
       3s: hubiera entrevistado
       3p: hubieran entrevistado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Interview! Don't interview!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ entrevistar:
       3s: entreviste
       3p: entrevisten
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Interview! Don't interview!}
       1s: ''
       1p: ''

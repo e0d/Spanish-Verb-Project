@@ -2,11 +2,11 @@ renacer:
   infinitive: renacer
   gerund: renaciendo
   pastparticiple: renacido
-  definitions: {en: to be reborn}
-  tenses:
+  definition: {en: to be reborn}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I am reborn, am being reborn'}
       1s: renazco
       1p: renacemos
@@ -15,8 +15,8 @@ renacer:
       3s: renace
       3p: renacen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will be reborn}
       1s: renaceré
       1p: renaceremos
@@ -25,8 +25,8 @@ renacer:
       3s: renacerá
       3p: renacerán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was being reborn, used to be reborn, was reborn'}
       1s: renacía
       1p: renacíamos
@@ -35,8 +35,8 @@ renacer:
       3s: renacía
       3p: renacían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I was reborn}
       1s: renací
       1p: renacimos
@@ -45,8 +45,8 @@ renacer:
       3s: renació
       3p: renacieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would be reborn}
       1s: renacería
       1p: renaceríamos
@@ -55,8 +55,8 @@ renacer:
       3s: renacería
       3p: renacerían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have been reborn}
       1s: he renacido
       1p: hemos renacido
@@ -65,8 +65,8 @@ renacer:
       3s: ha renacido
       3p: han renacido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have been reborn}
       1s: habré renacido
       1p: habremos renacido
@@ -75,8 +75,8 @@ renacer:
       3s: habrá renacido
       3p: habrán renacido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had been reborn}
       1s: había renacido
       1p: habíamos renacido
@@ -85,8 +85,8 @@ renacer:
       3s: había renacido
       3p: habían renacido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had been reborn}
       1s: hube renacido
       1p: hubimos renacido
@@ -95,8 +95,8 @@ renacer:
       3s: hubo renacido
       3p: hubieron renacido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have been reborn}
       1s: habría renacido
       1p: habríamos renacido
@@ -105,8 +105,8 @@ renacer:
       3s: habría renacido
       3p: habrían renacido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I am reborn, am being reborn'}
       1s: renazca
       1p: renazcamos
@@ -115,8 +115,8 @@ renacer:
       3s: renazca
       3p: renazcan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I was reborn, was being reborn'}
       1s: renaciera
       1p: renaciéramos
@@ -125,8 +125,8 @@ renacer:
       3s: renaciera
       3p: renacieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will be reborn}
       1s: renaciere
       1p: renaciéremos
@@ -135,8 +135,8 @@ renacer:
       3s: renaciere
       3p: renacieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have been reborn, was reborn'}
       1s: haya renacido
       1p: hayamos renacido
@@ -145,8 +145,8 @@ renacer:
       3s: haya renacido
       3p: hayan renacido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have been reborn}
       1s: hubiere renacido
       1p: hubiéremos renacido
@@ -155,8 +155,8 @@ renacer:
       3s: hubiere renacido
       3p: hubieren renacido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had been reborn}
       1s: hubiera renacido
       1p: hubiéramos renacido
@@ -165,8 +165,8 @@ renacer:
       3s: hubiera renacido
       3p: hubieran renacido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Be reborn! Don't be reborn!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ renacer:
       3s: renazca
       3p: renazcan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Be reborn! Don't be reborn!}
       1s: ''
       1p: ''

@@ -2,11 +2,11 @@ escribir:
   infinitive: escribir
   gerund: escribiendo
   pastparticiple: escrito
-  definitions: {en: to write}
-  tenses:
+  definition: {en: to write}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I write, am writing'}
       1s: escribo
       1p: escribimos
@@ -15,8 +15,8 @@ escribir:
       3s: escribe
       3p: escriben
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will write}
       1s: escribiré
       1p: escribiremos
@@ -25,8 +25,8 @@ escribir:
       3s: escribirá
       3p: escribirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was writing, used to write, wrote'}
       1s: escribía
       1p: escribíamos
@@ -35,8 +35,8 @@ escribir:
       3s: escribía
       3p: escribían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I wrote}
       1s: escribí
       1p: escribimos
@@ -45,8 +45,8 @@ escribir:
       3s: escribió
       3p: escribieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would write}
       1s: escribiría
       1p: escribiríamos
@@ -55,8 +55,8 @@ escribir:
       3s: escribiría
       3p: escribirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have written}
       1s: he escrito
       1p: hemos escrito
@@ -65,8 +65,8 @@ escribir:
       3s: ha escrito
       3p: han escrito
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have written}
       1s: habré escrito
       1p: habremos escrito
@@ -75,8 +75,8 @@ escribir:
       3s: habrá escrito
       3p: habrán escrito
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had written}
       1s: había escrito
       1p: habíamos escrito
@@ -85,8 +85,8 @@ escribir:
       3s: había escrito
       3p: habían escrito
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had written}
       1s: hube escrito
       1p: hubimos escrito
@@ -95,8 +95,8 @@ escribir:
       3s: hubo escrito
       3p: hubieron escrito
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have written}
       1s: habría escrito
       1p: habríamos escrito
@@ -105,8 +105,8 @@ escribir:
       3s: habría escrito
       3p: habrían escrito
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I write, am writing'}
       1s: escriba
       1p: escribamos
@@ -115,8 +115,8 @@ escribir:
       3s: escriba
       3p: escriban
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I wrote, was writing'}
       1s: escribiera
       1p: escribiéramos
@@ -125,8 +125,8 @@ escribir:
       3s: escribiera
       3p: escribieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will write}
       1s: escribiere
       1p: escribiéremos
@@ -135,8 +135,8 @@ escribir:
       3s: escribiere
       3p: escribieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have written, wrote'}
       1s: haya escrito
       1p: hayamos escrito
@@ -145,8 +145,8 @@ escribir:
       3s: haya escrito
       3p: hayan escrito
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have written}
       1s: hubiere escrito
       1p: hubiéremos escrito
@@ -155,8 +155,8 @@ escribir:
       3s: hubiere escrito
       3p: hubieren escrito
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had written}
       1s: hubiera escrito
       1p: hubiéramos escrito
@@ -165,8 +165,8 @@ escribir:
       3s: hubiera escrito
       3p: hubieran escrito
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Write! Don't write!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ escribir:
       3s: escriba
       3p: escriban
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Write! Don't write!}
       1s: ''
       1p: ''

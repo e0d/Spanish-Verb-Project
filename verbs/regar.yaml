@@ -2,11 +2,11 @@ regar:
   infinitive: regar
   gerund: regando
   pastparticiple: regado
-  definitions: {en: 'to water, irrigate, wash, sprinkle, spray'}
-  tenses:
+  definition: {en: 'to water, irrigate, wash, sprinkle, spray'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I water, am watering'}
       1s: riego
       1p: regamos
@@ -15,8 +15,8 @@ regar:
       3s: riega
       3p: riegan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will water}
       1s: regaré
       1p: regaremos
@@ -25,8 +25,8 @@ regar:
       3s: regará
       3p: regarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was watering, used to water, watered'}
       1s: regaba
       1p: regábamos
@@ -35,8 +35,8 @@ regar:
       3s: regaba
       3p: regaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I watered}
       1s: regué
       1p: regamos
@@ -45,8 +45,8 @@ regar:
       3s: regó
       3p: regaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would water}
       1s: regaría
       1p: regaríamos
@@ -55,8 +55,8 @@ regar:
       3s: regaría
       3p: regarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have watered}
       1s: he regado
       1p: hemos regado
@@ -65,8 +65,8 @@ regar:
       3s: ha regado
       3p: han regado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have watered}
       1s: habré regado
       1p: habremos regado
@@ -75,8 +75,8 @@ regar:
       3s: habrá regado
       3p: habrán regado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had watered}
       1s: había regado
       1p: habíamos regado
@@ -85,8 +85,8 @@ regar:
       3s: había regado
       3p: habían regado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had watered}
       1s: hube regado
       1p: hubimos regado
@@ -95,8 +95,8 @@ regar:
       3s: hubo regado
       3p: hubieron regado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have watered}
       1s: habría regado
       1p: habríamos regado
@@ -105,8 +105,8 @@ regar:
       3s: habría regado
       3p: habrían regado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I water, am watering'}
       1s: riegue
       1p: reguemos
@@ -115,8 +115,8 @@ regar:
       3s: riegue
       3p: rieguen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I water, was watering'}
       1s: regara
       1p: regáramos
@@ -125,8 +125,8 @@ regar:
       3s: regara
       3p: regaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will water}
       1s: regare
       1p: regáremos
@@ -135,8 +135,8 @@ regar:
       3s: regare
       3p: regaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have watered, watered'}
       1s: haya regado
       1p: hayamos regado
@@ -145,8 +145,8 @@ regar:
       3s: haya regado
       3p: hayan regado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have watered}
       1s: hubiere regado
       1p: hubiéremos regado
@@ -155,8 +155,8 @@ regar:
       3s: hubiere regado
       3p: hubieren regado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had watered}
       1s: hubiera regado
       1p: hubiéramos regado
@@ -165,8 +165,8 @@ regar:
       3s: hubiera regado
       3p: hubieran regado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Water! Don't water!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ regar:
       3s: riegue
       3p: rieguen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Water! Don't water!}
       1s: ''
       1p: ''

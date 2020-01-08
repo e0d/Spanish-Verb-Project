@@ -2,11 +2,11 @@ publicar:
   infinitive: publicar
   gerund: publicando
   pastparticiple: publicado
-  definitions: {en: to publish}
-  tenses:
+  definition: {en: to publish}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I publish, am publishing'}
       1s: publico
       1p: publicamos
@@ -15,8 +15,8 @@ publicar:
       3s: publica
       3p: publican
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will publish}
       1s: publicaré
       1p: publicaremos
@@ -25,8 +25,8 @@ publicar:
       3s: publicará
       3p: publicarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was publishing, used to publish, published'}
       1s: publicaba
       1p: publicábamos
@@ -35,8 +35,8 @@ publicar:
       3s: publicaba
       3p: publicaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I published}
       1s: publiqué
       1p: publicamos
@@ -45,8 +45,8 @@ publicar:
       3s: publicó
       3p: publicaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would publish}
       1s: publicaría
       1p: publicaríamos
@@ -55,8 +55,8 @@ publicar:
       3s: publicaría
       3p: publicarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have published}
       1s: he publicado
       1p: hemos publicado
@@ -65,8 +65,8 @@ publicar:
       3s: ha publicado
       3p: han publicado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have published}
       1s: habré publicado
       1p: habremos publicado
@@ -75,8 +75,8 @@ publicar:
       3s: habrá publicado
       3p: habrán publicado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had published}
       1s: había publicado
       1p: habíamos publicado
@@ -85,8 +85,8 @@ publicar:
       3s: había publicado
       3p: habían publicado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had published}
       1s: hube publicado
       1p: hubimos publicado
@@ -95,8 +95,8 @@ publicar:
       3s: hubo publicado
       3p: hubieron publicado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have published}
       1s: habría publicado
       1p: habríamos publicado
@@ -105,8 +105,8 @@ publicar:
       3s: habría publicado
       3p: habrían publicado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I publish, am publishing'}
       1s: publique
       1p: publiquemos
@@ -115,8 +115,8 @@ publicar:
       3s: publique
       3p: publiquen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I published, was publishing'}
       1s: publicara
       1p: publicáramos
@@ -125,8 +125,8 @@ publicar:
       3s: publicara
       3p: publicaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will publish}
       1s: publicare
       1p: publicáremos
@@ -135,8 +135,8 @@ publicar:
       3s: publicare
       3p: publicaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have published, published'}
       1s: haya publicado
       1p: hayamos publicado
@@ -145,8 +145,8 @@ publicar:
       3s: haya publicado
       3p: hayan publicado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have published}
       1s: hubiere publicado
       1p: hubiéremos publicado
@@ -155,8 +155,8 @@ publicar:
       3s: hubiere publicado
       3p: hubieren publicado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had published}
       1s: hubiera publicado
       1p: hubiéramos publicado
@@ -165,8 +165,8 @@ publicar:
       3s: hubiera publicado
       3p: hubieran publicado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Publish! Don't publish!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ publicar:
       3s: publique
       3p: publiquen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Publish! Don't publish!}
       1s: ''
       1p: ''

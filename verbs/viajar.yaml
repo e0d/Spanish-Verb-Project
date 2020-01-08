@@ -2,11 +2,11 @@ viajar:
   infinitive: viajar
   gerund: viajando
   pastparticiple: viajado
-  definitions: {en: 'to travel, journey'}
-  tenses:
+  definition: {en: 'to travel, journey'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I travel, am traveling'}
       1s: viajo
       1p: viajamos
@@ -15,8 +15,8 @@ viajar:
       3s: viaja
       3p: viajan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will travel}
       1s: viajaré
       1p: viajaremos
@@ -25,8 +25,8 @@ viajar:
       3s: viajará
       3p: viajarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was traveling, used to travel, traveled'}
       1s: viajaba
       1p: viajábamos
@@ -35,8 +35,8 @@ viajar:
       3s: viajaba
       3p: viajaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I traveled}
       1s: viajé
       1p: viajamos
@@ -45,8 +45,8 @@ viajar:
       3s: viajó
       3p: viajaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would travel}
       1s: viajaría
       1p: viajaríamos
@@ -55,8 +55,8 @@ viajar:
       3s: viajaría
       3p: viajarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have traveled}
       1s: he viajado
       1p: hemos viajado
@@ -65,8 +65,8 @@ viajar:
       3s: ha viajado
       3p: han viajado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have traveled}
       1s: habré viajado
       1p: habremos viajado
@@ -75,8 +75,8 @@ viajar:
       3s: habrá viajado
       3p: habrán viajado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had traveled}
       1s: había viajado
       1p: habíamos viajado
@@ -85,8 +85,8 @@ viajar:
       3s: había viajado
       3p: habían viajado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had traveled}
       1s: hube viajado
       1p: hubimos viajado
@@ -95,8 +95,8 @@ viajar:
       3s: hubo viajado
       3p: hubieron viajado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have traveled}
       1s: habría viajado
       1p: habríamos viajado
@@ -105,8 +105,8 @@ viajar:
       3s: habría viajado
       3p: habrían viajado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I travel, am traveling'}
       1s: viaje
       1p: viajemos
@@ -115,8 +115,8 @@ viajar:
       3s: viaje
       3p: viajen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I traveled, was traveling'}
       1s: viajara
       1p: viajáramos
@@ -125,8 +125,8 @@ viajar:
       3s: viajara
       3p: viajaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will travel}
       1s: viajare
       1p: viajáremos
@@ -135,8 +135,8 @@ viajar:
       3s: viajare
       3p: viajaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have traveled, traveled'}
       1s: haya viajado
       1p: hayamos viajado
@@ -145,8 +145,8 @@ viajar:
       3s: haya viajado
       3p: hayan viajado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have traveled}
       1s: hubiere viajado
       1p: hubiéremos viajado
@@ -155,8 +155,8 @@ viajar:
       3s: hubiere viajado
       3p: hubieren viajado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had traveled}
       1s: hubiera viajado
       1p: hubiéramos viajado
@@ -165,8 +165,8 @@ viajar:
       3s: hubiera viajado
       3p: hubieran viajado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Travel! Don't travel!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ viajar:
       3s: viaje
       3p: viajen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Travel! Don't travel!}
       1s: ''
       1p: ''

@@ -2,11 +2,11 @@ añadir:
   infinitive: añadir
   gerund: añadiendo
   pastparticiple: añadido
-  definitions: {en: to add; to increase}
-  tenses:
+  definition: {en: to add; to increase}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I add, am adding'}
       1s: añado
       1p: añadimos
@@ -15,8 +15,8 @@ añadir:
       3s: añade
       3p: añaden
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will add}
       1s: añadiré
       1p: añadiremos
@@ -25,8 +25,8 @@ añadir:
       3s: añadirá
       3p: añadirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was adding, used to add, added'}
       1s: añadía
       1p: añadíamos
@@ -35,8 +35,8 @@ añadir:
       3s: añadía
       3p: añadían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I added}
       1s: añadí
       1p: añadimos
@@ -45,8 +45,8 @@ añadir:
       3s: añadió
       3p: añadieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would add}
       1s: añadiría
       1p: añadiríamos
@@ -55,8 +55,8 @@ añadir:
       3s: añadiría
       3p: añadirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have added}
       1s: he añadido
       1p: hemos añadido
@@ -65,8 +65,8 @@ añadir:
       3s: ha añadido
       3p: han añadido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have added}
       1s: habré añadido
       1p: habremos añadido
@@ -75,8 +75,8 @@ añadir:
       3s: habrá añadido
       3p: habrán añadido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had added}
       1s: había añadido
       1p: habíamos añadido
@@ -85,8 +85,8 @@ añadir:
       3s: había añadido
       3p: habían añadido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had added}
       1s: hube añadido
       1p: hubimos añadido
@@ -95,8 +95,8 @@ añadir:
       3s: hubo añadido
       3p: hubieron añadido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have added}
       1s: habría añadido
       1p: habríamos añadido
@@ -105,8 +105,8 @@ añadir:
       3s: habría añadido
       3p: habrían añadido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I add, am adding'}
       1s: añada
       1p: añadamos
@@ -115,8 +115,8 @@ añadir:
       3s: añada
       3p: añadan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I added, was adding'}
       1s: añadiera
       1p: añadiéramos
@@ -125,8 +125,8 @@ añadir:
       3s: añadiera
       3p: añadieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will add}
       1s: añadiere
       1p: añadiéremos
@@ -135,8 +135,8 @@ añadir:
       3s: añadiere
       3p: añadieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have added, added'}
       1s: haya añadido
       1p: hayamos añadido
@@ -145,8 +145,8 @@ añadir:
       3s: haya añadido
       3p: hayan añadido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have added}
       1s: hubiere añadido
       1p: hubiéremos añadido
@@ -155,8 +155,8 @@ añadir:
       3s: hubiere añadido
       3p: hubieren añadido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had added}
       1s: hubiera añadido
       1p: hubiéramos añadido
@@ -165,8 +165,8 @@ añadir:
       3s: hubiera añadido
       3p: hubieran añadido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Add! Don't add!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ añadir:
       3s: añada
       3p: añadan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Add! Don't add!}
       1s: ''
       1p: ''

@@ -2,11 +2,11 @@ predecir:
   infinitive: predecir
   gerund: prediciendo
   pastparticiple: predicho
-  definitions: {en: 'to predict, foretell, forecast'}
-  tenses:
+  definition: {en: 'to predict, foretell, forecast'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I predict, am predicting'}
       1s: predigo
       1p: predecimos
@@ -15,8 +15,8 @@ predecir:
       3s: predice
       3p: predicen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will predict}
       1s: predeciré
       1p: predeciremos
@@ -25,8 +25,8 @@ predecir:
       3s: predecirá
       3p: predecirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was predicting, used to predict, predicted'}
       1s: predecía
       1p: predecíamos
@@ -35,8 +35,8 @@ predecir:
       3s: predecía
       3p: predecían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I predicted}
       1s: predije
       1p: predijimos
@@ -45,8 +45,8 @@ predecir:
       3s: predijo
       3p: predijeron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would predict}
       1s: predeciría
       1p: predeciríamos
@@ -55,8 +55,8 @@ predecir:
       3s: predeciría
       3p: predecirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have predicted}
       1s: he predicho
       1p: hemos predicho
@@ -65,8 +65,8 @@ predecir:
       3s: ha predicho
       3p: han predicho
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have predicted}
       1s: habré predicho
       1p: habremos predicho
@@ -75,8 +75,8 @@ predecir:
       3s: habrá predicho
       3p: habrán predicho
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had predicted}
       1s: había predicho
       1p: habíamos predicho
@@ -85,8 +85,8 @@ predecir:
       3s: había predicho
       3p: habían predicho
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had predicted}
       1s: hube predicho
       1p: hubimos predicho
@@ -95,8 +95,8 @@ predecir:
       3s: hubo predicho
       3p: hubieron predicho
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have predicted}
       1s: habría predicho
       1p: habríamos predicho
@@ -105,8 +105,8 @@ predecir:
       3s: habría predicho
       3p: habrían predicho
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I predict, am predicting'}
       1s: prediga
       1p: predigamos
@@ -115,8 +115,8 @@ predecir:
       3s: prediga
       3p: predigan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I predicted, was predicting'}
       1s: predijera
       1p: predijéramos
@@ -125,8 +125,8 @@ predecir:
       3s: predijera
       3p: predijeran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will predict}
       1s: predijere
       1p: predijéremos
@@ -135,8 +135,8 @@ predecir:
       3s: predijere
       3p: predijeren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have predicted, predicted'}
       1s: haya predicho
       1p: hayamos predicho
@@ -145,8 +145,8 @@ predecir:
       3s: haya predicho
       3p: hayan predicho
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have predicted}
       1s: hubiere predicho
       1p: hubiéremos predicho
@@ -155,8 +155,8 @@ predecir:
       3s: hubiere predicho
       3p: hubieren predicho
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had predicted}
       1s: hubiera predicho
       1p: hubiéramos predicho
@@ -165,8 +165,8 @@ predecir:
       3s: hubiera predicho
       3p: hubieran predicho
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Predict! Don't predict!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ predecir:
       3s: prediga
       3p: predigan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Predict! Don't predict!}
       1s: ''
       1p: ''

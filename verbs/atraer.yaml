@@ -2,11 +2,11 @@ atraer:
   infinitive: atraer
   gerund: atrayendo
   pastparticiple: atraído
-  definitions: {en: 'to attract, draw, lure'}
-  tenses:
+  definition: {en: 'to attract, draw, lure'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I attract, am attracting'}
       1s: atraigo
       1p: atraemos
@@ -15,8 +15,8 @@ atraer:
       3s: atrae
       3p: atraen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will attract}
       1s: atraeré
       1p: atraeremos
@@ -25,8 +25,8 @@ atraer:
       3s: atraerá
       3p: atraerán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was attracting, used to attract, attracted'}
       1s: atraía
       1p: atraíamos
@@ -35,8 +35,8 @@ atraer:
       3s: atraía
       3p: atraían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I attracted}
       1s: atraje
       1p: atrajimos
@@ -45,8 +45,8 @@ atraer:
       3s: atrajo
       3p: atrajeron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would attract}
       1s: atraería
       1p: atraeríamos
@@ -55,8 +55,8 @@ atraer:
       3s: atraería
       3p: atraerían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have attracted}
       1s: he atraído
       1p: hemos atraído
@@ -65,8 +65,8 @@ atraer:
       3s: ha atraído
       3p: han atraído
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have attracted}
       1s: habré atraído
       1p: habremos atraído
@@ -75,8 +75,8 @@ atraer:
       3s: habrá atraído
       3p: habrán atraído
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had attracted}
       1s: había atraído
       1p: habíamos atraído
@@ -85,8 +85,8 @@ atraer:
       3s: había atraído
       3p: habían atraído
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had attracted}
       1s: hube atraído
       1p: hubimos atraído
@@ -95,8 +95,8 @@ atraer:
       3s: hubo atraído
       3p: hubieron atraído
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have attracted}
       1s: habría atraído
       1p: habríamos atraído
@@ -105,8 +105,8 @@ atraer:
       3s: habría atraído
       3p: habrían atraído
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I attract, am attracting'}
       1s: atraiga
       1p: atraigamos
@@ -115,8 +115,8 @@ atraer:
       3s: atraiga
       3p: atraigan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I was attracting, attracted'}
       1s: atrajera
       1p: atrajéramos
@@ -125,8 +125,8 @@ atraer:
       3s: atrajera
       3p: atrajeran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will attract}
       1s: atrajere
       1p: atrajéremos
@@ -135,8 +135,8 @@ atraer:
       3s: atrajere
       3p: atrajeren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have attracted, attracted'}
       1s: haya atraído
       1p: hayamos atraído
@@ -145,8 +145,8 @@ atraer:
       3s: haya atraído
       3p: hayan atraído
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have attracted}
       1s: hubiere atraído
       1p: hubiéremos atraído
@@ -155,8 +155,8 @@ atraer:
       3s: hubiere atraído
       3p: hubieren atraído
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had attracted}
       1s: hubiera atraído
       1p: hubiéramos atraído
@@ -165,8 +165,8 @@ atraer:
       3s: hubiera atraído
       3p: hubieran atraído
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: 'Attract!, Don''t attract!'}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ atraer:
       3s: atraiga
       3p: atraigan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: 'Attract!, Don''t attract!'}
       1s: ''
       1p: ''

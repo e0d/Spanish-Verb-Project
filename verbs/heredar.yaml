@@ -2,11 +2,11 @@ heredar:
   infinitive: heredar
   gerund: heredando
   pastparticiple: heredado
-  definitions: {en: to inherit}
-  tenses:
+  definition: {en: to inherit}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I inherit, am inheriting'}
       1s: heredo
       1p: heredamos
@@ -15,8 +15,8 @@ heredar:
       3s: hereda
       3p: heredan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will inherit}
       1s: heredaré
       1p: heredaremos
@@ -25,8 +25,8 @@ heredar:
       3s: heredará
       3p: heredarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was inheriting, used to inherit, inherited'}
       1s: heredaba
       1p: heredábamos
@@ -35,8 +35,8 @@ heredar:
       3s: heredaba
       3p: heredaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I inherited}
       1s: heredé
       1p: heredamos
@@ -45,8 +45,8 @@ heredar:
       3s: heredó
       3p: heredaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would inherit}
       1s: heredaría
       1p: heredaríamos
@@ -55,8 +55,8 @@ heredar:
       3s: heredaría
       3p: heredarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have inherited}
       1s: he heredado
       1p: hemos heredado
@@ -65,8 +65,8 @@ heredar:
       3s: ha heredado
       3p: han heredado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have inherited}
       1s: habré heredado
       1p: habremos heredado
@@ -75,8 +75,8 @@ heredar:
       3s: habrá heredado
       3p: habrán heredado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had inherited}
       1s: había heredado
       1p: habíamos heredado
@@ -85,8 +85,8 @@ heredar:
       3s: había heredado
       3p: habían heredado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had inherited}
       1s: hube heredado
       1p: hubimos heredado
@@ -95,8 +95,8 @@ heredar:
       3s: hubo heredado
       3p: hubieron heredado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have inherited}
       1s: habría heredado
       1p: habríamos heredado
@@ -105,8 +105,8 @@ heredar:
       3s: habría heredado
       3p: habrían heredado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I inherit, am inheriting'}
       1s: herede
       1p: heredemos
@@ -115,8 +115,8 @@ heredar:
       3s: herede
       3p: hereden
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I inherited, was inheriting'}
       1s: heredara
       1p: heredáramos
@@ -125,8 +125,8 @@ heredar:
       3s: heredara
       3p: heredaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will inherit}
       1s: heredare
       1p: heredáremos
@@ -135,8 +135,8 @@ heredar:
       3s: heredare
       3p: heredaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have inherited, inherited'}
       1s: haya heredado
       1p: hayamos heredado
@@ -145,8 +145,8 @@ heredar:
       3s: haya heredado
       3p: hayan heredado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have inherited}
       1s: hubiere heredado
       1p: hubiéremos heredado
@@ -155,8 +155,8 @@ heredar:
       3s: hubiere heredado
       3p: hubieren heredado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had inherited}
       1s: hubiera heredado
       1p: hubiéramos heredado
@@ -165,8 +165,8 @@ heredar:
       3s: hubiera heredado
       3p: hubieran heredado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: inherit! Don't inherit!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ heredar:
       3s: herede
       3p: hereden
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: inherit! Don't inherit!}
       1s: ''
       1p: ''

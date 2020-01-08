@@ -2,11 +2,11 @@ calentar:
   infinitive: calentar
   gerund: calentando
   pastparticiple: calentado
-  definitions: {en: 'to heat [up], warm [up]'}
-  tenses:
+  definition: {en: 'to heat [up], warm [up]'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I heat, am heating'}
       1s: caliento
       1p: calentamos
@@ -15,8 +15,8 @@ calentar:
       3s: calienta
       3p: calientan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will heat}
       1s: calentaré
       1p: calentaremos
@@ -25,8 +25,8 @@ calentar:
       3s: calentará
       3p: calentarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was heating, used to heat, heated'}
       1s: calentaba
       1p: calentábamos
@@ -35,8 +35,8 @@ calentar:
       3s: calentaba
       3p: calentaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I heated}
       1s: calenté
       1p: calentamos
@@ -45,8 +45,8 @@ calentar:
       3s: calentó
       3p: calentaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would heat}
       1s: calentaría
       1p: calentaríamos
@@ -55,8 +55,8 @@ calentar:
       3s: calentaría
       3p: calentarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have heated}
       1s: he calentado
       1p: hemos calentado
@@ -65,8 +65,8 @@ calentar:
       3s: ha calentado
       3p: han calentado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have heated}
       1s: habré calentado
       1p: habremos calentado
@@ -75,8 +75,8 @@ calentar:
       3s: habrá calentado
       3p: habrán calentado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had heated}
       1s: había calentado
       1p: habíamos calentado
@@ -85,8 +85,8 @@ calentar:
       3s: había calentado
       3p: habían calentado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had heated}
       1s: hube calentado
       1p: hubimos calentado
@@ -95,8 +95,8 @@ calentar:
       3s: hubo calentado
       3p: hubieron calentado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have heated}
       1s: habría calentado
       1p: habríamos calentado
@@ -105,8 +105,8 @@ calentar:
       3s: habría calentado
       3p: habrían calentado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I heat, am heating'}
       1s: caliente
       1p: calentemos
@@ -115,8 +115,8 @@ calentar:
       3s: caliente
       3p: calienten
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I heated, was heating'}
       1s: calentara
       1p: calentáramos
@@ -125,8 +125,8 @@ calentar:
       3s: calentara
       3p: calentaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will heat}
       1s: calentare
       1p: calentáremos
@@ -135,8 +135,8 @@ calentar:
       3s: calentare
       3p: calentaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have heated, heated'}
       1s: haya calentado
       1p: hayamos calentado
@@ -145,8 +145,8 @@ calentar:
       3s: haya calentado
       3p: hayan calentado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have heated}
       1s: hubiere calentado
       1p: hubiéremos calentado
@@ -155,8 +155,8 @@ calentar:
       3s: hubiere calentado
       3p: hubieren calentado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had heated}
       1s: hubiera calentado
       1p: hubiéramos calentado
@@ -165,8 +165,8 @@ calentar:
       3s: hubiera calentado
       3p: hubieran calentado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Heat! Don't heat!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ calentar:
       3s: caliente
       3p: calienten
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Heat! Don't heat!}
       1s: ''
       1p: ''

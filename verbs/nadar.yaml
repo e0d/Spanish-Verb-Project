@@ -2,11 +2,11 @@ nadar:
   infinitive: nadar
   gerund: nadando
   pastparticiple: nadado
-  definitions: {en: to swim}
-  tenses:
+  definition: {en: to swim}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I swim, am swimming'}
       1s: nado
       1p: nadamos
@@ -15,8 +15,8 @@ nadar:
       3s: nada
       3p: nadan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will swim}
       1s: nadaré
       1p: nadaremos
@@ -25,8 +25,8 @@ nadar:
       3s: nadará
       3p: nadarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was swimming, used to swim, swam'}
       1s: nadaba
       1p: nadábamos
@@ -35,8 +35,8 @@ nadar:
       3s: nadaba
       3p: nadaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I swam}
       1s: nadé
       1p: nadamos
@@ -45,8 +45,8 @@ nadar:
       3s: nadó
       3p: nadaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would swim}
       1s: nadaría
       1p: nadaríamos
@@ -55,8 +55,8 @@ nadar:
       3s: nadaría
       3p: nadarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have swum}
       1s: he nadado
       1p: hemos nadado
@@ -65,8 +65,8 @@ nadar:
       3s: ha nadado
       3p: han nadado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have swum}
       1s: habré nadado
       1p: habremos nadado
@@ -75,8 +75,8 @@ nadar:
       3s: habrá nadado
       3p: habrán nadado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had swum}
       1s: había nadado
       1p: habíamos nadado
@@ -85,8 +85,8 @@ nadar:
       3s: había nadado
       3p: habían nadado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had swum}
       1s: hube nadado
       1p: hubimos nadado
@@ -95,8 +95,8 @@ nadar:
       3s: hubo nadado
       3p: hubieron nadado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have swum}
       1s: habría nadado
       1p: habríamos nadado
@@ -105,8 +105,8 @@ nadar:
       3s: habría nadado
       3p: habrían nadado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I swim, am swimming'}
       1s: nade
       1p: nademos
@@ -115,8 +115,8 @@ nadar:
       3s: nade
       3p: naden
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I swam, was swimming'}
       1s: nadara
       1p: nadáramos
@@ -125,8 +125,8 @@ nadar:
       3s: nadara
       3p: nadaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will swim}
       1s: nadare
       1p: nadáremos
@@ -135,8 +135,8 @@ nadar:
       3s: nadare
       3p: nadaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have swum, swam'}
       1s: haya nadado
       1p: hayamos nadado
@@ -145,8 +145,8 @@ nadar:
       3s: haya nadado
       3p: hayan nadado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have swum}
       1s: hubiere nadado
       1p: hubiéremos nadado
@@ -155,8 +155,8 @@ nadar:
       3s: hubiere nadado
       3p: hubieren nadado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had swum}
       1s: hubiera nadado
       1p: hubiéramos nadado
@@ -165,8 +165,8 @@ nadar:
       3s: hubiera nadado
       3p: hubieran nadado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Swim! Don't swim!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ nadar:
       3s: nade
       3p: naden
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Swim! Don't swim!}
       1s: ''
       1p: ''

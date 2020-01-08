@@ -2,11 +2,11 @@ estar:
   infinitive: estar
   gerund: estando
   pastparticiple: estado
-  definitions: {en: to be}
-  tenses:
+  definition: {en: to be}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I am}
       1s: estoy
       1p: estamos
@@ -15,8 +15,8 @@ estar:
       3s: está
       3p: están
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will be}
       1s: estaré
       1p: estaremos
@@ -25,8 +25,8 @@ estar:
       3s: estará
       3p: estarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was, used to be'}
       1s: estaba
       1p: estábamos
@@ -35,8 +35,8 @@ estar:
       3s: estaba
       3p: estaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I was}
       1s: estuve
       1p: estuvimos
@@ -45,8 +45,8 @@ estar:
       3s: estuvo
       3p: estuvieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would be}
       1s: estaría
       1p: estaríamos
@@ -55,8 +55,8 @@ estar:
       3s: estaría
       3p: estarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have been}
       1s: he estado
       1p: hemos estado
@@ -65,8 +65,8 @@ estar:
       3s: ha estado
       3p: han estado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have been}
       1s: habré estado
       1p: habremos estado
@@ -75,8 +75,8 @@ estar:
       3s: habrá estado
       3p: habrán estado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had been}
       1s: había estado
       1p: habíamos estado
@@ -85,8 +85,8 @@ estar:
       3s: había estado
       3p: habían estado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had been}
       1s: hube estado
       1p: hubimos estado
@@ -95,8 +95,8 @@ estar:
       3s: hubo estado
       3p: hubieron estado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have been}
       1s: habría estado
       1p: habríamos estado
@@ -105,8 +105,8 @@ estar:
       3s: habría estado
       3p: habrían estado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I am}
       1s: esté
       1p: estemos
@@ -115,8 +115,8 @@ estar:
       3s: esté
       3p: estén
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I was, were'}
       1s: estuviera
       1p: estuviéramos
@@ -125,8 +125,8 @@ estar:
       3s: estuviera
       3p: estuvieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will be}
       1s: estuviere
       1p: estuviéremos
@@ -135,8 +135,8 @@ estar:
       3s: estuviere
       3p: estuvieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have been, was'}
       1s: haya estado
       1p: hayamos estado
@@ -145,8 +145,8 @@ estar:
       3s: haya estado
       3p: hayan estado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have been}
       1s: hubiere estado
       1p: hubiéremos estado
@@ -155,8 +155,8 @@ estar:
       3s: hubiere estado
       3p: hubieren estado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had been}
       1s: hubiera estado
       1p: hubiéramos estado
@@ -165,8 +165,8 @@ estar:
       3s: hubiera estado
       3p: hubieran estado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Be! Don't be!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ estar:
       3s: esté
       3p: estén
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Be! Don't be!}
       1s: ''
       1p: ''

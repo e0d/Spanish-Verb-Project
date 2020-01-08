@@ -2,11 +2,11 @@ saber:
   infinitive: saber
   gerund: sabiendo
   pastparticiple: sabido
-  definitions: {en: to know}
-  tenses:
+  definition: {en: to know}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I know}
       1s: sé
       1p: sabemos
@@ -15,8 +15,8 @@ saber:
       3s: sabe
       3p: saben
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will know}
       1s: sabré
       1p: sabremos
@@ -25,8 +25,8 @@ saber:
       3s: sabrá
       3p: sabrán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I used to know, knew'}
       1s: sabía
       1p: sabíamos
@@ -35,8 +35,8 @@ saber:
       3s: sabía
       3p: sabían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I knew}
       1s: supe
       1p: supimos
@@ -45,8 +45,8 @@ saber:
       3s: supo
       3p: supieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would know}
       1s: sabría
       1p: sabríamos
@@ -55,8 +55,8 @@ saber:
       3s: sabría
       3p: sabrían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have known}
       1s: he sabido
       1p: hemos sabido
@@ -65,8 +65,8 @@ saber:
       3s: ha sabido
       3p: han sabido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have known}
       1s: habré sabido
       1p: habremos sabido
@@ -75,8 +75,8 @@ saber:
       3s: habrá sabido
       3p: habrán sabido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had known}
       1s: había sabido
       1p: habíamos sabido
@@ -85,8 +85,8 @@ saber:
       3s: había sabido
       3p: habían sabido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had known}
       1s: hube sabido
       1p: hubimos sabido
@@ -95,8 +95,8 @@ saber:
       3s: hubo sabido
       3p: hubieron sabido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have known}
       1s: habría sabido
       1p: habríamos sabido
@@ -105,8 +105,8 @@ saber:
       3s: habría sabido
       3p: habrían sabido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I know}
       1s: sepa
       1p: sepamos
@@ -115,8 +115,8 @@ saber:
       3s: sepa
       3p: sepan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I knew}
       1s: supiera
       1p: supiéramos
@@ -125,8 +125,8 @@ saber:
       3s: supiera
       3p: supieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will know}
       1s: supiere
       1p: supiéremos
@@ -135,8 +135,8 @@ saber:
       3s: supiere
       3p: supieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have known, knew'}
       1s: haya sabido
       1p: hayamos sabido
@@ -145,8 +145,8 @@ saber:
       3s: haya sabido
       3p: hayan sabido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have known}
       1s: hubiere sabido
       1p: hubiéremos sabido
@@ -155,8 +155,8 @@ saber:
       3s: hubiere sabido
       3p: hubieren sabido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had known}
       1s: hubiera sabido
       1p: hubiéramos sabido
@@ -165,8 +165,8 @@ saber:
       3s: hubiera sabido
       3p: hubieran sabido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Know! Don't know!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ saber:
       3s: sepa
       3p: sepan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Know! Don't know!}
       1s: ''
       1p: ''

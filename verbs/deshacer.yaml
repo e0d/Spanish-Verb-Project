@@ -2,11 +2,11 @@ deshacer:
   infinitive: deshacer
   gerund: deshaciendo
   pastparticiple: deshecho
-  definitions: {en: 'to undo, unmake, ruin, spoil, take apart'}
-  tenses:
+  definition: {en: 'to undo, unmake, ruin, spoil, take apart'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I undo, am undoing'}
       1s: deshago
       1p: deshacemos
@@ -15,8 +15,8 @@ deshacer:
       3s: deshace
       3p: deshacen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will undo}
       1s: desharé
       1p: desharemos
@@ -25,8 +25,8 @@ deshacer:
       3s: deshará
       3p: desharán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was undoing, used to undo, undid'}
       1s: deshacía
       1p: deshacíamos
@@ -35,8 +35,8 @@ deshacer:
       3s: deshacía
       3p: deshacían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I undid}
       1s: deshice
       1p: deshicimos
@@ -45,8 +45,8 @@ deshacer:
       3s: deshizo
       3p: deshicieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would undo}
       1s: desharía
       1p: desharíamos
@@ -55,8 +55,8 @@ deshacer:
       3s: desharía
       3p: desharían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have undone}
       1s: he deshecho
       1p: hemos deshecho
@@ -65,8 +65,8 @@ deshacer:
       3s: ha deshecho
       3p: han deshecho
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have undone}
       1s: habré deshecho
       1p: habremos deshecho
@@ -75,8 +75,8 @@ deshacer:
       3s: habrá deshecho
       3p: habrán deshecho
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had undone}
       1s: había deshecho
       1p: habíamos deshecho
@@ -85,8 +85,8 @@ deshacer:
       3s: había deshecho
       3p: habían deshecho
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had undone}
       1s: hube deshecho
       1p: hubimos deshecho
@@ -95,8 +95,8 @@ deshacer:
       3s: hubo deshecho
       3p: hubieron deshecho
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have undone}
       1s: habría deshecho
       1p: habríamos deshecho
@@ -105,8 +105,8 @@ deshacer:
       3s: habría deshecho
       3p: habrían deshecho
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I undo, am undoing'}
       1s: deshaga
       1p: deshagamos
@@ -115,8 +115,8 @@ deshacer:
       3s: deshaga
       3p: deshagan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I undid, was undoing'}
       1s: deshiciera
       1p: deshiciéramos
@@ -125,8 +125,8 @@ deshacer:
       3s: deshiciera
       3p: deshicieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will undo}
       1s: deshiciere
       1p: deshiciéremos
@@ -135,8 +135,8 @@ deshacer:
       3s: deshiciere
       3p: deshicieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have undone, undid'}
       1s: haya deshecho
       1p: hayamos deshecho
@@ -145,8 +145,8 @@ deshacer:
       3s: haya deshecho
       3p: hayan deshecho
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have undone}
       1s: hubiere deshecho
       1p: hubiéremos deshecho
@@ -155,8 +155,8 @@ deshacer:
       3s: hubiere deshecho
       3p: hubieren deshecho
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had undone}
       1s: hubiera deshecho
       1p: hubiéramos deshecho
@@ -165,8 +165,8 @@ deshacer:
       3s: hubiera deshecho
       3p: hubieran deshecho
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Undo! Don't undo!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ deshacer:
       3s: deshaga
       3p: deshagan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Undo! Don't undo!}
       1s: ''
       1p: ''

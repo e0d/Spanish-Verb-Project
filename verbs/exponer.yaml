@@ -2,11 +2,11 @@ exponer:
   infinitive: exponer
   gerund: exponiendo
   pastparticiple: expuesto
-  definitions: {en: to expose}
-  tenses:
+  definition: {en: to expose}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I expose, am exposing'}
       1s: expongo
       1p: exponemos
@@ -15,8 +15,8 @@ exponer:
       3s: expone
       3p: exponen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will expose}
       1s: expondré
       1p: expondremos
@@ -25,8 +25,8 @@ exponer:
       3s: expondrá
       3p: expondrán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was exposing, used to expose, exposed'}
       1s: exponía
       1p: exponíamos
@@ -35,8 +35,8 @@ exponer:
       3s: exponía
       3p: exponían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I exposed}
       1s: expuse
       1p: expusimos
@@ -45,8 +45,8 @@ exponer:
       3s: expuso
       3p: expusieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would expose}
       1s: expondría
       1p: expondríamos
@@ -55,8 +55,8 @@ exponer:
       3s: expondría
       3p: expondrían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have exposed}
       1s: he expuesto
       1p: hemos expuesto
@@ -65,8 +65,8 @@ exponer:
       3s: ha expuesto
       3p: han expuesto
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have exposed}
       1s: habré expuesto
       1p: habremos expuesto
@@ -75,8 +75,8 @@ exponer:
       3s: habrá expuesto
       3p: habrán expuesto
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had exposed}
       1s: había expuesto
       1p: habíamos expuesto
@@ -85,8 +85,8 @@ exponer:
       3s: había expuesto
       3p: habían expuesto
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had exposed}
       1s: hube expuesto
       1p: hubimos expuesto
@@ -95,8 +95,8 @@ exponer:
       3s: hubo expuesto
       3p: hubieron expuesto
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have exposed}
       1s: habría expuesto
       1p: habríamos expuesto
@@ -105,8 +105,8 @@ exponer:
       3s: habría expuesto
       3p: habrían expuesto
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I expose, am exposing'}
       1s: exponga
       1p: expongamos
@@ -115,8 +115,8 @@ exponer:
       3s: exponga
       3p: expongan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I exposed, was exposing'}
       1s: expusiera
       1p: expusiéramos
@@ -125,8 +125,8 @@ exponer:
       3s: expusiera
       3p: expusieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will expose}
       1s: expusiere
       1p: expusiéremos
@@ -135,8 +135,8 @@ exponer:
       3s: expusiere
       3p: expusieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have exposed, exposed'}
       1s: haya expuesto
       1p: hayamos expuesto
@@ -145,8 +145,8 @@ exponer:
       3s: haya expuesto
       3p: hayan expuesto
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have exposed}
       1s: hubiere expuesto
       1p: hubiéremos expuesto
@@ -155,8 +155,8 @@ exponer:
       3s: hubiere expuesto
       3p: hubieren expuesto
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had exposed}
       1s: hubiera expuesto
       1p: hubiéramos expuesto
@@ -165,8 +165,8 @@ exponer:
       3s: hubiera expuesto
       3p: hubieran expuesto
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Expose! Don't expose!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ exponer:
       3s: exponga
       3p: expongan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Expose! Don't expose!}
       1s: ''
       1p: ''

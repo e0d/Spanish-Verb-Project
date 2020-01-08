@@ -2,11 +2,11 @@ curar:
   infinitive: curar
   gerund: curando
   pastparticiple: curado
-  definitions: {en: 'to cure; to treat, dress [a wound]'}
-  tenses:
+  definition: {en: 'to cure; to treat, dress [a wound]'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I cure, am curing'}
       1s: curo
       1p: curamos
@@ -15,8 +15,8 @@ curar:
       3s: cura
       3p: curan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will cure}
       1s: curaré
       1p: curaremos
@@ -25,8 +25,8 @@ curar:
       3s: curará
       3p: curarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was curing, used to cure, cured'}
       1s: curaba
       1p: curábamos
@@ -35,8 +35,8 @@ curar:
       3s: curaba
       3p: curaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I cured}
       1s: curé
       1p: curamos
@@ -45,8 +45,8 @@ curar:
       3s: curó
       3p: curaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would cure}
       1s: curaría
       1p: curaríamos
@@ -55,8 +55,8 @@ curar:
       3s: curaría
       3p: curarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have cured}
       1s: he curado
       1p: hemos curado
@@ -65,8 +65,8 @@ curar:
       3s: ha curado
       3p: han curado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have cured}
       1s: habré curado
       1p: habremos curado
@@ -75,8 +75,8 @@ curar:
       3s: habrá curado
       3p: habrán curado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had cured}
       1s: había curado
       1p: habíamos curado
@@ -85,8 +85,8 @@ curar:
       3s: había curado
       3p: habían curado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had cured}
       1s: hube curado
       1p: hubimos curado
@@ -95,8 +95,8 @@ curar:
       3s: hubo curado
       3p: hubieron curado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have cured}
       1s: habría curado
       1p: habríamos curado
@@ -105,8 +105,8 @@ curar:
       3s: habría curado
       3p: habrían curado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I cure, am curing'}
       1s: cure
       1p: curemos
@@ -115,8 +115,8 @@ curar:
       3s: cure
       3p: curen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I cured, was curing'}
       1s: curara
       1p: curáramos
@@ -125,8 +125,8 @@ curar:
       3s: curara
       3p: curaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will cure}
       1s: curare
       1p: curáremos
@@ -135,8 +135,8 @@ curar:
       3s: curare
       3p: curaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have cured, cured'}
       1s: haya curado
       1p: hayamos curado
@@ -145,8 +145,8 @@ curar:
       3s: haya curado
       3p: hayan curado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have cured}
       1s: hubiere curado
       1p: hubiéremos curado
@@ -155,8 +155,8 @@ curar:
       3s: hubiere curado
       3p: hubieren curado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had cured}
       1s: hubiera curado
       1p: hubiéramos curado
@@ -165,8 +165,8 @@ curar:
       3s: hubiera curado
       3p: hubieran curado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Cure! Don't cure!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ curar:
       3s: cure
       3p: curen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Cure! Don't cure!}
       1s: ''
       1p: ''

@@ -2,11 +2,11 @@ pelear:
   infinitive: pelear
   gerund: peleando
   pastparticiple: peleado
-  definitions: {en: 'to fight; to brawl, scruffle'}
-  tenses:
+  definition: {en: 'to fight; to brawl, scruffle'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I fight, am fighting'}
       1s: peleo
       1p: peleamos
@@ -15,8 +15,8 @@ pelear:
       3s: pelea
       3p: pelean
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will fight}
       1s: pelearé
       1p: pelearemos
@@ -25,8 +25,8 @@ pelear:
       3s: peleará
       3p: pelearán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was fighting, used to fight, fought'}
       1s: peleaba
       1p: peleábamos
@@ -35,8 +35,8 @@ pelear:
       3s: peleaba
       3p: peleaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I fought}
       1s: peleé
       1p: peleamos
@@ -45,8 +45,8 @@ pelear:
       3s: peleó
       3p: pelearon
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would fight}
       1s: pelearía
       1p: pelearíamos
@@ -55,8 +55,8 @@ pelear:
       3s: pelearía
       3p: pelearían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have fought}
       1s: he peleado
       1p: hemos peleado
@@ -65,8 +65,8 @@ pelear:
       3s: ha peleado
       3p: han peleado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have fought}
       1s: habré peleado
       1p: habremos peleado
@@ -75,8 +75,8 @@ pelear:
       3s: habrá peleado
       3p: habrán peleado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had fought}
       1s: había peleado
       1p: habíamos peleado
@@ -85,8 +85,8 @@ pelear:
       3s: había peleado
       3p: habían peleado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had fought}
       1s: hube peleado
       1p: hubimos peleado
@@ -95,8 +95,8 @@ pelear:
       3s: hubo peleado
       3p: hubieron peleado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have fought}
       1s: habría peleado
       1p: habríamos peleado
@@ -105,8 +105,8 @@ pelear:
       3s: habría peleado
       3p: habrían peleado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fight, am fighting'}
       1s: pelee
       1p: peleemos
@@ -115,8 +115,8 @@ pelear:
       3s: pelee
       3p: peleen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fought, was fighting'}
       1s: peleara
       1p: peleáramos
@@ -125,8 +125,8 @@ pelear:
       3s: peleara
       3p: pelearan
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will fight}
       1s: peleare
       1p: peleáremos
@@ -135,8 +135,8 @@ pelear:
       3s: peleare
       3p: pelearen
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have fought, fought'}
       1s: haya peleado
       1p: hayamos peleado
@@ -145,8 +145,8 @@ pelear:
       3s: haya peleado
       3p: hayan peleado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have fought}
       1s: hubiere peleado
       1p: hubiéremos peleado
@@ -155,8 +155,8 @@ pelear:
       3s: hubiere peleado
       3p: hubieren peleado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had fought}
       1s: hubiera peleado
       1p: hubiéramos peleado
@@ -165,8 +165,8 @@ pelear:
       3s: hubiera peleado
       3p: hubieran peleado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Fight! Don't fight!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ pelear:
       3s: pelee
       3p: peleen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Fight! Don't fight!}
       1s: ''
       1p: ''

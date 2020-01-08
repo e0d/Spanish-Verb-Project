@@ -2,11 +2,11 @@ invadir:
   infinitive: invadir
   gerund: invadiendo
   pastparticiple: invadido
-  definitions: {en: 'to invade, overrun'}
-  tenses:
+  definition: {en: 'to invade, overrun'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I invade, am invading'}
       1s: invado
       1p: invadimos
@@ -15,8 +15,8 @@ invadir:
       3s: invade
       3p: invaden
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will invade}
       1s: invadiré
       1p: invadiremos
@@ -25,8 +25,8 @@ invadir:
       3s: invadirá
       3p: invadirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was invading, used to invade, invaded'}
       1s: invadía
       1p: invadíamos
@@ -35,8 +35,8 @@ invadir:
       3s: invadía
       3p: invadían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I invaded}
       1s: invadí
       1p: invadimos
@@ -45,8 +45,8 @@ invadir:
       3s: invadió
       3p: invadieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would invade}
       1s: invadiría
       1p: invadiríamos
@@ -55,8 +55,8 @@ invadir:
       3s: invadiría
       3p: invadirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have invaded}
       1s: he invadido
       1p: hemos invadido
@@ -65,8 +65,8 @@ invadir:
       3s: ha invadido
       3p: han invadido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have invaded}
       1s: habré invadido
       1p: habremos invadido
@@ -75,8 +75,8 @@ invadir:
       3s: habrá invadido
       3p: habrán invadido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had invaded}
       1s: había invadido
       1p: habíamos invadido
@@ -85,8 +85,8 @@ invadir:
       3s: había invadido
       3p: habían invadido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had invaded}
       1s: hube invadido
       1p: hubimos invadido
@@ -95,8 +95,8 @@ invadir:
       3s: hubo invadido
       3p: hubieron invadido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have invaded}
       1s: habría invadido
       1p: habríamos invadido
@@ -105,8 +105,8 @@ invadir:
       3s: habría invadido
       3p: habrían invadido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I invade, am invading'}
       1s: invada
       1p: invadamos
@@ -115,8 +115,8 @@ invadir:
       3s: invada
       3p: invadan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I invaded, was invading'}
       1s: invadiera
       1p: invadiéramos
@@ -125,8 +125,8 @@ invadir:
       3s: invadiera
       3p: invadieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will invade}
       1s: invadiere
       1p: invadiéremos
@@ -135,8 +135,8 @@ invadir:
       3s: invadiere
       3p: invadieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have invaded, invaded'}
       1s: haya invadido
       1p: hayamos invadido
@@ -145,8 +145,8 @@ invadir:
       3s: haya invadido
       3p: hayan invadido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have invaded}
       1s: hubiere invadido
       1p: hubiéremos invadido
@@ -155,8 +155,8 @@ invadir:
       3s: hubiere invadido
       3p: hubieren invadido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had invaded}
       1s: hubiera invadido
       1p: hubiéramos invadido
@@ -165,8 +165,8 @@ invadir:
       3s: hubiera invadido
       3p: hubieran invadido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Invade! Don't invade!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ invadir:
       3s: invada
       3p: invadan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Invade! Don't invade!}
       1s: ''
       1p: ''

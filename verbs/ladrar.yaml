@@ -2,11 +2,11 @@ ladrar:
   infinitive: ladrar
   gerund: ladrando
   pastparticiple: ladrado
-  definitions: {en: to bark}
-  tenses:
+  definition: {en: to bark}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I bark, am barking'}
       1s: ladro
       1p: ladramos
@@ -15,8 +15,8 @@ ladrar:
       3s: ladra
       3p: ladran
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will bark}
       1s: ladraré
       1p: ladraremos
@@ -25,8 +25,8 @@ ladrar:
       3s: ladrará
       3p: ladrarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was barking, used to bark, barked'}
       1s: ladraba
       1p: ladrábamos
@@ -35,8 +35,8 @@ ladrar:
       3s: ladraba
       3p: ladraban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I barked}
       1s: ladré
       1p: ladramos
@@ -45,8 +45,8 @@ ladrar:
       3s: ladró
       3p: ladraron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would bark}
       1s: ladraría
       1p: ladraríamos
@@ -55,8 +55,8 @@ ladrar:
       3s: ladraría
       3p: ladrarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have barked}
       1s: he ladrado
       1p: hemos ladrado
@@ -65,8 +65,8 @@ ladrar:
       3s: ha ladrado
       3p: han ladrado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have barked}
       1s: habré ladrado
       1p: habremos ladrado
@@ -75,8 +75,8 @@ ladrar:
       3s: habrá ladrado
       3p: habrán ladrado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had barked}
       1s: había ladrado
       1p: habíamos ladrado
@@ -85,8 +85,8 @@ ladrar:
       3s: había ladrado
       3p: habían ladrado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had barked}
       1s: hube ladrado
       1p: hubimos ladrado
@@ -95,8 +95,8 @@ ladrar:
       3s: hubo ladrado
       3p: hubieron ladrado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have barked}
       1s: habría ladrado
       1p: habríamos ladrado
@@ -105,8 +105,8 @@ ladrar:
       3s: habría ladrado
       3p: habrían ladrado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I bark, am barking'}
       1s: ladre
       1p: ladremos
@@ -115,8 +115,8 @@ ladrar:
       3s: ladre
       3p: ladren
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I barked, was barking'}
       1s: ladrara
       1p: ladráramos
@@ -125,8 +125,8 @@ ladrar:
       3s: ladrara
       3p: ladraran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will bark}
       1s: ladrare
       1p: ladráremos
@@ -135,8 +135,8 @@ ladrar:
       3s: ladrare
       3p: ladraren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have barked, barked'}
       1s: haya ladrado
       1p: hayamos ladrado
@@ -145,8 +145,8 @@ ladrar:
       3s: haya ladrado
       3p: hayan ladrado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have barked}
       1s: hubiere ladrado
       1p: hubiéremos ladrado
@@ -155,8 +155,8 @@ ladrar:
       3s: hubiere ladrado
       3p: hubieren ladrado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had barked}
       1s: hubiera ladrado
       1p: hubiéramos ladrado
@@ -165,8 +165,8 @@ ladrar:
       3s: hubiera ladrado
       3p: hubieran ladrado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Bark! Don't bark!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ ladrar:
       3s: ladre
       3p: ladren
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Bark! Don't bark!}
       1s: ''
       1p: ''

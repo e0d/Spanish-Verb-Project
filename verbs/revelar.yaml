@@ -2,11 +2,11 @@ revelar:
   infinitive: revelar
   gerund: revelando
   pastparticiple: revelado
-  definitions: {en: 'to reveal, disclose; to develop [film]'}
-  tenses:
+  definition: {en: 'to reveal, disclose; to develop [film]'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I reveal, am revealing'}
       1s: revelo
       1p: revelamos
@@ -15,8 +15,8 @@ revelar:
       3s: revela
       3p: revelan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will reveal}
       1s: revelaré
       1p: revelaremos
@@ -25,8 +25,8 @@ revelar:
       3s: revelará
       3p: revelarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was revealing, used to reveal, revealed'}
       1s: revelaba
       1p: revelábamos
@@ -35,8 +35,8 @@ revelar:
       3s: revelaba
       3p: revelaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I revealed}
       1s: revelé
       1p: revelamos
@@ -45,8 +45,8 @@ revelar:
       3s: reveló
       3p: revelaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would reveal}
       1s: revelaría
       1p: revelaríamos
@@ -55,8 +55,8 @@ revelar:
       3s: revelaría
       3p: revelarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have revealed}
       1s: he revelado
       1p: hemos revelado
@@ -65,8 +65,8 @@ revelar:
       3s: ha revelado
       3p: han revelado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have revealed}
       1s: habré revelado
       1p: habremos revelado
@@ -75,8 +75,8 @@ revelar:
       3s: habrá revelado
       3p: habrán revelado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had revealed}
       1s: había revelado
       1p: habíamos revelado
@@ -85,8 +85,8 @@ revelar:
       3s: había revelado
       3p: habían revelado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had revealed}
       1s: hube revelado
       1p: hubimos revelado
@@ -95,8 +95,8 @@ revelar:
       3s: hubo revelado
       3p: hubieron revelado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have revealed}
       1s: habría revelado
       1p: habríamos revelado
@@ -105,8 +105,8 @@ revelar:
       3s: habría revelado
       3p: habrían revelado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I reveal, am revealing'}
       1s: revele
       1p: revelemos
@@ -115,8 +115,8 @@ revelar:
       3s: revele
       3p: revelen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I revealed, was revealing'}
       1s: revelara
       1p: reveláramos
@@ -125,8 +125,8 @@ revelar:
       3s: revelara
       3p: revelaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will reveal}
       1s: revelare
       1p: reveláremos
@@ -135,8 +135,8 @@ revelar:
       3s: revelare
       3p: revelaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have revealed, revealed'}
       1s: haya revelado
       1p: hayamos revelado
@@ -145,8 +145,8 @@ revelar:
       3s: haya revelado
       3p: hayan revelado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have revealed}
       1s: hubiere revelado
       1p: hubiéremos revelado
@@ -155,8 +155,8 @@ revelar:
       3s: hubiere revelado
       3p: hubieren revelado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had revealed}
       1s: hubiera revelado
       1p: hubiéramos revelado
@@ -165,8 +165,8 @@ revelar:
       3s: hubiera revelado
       3p: hubieran revelado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Reveal! Don't reveal!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ revelar:
       3s: revele
       3p: revelen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Reveal! Don't reveal!}
       1s: ''
       1p: ''

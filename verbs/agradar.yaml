@@ -2,11 +2,11 @@ agradar:
   infinitive: agradar
   gerund: agradando
   pastparticiple: agradado
-  definitions: {en: 'to please, be pleasing'}
-  tenses:
+  definition: {en: 'to please, be pleasing'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I please, am pleasing'}
       1s: agrado
       1p: agradamos
@@ -15,8 +15,8 @@ agradar:
       3s: agrada
       3p: agradan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will please}
       1s: agradaré
       1p: agradaremos
@@ -25,8 +25,8 @@ agradar:
       3s: agradará
       3p: agradarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was pleasing, used to please, pleased'}
       1s: agradaba
       1p: agradábamos
@@ -35,8 +35,8 @@ agradar:
       3s: agradaba
       3p: agradaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I pleased}
       1s: agradé
       1p: agradamos
@@ -45,8 +45,8 @@ agradar:
       3s: agradó
       3p: agradaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would please}
       1s: agradaría
       1p: agradaríamos
@@ -55,8 +55,8 @@ agradar:
       3s: agradaría
       3p: agradarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have pleased}
       1s: he agradado
       1p: hemos agradado
@@ -65,8 +65,8 @@ agradar:
       3s: ha agradado
       3p: han agradado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have pleased}
       1s: habré agradado
       1p: habremos agradado
@@ -75,8 +75,8 @@ agradar:
       3s: habrá agradado
       3p: habrán agradado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had pleased}
       1s: había agradado
       1p: habíamos agradado
@@ -85,8 +85,8 @@ agradar:
       3s: había agradado
       3p: habían agradado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had pleased}
       1s: hube agradado
       1p: hubimos agradado
@@ -95,8 +95,8 @@ agradar:
       3s: hubo agradado
       3p: hubieron agradado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have pleased}
       1s: habría agradado
       1p: habríamos agradado
@@ -105,8 +105,8 @@ agradar:
       3s: habría agradado
       3p: habrían agradado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I please, am pleasing'}
       1s: agrade
       1p: agrademos
@@ -115,8 +115,8 @@ agradar:
       3s: agrade
       3p: agraden
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I pleased, was pleasing'}
       1s: agradara
       1p: agradáramos
@@ -125,8 +125,8 @@ agradar:
       3s: agradara
       3p: agradaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will please}
       1s: agradare
       1p: agradáremos
@@ -135,8 +135,8 @@ agradar:
       3s: agradare
       3p: agradaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have pleased, pleased'}
       1s: haya agradado
       1p: hayamos agradado
@@ -145,8 +145,8 @@ agradar:
       3s: haya agradado
       3p: hayan agradado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have pleased}
       1s: hubiere agradado
       1p: hubiéremos agradado
@@ -155,8 +155,8 @@ agradar:
       3s: hubiere agradado
       3p: hubieren agradado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had pleased}
       1s: hubiera agradado
       1p: hubiéramos agradado
@@ -165,8 +165,8 @@ agradar:
       3s: hubiera agradado
       3p: hubieran agradado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Please! Don't please!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ agradar:
       3s: agrade
       3p: agraden
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Please! Don't please!}
       1s: ''
       1p: ''

@@ -2,11 +2,11 @@ aumentar:
   infinitive: aumentar
   gerund: aumentando
   pastparticiple: aumentado
-  definitions: {en: 'to increase, add to, augment; to be on the increase, rise'}
-  tenses:
+  definition: {en: 'to increase, add to, augment; to be on the increase, rise'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I increase, am increasing'}
       1s: aumento
       1p: aumentamos
@@ -15,8 +15,8 @@ aumentar:
       3s: aumenta
       3p: aumentan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will increase}
       1s: aumentaré
       1p: aumentaremos
@@ -25,8 +25,8 @@ aumentar:
       3s: aumentará
       3p: aumentarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was increasing, used to increase, increased'}
       1s: aumentaba
       1p: aumentábamos
@@ -35,8 +35,8 @@ aumentar:
       3s: aumentaba
       3p: aumentaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I increased}
       1s: aumenté
       1p: aumentamos
@@ -45,8 +45,8 @@ aumentar:
       3s: aumentó
       3p: aumentaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would increase}
       1s: aumentaría
       1p: aumentaríamos
@@ -55,8 +55,8 @@ aumentar:
       3s: aumentaría
       3p: aumentarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have increased}
       1s: he aumentado
       1p: hemos aumentado
@@ -65,8 +65,8 @@ aumentar:
       3s: ha aumentado
       3p: han aumentado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have increased}
       1s: habré aumentado
       1p: habremos aumentado
@@ -75,8 +75,8 @@ aumentar:
       3s: habrá aumentado
       3p: habrán aumentado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had increased}
       1s: había aumentado
       1p: habíamos aumentado
@@ -85,8 +85,8 @@ aumentar:
       3s: había aumentado
       3p: habían aumentado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had increased}
       1s: hube aumentado
       1p: hubimos aumentado
@@ -95,8 +95,8 @@ aumentar:
       3s: hubo aumentado
       3p: hubieron aumentado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have increased}
       1s: habría aumentado
       1p: habríamos aumentado
@@ -105,8 +105,8 @@ aumentar:
       3s: habría aumentado
       3p: habrían aumentado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I increase, am increasing'}
       1s: aumente
       1p: aumentemos
@@ -115,8 +115,8 @@ aumentar:
       3s: aumente
       3p: aumenten
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I increased, was increasing'}
       1s: aumentara
       1p: aumentáramos
@@ -125,8 +125,8 @@ aumentar:
       3s: aumentara
       3p: aumentaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will increase}
       1s: aumentare
       1p: aumentáremos
@@ -135,8 +135,8 @@ aumentar:
       3s: aumentare
       3p: aumentaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have increased, increased'}
       1s: haya aumentado
       1p: hayamos aumentado
@@ -145,8 +145,8 @@ aumentar:
       3s: haya aumentado
       3p: hayan aumentado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have increased}
       1s: hubiere aumentado
       1p: hubiéremos aumentado
@@ -155,8 +155,8 @@ aumentar:
       3s: hubiere aumentado
       3p: hubieren aumentado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had increased}
       1s: hubiera aumentado
       1p: hubiéramos aumentado
@@ -165,8 +165,8 @@ aumentar:
       3s: hubiera aumentado
       3p: hubieran aumentado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Increase! Don't increase!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ aumentar:
       3s: aumente
       3p: aumenten
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Increase! Don't increase!}
       1s: ''
       1p: ''

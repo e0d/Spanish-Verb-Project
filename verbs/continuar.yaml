@@ -2,11 +2,11 @@ continuar:
   infinitive: continuar
   gerund: continuando
   pastparticiple: continuado
-  definitions: {en: to continue}
-  tenses:
+  definition: {en: to continue}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I continue, am continuing'}
       1s: continúo
       1p: continuamos
@@ -15,8 +15,8 @@ continuar:
       3s: continúa
       3p: continúan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will continue}
       1s: continuaré
       1p: continuaremos
@@ -25,8 +25,8 @@ continuar:
       3s: continuará
       3p: continuarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was continuing, used to continue, continued'}
       1s: continuaba
       1p: continuábamos
@@ -35,8 +35,8 @@ continuar:
       3s: continuaba
       3p: continuaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I continued}
       1s: continué
       1p: continuamos
@@ -45,8 +45,8 @@ continuar:
       3s: continuó
       3p: continuaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would continue}
       1s: continuaría
       1p: continuaríamos
@@ -55,8 +55,8 @@ continuar:
       3s: continuaría
       3p: continuarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have continued}
       1s: he continuado
       1p: hemos continuado
@@ -65,8 +65,8 @@ continuar:
       3s: ha continuado
       3p: han continuado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have continued}
       1s: habré continuado
       1p: habremos continuado
@@ -75,8 +75,8 @@ continuar:
       3s: habrá continuado
       3p: habrán continuado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had continued}
       1s: había continuado
       1p: habíamos continuado
@@ -85,8 +85,8 @@ continuar:
       3s: había continuado
       3p: habían continuado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had continued}
       1s: hube continuado
       1p: hubimos continuado
@@ -95,8 +95,8 @@ continuar:
       3s: hubo continuado
       3p: hubieron continuado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have continued}
       1s: habría continuado
       1p: habríamos continuado
@@ -105,8 +105,8 @@ continuar:
       3s: habría continuado
       3p: habrían continuado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I continue, am continuing'}
       1s: continúe
       1p: continuemos
@@ -115,8 +115,8 @@ continuar:
       3s: continúe
       3p: continúen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I continued, was continuing'}
       1s: continuara
       1p: continuáramos
@@ -125,8 +125,8 @@ continuar:
       3s: continuara
       3p: continuaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will continue}
       1s: continuare
       1p: continuáremos
@@ -135,8 +135,8 @@ continuar:
       3s: continuare
       3p: continuaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have continued, continued'}
       1s: haya continuado
       1p: hayamos continuado
@@ -145,8 +145,8 @@ continuar:
       3s: haya continuado
       3p: hayan continuado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have continued}
       1s: hubiere continuado
       1p: hubiéremos continuado
@@ -155,8 +155,8 @@ continuar:
       3s: hubiere continuado
       3p: hubieren continuado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had continued}
       1s: hubiera continuado
       1p: hubiéramos continuado
@@ -165,8 +165,8 @@ continuar:
       3s: hubiera continuado
       3p: hubieran continuado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Continue! Don't continue!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ continuar:
       3s: continúe
       3p: continúen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Continue! Don't continue!}
       1s: ''
       1p: ''

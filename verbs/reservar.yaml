@@ -2,11 +2,11 @@ reservar:
   infinitive: reservar
   gerund: reservando
   pastparticiple: reservado
-  definitions: {en: 'to reserve; to keep, keep in reserve'}
-  tenses:
+  definition: {en: 'to reserve; to keep, keep in reserve'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I reserve, am reserving'}
       1s: reservo
       1p: reservamos
@@ -15,8 +15,8 @@ reservar:
       3s: reserva
       3p: reservan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will reserve}
       1s: reservaré
       1p: reservaremos
@@ -25,8 +25,8 @@ reservar:
       3s: reservará
       3p: reservarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was reserving, used to reserve, reserved'}
       1s: reservaba
       1p: reservábamos
@@ -35,8 +35,8 @@ reservar:
       3s: reservaba
       3p: reservaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I reserved}
       1s: reservé
       1p: reservamos
@@ -45,8 +45,8 @@ reservar:
       3s: reservó
       3p: reservaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would reserve}
       1s: reservaría
       1p: reservaríamos
@@ -55,8 +55,8 @@ reservar:
       3s: reservaría
       3p: reservarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have reserved}
       1s: he reservado
       1p: hemos reservado
@@ -65,8 +65,8 @@ reservar:
       3s: ha reservado
       3p: han reservado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have reserved}
       1s: habré reservado
       1p: habremos reservado
@@ -75,8 +75,8 @@ reservar:
       3s: habrá reservado
       3p: habrán reservado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had reserved}
       1s: había reservado
       1p: habíamos reservado
@@ -85,8 +85,8 @@ reservar:
       3s: había reservado
       3p: habían reservado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had reserved}
       1s: hube reservado
       1p: hubimos reservado
@@ -95,8 +95,8 @@ reservar:
       3s: hubo reservado
       3p: hubieron reservado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have reserved}
       1s: habría reservado
       1p: habríamos reservado
@@ -105,8 +105,8 @@ reservar:
       3s: habría reservado
       3p: habrían reservado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I reserve, am reserving'}
       1s: reserve
       1p: reservemos
@@ -115,8 +115,8 @@ reservar:
       3s: reserve
       3p: reserven
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I reserved, was reserving'}
       1s: reservara
       1p: reserváramos
@@ -125,8 +125,8 @@ reservar:
       3s: reservara
       3p: reservaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will reserve}
       1s: reservare
       1p: reserváremos
@@ -135,8 +135,8 @@ reservar:
       3s: reservare
       3p: reservaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have reserved, reserved'}
       1s: haya reservado
       1p: hayamos reservado
@@ -145,8 +145,8 @@ reservar:
       3s: haya reservado
       3p: hayan reservado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have reserved}
       1s: hubiere reservado
       1p: hubiéremos reservado
@@ -155,8 +155,8 @@ reservar:
       3s: hubiere reservado
       3p: hubieren reservado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had reserved}
       1s: hubiera reservado
       1p: hubiéramos reservado
@@ -165,8 +165,8 @@ reservar:
       3s: hubiera reservado
       3p: hubieran reservado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Reserve! Don't reserve!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ reservar:
       3s: reserve
       3p: reserven
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Reserve! Don't reserve!}
       1s: ''
       1p: ''

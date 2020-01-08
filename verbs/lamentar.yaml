@@ -2,11 +2,11 @@ lamentar:
   infinitive: lamentar
   gerund: lamentando
   pastparticiple: lamentado
-  definitions: {en: 'to lament, regret, feel sorry about'}
-  tenses:
+  definition: {en: 'to lament, regret, feel sorry about'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I lament, am lamenting'}
       1s: lamento
       1p: lamentamos
@@ -15,8 +15,8 @@ lamentar:
       3s: lamenta
       3p: lamentan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will lament}
       1s: lamentaré
       1p: lamentaremos
@@ -25,8 +25,8 @@ lamentar:
       3s: lamentará
       3p: lamentarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was lamenting, used to lament, lamented'}
       1s: lamentaba
       1p: lamentábamos
@@ -35,8 +35,8 @@ lamentar:
       3s: lamentaba
       3p: lamentaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I lamented}
       1s: lamenté
       1p: lamentamos
@@ -45,8 +45,8 @@ lamentar:
       3s: lamentó
       3p: lamentaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would lament}
       1s: lamentaría
       1p: lamentaríamos
@@ -55,8 +55,8 @@ lamentar:
       3s: lamentaría
       3p: lamentarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have lamented}
       1s: he lamentado
       1p: hemos lamentado
@@ -65,8 +65,8 @@ lamentar:
       3s: ha lamentado
       3p: han lamentado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have lamented}
       1s: habré lamentado
       1p: habremos lamentado
@@ -75,8 +75,8 @@ lamentar:
       3s: habrá lamentado
       3p: habrán lamentado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had lamented}
       1s: había lamentado
       1p: habíamos lamentado
@@ -85,8 +85,8 @@ lamentar:
       3s: había lamentado
       3p: habían lamentado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had lamented}
       1s: hube lamentado
       1p: hubimos lamentado
@@ -95,8 +95,8 @@ lamentar:
       3s: hubo lamentado
       3p: hubieron lamentado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have lamented}
       1s: habría lamentado
       1p: habríamos lamentado
@@ -105,8 +105,8 @@ lamentar:
       3s: habría lamentado
       3p: habrían lamentado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I lament, am lamenting'}
       1s: lamente
       1p: lamentemos
@@ -115,8 +115,8 @@ lamentar:
       3s: lamente
       3p: lamenten
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I lamented, was lamenting'}
       1s: lamentara
       1p: lamentáramos
@@ -125,8 +125,8 @@ lamentar:
       3s: lamentara
       3p: lamentaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will lament}
       1s: lamentare
       1p: lamentáremos
@@ -135,8 +135,8 @@ lamentar:
       3s: lamentare
       3p: lamentaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have lamented, lamented'}
       1s: haya lamentado
       1p: hayamos lamentado
@@ -145,8 +145,8 @@ lamentar:
       3s: haya lamentado
       3p: hayan lamentado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have lamented}
       1s: hubiere lamentado
       1p: hubiéremos lamentado
@@ -155,8 +155,8 @@ lamentar:
       3s: hubiere lamentado
       3p: hubieren lamentado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had lamented}
       1s: hubiera lamentado
       1p: hubiéramos lamentado
@@ -165,8 +165,8 @@ lamentar:
       3s: hubiera lamentado
       3p: hubieran lamentado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Lament! Don't lament!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ lamentar:
       3s: lamente
       3p: lamenten
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Lament! Don't lament!}
       1s: ''
       1p: ''

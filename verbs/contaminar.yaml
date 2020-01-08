@@ -2,11 +2,11 @@ contaminar:
   infinitive: contaminar
   gerund: contaminando
   pastparticiple: contaminado
-  definitions: {en: 'to contaminate, pollute; to corrupt'}
-  tenses:
+  definition: {en: 'to contaminate, pollute; to corrupt'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I contaminate, am contaminating'}
       1s: contamino
       1p: contaminamos
@@ -15,8 +15,8 @@ contaminar:
       3s: contamina
       3p: contaminan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will contaminate}
       1s: contaminaré
       1p: contaminaremos
@@ -25,8 +25,8 @@ contaminar:
       3s: contaminará
       3p: contaminarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was contaminating, used to contaminate, contaminated'}
       1s: contaminaba
       1p: contaminábamos
@@ -35,8 +35,8 @@ contaminar:
       3s: contaminaba
       3p: contaminaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I contaminated}
       1s: contaminé
       1p: contaminamos
@@ -45,8 +45,8 @@ contaminar:
       3s: contaminó
       3p: contaminaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would contaminate}
       1s: contaminaría
       1p: contaminaríamos
@@ -55,8 +55,8 @@ contaminar:
       3s: contaminaría
       3p: contaminarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have contaminated}
       1s: he contaminado
       1p: hemos contaminado
@@ -65,8 +65,8 @@ contaminar:
       3s: ha contaminado
       3p: han contaminado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have contaminated}
       1s: habré contaminado
       1p: habremos contaminado
@@ -75,8 +75,8 @@ contaminar:
       3s: habrá contaminado
       3p: habrán contaminado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had contaminated}
       1s: había contaminado
       1p: habíamos contaminado
@@ -85,8 +85,8 @@ contaminar:
       3s: había contaminado
       3p: habían contaminado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had contaminated}
       1s: hube contaminado
       1p: hubimos contaminado
@@ -95,8 +95,8 @@ contaminar:
       3s: hubo contaminado
       3p: hubieron contaminado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have contaminated}
       1s: habría contaminado
       1p: habríamos contaminado
@@ -105,8 +105,8 @@ contaminar:
       3s: habría contaminado
       3p: habrían contaminado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I contaminate, am contaminating'}
       1s: contamine
       1p: contaminemos
@@ -115,8 +115,8 @@ contaminar:
       3s: contamine
       3p: contaminen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I contaminated, was contaminating'}
       1s: contaminara
       1p: contamináramos
@@ -125,8 +125,8 @@ contaminar:
       3s: contaminara
       3p: contaminaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will contaminate}
       1s: contaminare
       1p: contamináremos
@@ -135,8 +135,8 @@ contaminar:
       3s: contaminare
       3p: contaminaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have contaminated, contaminated'}
       1s: haya contaminado
       1p: hayamos contaminado
@@ -145,8 +145,8 @@ contaminar:
       3s: haya contaminado
       3p: hayan contaminado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have contaminated}
       1s: hubiere contaminado
       1p: hubiéremos contaminado
@@ -155,8 +155,8 @@ contaminar:
       3s: hubiere contaminado
       3p: hubieren contaminado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had contaminated}
       1s: hubiera contaminado
       1p: hubiéramos contaminado
@@ -165,8 +165,8 @@ contaminar:
       3s: hubiera contaminado
       3p: hubieran contaminado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Contaminate! Don't contaminate!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ contaminar:
       3s: contamine
       3p: contaminen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Contaminate! Don't contaminate!}
       1s: ''
       1p: ''

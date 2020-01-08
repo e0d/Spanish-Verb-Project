@@ -2,11 +2,11 @@ inducir:
   infinitive: inducir
   gerund: induciendo
   pastparticiple: inducido
-  definitions: {en: to induce}
-  tenses:
+  definition: {en: to induce}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I induce, am inducing'}
       1s: induzco
       1p: inducimos
@@ -15,8 +15,8 @@ inducir:
       3s: induce
       3p: inducen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will induce}
       1s: induciré
       1p: induciremos
@@ -25,8 +25,8 @@ inducir:
       3s: inducirá
       3p: inducirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was inducing, used to induce, induced'}
       1s: inducía
       1p: inducíamos
@@ -35,8 +35,8 @@ inducir:
       3s: inducía
       3p: inducían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I induced}
       1s: induje
       1p: indujimos
@@ -45,8 +45,8 @@ inducir:
       3s: indujo
       3p: indujeron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would induce}
       1s: induciría
       1p: induciríamos
@@ -55,8 +55,8 @@ inducir:
       3s: induciría
       3p: inducirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have induced}
       1s: he inducido
       1p: hemos inducido
@@ -65,8 +65,8 @@ inducir:
       3s: ha inducido
       3p: han inducido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have induced}
       1s: habré inducido
       1p: habremos inducido
@@ -75,8 +75,8 @@ inducir:
       3s: habrá inducido
       3p: habrán inducido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had induced}
       1s: había inducido
       1p: habíamos inducido
@@ -85,8 +85,8 @@ inducir:
       3s: había inducido
       3p: habían inducido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had induced}
       1s: hube inducido
       1p: hubimos inducido
@@ -95,8 +95,8 @@ inducir:
       3s: hubo inducido
       3p: hubieron inducido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have induced}
       1s: habría inducido
       1p: habríamos inducido
@@ -105,8 +105,8 @@ inducir:
       3s: habría inducido
       3p: habrían inducido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I induce, am inducing'}
       1s: induzca
       1p: induzcamos
@@ -115,8 +115,8 @@ inducir:
       3s: induzca
       3p: induzcan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I induced, was inducing'}
       1s: indujera
       1p: indujéramos
@@ -125,8 +125,8 @@ inducir:
       3s: indujera
       3p: indujeran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will induce}
       1s: indujere
       1p: indujéremos
@@ -135,8 +135,8 @@ inducir:
       3s: indujere
       3p: indujeren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have induced, induced'}
       1s: haya inducido
       1p: hayamos inducido
@@ -145,8 +145,8 @@ inducir:
       3s: haya inducido
       3p: hayan inducido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have induced}
       1s: hubiere inducido
       1p: hubiéremos inducido
@@ -155,8 +155,8 @@ inducir:
       3s: hubiere inducido
       3p: hubieren inducido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had induced}
       1s: hubiera inducido
       1p: hubiéramos inducido
@@ -165,8 +165,8 @@ inducir:
       3s: hubiera inducido
       3p: hubieran inducido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Induce! Don't induce!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ inducir:
       3s: induzca
       3p: induzcan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Induce! Don't induce!}
       1s: ''
       1p: ''

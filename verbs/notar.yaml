@@ -2,11 +2,11 @@ notar:
   infinitive: notar
   gerund: notando
   pastparticiple: notado
-  definitions: {en: 'to note, notice, observe'}
-  tenses:
+  definition: {en: 'to note, notice, observe'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I note, am noting'}
       1s: noto
       1p: notamos
@@ -15,8 +15,8 @@ notar:
       3s: nota
       3p: notan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will note}
       1s: notaré
       1p: notaremos
@@ -25,8 +25,8 @@ notar:
       3s: notará
       3p: notarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was noting, used to note, noted'}
       1s: notaba
       1p: notábamos
@@ -35,8 +35,8 @@ notar:
       3s: notaba
       3p: notaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I noted}
       1s: noté
       1p: notamos
@@ -45,8 +45,8 @@ notar:
       3s: notó
       3p: notaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would note}
       1s: notaría
       1p: notaríamos
@@ -55,8 +55,8 @@ notar:
       3s: notaría
       3p: notarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have noted}
       1s: he notado
       1p: hemos notado
@@ -65,8 +65,8 @@ notar:
       3s: ha notado
       3p: han notado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have noted}
       1s: habré notado
       1p: habremos notado
@@ -75,8 +75,8 @@ notar:
       3s: habrá notado
       3p: habrán notado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had noted}
       1s: había notado
       1p: habíamos notado
@@ -85,8 +85,8 @@ notar:
       3s: había notado
       3p: habían notado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had noted}
       1s: hube notado
       1p: hubimos notado
@@ -95,8 +95,8 @@ notar:
       3s: hubo notado
       3p: hubieron notado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have noted}
       1s: habría notado
       1p: habríamos notado
@@ -105,8 +105,8 @@ notar:
       3s: habría notado
       3p: habrían notado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I note, am noting'}
       1s: note
       1p: notemos
@@ -115,8 +115,8 @@ notar:
       3s: note
       3p: noten
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I noted, was noting'}
       1s: notara
       1p: notáramos
@@ -125,8 +125,8 @@ notar:
       3s: notara
       3p: notaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will note}
       1s: notare
       1p: notáremos
@@ -135,8 +135,8 @@ notar:
       3s: notare
       3p: notaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have noted, noted'}
       1s: haya notado
       1p: hayamos notado
@@ -145,8 +145,8 @@ notar:
       3s: haya notado
       3p: hayan notado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have noted}
       1s: hubiere notado
       1p: hubiéremos notado
@@ -155,8 +155,8 @@ notar:
       3s: hubiere notado
       3p: hubieren notado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had noted}
       1s: hubiera notado
       1p: hubiéramos notado
@@ -165,8 +165,8 @@ notar:
       3s: hubiera notado
       3p: hubieran notado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Note! Don't note!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ notar:
       3s: note
       3p: noten
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Note! Don't note!}
       1s: ''
       1p: ''

@@ -2,11 +2,11 @@ confirmar:
   infinitive: confirmar
   gerund: confirmando
   pastparticiple: confirmado
-  definitions: {en: 'to confirm, corroborate, endorse'}
-  tenses:
+  definition: {en: 'to confirm, corroborate, endorse'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I confirm, am confirming'}
       1s: confirmo
       1p: confirmamos
@@ -15,8 +15,8 @@ confirmar:
       3s: confirma
       3p: confirman
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will confirm}
       1s: confirmaré
       1p: confirmaremos
@@ -25,8 +25,8 @@ confirmar:
       3s: confirmará
       3p: confirmarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was confirming, used to confirm, confirmed'}
       1s: confirmaba
       1p: confirmábamos
@@ -35,8 +35,8 @@ confirmar:
       3s: confirmaba
       3p: confirmaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I confirmed}
       1s: confirmé
       1p: confirmamos
@@ -45,8 +45,8 @@ confirmar:
       3s: confirmó
       3p: confirmaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would confirm}
       1s: confirmaría
       1p: confirmaríamos
@@ -55,8 +55,8 @@ confirmar:
       3s: confirmaría
       3p: confirmarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have confirmed}
       1s: he confirmado
       1p: hemos confirmado
@@ -65,8 +65,8 @@ confirmar:
       3s: ha confirmado
       3p: han confirmado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have confirmed}
       1s: habré confirmado
       1p: habremos confirmado
@@ -75,8 +75,8 @@ confirmar:
       3s: habrá confirmado
       3p: habrán confirmado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had confirmed}
       1s: había confirmado
       1p: habíamos confirmado
@@ -85,8 +85,8 @@ confirmar:
       3s: había confirmado
       3p: habían confirmado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had confirmed}
       1s: hube confirmado
       1p: hubimos confirmado
@@ -95,8 +95,8 @@ confirmar:
       3s: hubo confirmado
       3p: hubieron confirmado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have confirmed}
       1s: habría confirmado
       1p: habríamos confirmado
@@ -105,8 +105,8 @@ confirmar:
       3s: habría confirmado
       3p: habrían confirmado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I confirm, am confirming'}
       1s: confirme
       1p: confirmemos
@@ -115,8 +115,8 @@ confirmar:
       3s: confirme
       3p: confirmen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I confirmed, was confirming'}
       1s: confirmara
       1p: confirmáramos
@@ -125,8 +125,8 @@ confirmar:
       3s: confirmara
       3p: confirmaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will confirm}
       1s: confirmare
       1p: confirmáremos
@@ -135,8 +135,8 @@ confirmar:
       3s: confirmare
       3p: confirmaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have confirmed, confirmed'}
       1s: haya confirmado
       1p: hayamos confirmado
@@ -145,8 +145,8 @@ confirmar:
       3s: haya confirmado
       3p: hayan confirmado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have confirmed}
       1s: hubiere confirmado
       1p: hubiéremos confirmado
@@ -155,8 +155,8 @@ confirmar:
       3s: hubiere confirmado
       3p: hubieren confirmado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had confirmed}
       1s: hubiera confirmado
       1p: hubiéramos confirmado
@@ -165,8 +165,8 @@ confirmar:
       3s: hubiera confirmado
       3p: hubieran confirmado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Confirm! Don't confirm!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ confirmar:
       3s: confirme
       3p: confirmen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Confirm! Don't confirm!}
       1s: ''
       1p: ''

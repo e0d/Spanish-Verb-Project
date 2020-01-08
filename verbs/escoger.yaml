@@ -2,11 +2,11 @@ escoger:
   infinitive: escoger
   gerund: escogiendo
   pastparticiple: escogido
-  definitions: {en: 'to choose, select, pick'}
-  tenses:
+  definition: {en: 'to choose, select, pick'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I choose, am choosing'}
       1s: escojo
       1p: escogemos
@@ -15,8 +15,8 @@ escoger:
       3s: escoge
       3p: escogen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will choose}
       1s: escogeré
       1p: escogeremos
@@ -25,8 +25,8 @@ escoger:
       3s: escogerá
       3p: escogerán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was choosing, used to choose, chose'}
       1s: escogía
       1p: escogíamos
@@ -35,8 +35,8 @@ escoger:
       3s: escogía
       3p: escogían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I chose}
       1s: escogí
       1p: escogimos
@@ -45,8 +45,8 @@ escoger:
       3s: escogió
       3p: escogieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would choose}
       1s: escogería
       1p: escogeríamos
@@ -55,8 +55,8 @@ escoger:
       3s: escogería
       3p: escogerían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have chosen}
       1s: he escogido
       1p: hemos escogido
@@ -65,8 +65,8 @@ escoger:
       3s: ha escogido
       3p: han escogido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have chosen}
       1s: habré escogido
       1p: habremos escogido
@@ -75,8 +75,8 @@ escoger:
       3s: habrá escogido
       3p: habrán escogido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had chosen}
       1s: había escogido
       1p: habíamos escogido
@@ -85,8 +85,8 @@ escoger:
       3s: había escogido
       3p: habían escogido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had chosen}
       1s: hube escogido
       1p: hubimos escogido
@@ -95,8 +95,8 @@ escoger:
       3s: hubo escogido
       3p: hubieron escogido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have chosen}
       1s: habría escogido
       1p: habríamos escogido
@@ -105,8 +105,8 @@ escoger:
       3s: habría escogido
       3p: habrían escogido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I choose, am choosing'}
       1s: escoja
       1p: escojamos
@@ -115,8 +115,8 @@ escoger:
       3s: escoja
       3p: escojan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I chose, was choosing'}
       1s: escogiera
       1p: escogiéramos
@@ -125,8 +125,8 @@ escoger:
       3s: escogiera
       3p: escogieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will choose}
       1s: escogiere
       1p: escogiéremos
@@ -135,8 +135,8 @@ escoger:
       3s: escogiere
       3p: escogieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have chosen, chose'}
       1s: haya escogido
       1p: hayamos escogido
@@ -145,8 +145,8 @@ escoger:
       3s: haya escogido
       3p: hayan escogido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have chosen}
       1s: hubiere escogido
       1p: hubiéremos escogido
@@ -155,8 +155,8 @@ escoger:
       3s: hubiere escogido
       3p: hubieren escogido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had chosen}
       1s: hubiera escogido
       1p: hubiéramos escogido
@@ -165,8 +165,8 @@ escoger:
       3s: hubiera escogido
       3p: hubieran escogido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Choose! Don't choose!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ escoger:
       3s: escoja
       3p: escojan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Choose! Don't choose!}
       1s: ''
       1p: ''

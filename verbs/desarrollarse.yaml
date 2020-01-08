@@ -2,11 +2,11 @@ desarrollarse:
   infinitive: desarrollarse
   gerund: desarrollándose
   pastparticiple: desarrollado
-  definitions: {en: 'to develop, evolve; to unwind'}
-  tenses:
+  definition: {en: 'to develop, evolve; to unwind'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I develop, am developing'}
       1s: me desarrollo
       1p: nos desarrollamos
@@ -15,8 +15,8 @@ desarrollarse:
       3s: se desarrolla
       3p: se desarrollan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will develop}
       1s: me desarrollaré
       1p: nos desarrollaremos
@@ -25,8 +25,8 @@ desarrollarse:
       3s: se desarrollará
       3p: se desarrollarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was developing, used to develop, developed'}
       1s: me desarrollaba
       1p: nos desarrollábamos
@@ -35,8 +35,8 @@ desarrollarse:
       3s: se desarrollaba
       3p: se desarrollaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I developed}
       1s: me desarrollé
       1p: nos desarrollamos
@@ -45,8 +45,8 @@ desarrollarse:
       3s: se desarrolló
       3p: se desarrollaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would develop}
       1s: me desarrollaría
       1p: nos desarrollaríamos
@@ -55,8 +55,8 @@ desarrollarse:
       3s: se desarrollaría
       3p: se desarrollarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have developed}
       1s: me he desarrollado
       1p: nos hemos desarrollado
@@ -65,8 +65,8 @@ desarrollarse:
       3s: se ha desarrollado
       3p: se han desarrollado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have developed}
       1s: me habré desarrollado
       1p: nos habremos desarrollado
@@ -75,8 +75,8 @@ desarrollarse:
       3s: se habrá desarrollado
       3p: se habrán desarrollado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had developed}
       1s: me había desarrollado
       1p: nos habíamos desarrollado
@@ -85,8 +85,8 @@ desarrollarse:
       3s: se había desarrollado
       3p: se habían desarrollado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had developed}
       1s: me hube desarrollado
       1p: nos hubimos desarrollado
@@ -95,8 +95,8 @@ desarrollarse:
       3s: se hubo desarrollado
       3p: se hubieron desarrollado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have developed}
       1s: me habría desarrollado
       1p: nos habríamos desarrollado
@@ -105,8 +105,8 @@ desarrollarse:
       3s: se habría desarrollado
       3p: se habrían desarrollado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I develop, am developing'}
       1s: me desarrolle
       1p: nos desarrollemos
@@ -115,8 +115,8 @@ desarrollarse:
       3s: se desarrolle
       3p: se desarrollen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I developed, was developing'}
       1s: me desarrollara
       1p: nos desarrolláramos
@@ -125,8 +125,8 @@ desarrollarse:
       3s: se desarrollara
       3p: se desarrollaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will develop}
       1s: me desarrollare
       1p: nos desarrolláremos
@@ -135,8 +135,8 @@ desarrollarse:
       3s: se desarrollare
       3p: se desarrollaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have developed, developed'}
       1s: me haya desarrollado
       1p: nos hayamos desarrollado
@@ -145,8 +145,8 @@ desarrollarse:
       3s: se haya desarrollado
       3p: se hayan desarrollado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have developed}
       1s: me hubiere desarrollado
       1p: nos hubiéremos desarrollado
@@ -155,8 +155,8 @@ desarrollarse:
       3s: se hubiere desarrollado
       3p: se hubieren desarrollado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had developed}
       1s: me hubiera desarrollado
       1p: nos hubiéramos desarrollado
@@ -165,8 +165,8 @@ desarrollarse:
       3s: se hubiera desarrollado
       3p: se hubieran desarrollado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Develop! Don't develop!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ desarrollarse:
       3s: desarróllese
       3p: desarróllense
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Develop! Don't develop!}
       1s: ''
       1p: ''

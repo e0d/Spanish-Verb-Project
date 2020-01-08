@@ -2,11 +2,11 @@ amar:
   infinitive: amar
   gerund: amando
   pastparticiple: amado
-  definitions: {en: to love}
-  tenses:
+  definition: {en: to love}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I love, am loving'}
       1s: amo
       1p: amamos
@@ -15,8 +15,8 @@ amar:
       3s: ama
       3p: aman
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will love}
       1s: amaré
       1p: amaremos
@@ -25,8 +25,8 @@ amar:
       3s: amará
       3p: amarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was loving, used to love, loved'}
       1s: amaba
       1p: amábamos
@@ -35,8 +35,8 @@ amar:
       3s: amaba
       3p: amaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I loved}
       1s: amé
       1p: amamos
@@ -45,8 +45,8 @@ amar:
       3s: amó
       3p: amaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would love}
       1s: amaría
       1p: amaríamos
@@ -55,8 +55,8 @@ amar:
       3s: amaría
       3p: amarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have loved}
       1s: he amado
       1p: hemos amado
@@ -65,8 +65,8 @@ amar:
       3s: ha amado
       3p: han amado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have loved}
       1s: habré amado
       1p: habremos amado
@@ -75,8 +75,8 @@ amar:
       3s: habrá amado
       3p: habrán amado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had loved}
       1s: había amado
       1p: habíamos amado
@@ -85,8 +85,8 @@ amar:
       3s: había amado
       3p: habían amado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had loved}
       1s: hube amado
       1p: hubimos amado
@@ -95,8 +95,8 @@ amar:
       3s: hubo amado
       3p: hubieron amado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have loved}
       1s: habría amado
       1p: habríamos amado
@@ -105,8 +105,8 @@ amar:
       3s: habría amado
       3p: habrían amado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I love, am loving'}
       1s: ame
       1p: amemos
@@ -115,8 +115,8 @@ amar:
       3s: ame
       3p: amen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I loved, was loving'}
       1s: amara
       1p: amáramos
@@ -125,8 +125,8 @@ amar:
       3s: amara
       3p: amaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will love}
       1s: amare
       1p: amáremos
@@ -135,8 +135,8 @@ amar:
       3s: amare
       3p: amaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have loved, loved'}
       1s: haya amado
       1p: hayamos amado
@@ -145,8 +145,8 @@ amar:
       3s: haya amado
       3p: hayan amado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have loved}
       1s: hubiere amado
       1p: hubiéremos amado
@@ -155,8 +155,8 @@ amar:
       3s: hubiere amado
       3p: hubieren amado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had loved}
       1s: hubiera amado
       1p: hubiéramos amado
@@ -165,8 +165,8 @@ amar:
       3s: hubiera amado
       3p: hubieran amado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Love! Don't love!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ amar:
       3s: ame
       3p: amen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Love! Don't love!}
       1s: ''
       1p: ''

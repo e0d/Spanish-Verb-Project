@@ -2,12 +2,12 @@ dedicarse:
   infinitive: dedicarse
   gerund: dedicándose
   pastparticiple: dedicado
-  definitions: {en: 'to devote oneself, dedicate oneself, go in for, take up [carrer/interest
+  definition: {en: 'to devote oneself, dedicate oneself, go in for, take up [carrer/interest
       in something]'}
-  tenses:
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I devote myself, am devoting myself'}
       1s: me dedico
       1p: nos dedicamos
@@ -16,8 +16,8 @@ dedicarse:
       3s: se dedica
       3p: se dedican
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will devote myself}
       1s: me dedicaré
       1p: nos dedicaremos
@@ -26,8 +26,8 @@ dedicarse:
       3s: se dedicará
       3p: se dedicarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was devoting myself, used to devote myself, devoted myself'}
       1s: me dedicaba
       1p: nos dedicábamos
@@ -36,8 +36,8 @@ dedicarse:
       3s: se dedicaba
       3p: se dedicaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I devoted myself}
       1s: me dediqué
       1p: nos dedicamos
@@ -46,8 +46,8 @@ dedicarse:
       3s: se dedicó
       3p: se dedicaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would devote myself}
       1s: me dedicaría
       1p: nos dedicaríamos
@@ -56,8 +56,8 @@ dedicarse:
       3s: se dedicaría
       3p: se dedicarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have devoted myself}
       1s: me he dedicado
       1p: nos hemos dedicado
@@ -66,8 +66,8 @@ dedicarse:
       3s: se ha dedicado
       3p: se han dedicado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have devoted myself}
       1s: me habré dedicado
       1p: nos habremos dedicado
@@ -76,8 +76,8 @@ dedicarse:
       3s: se habrá dedicado
       3p: se habrán dedicado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had devoted myself}
       1s: me había dedicado
       1p: nos habíamos dedicado
@@ -86,8 +86,8 @@ dedicarse:
       3s: se había dedicado
       3p: se habían dedicado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had devoted myself}
       1s: me hube dedicado
       1p: nos hubimos dedicado
@@ -96,8 +96,8 @@ dedicarse:
       3s: se hubo dedicado
       3p: se hubieron dedicado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have devoted myself}
       1s: me habría dedicado
       1p: nos habríamos dedicado
@@ -106,8 +106,8 @@ dedicarse:
       3s: se habría dedicado
       3p: se habrían dedicado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I devote myself, am devoting myself'}
       1s: me dedique
       1p: nos dediquemos
@@ -116,8 +116,8 @@ dedicarse:
       3s: se dedique
       3p: se dediquen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I devoted myself, was devoting myself'}
       1s: me dedicara
       1p: nos dedicáramos
@@ -126,8 +126,8 @@ dedicarse:
       3s: se dedicara
       3p: se dedicaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will devote myself}
       1s: me dedicare
       1p: nos dedicáremos
@@ -136,8 +136,8 @@ dedicarse:
       3s: se dedicare
       3p: se dedicaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have devoted myself, devoted myself'}
       1s: me haya dedicado
       1p: nos hayamos dedicado
@@ -146,8 +146,8 @@ dedicarse:
       3s: se haya dedicado
       3p: se hayan dedicado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have devoted myself}
       1s: me hubiere dedicado
       1p: nos hubiéremos dedicado
@@ -156,8 +156,8 @@ dedicarse:
       3s: se hubiere dedicado
       3p: se hubieren dedicado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had devoted myself}
       1s: me hubiera dedicado
       1p: nos hubiéramos dedicado
@@ -166,8 +166,8 @@ dedicarse:
       3s: se hubiera dedicado
       3p: se hubieran dedicado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Devote yourself! Don't devote yourself!}
       1s: ''
       1p: ''
@@ -176,8 +176,8 @@ dedicarse:
       3s: dedíquese
       3p: dedíquense
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Devote yourself! Don't devote yourself!}
       1s: ''
       1p: ''

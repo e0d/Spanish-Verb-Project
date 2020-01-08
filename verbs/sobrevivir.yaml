@@ -2,11 +2,11 @@ sobrevivir:
   infinitive: sobrevivir
   gerund: sobreviviendo
   pastparticiple: sobrevivido
-  definitions: {en: 'to survive, outlive, outlast'}
-  tenses:
+  definition: {en: 'to survive, outlive, outlast'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I survive, am surviving'}
       1s: sobrevivo
       1p: sobrevivimos
@@ -15,8 +15,8 @@ sobrevivir:
       3s: sobrevive
       3p: sobreviven
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will survive}
       1s: sobreviviré
       1p: sobreviviremos
@@ -25,8 +25,8 @@ sobrevivir:
       3s: sobrevivirá
       3p: sobrevivirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was surviving, used to survive, survived'}
       1s: sobrevivía
       1p: sobrevivíamos
@@ -35,8 +35,8 @@ sobrevivir:
       3s: sobrevivía
       3p: sobrevivían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I survived}
       1s: sobreviví
       1p: sobrevivimos
@@ -45,8 +45,8 @@ sobrevivir:
       3s: sobrevivió
       3p: sobrevivieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would survive}
       1s: sobreviviría
       1p: sobreviviríamos
@@ -55,8 +55,8 @@ sobrevivir:
       3s: sobreviviría
       3p: sobrevivirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have survived}
       1s: he sobrevivido
       1p: hemos sobrevivido
@@ -65,8 +65,8 @@ sobrevivir:
       3s: ha sobrevivido
       3p: han sobrevivido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have survived}
       1s: habré sobrevivido
       1p: habremos sobrevivido
@@ -75,8 +75,8 @@ sobrevivir:
       3s: habrá sobrevivido
       3p: habrán sobrevivido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had survived}
       1s: había sobrevivido
       1p: habíamos sobrevivido
@@ -85,8 +85,8 @@ sobrevivir:
       3s: había sobrevivido
       3p: habían sobrevivido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had survived}
       1s: hube sobrevivido
       1p: hubimos sobrevivido
@@ -95,8 +95,8 @@ sobrevivir:
       3s: hubo sobrevivido
       3p: hubieron sobrevivido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have survived}
       1s: habría sobrevivido
       1p: habríamos sobrevivido
@@ -105,8 +105,8 @@ sobrevivir:
       3s: habría sobrevivido
       3p: habrían sobrevivido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I survive, am surviving'}
       1s: sobreviva
       1p: sobrevivamos
@@ -115,8 +115,8 @@ sobrevivir:
       3s: sobreviva
       3p: sobrevivan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I survived, was surviving'}
       1s: sobreviviera
       1p: sobreviviéramos
@@ -125,8 +125,8 @@ sobrevivir:
       3s: sobreviviera
       3p: sobrevivieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will survive}
       1s: sobreviviere
       1p: sobreviviéremos
@@ -135,8 +135,8 @@ sobrevivir:
       3s: sobreviviere
       3p: sobrevivieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have survived, survived'}
       1s: haya sobrevivido
       1p: hayamos sobrevivido
@@ -145,8 +145,8 @@ sobrevivir:
       3s: haya sobrevivido
       3p: hayan sobrevivido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have survived}
       1s: hubiere sobrevivido
       1p: hubiéremos sobrevivido
@@ -155,8 +155,8 @@ sobrevivir:
       3s: hubiere sobrevivido
       3p: hubieren sobrevivido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had survived}
       1s: hubiera sobrevivido
       1p: hubiéramos sobrevivido
@@ -165,8 +165,8 @@ sobrevivir:
       3s: hubiera sobrevivido
       3p: hubieran sobrevivido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Survive! Don't survive!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ sobrevivir:
       3s: sobreviva
       3p: sobrevivan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Survive! Don't survive!}
       1s: ''
       1p: ''

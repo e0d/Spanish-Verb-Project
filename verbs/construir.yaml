@@ -2,11 +2,11 @@ construir:
   infinitive: construir
   gerund: construyendo
   pastparticiple: construido
-  definitions: {en: 'to build, construct'}
-  tenses:
+  definition: {en: 'to build, construct'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I build, am building'}
       1s: construyo
       1p: construimos
@@ -15,8 +15,8 @@ construir:
       3s: construye
       3p: construyen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will build}
       1s: construiré
       1p: construiremos
@@ -25,8 +25,8 @@ construir:
       3s: construirá
       3p: construirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was building, used to build, built'}
       1s: construía
       1p: construíamos
@@ -35,8 +35,8 @@ construir:
       3s: construía
       3p: construían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I built}
       1s: construí
       1p: construimos
@@ -45,8 +45,8 @@ construir:
       3s: construyó
       3p: construyeron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would build}
       1s: construiría
       1p: construiríamos
@@ -55,8 +55,8 @@ construir:
       3s: construiría
       3p: construirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have built}
       1s: he construido
       1p: hemos construido
@@ -65,8 +65,8 @@ construir:
       3s: ha construido
       3p: han construido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have built}
       1s: habré construido
       1p: habremos construido
@@ -75,8 +75,8 @@ construir:
       3s: habrá construido
       3p: habrán construido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had built}
       1s: había construido
       1p: habíamos construido
@@ -85,8 +85,8 @@ construir:
       3s: había construido
       3p: habían construido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had built}
       1s: hube construido
       1p: hubimos construido
@@ -95,8 +95,8 @@ construir:
       3s: hubo construido
       3p: hubieron construido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have built}
       1s: habría construido
       1p: habríamos construido
@@ -105,8 +105,8 @@ construir:
       3s: habría construido
       3p: habrían construido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I build, am building'}
       1s: construya
       1p: construyamos
@@ -115,8 +115,8 @@ construir:
       3s: construya
       3p: construyan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I built, was building'}
       1s: construyera
       1p: construyéramos
@@ -125,8 +125,8 @@ construir:
       3s: construyera
       3p: construyeran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will build}
       1s: construyere
       1p: construyéremos
@@ -135,8 +135,8 @@ construir:
       3s: construyere
       3p: construyeren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have built, built'}
       1s: haya construido
       1p: hayamos construido
@@ -145,8 +145,8 @@ construir:
       3s: haya construido
       3p: hayan construido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have built}
       1s: hubiere construido
       1p: hubiéremos construido
@@ -155,8 +155,8 @@ construir:
       3s: hubiere construido
       3p: hubieren construido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had built}
       1s: hubiera construido
       1p: hubiéramos construido
@@ -165,8 +165,8 @@ construir:
       3s: hubiera construido
       3p: hubieran construido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Build! Don't build!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ construir:
       3s: construya
       3p: construyan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Build! Don't build!}
       1s: ''
       1p: ''

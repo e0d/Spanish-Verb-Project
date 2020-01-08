@@ -2,11 +2,11 @@ patinar:
   infinitive: patinar
   gerund: patinando
   pastparticiple: patinado
-  definitions: {en: 'to skate; to slide, skid'}
-  tenses:
+  definition: {en: 'to skate; to slide, skid'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I skate, am skating'}
       1s: patino
       1p: patinamos
@@ -15,8 +15,8 @@ patinar:
       3s: patina
       3p: patinan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will skate}
       1s: patinaré
       1p: patinaremos
@@ -25,8 +25,8 @@ patinar:
       3s: patinará
       3p: patinarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was skating, used to skate, skated'}
       1s: patinaba
       1p: patinábamos
@@ -35,8 +35,8 @@ patinar:
       3s: patinaba
       3p: patinaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I skated}
       1s: patiné
       1p: patinamos
@@ -45,8 +45,8 @@ patinar:
       3s: patinó
       3p: patinaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would skate}
       1s: patinaría
       1p: patinaríamos
@@ -55,8 +55,8 @@ patinar:
       3s: patinaría
       3p: patinarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have skated}
       1s: he patinado
       1p: hemos patinado
@@ -65,8 +65,8 @@ patinar:
       3s: ha patinado
       3p: han patinado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have skated}
       1s: habré patinado
       1p: habremos patinado
@@ -75,8 +75,8 @@ patinar:
       3s: habrá patinado
       3p: habrán patinado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had skated}
       1s: había patinado
       1p: habíamos patinado
@@ -85,8 +85,8 @@ patinar:
       3s: había patinado
       3p: habían patinado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had skated}
       1s: hube patinado
       1p: hubimos patinado
@@ -95,8 +95,8 @@ patinar:
       3s: hubo patinado
       3p: hubieron patinado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have skated}
       1s: habría patinado
       1p: habríamos patinado
@@ -105,8 +105,8 @@ patinar:
       3s: habría patinado
       3p: habrían patinado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I skate, am skating'}
       1s: patine
       1p: patinemos
@@ -115,8 +115,8 @@ patinar:
       3s: patine
       3p: patinen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I skated, was skating'}
       1s: patinara
       1p: patináramos
@@ -125,8 +125,8 @@ patinar:
       3s: patinara
       3p: patinaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will skate}
       1s: patinare
       1p: patináremos
@@ -135,8 +135,8 @@ patinar:
       3s: patinare
       3p: patinaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have skated, skated'}
       1s: haya patinado
       1p: hayamos patinado
@@ -145,8 +145,8 @@ patinar:
       3s: haya patinado
       3p: hayan patinado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have skated}
       1s: hubiere patinado
       1p: hubiéremos patinado
@@ -155,8 +155,8 @@ patinar:
       3s: hubiere patinado
       3p: hubieren patinado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had skated}
       1s: hubiera patinado
       1p: hubiéramos patinado
@@ -165,8 +165,8 @@ patinar:
       3s: hubiera patinado
       3p: hubieran patinado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Skate! Don't skate!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ patinar:
       3s: patine
       3p: patinen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Skate! Don't skate!}
       1s: ''
       1p: ''

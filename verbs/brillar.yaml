@@ -2,11 +2,11 @@ brillar:
   infinitive: brillar
   gerund: brillando
   pastparticiple: brillado
-  definitions: {en: 'to shine, sparkle, glitter, gleam'}
-  tenses:
+  definition: {en: 'to shine, sparkle, glitter, gleam'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I shine, am shining'}
       1s: brillo
       1p: brillamos
@@ -15,8 +15,8 @@ brillar:
       3s: brilla
       3p: brillan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will shine}
       1s: brillaré
       1p: brillaremos
@@ -25,8 +25,8 @@ brillar:
       3s: brillará
       3p: brillarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was shining, used to shine, shined'}
       1s: brillaba
       1p: brillábamos
@@ -35,8 +35,8 @@ brillar:
       3s: brillaba
       3p: brillaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I shined}
       1s: brillé
       1p: brillamos
@@ -45,8 +45,8 @@ brillar:
       3s: brilló
       3p: brillaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would shine}
       1s: brillaría
       1p: brillaríamos
@@ -55,8 +55,8 @@ brillar:
       3s: brillaría
       3p: brillarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have shone}
       1s: he brillado
       1p: hemos brillado
@@ -65,8 +65,8 @@ brillar:
       3s: ha brillado
       3p: han brillado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have shone}
       1s: habré brillado
       1p: habremos brillado
@@ -75,8 +75,8 @@ brillar:
       3s: habrá brillado
       3p: habrán brillado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had shone}
       1s: había brillado
       1p: habíamos brillado
@@ -85,8 +85,8 @@ brillar:
       3s: había brillado
       3p: habían brillado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had shone}
       1s: hube brillado
       1p: hubimos brillado
@@ -95,8 +95,8 @@ brillar:
       3s: hubo brillado
       3p: hubieron brillado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have shone}
       1s: habría brillado
       1p: habríamos brillado
@@ -105,8 +105,8 @@ brillar:
       3s: habría brillado
       3p: habrían brillado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I shine, am shining'}
       1s: brille
       1p: brillemos
@@ -115,8 +115,8 @@ brillar:
       3s: brille
       3p: brillen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I shined, was shining'}
       1s: brillara
       1p: brilláramos
@@ -125,8 +125,8 @@ brillar:
       3s: brillara
       3p: brillaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will shine}
       1s: brillare
       1p: brilláremos
@@ -135,8 +135,8 @@ brillar:
       3s: brillare
       3p: brillaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have shone, shined'}
       1s: haya brillado
       1p: hayamos brillado
@@ -145,8 +145,8 @@ brillar:
       3s: haya brillado
       3p: hayan brillado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have shone}
       1s: hubiere brillado
       1p: hubiéremos brillado
@@ -155,8 +155,8 @@ brillar:
       3s: hubiere brillado
       3p: hubieren brillado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had shone}
       1s: hubiera brillado
       1p: hubiéramos brillado
@@ -165,8 +165,8 @@ brillar:
       3s: hubiera brillado
       3p: hubieran brillado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Shine! Don't shine!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ brillar:
       3s: brille
       3p: brillen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Shine! Don't shine!}
       1s: ''
       1p: ''

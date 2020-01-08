@@ -2,11 +2,11 @@ gobernar:
   infinitive: gobernar
   gerund: gobernando
   pastparticiple: gobernado
-  definitions: {en: to govern}
-  tenses:
+  definition: {en: to govern}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I govern, am governing'}
       1s: gobierno
       1p: gobernamos
@@ -15,8 +15,8 @@ gobernar:
       3s: gobierna
       3p: gobiernan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will govern}
       1s: gobernaré
       1p: gobernaremos
@@ -25,8 +25,8 @@ gobernar:
       3s: gobernará
       3p: gobernarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was governing, used to govern, governed'}
       1s: gobernaba
       1p: gobernábamos
@@ -35,8 +35,8 @@ gobernar:
       3s: gobernaba
       3p: gobernaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I governed}
       1s: goberné
       1p: gobernamos
@@ -45,8 +45,8 @@ gobernar:
       3s: gobernó
       3p: gobernaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would govern}
       1s: gobernaría
       1p: gobernaríamos
@@ -55,8 +55,8 @@ gobernar:
       3s: gobernaría
       3p: gobernarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have governed}
       1s: he gobernado
       1p: hemos gobernado
@@ -65,8 +65,8 @@ gobernar:
       3s: ha gobernado
       3p: han gobernado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have governed}
       1s: habré gobernado
       1p: habremos gobernado
@@ -75,8 +75,8 @@ gobernar:
       3s: habrá gobernado
       3p: habrán gobernado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had governed}
       1s: había gobernado
       1p: habíamos gobernado
@@ -85,8 +85,8 @@ gobernar:
       3s: había gobernado
       3p: habían gobernado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had governed}
       1s: hube gobernado
       1p: hubimos gobernado
@@ -95,8 +95,8 @@ gobernar:
       3s: hubo gobernado
       3p: hubieron gobernado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have governed}
       1s: habría gobernado
       1p: habríamos gobernado
@@ -105,8 +105,8 @@ gobernar:
       3s: habría gobernado
       3p: habrían gobernado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I govern, am governing'}
       1s: gobierne
       1p: gobernemos
@@ -115,8 +115,8 @@ gobernar:
       3s: gobierne
       3p: gobiernen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I governed, was governing'}
       1s: gobernara
       1p: gobernáramos
@@ -125,8 +125,8 @@ gobernar:
       3s: gobernara
       3p: gobernaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will govern}
       1s: gobernare
       1p: gobernáremos
@@ -135,8 +135,8 @@ gobernar:
       3s: gobernare
       3p: gobernaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have governed, governed'}
       1s: haya gobernado
       1p: hayamos gobernado
@@ -145,8 +145,8 @@ gobernar:
       3s: haya gobernado
       3p: hayan gobernado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have governed}
       1s: hubiere gobernado
       1p: hubiéremos gobernado
@@ -155,8 +155,8 @@ gobernar:
       3s: hubiere gobernado
       3p: hubieren gobernado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had governed}
       1s: hubiera gobernado
       1p: hubiéramos gobernado
@@ -165,8 +165,8 @@ gobernar:
       3s: hubiera gobernado
       3p: hubieran gobernado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Govern! Don't govern!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ gobernar:
       3s: gobierne
       3p: gobiernen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Govern! Don't govern!}
       1s: ''
       1p: ''

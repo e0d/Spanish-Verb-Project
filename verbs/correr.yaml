@@ -2,11 +2,11 @@ correr:
   infinitive: correr
   gerund: corriendo
   pastparticiple: corrido
-  definitions: {en: to run}
-  tenses:
+  definition: {en: to run}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I run, am running'}
       1s: corro
       1p: corremos
@@ -15,8 +15,8 @@ correr:
       3s: corre
       3p: corren
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will run}
       1s: correré
       1p: correremos
@@ -25,8 +25,8 @@ correr:
       3s: correrá
       3p: correrán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was running, used to run, ran'}
       1s: corría
       1p: corríamos
@@ -35,8 +35,8 @@ correr:
       3s: corría
       3p: corrían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I ran}
       1s: corrí
       1p: corrimos
@@ -45,8 +45,8 @@ correr:
       3s: corrió
       3p: corrieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would run}
       1s: correría
       1p: correríamos
@@ -55,8 +55,8 @@ correr:
       3s: correría
       3p: correrían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have run}
       1s: he corrido
       1p: hemos corrido
@@ -65,8 +65,8 @@ correr:
       3s: ha corrido
       3p: han corrido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have run}
       1s: habré corrido
       1p: habremos corrido
@@ -75,8 +75,8 @@ correr:
       3s: habrá corrido
       3p: habrán corrido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had run}
       1s: había corrido
       1p: habíamos corrido
@@ -85,8 +85,8 @@ correr:
       3s: había corrido
       3p: habían corrido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had run}
       1s: hube corrido
       1p: hubimos corrido
@@ -95,8 +95,8 @@ correr:
       3s: hubo corrido
       3p: hubieron corrido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have run}
       1s: habría corrido
       1p: habríamos corrido
@@ -105,8 +105,8 @@ correr:
       3s: habría corrido
       3p: habrían corrido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I run, am running'}
       1s: corra
       1p: corramos
@@ -115,8 +115,8 @@ correr:
       3s: corra
       3p: corran
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I ran, was running'}
       1s: corriera
       1p: corriéramos
@@ -125,8 +125,8 @@ correr:
       3s: corriera
       3p: corrieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will run}
       1s: corriere
       1p: corriéremos
@@ -135,8 +135,8 @@ correr:
       3s: corriere
       3p: corrieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have run, ran'}
       1s: haya corrido
       1p: hayamos corrido
@@ -145,8 +145,8 @@ correr:
       3s: haya corrido
       3p: hayan corrido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have run}
       1s: hubiere corrido
       1p: hubiéremos corrido
@@ -155,8 +155,8 @@ correr:
       3s: hubiere corrido
       3p: hubieren corrido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had run}
       1s: hubiera corrido
       1p: hubiéramos corrido
@@ -165,8 +165,8 @@ correr:
       3s: hubiera corrido
       3p: hubieran corrido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Run! Don't run!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ correr:
       3s: corra
       3p: corran
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Run! Don't run!}
       1s: ''
       1p: ''

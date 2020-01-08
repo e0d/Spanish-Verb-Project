@@ -2,11 +2,11 @@ preferir:
   infinitive: preferir
   gerund: prefiriendo
   pastparticiple: preferido
-  definitions: {en: to prefer}
-  tenses:
+  definition: {en: to prefer}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I prefer, am preferring'}
       1s: prefiero
       1p: preferimos
@@ -15,8 +15,8 @@ preferir:
       3s: prefiere
       3p: prefieren
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will prefer}
       1s: preferiré
       1p: preferiremos
@@ -25,8 +25,8 @@ preferir:
       3s: preferirá
       3p: preferirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was preferring, used to prefer, preferred'}
       1s: prefería
       1p: preferíamos
@@ -35,8 +35,8 @@ preferir:
       3s: prefería
       3p: preferían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I preferred}
       1s: preferí
       1p: preferimos
@@ -45,8 +45,8 @@ preferir:
       3s: prefirió
       3p: prefirieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would prefer}
       1s: preferiría
       1p: preferiríamos
@@ -55,8 +55,8 @@ preferir:
       3s: preferiría
       3p: preferirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have preferred}
       1s: he preferido
       1p: hemos preferido
@@ -65,8 +65,8 @@ preferir:
       3s: ha preferido
       3p: han preferido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have preferred}
       1s: habré preferido
       1p: habremos preferido
@@ -75,8 +75,8 @@ preferir:
       3s: habrá preferido
       3p: habrán preferido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had preferred}
       1s: había preferido
       1p: habíamos preferido
@@ -85,8 +85,8 @@ preferir:
       3s: había preferido
       3p: habían preferido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had preferred}
       1s: hube preferido
       1p: hubimos preferido
@@ -95,8 +95,8 @@ preferir:
       3s: hubo preferido
       3p: hubieron preferido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have preferred}
       1s: habría preferido
       1p: habríamos preferido
@@ -105,8 +105,8 @@ preferir:
       3s: habría preferido
       3p: habrían preferido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I prefer, am preferring'}
       1s: prefiera
       1p: prefiramos
@@ -115,8 +115,8 @@ preferir:
       3s: prefiera
       3p: prefieran
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I preferred, was preferring'}
       1s: prefiriera
       1p: prefiriéramos
@@ -125,8 +125,8 @@ preferir:
       3s: prefiriera
       3p: prefirieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will prefer}
       1s: prefiriere
       1p: prefiriéremos
@@ -135,8 +135,8 @@ preferir:
       3s: prefiriere
       3p: prefirieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have preferred, preferred'}
       1s: haya preferido
       1p: hayamos preferido
@@ -145,8 +145,8 @@ preferir:
       3s: haya preferido
       3p: hayan preferido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have preferred}
       1s: hubiere preferido
       1p: hubiéremos preferido
@@ -155,8 +155,8 @@ preferir:
       3s: hubiere preferido
       3p: hubieren preferido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had preferred}
       1s: hubiera preferido
       1p: hubiéramos preferido
@@ -165,8 +165,8 @@ preferir:
       3s: hubiera preferido
       3p: hubieran preferido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Prefer! Don't prefer!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ preferir:
       3s: prefiera
       3p: prefieran
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Prefer! Don't prefer!}
       1s: ''
       1p: ''

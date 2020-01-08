@@ -2,11 +2,11 @@ invocar:
   infinitive: invocar
   gerund: invocando
   pastparticiple: invocado
-  definitions: {en: to invoke}
-  tenses:
+  definition: {en: to invoke}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I invoke, am invoking'}
       1s: invoco
       1p: invocamos
@@ -15,8 +15,8 @@ invocar:
       3s: invoca
       3p: invocan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will invoke}
       1s: invocaré
       1p: invocaremos
@@ -25,8 +25,8 @@ invocar:
       3s: invocará
       3p: invocarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was invoking, used to invoke, invoked'}
       1s: invocaba
       1p: invocábamos
@@ -35,8 +35,8 @@ invocar:
       3s: invocaba
       3p: invocaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I invoked}
       1s: invoqué
       1p: invocamos
@@ -45,8 +45,8 @@ invocar:
       3s: invocó
       3p: invocaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would invoke}
       1s: invocaría
       1p: invocaríamos
@@ -55,8 +55,8 @@ invocar:
       3s: invocaría
       3p: invocarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have invoked}
       1s: he invocado
       1p: hemos invocado
@@ -65,8 +65,8 @@ invocar:
       3s: ha invocado
       3p: han invocado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have invoked}
       1s: habré invocado
       1p: habremos invocado
@@ -75,8 +75,8 @@ invocar:
       3s: habrá invocado
       3p: habrán invocado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had invoked}
       1s: había invocado
       1p: habíamos invocado
@@ -85,8 +85,8 @@ invocar:
       3s: había invocado
       3p: habían invocado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had invoked}
       1s: hube invocado
       1p: hubimos invocado
@@ -95,8 +95,8 @@ invocar:
       3s: hubo invocado
       3p: hubieron invocado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have invoked}
       1s: habría invocado
       1p: habríamos invocado
@@ -105,8 +105,8 @@ invocar:
       3s: habría invocado
       3p: habrían invocado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I invoke, am invoking'}
       1s: invoque
       1p: invoquemos
@@ -115,8 +115,8 @@ invocar:
       3s: invoque
       3p: invoquen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I invoked, was invoking'}
       1s: invocara
       1p: invocáramos
@@ -125,8 +125,8 @@ invocar:
       3s: invocara
       3p: invocaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will invoke}
       1s: invocare
       1p: invocáremos
@@ -135,8 +135,8 @@ invocar:
       3s: invocare
       3p: invocaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have invoked, invoked'}
       1s: haya invocado
       1p: hayamos invocado
@@ -145,8 +145,8 @@ invocar:
       3s: haya invocado
       3p: hayan invocado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have invoked}
       1s: hubiere invocado
       1p: hubiéremos invocado
@@ -155,8 +155,8 @@ invocar:
       3s: hubiere invocado
       3p: hubieren invocado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had invoked}
       1s: hubiera invocado
       1p: hubiéramos invocado
@@ -165,8 +165,8 @@ invocar:
       3s: hubiera invocado
       3p: hubieran invocado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Invoke! Don't invoke!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ invocar:
       3s: invoque
       3p: invoquen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Invoke! Don't invoke!}
       1s: ''
       1p: ''

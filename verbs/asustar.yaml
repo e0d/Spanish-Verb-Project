@@ -2,11 +2,11 @@ asustar:
   infinitive: asustar
   gerund: asustando
   pastparticiple: asustado
-  definitions: {en: 'to frighten, scare, startle'}
-  tenses:
+  definition: {en: 'to frighten, scare, startle'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I frighten, am frightening'}
       1s: asusto
       1p: asustamos
@@ -15,8 +15,8 @@ asustar:
       3s: asusta
       3p: asustan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will frighten}
       1s: asustaré
       1p: asustaremos
@@ -25,8 +25,8 @@ asustar:
       3s: asustará
       3p: asustarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was frightening, used to frighten, frightened'}
       1s: asustaba
       1p: asustábamos
@@ -35,8 +35,8 @@ asustar:
       3s: asustaba
       3p: asustaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I frightened}
       1s: asusté
       1p: asustamos
@@ -45,8 +45,8 @@ asustar:
       3s: asustó
       3p: asustaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would frighten}
       1s: asustaría
       1p: asustaríamos
@@ -55,8 +55,8 @@ asustar:
       3s: asustaría
       3p: asustarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have frightened}
       1s: he asustado
       1p: hemos asustado
@@ -65,8 +65,8 @@ asustar:
       3s: ha asustado
       3p: han asustado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have frightened}
       1s: habré asustado
       1p: habremos asustado
@@ -75,8 +75,8 @@ asustar:
       3s: habrá asustado
       3p: habrán asustado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had frightened}
       1s: había asustado
       1p: habíamos asustado
@@ -85,8 +85,8 @@ asustar:
       3s: había asustado
       3p: habían asustado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had frightened}
       1s: hube asustado
       1p: hubimos asustado
@@ -95,8 +95,8 @@ asustar:
       3s: hubo asustado
       3p: hubieron asustado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have frightened}
       1s: habría asustado
       1p: habríamos asustado
@@ -105,8 +105,8 @@ asustar:
       3s: habría asustado
       3p: habrían asustado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I frighten, am frightening'}
       1s: asuste
       1p: asustemos
@@ -115,8 +115,8 @@ asustar:
       3s: asuste
       3p: asusten
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I frightened, was frightening'}
       1s: asustara
       1p: asustáramos
@@ -125,8 +125,8 @@ asustar:
       3s: asustara
       3p: asustaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will frighten}
       1s: asustare
       1p: asustáremos
@@ -135,8 +135,8 @@ asustar:
       3s: asustare
       3p: asustaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have frightened, frightened'}
       1s: haya asustado
       1p: hayamos asustado
@@ -145,8 +145,8 @@ asustar:
       3s: haya asustado
       3p: hayan asustado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have frightened}
       1s: hubiere asustado
       1p: hubiéremos asustado
@@ -155,8 +155,8 @@ asustar:
       3s: hubiere asustado
       3p: hubieren asustado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had frightened}
       1s: hubiera asustado
       1p: hubiéramos asustado
@@ -165,8 +165,8 @@ asustar:
       3s: hubiera asustado
       3p: hubieran asustado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Frighten! Don't frighten!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ asustar:
       3s: asuste
       3p: asusten
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Frighten! Don't frighten!}
       1s: ''
       1p: ''

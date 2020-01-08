@@ -2,11 +2,11 @@ presentir:
   infinitive: presentir
   gerund: presintiendo
   pastparticiple: presentido
-  definitions: {en: to have a premonition of}
-  tenses:
+  definition: {en: to have a premonition of}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I have a premonition of, am having a premonition of'}
       1s: presiento
       1p: presentimos
@@ -15,8 +15,8 @@ presentir:
       3s: presiente
       3p: presienten
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have a premonition}
       1s: presentiré
       1p: presentiremos
@@ -25,8 +25,8 @@ presentir:
       3s: presentirá
       3p: presentirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was having a premonition of, used to have a premonition, had
           a premonition of'}
       1s: presentía
@@ -36,8 +36,8 @@ presentir:
       3s: presentía
       3p: presentían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had a premonition of}
       1s: presentí
       1p: presentimos
@@ -46,8 +46,8 @@ presentir:
       3s: presintió
       3p: presintieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have a premonition of}
       1s: presentiría
       1p: presentiríamos
@@ -56,8 +56,8 @@ presentir:
       3s: presentiría
       3p: presentirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have had a premonition of}
       1s: he presentido
       1p: hemos presentido
@@ -66,8 +66,8 @@ presentir:
       3s: ha presentido
       3p: han presentido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have had a premonition of}
       1s: habré presentido
       1p: habremos presentido
@@ -76,8 +76,8 @@ presentir:
       3s: habrá presentido
       3p: habrán presentido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had had a premonition of}
       1s: había presentido
       1p: habíamos presentido
@@ -86,8 +86,8 @@ presentir:
       3s: había presentido
       3p: habían presentido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had had a premonition of}
       1s: hube presentido
       1p: hubimos presentido
@@ -96,8 +96,8 @@ presentir:
       3s: hubo presentido
       3p: hubieron presentido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have had a premonition of}
       1s: habría presentido
       1p: habríamos presentido
@@ -106,8 +106,8 @@ presentir:
       3s: habría presentido
       3p: habrían presentido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have a premonition of, am having a premonition of'}
       1s: presienta
       1p: presintamos
@@ -116,8 +116,8 @@ presentir:
       3s: presienta
       3p: presientan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I had a premonition of, was having a premonition of'}
       1s: presintiera
       1p: presintéramos
@@ -126,8 +126,8 @@ presentir:
       3s: presintiera
       3p: presintieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have a premonition of}
       1s: presintiere
       1p: presintiéremos
@@ -136,8 +136,8 @@ presentir:
       3s: presintiere
       3p: presintieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have had a premonition of, had a premonition of'}
       1s: haya presentido
       1p: hayamos presentido
@@ -146,8 +146,8 @@ presentir:
       3s: haya presentido
       3p: hayan presentido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have had a premonition of}
       1s: hubiere presentido
       1p: hubiéremos presentido
@@ -156,8 +156,8 @@ presentir:
       3s: hubiere presentido
       3p: hubieren presentido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had had a premonition of}
       1s: hubiera presentido
       1p: hubiéramos presentido
@@ -166,8 +166,8 @@ presentir:
       3s: hubiera presentido
       3p: hubieran presentido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Have a premonition of! Don't have a premonition of!}
       1s: ''
       1p: ''
@@ -176,8 +176,8 @@ presentir:
       3s: presienta
       3p: presientan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Have a premonition of! Don't have a premonition of!}
       1s: ''
       1p: ''

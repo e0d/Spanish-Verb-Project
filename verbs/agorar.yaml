@@ -2,11 +2,11 @@ agorar:
   infinitive: agorar
   gerund: agorando
   pastparticiple: agorado
-  definitions: {en: 'to predict, prophesy'}
-  tenses:
+  definition: {en: 'to predict, prophesy'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I predict, am predicting'}
       1s: agüero
       1p: agoramos
@@ -15,8 +15,8 @@ agorar:
       3s: agüera
       3p: agüeran
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will predict}
       1s: agoraré
       1p: agoraremos
@@ -25,8 +25,8 @@ agorar:
       3s: agorará
       3p: agorarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was predicting, used to predict, predicted'}
       1s: agoraba
       1p: agorábamos
@@ -35,8 +35,8 @@ agorar:
       3s: agoraba
       3p: agoraban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I predicted}
       1s: agoré
       1p: agoramos
@@ -45,8 +45,8 @@ agorar:
       3s: agoró
       3p: agoraron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would predict}
       1s: agoraría
       1p: agoraríamos
@@ -55,8 +55,8 @@ agorar:
       3s: agoraría
       3p: agorarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have predicted}
       1s: he agorado
       1p: hemos agorado
@@ -65,8 +65,8 @@ agorar:
       3s: ha agorado
       3p: han agorado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have predicted}
       1s: habré agorado
       1p: habremos agorado
@@ -75,8 +75,8 @@ agorar:
       3s: habrá agorado
       3p: habrán agorado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had predicted}
       1s: había agorado
       1p: habíamos agorado
@@ -85,8 +85,8 @@ agorar:
       3s: había agorado
       3p: habían agorado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had predicted}
       1s: hube agorado
       1p: hubimos agorado
@@ -95,8 +95,8 @@ agorar:
       3s: hubo agorado
       3p: hubieron agorado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have predicted}
       1s: habría agorado
       1p: habríamos agorado
@@ -105,8 +105,8 @@ agorar:
       3s: habría agorado
       3p: habrían agorado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I predict, am predicting'}
       1s: agüere
       1p: agoremos
@@ -115,8 +115,8 @@ agorar:
       3s: agüere
       3p: agüeren
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I predicted, was predicting'}
       1s: agorara
       1p: agoráramos
@@ -125,8 +125,8 @@ agorar:
       3s: agorara
       3p: agoraran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will predict}
       1s: agorare
       1p: agoráremos
@@ -135,8 +135,8 @@ agorar:
       3s: agorare
       3p: agoraren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have predicted, predicted'}
       1s: haya agorado
       1p: hayamos agorado
@@ -145,8 +145,8 @@ agorar:
       3s: haya agorado
       3p: hayan agorado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have predicted}
       1s: hubiere agorado
       1p: hubiéremos agorado
@@ -155,8 +155,8 @@ agorar:
       3s: hubiere agorado
       3p: hubieren agorado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had predicted}
       1s: hubiera agorado
       1p: hubiéramos agorado
@@ -165,8 +165,8 @@ agorar:
       3s: hubiera agorado
       3p: hubieran agorado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Predict! Don't predict!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ agorar:
       3s: agüere
       3p: agüeren
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Predict! Don't predict!}
       1s: ''
       1p: ''

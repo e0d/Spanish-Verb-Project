@@ -2,11 +2,11 @@ merecer:
   infinitive: merecer
   gerund: mereciendo
   pastparticiple: merecido
-  definitions: {en: 'to deserve, merit'}
-  tenses:
+  definition: {en: 'to deserve, merit'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I deserve, am deserving'}
       1s: merezco
       1p: merecemos
@@ -15,8 +15,8 @@ merecer:
       3s: merece
       3p: merecen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will deserve}
       1s: mereceré
       1p: mereceremos
@@ -25,8 +25,8 @@ merecer:
       3s: merecerá
       3p: merecerán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was deserving, used to deserve, deserved'}
       1s: merecía
       1p: merecíamos
@@ -35,8 +35,8 @@ merecer:
       3s: merecía
       3p: merecían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I deserved}
       1s: merecí
       1p: merecimos
@@ -45,8 +45,8 @@ merecer:
       3s: mereció
       3p: merecieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would deserve}
       1s: merecería
       1p: mereceríamos
@@ -55,8 +55,8 @@ merecer:
       3s: merecería
       3p: merecerían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have deserved}
       1s: he merecido
       1p: hemos merecido
@@ -65,8 +65,8 @@ merecer:
       3s: ha merecido
       3p: han merecido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have deserved}
       1s: habré merecido
       1p: habremos merecido
@@ -75,8 +75,8 @@ merecer:
       3s: habrá merecido
       3p: habrán merecido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had deserved}
       1s: había merecido
       1p: habíamos merecido
@@ -85,8 +85,8 @@ merecer:
       3s: había merecido
       3p: habían merecido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had deserved}
       1s: hube merecido
       1p: hubimos merecido
@@ -95,8 +95,8 @@ merecer:
       3s: hubo merecido
       3p: hubieron merecido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have deserved}
       1s: habría merecido
       1p: habríamos merecido
@@ -105,8 +105,8 @@ merecer:
       3s: habría merecido
       3p: habrían merecido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I deserve, am deserving'}
       1s: merezca
       1p: merezcamos
@@ -115,8 +115,8 @@ merecer:
       3s: merezca
       3p: merezcan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I deserved, was deserving'}
       1s: mereciera
       1p: mereciéramos
@@ -125,8 +125,8 @@ merecer:
       3s: mereciera
       3p: merecieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will deserve}
       1s: mereciere
       1p: mereciéremos
@@ -135,8 +135,8 @@ merecer:
       3s: mereciere
       3p: merecieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have deserved, deserved'}
       1s: haya merecido
       1p: hayamos merecido
@@ -145,8 +145,8 @@ merecer:
       3s: haya merecido
       3p: hayan merecido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have deserved}
       1s: hubiere merecido
       1p: hubiéremos merecido
@@ -155,8 +155,8 @@ merecer:
       3s: hubiere merecido
       3p: hubieren merecido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had deserved}
       1s: hubiera merecido
       1p: hubiéramos merecido
@@ -165,8 +165,8 @@ merecer:
       3s: hubiera merecido
       3p: hubieran merecido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Deserve! Don't deserve!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ merecer:
       3s: merezca
       3p: merezcan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Deserve! Don't deserve!}
       1s: ''
       1p: ''

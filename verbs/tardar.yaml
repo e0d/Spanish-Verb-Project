@@ -2,11 +2,11 @@ tardar:
   infinitive: tardar
   gerund: tardando
   pastparticiple: tardado
-  definitions: {en: 'to delay, take a long time, be long, be slow [in doing something]'}
-  tenses:
+  definition: {en: 'to delay, take a long time, be long, be slow [in doing something]'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I delay, am delaying'}
       1s: tardo
       1p: tardamos
@@ -15,8 +15,8 @@ tardar:
       3s: tarda
       3p: tardan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will delay}
       1s: tardaré
       1p: tardaremos
@@ -25,8 +25,8 @@ tardar:
       3s: tardará
       3p: tardarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was delaying, used to delay, delayed'}
       1s: tardaba
       1p: tardábamos
@@ -35,8 +35,8 @@ tardar:
       3s: tardaba
       3p: tardaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I delayed}
       1s: tardé
       1p: tardamos
@@ -45,8 +45,8 @@ tardar:
       3s: tardó
       3p: tardaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would delay}
       1s: tardaría
       1p: tardaríamos
@@ -55,8 +55,8 @@ tardar:
       3s: tardaría
       3p: tardarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have delayed}
       1s: he tardado
       1p: hemos tardado
@@ -65,8 +65,8 @@ tardar:
       3s: ha tardado
       3p: han tardado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have delayed}
       1s: habré tardado
       1p: habremos tardado
@@ -75,8 +75,8 @@ tardar:
       3s: habrá tardado
       3p: habrán tardado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had delayed}
       1s: había tardado
       1p: habíamos tardado
@@ -85,8 +85,8 @@ tardar:
       3s: había tardado
       3p: habían tardado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had delayed}
       1s: hube tardado
       1p: hubimos tardado
@@ -95,8 +95,8 @@ tardar:
       3s: hubo tardado
       3p: hubieron tardado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have delayed}
       1s: habría tardado
       1p: habríamos tardado
@@ -105,8 +105,8 @@ tardar:
       3s: habría tardado
       3p: habrían tardado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I delay, am delaying'}
       1s: tarde
       1p: tardemos
@@ -115,8 +115,8 @@ tardar:
       3s: tarde
       3p: tarden
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I delayed, was delaying'}
       1s: tardara
       1p: tardáramos
@@ -125,8 +125,8 @@ tardar:
       3s: tardara
       3p: tardaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will delay}
       1s: tardare
       1p: tardáremos
@@ -135,8 +135,8 @@ tardar:
       3s: tardare
       3p: tardaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have delayed, delayed'}
       1s: haya tardado
       1p: hayamos tardado
@@ -145,8 +145,8 @@ tardar:
       3s: haya tardado
       3p: hayan tardado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have delayed}
       1s: hubiere tardado
       1p: hubiéremos tardado
@@ -155,8 +155,8 @@ tardar:
       3s: hubiere tardado
       3p: hubieren tardado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had delayed}
       1s: hubiera tardado
       1p: hubiéramos tardado
@@ -165,8 +165,8 @@ tardar:
       3s: hubiera tardado
       3p: hubieran tardado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Delay! Don't delay!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ tardar:
       3s: tarde
       3p: tarden
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Delay! Don't delay!}
       1s: ''
       1p: ''

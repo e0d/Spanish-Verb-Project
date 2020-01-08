@@ -2,11 +2,11 @@ guiar:
   infinitive: guiar
   gerund: guiando
   pastparticiple: guiado
-  definitions: {en: to guide}
-  tenses:
+  definition: {en: to guide}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I guide, am guiding'}
       1s: guío
       1p: guiamos
@@ -15,8 +15,8 @@ guiar:
       3s: guía
       3p: guían
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will guide}
       1s: guiaré
       1p: guiaremos
@@ -25,8 +25,8 @@ guiar:
       3s: guiará
       3p: guiarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was guiding, used to guide, guided'}
       1s: guiaba
       1p: guiábamos
@@ -35,8 +35,8 @@ guiar:
       3s: guiaba
       3p: guiaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I guided}
       1s: guie
       1p: guiamos
@@ -45,8 +45,8 @@ guiar:
       3s: guio
       3p: guiaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would guide}
       1s: guiaría
       1p: guiaríamos
@@ -55,8 +55,8 @@ guiar:
       3s: guiaría
       3p: guiarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have guided}
       1s: he guiado
       1p: hemos guiado
@@ -65,8 +65,8 @@ guiar:
       3s: ha guiado
       3p: han guiado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have guided}
       1s: habré guiado
       1p: habremos guiado
@@ -75,8 +75,8 @@ guiar:
       3s: habrá guiado
       3p: habrán guiado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had guided}
       1s: había guiado
       1p: habíamos guiado
@@ -85,8 +85,8 @@ guiar:
       3s: había guiado
       3p: habían guiado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had guided}
       1s: hube guiado
       1p: hubimos guiado
@@ -95,8 +95,8 @@ guiar:
       3s: hubo guiado
       3p: hubieron guiado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have guided}
       1s: habría guiado
       1p: habríamos guiado
@@ -105,8 +105,8 @@ guiar:
       3s: habría guiado
       3p: habrían guiado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I guide, am guiding'}
       1s: guíe
       1p: guiemos
@@ -115,8 +115,8 @@ guiar:
       3s: guíe
       3p: guíen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I guided, was guiding'}
       1s: guiara
       1p: guiáramos
@@ -125,8 +125,8 @@ guiar:
       3s: guiara
       3p: guiaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will guide}
       1s: guiare
       1p: guiáremos
@@ -135,8 +135,8 @@ guiar:
       3s: guiare
       3p: guiaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have guided, guided'}
       1s: haya guiado
       1p: hayamos guiado
@@ -145,8 +145,8 @@ guiar:
       3s: haya guiado
       3p: hayan guiado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have guided}
       1s: hubiere guiado
       1p: hubiéremos guiado
@@ -155,8 +155,8 @@ guiar:
       3s: hubiere guiado
       3p: hubieren guiado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had guided}
       1s: hubiera guiado
       1p: hubiéramos guiado
@@ -165,8 +165,8 @@ guiar:
       3s: hubiera guiado
       3p: hubieran guiado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Guide! Don't guide!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ guiar:
       3s: guíe
       3p: guíen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Guide! Don't guide!}
       1s: ''
       1p: ''

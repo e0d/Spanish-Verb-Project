@@ -2,11 +2,11 @@ seguir:
   infinitive: seguir
   gerund: siguiendo
   pastparticiple: seguido
-  definitions: {en: 'to follow, continue'}
-  tenses:
+  definition: {en: 'to follow, continue'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I follow, am following'}
       1s: sigo
       1p: seguimos
@@ -15,8 +15,8 @@ seguir:
       3s: sigue
       3p: siguen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will follow}
       1s: seguiré
       1p: seguiremos
@@ -25,8 +25,8 @@ seguir:
       3s: seguirá
       3p: seguirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was following, used to follow, followed'}
       1s: seguía
       1p: seguíamos
@@ -35,8 +35,8 @@ seguir:
       3s: seguía
       3p: seguían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I followed}
       1s: seguí
       1p: seguimos
@@ -45,8 +45,8 @@ seguir:
       3s: siguió
       3p: siguieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would follow}
       1s: seguiría
       1p: seguiríamos
@@ -55,8 +55,8 @@ seguir:
       3s: seguiría
       3p: seguirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have followed}
       1s: he seguido
       1p: hemos seguido
@@ -65,8 +65,8 @@ seguir:
       3s: ha seguido
       3p: han seguido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have followed}
       1s: habré seguido
       1p: habremos seguido
@@ -75,8 +75,8 @@ seguir:
       3s: habrá seguido
       3p: habrán seguido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had followed}
       1s: había seguido
       1p: habíamos seguido
@@ -85,8 +85,8 @@ seguir:
       3s: había seguido
       3p: habían seguido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had followed}
       1s: hube seguido
       1p: hubimos seguido
@@ -95,8 +95,8 @@ seguir:
       3s: hubo seguido
       3p: hubieron seguido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have followed}
       1s: habría seguido
       1p: habríamos seguido
@@ -105,8 +105,8 @@ seguir:
       3s: habría seguido
       3p: habrían seguido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I follow, am following'}
       1s: siga
       1p: sigamos
@@ -115,8 +115,8 @@ seguir:
       3s: siga
       3p: sigan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I followed, was following'}
       1s: siguiera
       1p: siguiéramos
@@ -125,8 +125,8 @@ seguir:
       3s: siguiera
       3p: siguieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will follow}
       1s: siguiere
       1p: siguiéremos
@@ -135,8 +135,8 @@ seguir:
       3s: siguiere
       3p: siguieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have followed, followed'}
       1s: haya seguido
       1p: hayamos seguido
@@ -145,8 +145,8 @@ seguir:
       3s: haya seguido
       3p: hayan seguido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have followed}
       1s: hubiere seguido
       1p: hubiéremos seguido
@@ -155,8 +155,8 @@ seguir:
       3s: hubiere seguido
       3p: hubieren seguido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had followed}
       1s: hubiera seguido
       1p: hubiéramos seguido
@@ -165,8 +165,8 @@ seguir:
       3s: hubiera seguido
       3p: hubieran seguido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Follow! Don't follow!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ seguir:
       3s: siga
       3p: sigan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Follow! Don't follow!}
       1s: ''
       1p: ''

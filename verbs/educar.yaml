@@ -2,11 +2,11 @@ educar:
   infinitive: educar
   gerund: educando
   pastparticiple: educado
-  definitions: {en: to educate; to bring up}
-  tenses:
+  definition: {en: to educate; to bring up}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I educate, am educating'}
       1s: educo
       1p: educamos
@@ -15,8 +15,8 @@ educar:
       3s: educa
       3p: educan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will educate}
       1s: educaré
       1p: educaremos
@@ -25,8 +25,8 @@ educar:
       3s: educará
       3p: educarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was educating, used to educate, educated'}
       1s: educaba
       1p: educábamos
@@ -35,8 +35,8 @@ educar:
       3s: educaba
       3p: educaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I educated}
       1s: eduqué
       1p: educamos
@@ -45,8 +45,8 @@ educar:
       3s: educó
       3p: educaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would educate}
       1s: educaría
       1p: educaríamos
@@ -55,8 +55,8 @@ educar:
       3s: educaría
       3p: educarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have educated}
       1s: he educado
       1p: hemos educado
@@ -65,8 +65,8 @@ educar:
       3s: ha educado
       3p: han educado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have educated}
       1s: habré educado
       1p: habremos educado
@@ -75,8 +75,8 @@ educar:
       3s: habrá educado
       3p: habrán educado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had educated}
       1s: había educado
       1p: habíamos educado
@@ -85,8 +85,8 @@ educar:
       3s: había educado
       3p: habían educado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had educated}
       1s: hube educado
       1p: hubimos educado
@@ -95,8 +95,8 @@ educar:
       3s: hubo educado
       3p: hubieron educado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have educated}
       1s: habría educado
       1p: habríamos educado
@@ -105,8 +105,8 @@ educar:
       3s: habría educado
       3p: habrían educado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I educate, am educating'}
       1s: eduque
       1p: eduquemos
@@ -115,8 +115,8 @@ educar:
       3s: eduque
       3p: eduquen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I educated, was educating'}
       1s: educara
       1p: educáramos
@@ -125,8 +125,8 @@ educar:
       3s: educara
       3p: educaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will educate}
       1s: educare
       1p: educáremos
@@ -135,8 +135,8 @@ educar:
       3s: educare
       3p: educaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have educated, educated'}
       1s: haya educado
       1p: hayamos educado
@@ -145,8 +145,8 @@ educar:
       3s: haya educado
       3p: hayan educado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have educated}
       1s: hubiere educado
       1p: hubiéremos educado
@@ -155,8 +155,8 @@ educar:
       3s: hubiere educado
       3p: hubieren educado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had educated}
       1s: hubiera educado
       1p: hubiéramos educado
@@ -165,8 +165,8 @@ educar:
       3s: hubiera educado
       3p: hubieran educado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Educate! Don't educate!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ educar:
       3s: eduque
       3p: eduquen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Educate! Don't educate!}
       1s: ''
       1p: ''

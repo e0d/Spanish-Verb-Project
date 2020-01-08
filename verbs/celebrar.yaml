@@ -2,11 +2,11 @@ celebrar:
   infinitive: celebrar
   gerund: celebrando
   pastparticiple: celebrado
-  definitions: {en: 'to celebrate; to praise, applaud'}
-  tenses:
+  definition: {en: 'to celebrate; to praise, applaud'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I celebrate, am celebrating'}
       1s: celebro
       1p: celebramos
@@ -15,8 +15,8 @@ celebrar:
       3s: celebra
       3p: celebran
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will celebrate}
       1s: celebraré
       1p: celebraremos
@@ -25,8 +25,8 @@ celebrar:
       3s: celebrará
       3p: celebrarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was celebrating, used to celebrate, celebrated'}
       1s: celebraba
       1p: celebrábamos
@@ -35,8 +35,8 @@ celebrar:
       3s: celebraba
       3p: celebraban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I celebrated}
       1s: celebré
       1p: celebramos
@@ -45,8 +45,8 @@ celebrar:
       3s: celebró
       3p: celebraron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would celebrate}
       1s: celebraría
       1p: celebraríamos
@@ -55,8 +55,8 @@ celebrar:
       3s: celebraría
       3p: celebrarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have celebrated}
       1s: he celebrado
       1p: hemos celebrado
@@ -65,8 +65,8 @@ celebrar:
       3s: ha celebrado
       3p: han celebrado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have celebrated}
       1s: habré celebrado
       1p: habremos celebrado
@@ -75,8 +75,8 @@ celebrar:
       3s: habrá celebrado
       3p: habrán celebrado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had celebrated}
       1s: había celebrado
       1p: habíamos celebrado
@@ -85,8 +85,8 @@ celebrar:
       3s: había celebrado
       3p: habían celebrado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had celebrated}
       1s: hube celebrado
       1p: hubimos celebrado
@@ -95,8 +95,8 @@ celebrar:
       3s: hubo celebrado
       3p: hubieron celebrado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have celebrated}
       1s: habría celebrado
       1p: habríamos celebrado
@@ -105,8 +105,8 @@ celebrar:
       3s: habría celebrado
       3p: habrían celebrado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I celebrate, am celebrating'}
       1s: celebre
       1p: celebremos
@@ -115,8 +115,8 @@ celebrar:
       3s: celebre
       3p: celebren
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I celebrated, was celebrating'}
       1s: celebrara
       1p: celebráramos
@@ -125,8 +125,8 @@ celebrar:
       3s: celebrara
       3p: celebraran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will celebrate}
       1s: celebrare
       1p: celebráremos
@@ -135,8 +135,8 @@ celebrar:
       3s: celebrare
       3p: celebraren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have celebrated, celebrated'}
       1s: haya celebrado
       1p: hayamos celebrado
@@ -145,8 +145,8 @@ celebrar:
       3s: haya celebrado
       3p: hayan celebrado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have celebrated}
       1s: hubiere celebrado
       1p: hubiéremos celebrado
@@ -155,8 +155,8 @@ celebrar:
       3s: hubiere celebrado
       3p: hubieren celebrado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had celebrated}
       1s: hubiera celebrado
       1p: hubiéramos celebrado
@@ -165,8 +165,8 @@ celebrar:
       3s: hubiera celebrado
       3p: hubieran celebrado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Celebrate! Don't celebrate!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ celebrar:
       3s: celebre
       3p: celebren
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Celebrate! Don't celebrate!}
       1s: ''
       1p: ''

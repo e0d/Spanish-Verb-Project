@@ -2,11 +2,11 @@ quedarse:
   infinitive: quedarse
   gerund: quedándose
   pastparticiple: quedado
-  definitions: {en: 'to stay [behind], remain [behind]'}
-  tenses:
+  definition: {en: 'to stay [behind], remain [behind]'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I stay, am staying'}
       1s: me quedo
       1p: nos quedamos
@@ -15,8 +15,8 @@ quedarse:
       3s: se queda
       3p: se quedan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will stay}
       1s: me quedaré
       1p: nos quedaremos
@@ -25,8 +25,8 @@ quedarse:
       3s: se quedará
       3p: se quedarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was staying, used to stay, stayed'}
       1s: me quedaba
       1p: nos quedábamos
@@ -35,8 +35,8 @@ quedarse:
       3s: se quedaba
       3p: se quedaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I stayed}
       1s: me quedé
       1p: nos quedamos
@@ -45,8 +45,8 @@ quedarse:
       3s: se quedó
       3p: se quedaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would stay}
       1s: me quedaría
       1p: nos quedaríamos
@@ -55,8 +55,8 @@ quedarse:
       3s: se quedaría
       3p: se quedarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have stayed}
       1s: me he quedado
       1p: nos hemos quedado
@@ -65,8 +65,8 @@ quedarse:
       3s: se ha quedado
       3p: se han quedado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have stayed}
       1s: me habré quedado
       1p: nos habremos quedado
@@ -75,8 +75,8 @@ quedarse:
       3s: se habrá quedado
       3p: se habrán quedado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had stayed}
       1s: me había quedado
       1p: nos habíamos quedado
@@ -85,8 +85,8 @@ quedarse:
       3s: se había quedado
       3p: se habían quedado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had stayed}
       1s: me hube quedado
       1p: nos hubimos quedado
@@ -95,8 +95,8 @@ quedarse:
       3s: se hubo quedado
       3p: se hubieron quedado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have stayed}
       1s: me habría quedado
       1p: nos habríamos quedado
@@ -105,8 +105,8 @@ quedarse:
       3s: se habría quedado
       3p: se habrían quedado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I stay, am staying'}
       1s: me quede
       1p: nos quedemos
@@ -115,8 +115,8 @@ quedarse:
       3s: se quede
       3p: se queden
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I stayed, was staying'}
       1s: me quedara
       1p: nos quedáramos
@@ -125,8 +125,8 @@ quedarse:
       3s: se quedara
       3p: se quedaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will stay}
       1s: me quedare
       1p: nos quedáremos
@@ -135,8 +135,8 @@ quedarse:
       3s: se quedare
       3p: se quedaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have stayed, stayed'}
       1s: me haya quedado
       1p: nos hayamos quedado
@@ -145,8 +145,8 @@ quedarse:
       3s: se haya quedado
       3p: se hayan quedado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have stayed}
       1s: me hubiere quedado
       1p: nos hubiéremos quedado
@@ -155,8 +155,8 @@ quedarse:
       3s: se hubiere quedado
       3p: se hubieren quedado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had stayed}
       1s: me hubiera quedado
       1p: nos hubiéramos quedado
@@ -165,8 +165,8 @@ quedarse:
       3s: se hubiera quedado
       3p: se hubieran quedado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Stay! Don't stay!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ quedarse:
       3s: quédese
       3p: quédense
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Stay! Don't stay!}
       1s: ''
       1p: ''

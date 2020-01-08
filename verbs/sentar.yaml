@@ -2,11 +2,11 @@ sentar:
   infinitive: sentar
   gerund: sentando
   pastparticiple: sentado
-  definitions: {en: 'to seat, sit'}
-  tenses:
+  definition: {en: 'to seat, sit'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I seat, am seating'}
       1s: siento
       1p: sentamos
@@ -15,8 +15,8 @@ sentar:
       3s: sienta
       3p: sientan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will seat}
       1s: sentaré
       1p: sentaremos
@@ -25,8 +25,8 @@ sentar:
       3s: sentará
       3p: sentarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was seating, used to seat, seat'}
       1s: sentaba
       1p: sentábamos
@@ -35,8 +35,8 @@ sentar:
       3s: sentaba
       3p: sentaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I seat}
       1s: senté
       1p: sentamos
@@ -45,8 +45,8 @@ sentar:
       3s: sentó
       3p: sentaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would seat}
       1s: sentaría
       1p: sentaríamos
@@ -55,8 +55,8 @@ sentar:
       3s: sentaría
       3p: sentarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have seated}
       1s: he sentado
       1p: hemos sentado
@@ -65,8 +65,8 @@ sentar:
       3s: ha sentado
       3p: han sentado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have seated}
       1s: habré sentado
       1p: habremos sentado
@@ -75,8 +75,8 @@ sentar:
       3s: habrá sentado
       3p: habrán sentado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had seated}
       1s: había sentado
       1p: habíamos sentado
@@ -85,8 +85,8 @@ sentar:
       3s: había sentado
       3p: habían sentado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had seated}
       1s: hube sentado
       1p: hubimos sentado
@@ -95,8 +95,8 @@ sentar:
       3s: hubo sentado
       3p: hubieron sentado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have seated}
       1s: habría sentado
       1p: habríamos sentado
@@ -105,8 +105,8 @@ sentar:
       3s: habría sentado
       3p: habrían sentado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I seat, am seating'}
       1s: siente
       1p: sentemos
@@ -115,8 +115,8 @@ sentar:
       3s: siente
       3p: sienten
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I seat, was seating'}
       1s: sentara
       1p: sentáramos
@@ -125,8 +125,8 @@ sentar:
       3s: sentara
       3p: sentaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will seat}
       1s: sentare
       1p: sentáremos
@@ -135,8 +135,8 @@ sentar:
       3s: sentare
       3p: sentaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have seated, seated'}
       1s: haya sentado
       1p: hayamos sentado
@@ -145,8 +145,8 @@ sentar:
       3s: haya sentado
       3p: hayan sentado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have seated}
       1s: hubiere sentado
       1p: hubiéremos sentado
@@ -155,8 +155,8 @@ sentar:
       3s: hubiere sentado
       3p: hubieren sentado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had seated}
       1s: hubiera sentado
       1p: hubiéramos sentado
@@ -165,8 +165,8 @@ sentar:
       3s: hubiera sentado
       3p: hubieran sentado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Seat! Don't seat!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ sentar:
       3s: siente
       3p: sienten
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Seat! Don't seat!}
       1s: ''
       1p: ''

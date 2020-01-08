@@ -2,11 +2,11 @@ cuidar:
   infinitive: cuidar
   gerund: cuidando
   pastparticiple: cuidado
-  definitions: {en: 'to take care of, look after'}
-  tenses:
+  definition: {en: 'to take care of, look after'}
+  conjugations:
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I took care of}
       1s: cuidé
       1p: cuidamos
@@ -15,8 +15,8 @@ cuidar:
       3s: cuidó
       3p: cuidaron
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I take care of, am taking care of'}
       1s: cuido
       1p: cuidamos
@@ -25,8 +25,8 @@ cuidar:
       3s: cuida
       3p: cuidan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will take care of}
       1s: cuidaré
       1p: cuidaremos
@@ -35,8 +35,8 @@ cuidar:
       3s: cuidará
       3p: cuidarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was taking care of, used to take care of, took care of'}
       1s: cuidaba
       1p: cuidábamos
@@ -45,8 +45,8 @@ cuidar:
       3s: cuidaba
       3p: cuidaban
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would take care of}
       1s: cuidaría
       1p: cuidaríamos
@@ -55,8 +55,8 @@ cuidar:
       3s: cuidaría
       3p: cuidarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have taken care of}
       1s: he cuidado
       1p: hemos cuidado
@@ -65,8 +65,8 @@ cuidar:
       3s: ha cuidado
       3p: han cuidado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have taken care of}
       1s: habré cuidado
       1p: habremos cuidado
@@ -75,8 +75,8 @@ cuidar:
       3s: habrá cuidado
       3p: habrán cuidado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had taken care of}
       1s: había cuidado
       1p: habíamos cuidado
@@ -85,8 +85,8 @@ cuidar:
       3s: había cuidado
       3p: habían cuidado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had taken care of}
       1s: hube cuidado
       1p: hubimos cuidado
@@ -95,8 +95,8 @@ cuidar:
       3s: hubo cuidado
       3p: hubieron cuidado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have taken care of}
       1s: habría cuidado
       1p: habríamos cuidado
@@ -105,8 +105,8 @@ cuidar:
       3s: habría cuidado
       3p: habrían cuidado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I take care of, am taking care of'}
       1s: cuide
       1p: cuidemos
@@ -115,8 +115,8 @@ cuidar:
       3s: cuide
       3p: cuiden
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I took care of, was taking care of'}
       1s: cuidara
       1p: cuidáramos
@@ -125,8 +125,8 @@ cuidar:
       3s: cuidara
       3p: cuidaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will take care of}
       1s: cuidare
       1p: cuidáremos
@@ -135,8 +135,8 @@ cuidar:
       3s: cuidare
       3p: cuidaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have taken care of, took care of'}
       1s: haya cuidado
       1p: hayamos cuidado
@@ -145,8 +145,8 @@ cuidar:
       3s: haya cuidado
       3p: hayan cuidado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have taken care of}
       1s: hubiere cuidado
       1p: hubiéremos cuidado
@@ -155,8 +155,8 @@ cuidar:
       3s: hubiere cuidado
       3p: hubieren cuidado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had taken care of}
       1s: hubiera cuidado
       1p: hubiéramos cuidado
@@ -165,8 +165,8 @@ cuidar:
       3s: hubiera cuidado
       3p: hubieran cuidado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Take care of! Don't take care of!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ cuidar:
       3s: cuide
       3p: cuiden
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Take care of! Don't take care of!}
       1s: ''
       1p: ''

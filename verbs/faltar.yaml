@@ -2,11 +2,11 @@ faltar:
   infinitive: faltar
   gerund: faltando
   pastparticiple: faltado
-  definitions: {en: 'to lack, be lacking, be missing, be absent'}
-  tenses:
+  definition: {en: 'to lack, be lacking, be missing, be absent'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I lack, am lacking'}
       1s: falto
       1p: faltamos
@@ -15,8 +15,8 @@ faltar:
       3s: falta
       3p: faltan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will lack}
       1s: faltaré
       1p: faltaremos
@@ -25,8 +25,8 @@ faltar:
       3s: faltará
       3p: faltarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was lacking, used to lack, lacked'}
       1s: faltaba
       1p: faltábamos
@@ -35,8 +35,8 @@ faltar:
       3s: faltaba
       3p: faltaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I lacked}
       1s: falté
       1p: faltamos
@@ -45,8 +45,8 @@ faltar:
       3s: faltó
       3p: faltaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would lack}
       1s: faltaría
       1p: faltaríamos
@@ -55,8 +55,8 @@ faltar:
       3s: faltaría
       3p: faltarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have lacked}
       1s: he faltado
       1p: hemos faltado
@@ -65,8 +65,8 @@ faltar:
       3s: ha faltado
       3p: han faltado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have lacked}
       1s: habré faltado
       1p: habremos faltado
@@ -75,8 +75,8 @@ faltar:
       3s: habrá faltado
       3p: habrán faltado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had lacked}
       1s: había faltado
       1p: habíamos faltado
@@ -85,8 +85,8 @@ faltar:
       3s: había faltado
       3p: habían faltado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had lacked}
       1s: hube faltado
       1p: hubimos faltado
@@ -95,8 +95,8 @@ faltar:
       3s: hubo faltado
       3p: hubieron faltado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have lacked}
       1s: habría faltado
       1p: habríamos faltado
@@ -105,8 +105,8 @@ faltar:
       3s: habría faltado
       3p: habrían faltado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I lack, am lacking'}
       1s: falte
       1p: faltemos
@@ -115,8 +115,8 @@ faltar:
       3s: falte
       3p: falten
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I lacked, was lacking'}
       1s: faltara
       1p: faltáramos
@@ -125,8 +125,8 @@ faltar:
       3s: faltara
       3p: faltaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will lack}
       1s: faltare
       1p: faltáremos
@@ -135,8 +135,8 @@ faltar:
       3s: faltare
       3p: faltaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have lacked, lacked'}
       1s: haya faltado
       1p: hayamos faltado
@@ -145,8 +145,8 @@ faltar:
       3s: haya faltado
       3p: hayan faltado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have lacked}
       1s: hubiere faltado
       1p: hubiéremos faltado
@@ -155,8 +155,8 @@ faltar:
       3s: hubiere faltado
       3p: hubieren faltado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had lacked}
       1s: hubiera faltado
       1p: hubiéramos faltado
@@ -165,8 +165,8 @@ faltar:
       3s: hubiera faltado
       3p: hubieran faltado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Lack! Don't lack!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ faltar:
       3s: falte
       3p: falten
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Lack! Don't lack!}
       1s: ''
       1p: ''

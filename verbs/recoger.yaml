@@ -2,11 +2,11 @@ recoger:
   infinitive: recoger
   gerund: recogiendo
   pastparticiple: recogido
-  definitions: {en: to pick up}
-  tenses:
+  definition: {en: to pick up}
+  conjugations:
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I pick up, am picking up'}
       1s: recoja
       1p: recojamos
@@ -15,8 +15,8 @@ recoger:
       3s: recoja
       3p: recojan
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I pick up, am picking up'}
       1s: recojo
       1p: recogemos
@@ -25,8 +25,8 @@ recoger:
       3s: recoge
       3p: recogen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will pick up}
       1s: recogeré
       1p: recogeremos
@@ -35,8 +35,8 @@ recoger:
       3s: recogerá
       3p: recogerán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was picking up, used to pick up, picked up'}
       1s: recogía
       1p: recogíamos
@@ -45,8 +45,8 @@ recoger:
       3s: recogía
       3p: recogían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I picked up}
       1s: recogí
       1p: recogimos
@@ -55,8 +55,8 @@ recoger:
       3s: recogió
       3p: recogieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would pick up}
       1s: recogería
       1p: recogeríamos
@@ -65,8 +65,8 @@ recoger:
       3s: recogería
       3p: recogerían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have picked up}
       1s: he recogido
       1p: hemos recogido
@@ -75,8 +75,8 @@ recoger:
       3s: ha recogido
       3p: han recogido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have picked up}
       1s: habré recogido
       1p: habremos recogido
@@ -85,8 +85,8 @@ recoger:
       3s: habrá recogido
       3p: habrán recogido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had picked up}
       1s: había recogido
       1p: habíamos recogido
@@ -95,8 +95,8 @@ recoger:
       3s: había recogido
       3p: habían recogido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had picked up}
       1s: hube recogido
       1p: hubimos recogido
@@ -105,8 +105,8 @@ recoger:
       3s: hubo recogido
       3p: hubieron recogido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have picked up}
       1s: habría recogido
       1p: habríamos recogido
@@ -115,8 +115,8 @@ recoger:
       3s: habría recogido
       3p: habrían recogido
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I picked up, was picking up'}
       1s: recogiera
       1p: recogiéramos
@@ -125,8 +125,8 @@ recoger:
       3s: recogiera
       3p: recogieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will pick up}
       1s: recogiere
       1p: recogiéremos
@@ -135,8 +135,8 @@ recoger:
       3s: recogiere
       3p: recogieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have picked up, picked up'}
       1s: haya recogido
       1p: hayamos recogido
@@ -145,8 +145,8 @@ recoger:
       3s: haya recogido
       3p: hayan recogido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have picked up}
       1s: hubiere recogido
       1p: hubiéremos recogido
@@ -155,8 +155,8 @@ recoger:
       3s: hubiere recogido
       3p: hubieren recogido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had picked up}
       1s: hubiera recogido
       1p: hubiéramos recogido
@@ -165,8 +165,8 @@ recoger:
       3s: hubiera recogido
       3p: hubieran recogido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Pick up! Don't pick up!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ recoger:
       3s: recoja
       3p: recojan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Pick up! Don't pick up!}
       1s: ''
       1p: ''

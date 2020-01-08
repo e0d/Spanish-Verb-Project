@@ -2,11 +2,11 @@ burlarse:
   infinitive: burlarse
   gerund: burlándose
   pastparticiple: burlado
-  definitions: {en: 'to mock, ridicule, make fun of [someone/something]'}
-  tenses:
+  definition: {en: 'to mock, ridicule, make fun of [someone/something]'}
+  conjugations:
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Mock! Don't mock!}
       1s: ''
       1p: ''
@@ -15,8 +15,8 @@ burlarse:
       3s: búrlese
       3p: búrlense
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I mock, am mocking'}
       1s: me burlo
       1p: nos burlamos
@@ -25,8 +25,8 @@ burlarse:
       3s: se burla
       3p: se burlan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will mock}
       1s: me burlaré
       1p: nos burlaremos
@@ -35,8 +35,8 @@ burlarse:
       3s: se burlará
       3p: se burlarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was mocking, used to mock, mocked'}
       1s: me burlaba
       1p: nos burlábamos
@@ -45,8 +45,8 @@ burlarse:
       3s: se burlaba
       3p: se burlaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I mocked}
       1s: me burlé
       1p: nos burlamos
@@ -55,8 +55,8 @@ burlarse:
       3s: se burló
       3p: se burlaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would mock}
       1s: me burlaría
       1p: nos burlaríamos
@@ -65,8 +65,8 @@ burlarse:
       3s: se burlaría
       3p: se burlarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have mocked}
       1s: me he burlado
       1p: nos hemos burlado
@@ -75,8 +75,8 @@ burlarse:
       3s: se ha burlado
       3p: se han burlado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have mocked}
       1s: me habré burlado
       1p: nos habremos burlado
@@ -85,8 +85,8 @@ burlarse:
       3s: se habrá burlado
       3p: se habrán burlado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had mocked}
       1s: me había burlado
       1p: nos habíamos burlado
@@ -95,8 +95,8 @@ burlarse:
       3s: se había burlado
       3p: se habían burlado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had mocked}
       1s: me hube burlado
       1p: nos hubimos burlado
@@ -105,8 +105,8 @@ burlarse:
       3s: se hubo burlado
       3p: se hubieron burlado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have mocked}
       1s: me habría burlado
       1p: nos habríamos burlado
@@ -115,8 +115,8 @@ burlarse:
       3s: se habría burlado
       3p: se habrían burlado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I mock, am mocking'}
       1s: me burle
       1p: nos burlemos
@@ -125,8 +125,8 @@ burlarse:
       3s: se burle
       3p: se burlen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I mocked, was mocking'}
       1s: me burlara
       1p: nos burláramos
@@ -135,8 +135,8 @@ burlarse:
       3s: se burlara
       3p: se burlaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will mock}
       1s: me burlare
       1p: nos burláremos
@@ -145,8 +145,8 @@ burlarse:
       3s: se burlare
       3p: se burlaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have mocked, mocked'}
       1s: me haya burlado
       1p: nos hayamos burlado
@@ -155,8 +155,8 @@ burlarse:
       3s: se haya burlado
       3p: se hayan burlado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have mocked}
       1s: me hubiere burlado
       1p: nos hubiéremos burlado
@@ -165,8 +165,8 @@ burlarse:
       3s: se hubiere burlado
       3p: se hubieren burlado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had mocked}
       1s: me hubiera burlado
       1p: nos hubiéramos burlado
@@ -175,8 +175,8 @@ burlarse:
       3s: se hubiera burlado
       3p: se hubieran burlado
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Mock! Don't mock!}
       1s: ''
       1p: ''

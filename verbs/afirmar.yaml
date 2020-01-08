@@ -2,11 +2,11 @@ afirmar:
   infinitive: afirmar
   gerund: afirmando
   pastparticiple: afirmado
-  definitions: {en: 'to make firm, steady, strengthen; to affirm, state, assert'}
-  tenses:
+  definition: {en: 'to make firm, steady, strengthen; to affirm, state, assert'}
+  conjugations:
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will make firm}
       1s: afirmaré
       1p: afirmaremos
@@ -15,8 +15,8 @@ afirmar:
       3s: afirmará
       3p: afirmarán
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I make firm, am making firm'}
       1s: afirmo
       1p: afirmamos
@@ -25,8 +25,8 @@ afirmar:
       3s: afirma
       3p: afirman
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was making firm, used to make firm, made firm'}
       1s: afirmaba
       1p: afirmábamos
@@ -35,8 +35,8 @@ afirmar:
       3s: afirmaba
       3p: afirmaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I made firm}
       1s: afirmé
       1p: afirmamos
@@ -45,8 +45,8 @@ afirmar:
       3s: afirmó
       3p: afirmaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would make firm}
       1s: afirmaría
       1p: afirmaríamos
@@ -55,8 +55,8 @@ afirmar:
       3s: afirmaría
       3p: afirmarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have made firm}
       1s: he afirmado
       1p: hemos afirmado
@@ -65,8 +65,8 @@ afirmar:
       3s: ha afirmado
       3p: han afirmado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have made firm}
       1s: habré afirmado
       1p: habremos afirmado
@@ -75,8 +75,8 @@ afirmar:
       3s: habrá afirmado
       3p: habrán afirmado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had made firm}
       1s: había afirmado
       1p: habíamos afirmado
@@ -85,8 +85,8 @@ afirmar:
       3s: había afirmado
       3p: habían afirmado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had made firm}
       1s: hube afirmado
       1p: hubimos afirmado
@@ -95,8 +95,8 @@ afirmar:
       3s: hubo afirmado
       3p: hubieron afirmado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have made firm}
       1s: habría afirmado
       1p: habríamos afirmado
@@ -105,8 +105,8 @@ afirmar:
       3s: habría afirmado
       3p: habrían afirmado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I make firm, am making firm'}
       1s: afirme
       1p: afirmemos
@@ -115,8 +115,8 @@ afirmar:
       3s: afirme
       3p: afirmen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I made firm, was making firm'}
       1s: afirmara
       1p: afirmáramos
@@ -125,8 +125,8 @@ afirmar:
       3s: afirmara
       3p: afirmaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will make firm}
       1s: afirmare
       1p: afirmáremos
@@ -135,8 +135,8 @@ afirmar:
       3s: afirmare
       3p: afirmaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have made firm, made firm'}
       1s: haya afirmado
       1p: hayamos afirmado
@@ -145,8 +145,8 @@ afirmar:
       3s: haya afirmado
       3p: hayan afirmado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have made firm}
       1s: hubiere afirmado
       1p: hubiéremos afirmado
@@ -155,8 +155,8 @@ afirmar:
       3s: hubiere afirmado
       3p: hubieren afirmado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had made firm}
       1s: hubiera afirmado
       1p: hubiéramos afirmado
@@ -165,8 +165,8 @@ afirmar:
       3s: hubiera afirmado
       3p: hubieran afirmado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Make firm! Don't make firm!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ afirmar:
       3s: afirme
       3p: afirmen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Make firm! Don't make firm!}
       1s: ''
       1p: ''

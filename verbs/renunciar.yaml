@@ -2,11 +2,11 @@ renunciar:
   infinitive: renunciar
   gerund: renunciando
   pastparticiple: renunciado
-  definitions: {en: 'to renounce, surrender, resign'}
-  tenses:
+  definition: {en: 'to renounce, surrender, resign'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I renounce, am renouncing'}
       1s: renuncio
       1p: renunciamos
@@ -15,8 +15,8 @@ renunciar:
       3s: renuncia
       3p: renuncian
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will renounce}
       1s: renunciaré
       1p: renunciaremos
@@ -25,8 +25,8 @@ renunciar:
       3s: renunciará
       3p: renunciarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was renouncing, used to renounce, renounced'}
       1s: renunciaba
       1p: renunciábamos
@@ -35,8 +35,8 @@ renunciar:
       3s: renunciaba
       3p: renunciaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I renounced}
       1s: renuncié
       1p: renunciamos
@@ -45,8 +45,8 @@ renunciar:
       3s: renunció
       3p: renunciaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would renounce}
       1s: renunciaría
       1p: renunciaríamos
@@ -55,8 +55,8 @@ renunciar:
       3s: renunciaría
       3p: renunciarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have renounced}
       1s: he renunciado
       1p: hemos renunciado
@@ -65,8 +65,8 @@ renunciar:
       3s: ha renunciado
       3p: han renunciado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have renounced}
       1s: habré renunciado
       1p: habremos renunciado
@@ -75,8 +75,8 @@ renunciar:
       3s: habrá renunciado
       3p: habrán renunciado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had renounced}
       1s: había renunciado
       1p: habíamos renunciado
@@ -85,8 +85,8 @@ renunciar:
       3s: había renunciado
       3p: habían renunciado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had renounced}
       1s: hube renunciado
       1p: hubimos renunciado
@@ -95,8 +95,8 @@ renunciar:
       3s: hubo renunciado
       3p: hubieron renunciado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have renounced}
       1s: habría renunciado
       1p: habríamos renunciado
@@ -105,8 +105,8 @@ renunciar:
       3s: habría renunciado
       3p: habrían renunciado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I renounce, am renouncing'}
       1s: renuncie
       1p: renunciemos
@@ -115,8 +115,8 @@ renunciar:
       3s: renuncie
       3p: renuncien
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I renounced, was renouncing'}
       1s: renunciara
       1p: renunciáramos
@@ -125,8 +125,8 @@ renunciar:
       3s: renunciara
       3p: renunciaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will renounce}
       1s: renunciare
       1p: renunciáremos
@@ -135,8 +135,8 @@ renunciar:
       3s: renunciare
       3p: renunciaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have renounced, renounced'}
       1s: haya renunciado
       1p: hayamos renunciado
@@ -145,8 +145,8 @@ renunciar:
       3s: haya renunciado
       3p: hayan renunciado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have renounced}
       1s: hubiere renunciado
       1p: hubiéremos renunciado
@@ -155,8 +155,8 @@ renunciar:
       3s: hubiere renunciado
       3p: hubieren renunciado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had renounced}
       1s: hubiera renunciado
       1p: hubiéramos renunciado
@@ -165,8 +165,8 @@ renunciar:
       3s: hubiera renunciado
       3p: hubieran renunciado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Renounce! Don't renounce!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ renunciar:
       3s: renuncie
       3p: renuncien
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Renounce! Don't renounce!}
       1s: ''
       1p: ''

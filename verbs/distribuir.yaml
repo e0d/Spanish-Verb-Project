@@ -2,11 +2,11 @@ distribuir:
   infinitive: distribuir
   gerund: distribuyendo
   pastparticiple: distribuido
-  definitions: {en: 'to distribute, hand out, send out, give out'}
-  tenses:
+  definition: {en: 'to distribute, hand out, send out, give out'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I distribute, am distributing'}
       1s: distribuyo
       1p: distribuimos
@@ -15,8 +15,8 @@ distribuir:
       3s: distribuye
       3p: distribuyen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will distribute}
       1s: distribuiré
       1p: distribuiremos
@@ -25,8 +25,8 @@ distribuir:
       3s: distribuirá
       3p: distribuirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was distributing, used to distribute, distributed'}
       1s: distribuía
       1p: distribuíamos
@@ -35,8 +35,8 @@ distribuir:
       3s: distribuía
       3p: distribuían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I distributed}
       1s: distribuí
       1p: distribuimos
@@ -45,8 +45,8 @@ distribuir:
       3s: distribuyó
       3p: distribuyeron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would distribute}
       1s: distribuiría
       1p: distribuiríamos
@@ -55,8 +55,8 @@ distribuir:
       3s: distribuiría
       3p: distribuirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have distributed}
       1s: he distribuido
       1p: hemos distribuido
@@ -65,8 +65,8 @@ distribuir:
       3s: ha distribuido
       3p: han distribuido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have distributed}
       1s: habré distribuido
       1p: habremos distribuido
@@ -75,8 +75,8 @@ distribuir:
       3s: habrá distribuido
       3p: habrán distribuido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had distributed}
       1s: había distribuido
       1p: habíamos distribuido
@@ -85,8 +85,8 @@ distribuir:
       3s: había distribuido
       3p: habían distribuido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had distributed}
       1s: hube distribuido
       1p: hubimos distribuido
@@ -95,8 +95,8 @@ distribuir:
       3s: hubo distribuido
       3p: hubieron distribuido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have distributed}
       1s: habría distribuido
       1p: habríamos distribuido
@@ -105,8 +105,8 @@ distribuir:
       3s: habría distribuido
       3p: habrían distribuido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I distribute, am distributing'}
       1s: distribuya
       1p: distribuyamos
@@ -115,8 +115,8 @@ distribuir:
       3s: distribuya
       3p: distribuyan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I distributed, was distributing'}
       1s: distribuyera
       1p: distribuyéramos
@@ -125,8 +125,8 @@ distribuir:
       3s: distribuyera
       3p: distribuyeran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will distribute}
       1s: distribuyere
       1p: distribuyéremos
@@ -135,8 +135,8 @@ distribuir:
       3s: distribuyere
       3p: distribuyeren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have distributed, distributed'}
       1s: haya distribuido
       1p: hayamos distribuido
@@ -145,8 +145,8 @@ distribuir:
       3s: haya distribuido
       3p: hayan distribuido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have distributed}
       1s: hubiere distribuido
       1p: hubiéremos distribuido
@@ -155,8 +155,8 @@ distribuir:
       3s: hubiere distribuido
       3p: hubieren distribuido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had distributed}
       1s: hubiera distribuido
       1p: hubiéramos distribuido
@@ -165,8 +165,8 @@ distribuir:
       3s: hubiera distribuido
       3p: hubieran distribuido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Distribute! Don't distribute!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ distribuir:
       3s: distribuya
       3p: distribuyan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Distribute! Don't distribute!}
       1s: ''
       1p: ''

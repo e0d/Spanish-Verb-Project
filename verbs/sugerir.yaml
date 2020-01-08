@@ -2,11 +2,11 @@ sugerir:
   infinitive: sugerir
   gerund: sugiriendo
   pastparticiple: sugerido
-  definitions: {en: to suggest}
-  tenses:
+  definition: {en: to suggest}
+  conjugations:
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I suggested}
       1s: sugerí
       1p: sugerimos
@@ -15,8 +15,8 @@ sugerir:
       3s: sugirió
       3p: sugirieron
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I suggest, am suggesting'}
       1s: sugiero
       1p: sugerimos
@@ -25,8 +25,8 @@ sugerir:
       3s: sugiere
       3p: sugieren
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will suggest}
       1s: sugeriré
       1p: sugeriremos
@@ -35,8 +35,8 @@ sugerir:
       3s: sugerirá
       3p: sugerirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was suggesting, used to suggest, suggested'}
       1s: sugería
       1p: sugeríamos
@@ -45,8 +45,8 @@ sugerir:
       3s: sugería
       3p: sugerían
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would suggest}
       1s: sugeriría
       1p: sugeriríamos
@@ -55,8 +55,8 @@ sugerir:
       3s: sugeriría
       3p: sugerirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have suggested}
       1s: he sugerido
       1p: hemos sugerido
@@ -65,8 +65,8 @@ sugerir:
       3s: ha sugerido
       3p: han sugerido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have suggested}
       1s: habré sugerido
       1p: habremos sugerido
@@ -75,8 +75,8 @@ sugerir:
       3s: habrá sugerido
       3p: habrán sugerido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had suggested}
       1s: había sugerido
       1p: habíamos sugerido
@@ -85,8 +85,8 @@ sugerir:
       3s: había sugerido
       3p: habían sugerido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had suggested}
       1s: hube sugerido
       1p: hubimos sugerido
@@ -95,8 +95,8 @@ sugerir:
       3s: hubo sugerido
       3p: hubieron sugerido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have suggested}
       1s: habría sugerido
       1p: habríamos sugerido
@@ -105,8 +105,8 @@ sugerir:
       3s: habría sugerido
       3p: habrían sugerido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I suggest, am suggesting'}
       1s: sugiera
       1p: sugiramos
@@ -115,8 +115,8 @@ sugerir:
       3s: sugiera
       3p: sugieran
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I suggested, was suggesting'}
       1s: sugiriera
       1p: sugiriéramos
@@ -125,8 +125,8 @@ sugerir:
       3s: sugiriera
       3p: sugirieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will suggest}
       1s: sugiriere
       1p: sugiriéremos
@@ -135,8 +135,8 @@ sugerir:
       3s: sugiriere
       3p: sugirieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have suggested, suggested'}
       1s: haya sugerido
       1p: hayamos sugerido
@@ -145,8 +145,8 @@ sugerir:
       3s: haya sugerido
       3p: hayan sugerido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have suggested}
       1s: hubiere sugerido
       1p: hubiéremos sugerido
@@ -155,8 +155,8 @@ sugerir:
       3s: hubiere sugerido
       3p: hubieren sugerido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had suggested}
       1s: hubiera sugerido
       1p: hubiéramos sugerido
@@ -165,8 +165,8 @@ sugerir:
       3s: hubiera sugerido
       3p: hubieran sugerido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Suggest! Don't suggest!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ sugerir:
       3s: sugiera
       3p: sugieran
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Suggest! Don't suggest!}
       1s: ''
       1p: ''

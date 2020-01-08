@@ -2,11 +2,11 @@ enterarse:
   infinitive: enterarse
   gerund: enterándose
   pastparticiple: enterado
-  definitions: {en: 'to find out [about something], to learn [of something])'}
-  tenses:
+  definition: {en: 'to find out [about something], to learn [of something])'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I find out, am finding out'}
       1s: me entero
       1p: nos enteramos
@@ -15,8 +15,8 @@ enterarse:
       3s: se entera
       3p: se enteran
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will find out}
       1s: me enteraré
       1p: nos enteraremos
@@ -25,8 +25,8 @@ enterarse:
       3s: se enterará
       3p: se enterarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was finding out, used to find out, found out'}
       1s: me enteraba
       1p: nos enterábamos
@@ -35,8 +35,8 @@ enterarse:
       3s: se enteraba
       3p: se enteraban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I found out}
       1s: me enteré
       1p: nos enteramos
@@ -45,8 +45,8 @@ enterarse:
       3s: se enteró
       3p: se enteraron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would find out}
       1s: me enteraría
       1p: nos enteraríamos
@@ -55,8 +55,8 @@ enterarse:
       3s: se enteraría
       3p: se enterarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have found out}
       1s: me he enterado
       1p: nos hemos enterado
@@ -65,8 +65,8 @@ enterarse:
       3s: se ha enterado
       3p: se han enterado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have found out}
       1s: me habré enterado
       1p: nos habremos enterado
@@ -75,8 +75,8 @@ enterarse:
       3s: se habrá enterado
       3p: se habrán enterado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had found out}
       1s: me había enterado
       1p: nos habíamos enterado
@@ -85,8 +85,8 @@ enterarse:
       3s: se había enterado
       3p: se habían enterado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had found out}
       1s: me hube enterado
       1p: nos hubimos enterado
@@ -95,8 +95,8 @@ enterarse:
       3s: se hubo enterado
       3p: se hubieron enterado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have found out}
       1s: me habría enterado
       1p: nos habríamos enterado
@@ -105,8 +105,8 @@ enterarse:
       3s: se habría enterado
       3p: se habrían enterado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I find out, am finding out'}
       1s: me entere
       1p: nos enteremos
@@ -115,8 +115,8 @@ enterarse:
       3s: se entere
       3p: se enteren
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I found out, was finding out'}
       1s: me enterara
       1p: nos enteráramos
@@ -125,8 +125,8 @@ enterarse:
       3s: se enterara
       3p: se enteraran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will find out}
       1s: me enterare
       1p: nos enteráremos
@@ -135,8 +135,8 @@ enterarse:
       3s: se enterare
       3p: se enteraren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have found out, found out'}
       1s: me haya enterado
       1p: nos hayamos enterado
@@ -145,8 +145,8 @@ enterarse:
       3s: se haya enterado
       3p: se hayan enterado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have found out}
       1s: me hubiere enterado
       1p: nos hubiéremos enterado
@@ -155,8 +155,8 @@ enterarse:
       3s: se hubiere enterado
       3p: se hubieren enterado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had found out}
       1s: me hubiera enterado
       1p: nos hubiéramos enterado
@@ -165,8 +165,8 @@ enterarse:
       3s: se hubiera enterado
       3p: se hubieran enterado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: find out! Don't find out!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ enterarse:
       3s: entérese
       3p: entérense
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: find out! Don't find out!}
       1s: ''
       1p: ''

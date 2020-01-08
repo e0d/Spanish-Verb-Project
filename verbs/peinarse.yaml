@@ -2,11 +2,11 @@ peinarse:
   infinitive: peinarse
   gerund: peinándose
   pastparticiple: peinado
-  definitions: {en: to comb one's hair; to do one's hair}
-  tenses:
+  definition: {en: to comb one's hair; to do one's hair}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I comb my hair, am combing my hair'}
       1s: me peino
       1p: nos peinamos
@@ -15,8 +15,8 @@ peinarse:
       3s: se peina
       3p: se peinan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will comb my hair}
       1s: me peinaré
       1p: nos peinaremos
@@ -25,8 +25,8 @@ peinarse:
       3s: se peinará
       3p: se peinarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was combing my hair, used to comb my hair, combed my hair'}
       1s: me peinaba
       1p: nos peinábamos
@@ -35,8 +35,8 @@ peinarse:
       3s: se peinaba
       3p: se peinaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I combed my hair}
       1s: me peiné
       1p: nos peinamos
@@ -45,8 +45,8 @@ peinarse:
       3s: se peinó
       3p: se peinaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would comb my hair}
       1s: me peinaría
       1p: nos peinaríamos
@@ -55,8 +55,8 @@ peinarse:
       3s: se peinaría
       3p: se peinarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have combed my hair}
       1s: me he peinado
       1p: nos hemos peinado
@@ -65,8 +65,8 @@ peinarse:
       3s: se ha peinado
       3p: se han peinado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have combed my hair}
       1s: me habré peinado
       1p: nos habremos peinado
@@ -75,8 +75,8 @@ peinarse:
       3s: se habrá peinado
       3p: se habrán peinado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had combed my hair}
       1s: me había peinado
       1p: nos habíamos peinado
@@ -85,8 +85,8 @@ peinarse:
       3s: se había peinado
       3p: se habían peinado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had combed my hair}
       1s: me hube peinado
       1p: nos hubimos peinado
@@ -95,8 +95,8 @@ peinarse:
       3s: se hubo peinado
       3p: se hubieron peinado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have combed my hair}
       1s: me habría peinado
       1p: nos habríamos peinado
@@ -105,8 +105,8 @@ peinarse:
       3s: se habría peinado
       3p: se habrían peinado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I comb my hair, am combing my hair'}
       1s: me peine
       1p: nos peinemos
@@ -115,8 +115,8 @@ peinarse:
       3s: se peine
       3p: se peinen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I combed my hair, was combing my hair'}
       1s: me peinara
       1p: nos peináramos
@@ -125,8 +125,8 @@ peinarse:
       3s: se peinara
       3p: se peinaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will comb my hair}
       1s: me peinare
       1p: nos peináremos
@@ -135,8 +135,8 @@ peinarse:
       3s: se peinare
       3p: se peinaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have combed my hair, combed my hair'}
       1s: me haya peinado
       1p: nos hayamos peinado
@@ -145,8 +145,8 @@ peinarse:
       3s: se haya peinado
       3p: se hayan peinado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have combed my hair}
       1s: me hubiere peinado
       1p: nos hubiéremos peinado
@@ -155,8 +155,8 @@ peinarse:
       3s: se hubiere peinado
       3p: se hubieren peinado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had combed my hair}
       1s: me hubiera peinado
       1p: nos hubiéramos peinado
@@ -165,8 +165,8 @@ peinarse:
       3s: se hubiera peinado
       3p: se hubieran peinado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Comb my hair! Don't comb my hair!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ peinarse:
       3s: péinese
       3p: péinense
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Comb my hair! Don't comb my hair!}
       1s: ''
       1p: ''

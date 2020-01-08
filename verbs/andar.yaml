@@ -2,11 +2,11 @@ andar:
   infinitive: andar
   gerund: andando
   pastparticiple: andado
-  definitions: {en: 'to walk, go'}
-  tenses:
+  definition: {en: 'to walk, go'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I walk, am walking'}
       1s: ando
       1p: andamos
@@ -15,8 +15,8 @@ andar:
       3s: anda
       3p: andan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will walk}
       1s: andaré
       1p: andaremos
@@ -25,8 +25,8 @@ andar:
       3s: andará
       3p: andarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was walking, used to walk, walked'}
       1s: andaba
       1p: andábamos
@@ -35,8 +35,8 @@ andar:
       3s: andaba
       3p: andaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I walked}
       1s: anduve
       1p: anduvimos
@@ -45,8 +45,8 @@ andar:
       3s: anduvo
       3p: anduvieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would walk}
       1s: andaría
       1p: andaríamos
@@ -55,8 +55,8 @@ andar:
       3s: andaría
       3p: andarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have walked}
       1s: he andado
       1p: hemos andado
@@ -65,8 +65,8 @@ andar:
       3s: ha andado
       3p: han andado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have walked}
       1s: habré andado
       1p: habremos andado
@@ -75,8 +75,8 @@ andar:
       3s: habrá andado
       3p: habrán andado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had walked}
       1s: había andado
       1p: habíamos andado
@@ -85,8 +85,8 @@ andar:
       3s: había andado
       3p: habían andado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had walked}
       1s: hube andado
       1p: hubimos andado
@@ -95,8 +95,8 @@ andar:
       3s: hubo andado
       3p: hubieron andado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have walked}
       1s: habría andado
       1p: habríamos andado
@@ -105,8 +105,8 @@ andar:
       3s: habría andado
       3p: habrían andado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I walk, am walking'}
       1s: ande
       1p: andemos
@@ -115,8 +115,8 @@ andar:
       3s: ande
       3p: anden
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I walked, was walking'}
       1s: anduviera
       1p: anduviéramos
@@ -125,8 +125,8 @@ andar:
       3s: anduviera
       3p: anduvieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will walk}
       1s: anduviere
       1p: anduviéremos
@@ -135,8 +135,8 @@ andar:
       3s: anduviere
       3p: anduvieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have walked, walked'}
       1s: haya andado
       1p: hayamos andado
@@ -145,8 +145,8 @@ andar:
       3s: haya andado
       3p: hayan andado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have walked}
       1s: hubiere andado
       1p: hubiéremos andado
@@ -155,8 +155,8 @@ andar:
       3s: hubiere andado
       3p: hubieren andado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had walked}
       1s: hubiera andado
       1p: hubiéramos andado
@@ -165,8 +165,8 @@ andar:
       3s: hubiera andado
       3p: hubieran andado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Walk! Don't walk!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ andar:
       3s: ande
       3p: anden
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Walk! Don't walk!}
       1s: ''
       1p: ''

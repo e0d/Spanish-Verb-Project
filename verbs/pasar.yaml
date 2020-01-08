@@ -2,11 +2,11 @@ pasar:
   infinitive: pasar
   gerund: pasando
   pastparticiple: pasado
-  definitions: {en: 'to pass, pass by, go; to pass on, hand; to spend [time]; to happen'}
-  tenses:
+  definition: {en: 'to pass, pass by, go; to pass on, hand; to spend [time]; to happen'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I pass, am passing'}
       1s: paso
       1p: pasamos
@@ -15,8 +15,8 @@ pasar:
       3s: pasa
       3p: pasan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will pass}
       1s: pasaré
       1p: pasaremos
@@ -25,8 +25,8 @@ pasar:
       3s: pasará
       3p: pasarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was passing, used to pass, passed'}
       1s: pasaba
       1p: pasábamos
@@ -35,8 +35,8 @@ pasar:
       3s: pasaba
       3p: pasaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I passed}
       1s: pasé
       1p: pasamos
@@ -45,8 +45,8 @@ pasar:
       3s: pasó
       3p: pasaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would pass}
       1s: pasaría
       1p: pasaríamos
@@ -55,8 +55,8 @@ pasar:
       3s: pasaría
       3p: pasarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have passed}
       1s: he pasado
       1p: hemos pasado
@@ -65,8 +65,8 @@ pasar:
       3s: ha pasado
       3p: han pasado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have passed}
       1s: habré pasado
       1p: habremos pasado
@@ -75,8 +75,8 @@ pasar:
       3s: habrá pasado
       3p: habrán pasado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had passed}
       1s: había pasado
       1p: habíamos pasado
@@ -85,8 +85,8 @@ pasar:
       3s: había pasado
       3p: habían pasado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had passed}
       1s: hube pasado
       1p: hubimos pasado
@@ -95,8 +95,8 @@ pasar:
       3s: hubo pasado
       3p: hubieron pasado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have passed}
       1s: habría pasado
       1p: habríamos pasado
@@ -105,8 +105,8 @@ pasar:
       3s: habría pasado
       3p: habrían pasado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I pass, am passing'}
       1s: pase
       1p: pasemos
@@ -115,8 +115,8 @@ pasar:
       3s: pase
       3p: pasen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I passed, was passing'}
       1s: pasara
       1p: pasáramos
@@ -125,8 +125,8 @@ pasar:
       3s: pasara
       3p: pasaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will pass}
       1s: pasare
       1p: pasáremos
@@ -135,8 +135,8 @@ pasar:
       3s: pasare
       3p: pasaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have passed, passed'}
       1s: haya pasado
       1p: hayamos pasado
@@ -145,8 +145,8 @@ pasar:
       3s: haya pasado
       3p: hayan pasado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have passed}
       1s: hubiere pasado
       1p: hubiéremos pasado
@@ -155,8 +155,8 @@ pasar:
       3s: hubiere pasado
       3p: hubieren pasado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had passed}
       1s: hubiera pasado
       1p: hubiéramos pasado
@@ -165,8 +165,8 @@ pasar:
       3s: hubiera pasado
       3p: hubieran pasado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Pass! Don't pass!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ pasar:
       3s: pase
       3p: pasen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Pass! Don't pass!}
       1s: ''
       1p: ''

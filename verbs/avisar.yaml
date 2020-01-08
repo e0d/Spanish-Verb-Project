@@ -2,11 +2,11 @@ avisar:
   infinitive: avisar
   gerund: avisando
   pastparticiple: avisado
-  definitions: {en: 'to warn, inform, notify'}
-  tenses:
+  definition: {en: 'to warn, inform, notify'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I warn, am warning'}
       1s: aviso
       1p: avisamos
@@ -15,8 +15,8 @@ avisar:
       3s: avisa
       3p: avisan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will warn}
       1s: avisaré
       1p: avisaremos
@@ -25,8 +25,8 @@ avisar:
       3s: avisará
       3p: avisarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was warning, used to warn, warned'}
       1s: avisaba
       1p: avisábamos
@@ -35,8 +35,8 @@ avisar:
       3s: avisaba
       3p: avisaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I warned}
       1s: avisé
       1p: avisamos
@@ -45,8 +45,8 @@ avisar:
       3s: avisó
       3p: avisaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would warn}
       1s: avisaría
       1p: avisaríamos
@@ -55,8 +55,8 @@ avisar:
       3s: avisaría
       3p: avisarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have warned}
       1s: he avisado
       1p: hemos avisado
@@ -65,8 +65,8 @@ avisar:
       3s: ha avisado
       3p: han avisado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have warned}
       1s: habré avisado
       1p: habremos avisado
@@ -75,8 +75,8 @@ avisar:
       3s: habrá avisado
       3p: habrán avisado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had warned}
       1s: había avisado
       1p: habíamos avisado
@@ -85,8 +85,8 @@ avisar:
       3s: había avisado
       3p: habían avisado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had warned}
       1s: hube avisado
       1p: hubimos avisado
@@ -95,8 +95,8 @@ avisar:
       3s: hubo avisado
       3p: hubieron avisado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have warned}
       1s: habría avisado
       1p: habríamos avisado
@@ -105,8 +105,8 @@ avisar:
       3s: habría avisado
       3p: habrían avisado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I warn, am warning'}
       1s: avise
       1p: avisemos
@@ -115,8 +115,8 @@ avisar:
       3s: avise
       3p: avisen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I warned, was warning'}
       1s: avisara
       1p: avisáramos
@@ -125,8 +125,8 @@ avisar:
       3s: avisara
       3p: avisaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will warn}
       1s: avisare
       1p: avisáremos
@@ -135,8 +135,8 @@ avisar:
       3s: avisare
       3p: avisaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have warned, warned'}
       1s: haya avisado
       1p: hayamos avisado
@@ -145,8 +145,8 @@ avisar:
       3s: haya avisado
       3p: hayan avisado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have warned}
       1s: hubiere avisado
       1p: hubiéremos avisado
@@ -155,8 +155,8 @@ avisar:
       3s: hubiere avisado
       3p: hubieren avisado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had warned}
       1s: hubiera avisado
       1p: hubiéramos avisado
@@ -165,8 +165,8 @@ avisar:
       3s: hubiera avisado
       3p: hubieran avisado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Warn! Don't warn!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ avisar:
       3s: avise
       3p: avisen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Warn! Don't warn!}
       1s: ''
       1p: ''

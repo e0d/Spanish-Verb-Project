@@ -2,11 +2,11 @@ alegrar:
   infinitive: alegrar
   gerund: alegrando
   pastparticiple: alegrado
-  definitions: {en: 'to make happy, cheer [up], gladden'}
-  tenses:
+  definition: {en: 'to make happy, cheer [up], gladden'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I make happy, am making happy'}
       1s: alegro
       1p: alegramos
@@ -15,8 +15,8 @@ alegrar:
       3s: alegra
       3p: alegran
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will make happy}
       1s: alegraré
       1p: alegraremos
@@ -25,8 +25,8 @@ alegrar:
       3s: alegrará
       3p: alegrarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was making happy, used to make happy, made happy'}
       1s: alegraba
       1p: alegrábamos
@@ -35,8 +35,8 @@ alegrar:
       3s: alegraba
       3p: alegraban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I made happy}
       1s: alegré
       1p: alegramos
@@ -45,8 +45,8 @@ alegrar:
       3s: alegró
       3p: alegraron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would make happy}
       1s: alegraría
       1p: alegraríamos
@@ -55,8 +55,8 @@ alegrar:
       3s: alegraría
       3p: alegrarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have made happy}
       1s: he alegrado
       1p: hemos alegrado
@@ -65,8 +65,8 @@ alegrar:
       3s: ha alegrado
       3p: han alegrado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have made happy}
       1s: habré alegrado
       1p: habremos alegrado
@@ -75,8 +75,8 @@ alegrar:
       3s: habrá alegrado
       3p: habrán alegrado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had made happy}
       1s: había alegrado
       1p: habíamos alegrado
@@ -85,8 +85,8 @@ alegrar:
       3s: había alegrado
       3p: habían alegrado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had made happy}
       1s: hube alegrado
       1p: hubimos alegrado
@@ -95,8 +95,8 @@ alegrar:
       3s: hubo alegrado
       3p: hubieron alegrado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have made happy}
       1s: habría alegrado
       1p: habríamos alegrado
@@ -105,8 +105,8 @@ alegrar:
       3s: habría alegrado
       3p: habrían alegrado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I make happy, am making happy'}
       1s: alegre
       1p: alegremos
@@ -115,8 +115,8 @@ alegrar:
       3s: alegre
       3p: alegren
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I made happy, was making happy'}
       1s: alegrara
       1p: alegráramos
@@ -125,8 +125,8 @@ alegrar:
       3s: alegrara
       3p: alegraran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will make happy}
       1s: alegrare
       1p: alegráremos
@@ -135,8 +135,8 @@ alegrar:
       3s: alegrare
       3p: alegraren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have made happy, made happy'}
       1s: haya alegrado
       1p: hayamos alegrado
@@ -145,8 +145,8 @@ alegrar:
       3s: haya alegrado
       3p: hayan alegrado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have made happy}
       1s: hubiere alegrado
       1p: hubiéremos alegrado
@@ -155,8 +155,8 @@ alegrar:
       3s: hubiere alegrado
       3p: hubieren alegrado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had made happy}
       1s: hubiera alegrado
       1p: hubiéramos alegrado
@@ -165,8 +165,8 @@ alegrar:
       3s: hubiera alegrado
       3p: hubieran alegrado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Make happy! Don't make happy!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ alegrar:
       3s: alegre
       3p: alegren
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Make happy! Don't make happy!}
       1s: ''
       1p: ''

@@ -2,11 +2,11 @@ extinguir:
   infinitive: extinguir
   gerund: extinguiendo
   pastparticiple: extinguido
-  definitions: {en: 'to extinguish, put out'}
-  tenses:
+  definition: {en: 'to extinguish, put out'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I extinguish, am extinguishing'}
       1s: extingo
       1p: extinguimos
@@ -15,8 +15,8 @@ extinguir:
       3s: extingue
       3p: extinguen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will extinguish}
       1s: extinguiré
       1p: extinguiremos
@@ -25,8 +25,8 @@ extinguir:
       3s: extinguirá
       3p: extinguirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was extinguishing, used to extinguish, extinguished'}
       1s: extinguía
       1p: extinguíamos
@@ -35,8 +35,8 @@ extinguir:
       3s: extinguía
       3p: extinguían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I extinguished}
       1s: extinguí
       1p: extinguimos
@@ -45,8 +45,8 @@ extinguir:
       3s: extinguió
       3p: extinguieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would extinguish}
       1s: extinguiría
       1p: extinguiríamos
@@ -55,8 +55,8 @@ extinguir:
       3s: extinguiría
       3p: extinguirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have extinguished}
       1s: he extinguido
       1p: hemos extinguido
@@ -65,8 +65,8 @@ extinguir:
       3s: ha extinguido
       3p: han extinguido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have extinguished}
       1s: habré extinguido
       1p: habremos extinguido
@@ -75,8 +75,8 @@ extinguir:
       3s: habrá extinguido
       3p: habrán extinguido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had extinguished}
       1s: había extinguido
       1p: habíamos extinguido
@@ -85,8 +85,8 @@ extinguir:
       3s: había extinguido
       3p: habían extinguido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had extinguished}
       1s: hube extinguido
       1p: hubimos extinguido
@@ -95,8 +95,8 @@ extinguir:
       3s: hubo extinguido
       3p: hubieron extinguido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have extinguished}
       1s: habría extinguido
       1p: habríamos extinguido
@@ -105,8 +105,8 @@ extinguir:
       3s: habría extinguido
       3p: habrían extinguido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I extinguish, am extinguishing'}
       1s: extinga
       1p: extingamos
@@ -115,8 +115,8 @@ extinguir:
       3s: extinga
       3p: extingan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I extinguished, was extinguishing'}
       1s: extinguiera
       1p: extinguiéramos
@@ -125,8 +125,8 @@ extinguir:
       3s: extinguiera
       3p: extinguieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will extinguish}
       1s: extinguiere
       1p: extinguiéremos
@@ -135,8 +135,8 @@ extinguir:
       3s: extinguiere
       3p: extinguieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have extinguished, extinguished'}
       1s: haya extinguido
       1p: hayamos extinguido
@@ -145,8 +145,8 @@ extinguir:
       3s: haya extinguido
       3p: hayan extinguido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have extinguished}
       1s: hubiere extinguido
       1p: hubiéremos extinguido
@@ -155,8 +155,8 @@ extinguir:
       3s: hubiere extinguido
       3p: hubieren extinguido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had extinguished}
       1s: hubiera extinguido
       1p: hubiéramos extinguido
@@ -165,8 +165,8 @@ extinguir:
       3s: hubiera extinguido
       3p: hubieran extinguido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: extinguish! Don't extinguish!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ extinguir:
       3s: extinga
       3p: extingan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: extinguish! Don't extinguish!}
       1s: ''
       1p: ''

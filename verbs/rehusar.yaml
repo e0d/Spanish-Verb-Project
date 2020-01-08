@@ -2,11 +2,11 @@ rehusar:
   infinitive: rehusar
   gerund: rehusando
   pastparticiple: rehusado
-  definitions: {en: to refuse}
-  tenses:
+  definition: {en: to refuse}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I refuse, am refusing'}
       1s: rehúso
       1p: rehusamos
@@ -15,8 +15,8 @@ rehusar:
       3s: rehúsa
       3p: rehúsan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will refuse}
       1s: rehusaré
       1p: rehusaremos
@@ -25,8 +25,8 @@ rehusar:
       3s: rehusará
       3p: rehusarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was refusing, used to refused, refused'}
       1s: rehusaba
       1p: rehusábamos
@@ -35,8 +35,8 @@ rehusar:
       3s: rehusaba
       3p: rehusaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I refused}
       1s: rehusé
       1p: rehusamos
@@ -45,8 +45,8 @@ rehusar:
       3s: rehusó
       3p: rehusaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would refuse}
       1s: rehusaría
       1p: rehusaríamos
@@ -55,8 +55,8 @@ rehusar:
       3s: rehusaría
       3p: rehusarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have refused}
       1s: he rehusado
       1p: hemos rehusado
@@ -65,8 +65,8 @@ rehusar:
       3s: ha rehusado
       3p: han rehusado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have refused}
       1s: habré rehusado
       1p: habremos rehusado
@@ -75,8 +75,8 @@ rehusar:
       3s: habrá rehusado
       3p: habrán rehusado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had refused}
       1s: había rehusado
       1p: habíamos rehusado
@@ -85,8 +85,8 @@ rehusar:
       3s: había rehusado
       3p: habían rehusado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had refused}
       1s: hube rehusado
       1p: hubimos rehusado
@@ -95,8 +95,8 @@ rehusar:
       3s: hubo rehusado
       3p: hubieron rehusado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have refused}
       1s: habría rehusado
       1p: habríamos rehusado
@@ -105,8 +105,8 @@ rehusar:
       3s: habría rehusado
       3p: habrían rehusado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I refuse, am refusing'}
       1s: rehúse
       1p: rehusemos
@@ -115,8 +115,8 @@ rehusar:
       3s: rehúse
       3p: rehúsen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I refused, was refusing'}
       1s: rehusara
       1p: rehusáramos
@@ -125,8 +125,8 @@ rehusar:
       3s: rehusara
       3p: rehusaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will refuse}
       1s: rehusare
       1p: rehusáremos
@@ -135,8 +135,8 @@ rehusar:
       3s: rehusare
       3p: rehusaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have refused, refused'}
       1s: haya rehusado
       1p: hayamos rehusado
@@ -145,8 +145,8 @@ rehusar:
       3s: haya rehusado
       3p: hayan rehusado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have refused}
       1s: hubiere rehusado
       1p: hubiéremos rehusado
@@ -155,8 +155,8 @@ rehusar:
       3s: hubiere rehusado
       3p: hubieren rehusado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had refused}
       1s: hubiera rehusado
       1p: hubiéramos rehusado
@@ -165,8 +165,8 @@ rehusar:
       3s: hubiera rehusado
       3p: hubieran rehusado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Refuse! Don't refuse!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ rehusar:
       3s: rehúse
       3p: rehúsen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Refuse! Don't refuse!}
       1s: ''
       1p: ''

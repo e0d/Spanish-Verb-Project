@@ -2,11 +2,11 @@ deber:
   infinitive: deber
   gerund: debiendo
   pastparticiple: debido
-  definitions: {en: 'to owe; must, should, ought to'}
-  tenses:
+  definition: {en: 'to owe; must, should, ought to'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I owe, am owing'}
       1s: debo
       1p: debemos
@@ -15,8 +15,8 @@ deber:
       3s: debe
       3p: deben
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will owe}
       1s: deberé
       1p: deberemos
@@ -25,8 +25,8 @@ deber:
       3s: deberá
       3p: deberán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was owing, used to owe, owed'}
       1s: debía
       1p: debíamos
@@ -35,8 +35,8 @@ deber:
       3s: debía
       3p: debían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I owed}
       1s: debí
       1p: debimos
@@ -45,8 +45,8 @@ deber:
       3s: debió
       3p: debieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would owe}
       1s: debería
       1p: deberíamos
@@ -55,8 +55,8 @@ deber:
       3s: debería
       3p: deberían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have owed}
       1s: he debido
       1p: hemos debido
@@ -65,8 +65,8 @@ deber:
       3s: ha debido
       3p: han debido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have owed}
       1s: habré debido
       1p: habremos debido
@@ -75,8 +75,8 @@ deber:
       3s: habrá debido
       3p: habrán debido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had owed}
       1s: había debido
       1p: habíamos debido
@@ -85,8 +85,8 @@ deber:
       3s: había debido
       3p: habían debido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had owed}
       1s: hube debido
       1p: hubimos debido
@@ -95,8 +95,8 @@ deber:
       3s: hubo debido
       3p: hubieron debido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have owed}
       1s: habría debido
       1p: habríamos debido
@@ -105,8 +105,8 @@ deber:
       3s: habría debido
       3p: habrían debido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I owe, am owing'}
       1s: deba
       1p: debamos
@@ -115,8 +115,8 @@ deber:
       3s: deba
       3p: deban
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I owed, was owing'}
       1s: debiera
       1p: debiéramos
@@ -125,8 +125,8 @@ deber:
       3s: debiera
       3p: debieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will owe}
       1s: debiere
       1p: debiéremos
@@ -135,8 +135,8 @@ deber:
       3s: debiere
       3p: debieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have owed, owed'}
       1s: haya debido
       1p: hayamos debido
@@ -145,8 +145,8 @@ deber:
       3s: haya debido
       3p: hayan debido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have owed}
       1s: hubiere debido
       1p: hubiéremos debido
@@ -155,8 +155,8 @@ deber:
       3s: hubiere debido
       3p: hubieren debido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had owed}
       1s: hubiera debido
       1p: hubiéramos debido
@@ -165,8 +165,8 @@ deber:
       3s: hubiera debido
       3p: hubieran debido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Owe! Don't owe!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ deber:
       3s: deba
       3p: deban
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Owe! Don't owe!}
       1s: ''
       1p: ''

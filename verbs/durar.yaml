@@ -2,11 +2,11 @@ durar:
   infinitive: durar
   gerund: durando
   pastparticiple: durado
-  definitions: {en: 'to last, go on, continue'}
-  tenses:
+  definition: {en: 'to last, go on, continue'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I last, am lasting'}
       1s: duro
       1p: duramos
@@ -15,8 +15,8 @@ durar:
       3s: dura
       3p: duran
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will last}
       1s: duraré
       1p: duraremos
@@ -25,8 +25,8 @@ durar:
       3s: durará
       3p: durarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was lasting, used to last, lasted'}
       1s: duraba
       1p: durábamos
@@ -35,8 +35,8 @@ durar:
       3s: duraba
       3p: duraban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I lasted}
       1s: duré
       1p: duramos
@@ -45,8 +45,8 @@ durar:
       3s: duró
       3p: duraron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would last}
       1s: duraría
       1p: duraríamos
@@ -55,8 +55,8 @@ durar:
       3s: duraría
       3p: durarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have lasted}
       1s: he durado
       1p: hemos durado
@@ -65,8 +65,8 @@ durar:
       3s: ha durado
       3p: han durado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have lasted}
       1s: habré durado
       1p: habremos durado
@@ -75,8 +75,8 @@ durar:
       3s: habrá durado
       3p: habrán durado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had lasted}
       1s: había durado
       1p: habíamos durado
@@ -85,8 +85,8 @@ durar:
       3s: había durado
       3p: habían durado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had lasted}
       1s: hube durado
       1p: hubimos durado
@@ -95,8 +95,8 @@ durar:
       3s: hubo durado
       3p: hubieron durado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have lasted}
       1s: habría durado
       1p: habríamos durado
@@ -105,8 +105,8 @@ durar:
       3s: habría durado
       3p: habrían durado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I last, am lasting'}
       1s: dure
       1p: duremos
@@ -115,8 +115,8 @@ durar:
       3s: dure
       3p: duren
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I lasted, was lasting'}
       1s: durara
       1p: duráramos
@@ -125,8 +125,8 @@ durar:
       3s: durara
       3p: duraran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will last}
       1s: durare
       1p: duráremos
@@ -135,8 +135,8 @@ durar:
       3s: durare
       3p: duraren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have lasted, lasted'}
       1s: haya durado
       1p: hayamos durado
@@ -145,8 +145,8 @@ durar:
       3s: haya durado
       3p: hayan durado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have lasted}
       1s: hubiere durado
       1p: hubiéremos durado
@@ -155,8 +155,8 @@ durar:
       3s: hubiere durado
       3p: hubieren durado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had lasted}
       1s: hubiera durado
       1p: hubiéramos durado
@@ -165,8 +165,8 @@ durar:
       3s: hubiera durado
       3p: hubieran durado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Last! Don't last!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ durar:
       3s: dure
       3p: duren
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Last! Don't last!}
       1s: ''
       1p: ''

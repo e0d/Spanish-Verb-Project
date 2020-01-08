@@ -2,11 +2,11 @@ acabar:
   infinitive: acabar
   gerund: acabando
   pastparticiple: acabado
-  definitions: {en: 'to finish, end'}
-  tenses:
+  definition: {en: 'to finish, end'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I finish, am finishing'}
       1s: acabo
       1p: acabamos
@@ -15,8 +15,8 @@ acabar:
       3s: acaba
       3p: acaban
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will finish}
       1s: acabaré
       1p: acabaremos
@@ -25,8 +25,8 @@ acabar:
       3s: acabará
       3p: acabarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was finishing, used to finish, finished'}
       1s: acababa
       1p: acabábamos
@@ -35,8 +35,8 @@ acabar:
       3s: acababa
       3p: acababan
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I finished}
       1s: acabé
       1p: acabamos
@@ -45,8 +45,8 @@ acabar:
       3s: acabó
       3p: acabaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would finish}
       1s: acabaría
       1p: acabaríamos
@@ -55,8 +55,8 @@ acabar:
       3s: acabaría
       3p: acabarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have finished}
       1s: he acabado
       1p: hemos acabado
@@ -65,8 +65,8 @@ acabar:
       3s: ha acabado
       3p: han acabado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have finished}
       1s: habré acabado
       1p: habremos acabado
@@ -75,8 +75,8 @@ acabar:
       3s: habrá acabado
       3p: habrán acabado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had finished}
       1s: había acabado
       1p: habíamos acabado
@@ -85,8 +85,8 @@ acabar:
       3s: había acabado
       3p: habían acabado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had finished}
       1s: hube acabado
       1p: hubimos acabado
@@ -95,8 +95,8 @@ acabar:
       3s: hubo acabado
       3p: hubieron acabado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have finished}
       1s: habría acabado
       1p: habríamos acabado
@@ -105,8 +105,8 @@ acabar:
       3s: habría acabado
       3p: habrían acabado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I finish, am finishing'}
       1s: acabe
       1p: acabemos
@@ -115,8 +115,8 @@ acabar:
       3s: acabe
       3p: acaben
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I finished, was finishing'}
       1s: acabara
       1p: acabáramos
@@ -125,8 +125,8 @@ acabar:
       3s: acabara
       3p: acabaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will finish}
       1s: acabare
       1p: acabáremos
@@ -135,8 +135,8 @@ acabar:
       3s: acabare
       3p: acabaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have finished, finished'}
       1s: haya acabado
       1p: hayamos acabado
@@ -145,8 +145,8 @@ acabar:
       3s: haya acabado
       3p: hayan acabado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have finished}
       1s: hubiere acabado
       1p: hubiéremos acabado
@@ -155,8 +155,8 @@ acabar:
       3s: hubiere acabado
       3p: hubieren acabado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had finished}
       1s: hubiera acabado
       1p: hubiéramos acabado
@@ -165,8 +165,8 @@ acabar:
       3s: hubiera acabado
       3p: hubieran acabado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Finish! Don't finish!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ acabar:
       3s: acabe
       3p: acaben
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Finish! Don't finish!}
       1s: ''
       1p: ''

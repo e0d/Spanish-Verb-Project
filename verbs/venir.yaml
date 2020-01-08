@@ -2,11 +2,11 @@ venir:
   infinitive: venir
   gerund: viniendo
   pastparticiple: venido
-  definitions: {en: to come}
-  tenses:
+  definition: {en: to come}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I come, am coming'}
       1s: vengo
       1p: venimos
@@ -15,8 +15,8 @@ venir:
       3s: viene
       3p: vienen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will come}
       1s: vendré
       1p: vendremos
@@ -25,8 +25,8 @@ venir:
       3s: vendrá
       3p: vendrán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was coming, used to come, came'}
       1s: venía
       1p: veníamos
@@ -35,8 +35,8 @@ venir:
       3s: venía
       3p: venían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I came}
       1s: vine
       1p: vinimos
@@ -45,8 +45,8 @@ venir:
       3s: vino
       3p: vinieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would come}
       1s: vendría
       1p: vendríamos
@@ -55,8 +55,8 @@ venir:
       3s: vendría
       3p: vendrían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have come}
       1s: he venido
       1p: hemos venido
@@ -65,8 +65,8 @@ venir:
       3s: ha venido
       3p: han venido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have come}
       1s: habré venido
       1p: habremos venido
@@ -75,8 +75,8 @@ venir:
       3s: habrá venido
       3p: habrán venido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had come}
       1s: había venido
       1p: habíamos venido
@@ -85,8 +85,8 @@ venir:
       3s: había venido
       3p: habían venido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had come}
       1s: hube venido
       1p: hubimos venido
@@ -95,8 +95,8 @@ venir:
       3s: hubo venido
       3p: hubieron venido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have come}
       1s: habría venido
       1p: habríamos venido
@@ -105,8 +105,8 @@ venir:
       3s: habría venido
       3p: habrían venido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I come, am coming'}
       1s: venga
       1p: vengamos
@@ -115,8 +115,8 @@ venir:
       3s: venga
       3p: vengan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I came, was coming'}
       1s: viniera
       1p: viniéramos
@@ -125,8 +125,8 @@ venir:
       3s: viniera
       3p: vinieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will come}
       1s: viniere
       1p: viniéremos
@@ -135,8 +135,8 @@ venir:
       3s: viniere
       3p: vinieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have come, came'}
       1s: haya venido
       1p: hayamos venido
@@ -145,8 +145,8 @@ venir:
       3s: haya venido
       3p: hayan venido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have come}
       1s: hubiere venido
       1p: hubiéremos venido
@@ -155,8 +155,8 @@ venir:
       3s: hubiere venido
       3p: hubieren venido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had come}
       1s: hubiera venido
       1p: hubiéramos venido
@@ -165,8 +165,8 @@ venir:
       3s: hubiera venido
       3p: hubieran venido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Come! Don't come!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ venir:
       3s: venga
       3p: vengan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Come! Don't come!}
       1s: ''
       1p: ''

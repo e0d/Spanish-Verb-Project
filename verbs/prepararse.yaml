@@ -2,11 +2,11 @@ prepararse:
   infinitive: prepararse
   gerund: preparándose
   pastparticiple: preparado
-  definitions: {en: to get}
-  tenses:
+  definition: {en: to get}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I get ready, am getting ready'}
       1s: me preparo
       1p: nos preparamos
@@ -15,8 +15,8 @@ prepararse:
       3s: se prepara
       3p: se preparan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will get ready}
       1s: me prepararé
       1p: nos prepararemos
@@ -25,8 +25,8 @@ prepararse:
       3s: se preparará
       3p: se prepararán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was getting ready, used to get ready, got ready'}
       1s: me preparaba
       1p: nos preparábamos
@@ -35,8 +35,8 @@ prepararse:
       3s: se preparaba
       3p: se preparaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I got ready}
       1s: me preparé
       1p: nos preparamos
@@ -45,8 +45,8 @@ prepararse:
       3s: se preparó
       3p: se prepararon
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would get ready}
       1s: me prepararía
       1p: nos prepararíamos
@@ -55,8 +55,8 @@ prepararse:
       3s: se prepararía
       3p: se prepararían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have gotten ready}
       1s: me he preparado
       1p: nos hemos preparado
@@ -65,8 +65,8 @@ prepararse:
       3s: se ha preparado
       3p: se han preparado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have gotten ready}
       1s: me habré preparado
       1p: nos habremos preparado
@@ -75,8 +75,8 @@ prepararse:
       3s: se habrá preparado
       3p: se habrán preparado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten ready}
       1s: me había preparado
       1p: nos habíamos preparado
@@ -85,8 +85,8 @@ prepararse:
       3s: se había preparado
       3p: se habían preparado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten ready}
       1s: me hube preparado
       1p: nos hubimos preparado
@@ -95,8 +95,8 @@ prepararse:
       3s: se hubo preparado
       3p: se hubieron preparado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have gotten ready}
       1s: me habría preparado
       1p: nos habríamos preparado
@@ -105,8 +105,8 @@ prepararse:
       3s: se habría preparado
       3p: se habrían preparado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I get ready, am getting ready'}
       1s: me prepare
       1p: nos preparemos
@@ -115,8 +115,8 @@ prepararse:
       3s: se prepare
       3p: se preparen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I got ready, was getting ready'}
       1s: me preparara
       1p: nos preparáramos
@@ -125,8 +125,8 @@ prepararse:
       3s: se preparara
       3p: se prepararan
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will get ready}
       1s: me preparare
       1p: nos preparáremos
@@ -135,8 +135,8 @@ prepararse:
       3s: se preparare
       3p: se prepararen
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have gotten ready, got ready'}
       1s: me haya preparado
       1p: nos hayamos preparado
@@ -145,8 +145,8 @@ prepararse:
       3s: se haya preparado
       3p: se hayan preparado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have gotten ready}
       1s: me hubiere preparado
       1p: nos hubiéremos preparado
@@ -155,8 +155,8 @@ prepararse:
       3s: se hubiere preparado
       3p: se hubieren preparado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had gotten ready}
       1s: me hubiera preparado
       1p: nos hubiéramos preparado
@@ -165,8 +165,8 @@ prepararse:
       3s: se hubiera preparado
       3p: se hubieran preparado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Get ready! Don't get ready!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ prepararse:
       3s: prepárese
       3p: prepárense
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Get ready! Don't get ready!}
       1s: ''
       1p: ''

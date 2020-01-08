@@ -2,11 +2,11 @@ fabricar:
   infinitive: fabricar
   gerund: fabricando
   pastparticiple: fabricado
-  definitions: {en: to manufacture}
-  tenses:
+  definition: {en: to manufacture}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I manufacture, am manufacturing'}
       1s: fabrico
       1p: fabricamos
@@ -15,8 +15,8 @@ fabricar:
       3s: fabrica
       3p: fabrican
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will manufacture}
       1s: fabricaré
       1p: fabricaremos
@@ -25,8 +25,8 @@ fabricar:
       3s: fabricará
       3p: fabricarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was manufacturing, used to manufacture, manufactured'}
       1s: fabricaba
       1p: fabricábamos
@@ -35,8 +35,8 @@ fabricar:
       3s: fabricaba
       3p: fabricaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I manufactured}
       1s: fabriqué
       1p: fabricamos
@@ -45,8 +45,8 @@ fabricar:
       3s: fabricó
       3p: fabricaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would manufacture}
       1s: fabricaría
       1p: fabricaríamos
@@ -55,8 +55,8 @@ fabricar:
       3s: fabricaría
       3p: fabricarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have manufactured}
       1s: he fabricado
       1p: hemos fabricado
@@ -65,8 +65,8 @@ fabricar:
       3s: ha fabricado
       3p: han fabricado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have manufactured}
       1s: habré fabricado
       1p: habremos fabricado
@@ -75,8 +75,8 @@ fabricar:
       3s: habrá fabricado
       3p: habrán fabricado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had manufactured}
       1s: había fabricado
       1p: habíamos fabricado
@@ -85,8 +85,8 @@ fabricar:
       3s: había fabricado
       3p: habían fabricado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had manufactured}
       1s: hube fabricado
       1p: hubimos fabricado
@@ -95,8 +95,8 @@ fabricar:
       3s: hubo fabricado
       3p: hubieron fabricado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have manufactured}
       1s: habría fabricado
       1p: habríamos fabricado
@@ -105,8 +105,8 @@ fabricar:
       3s: habría fabricado
       3p: habrían fabricado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I manufacture, am manufacturing'}
       1s: fabrique
       1p: fabriquemos
@@ -115,8 +115,8 @@ fabricar:
       3s: fabrique
       3p: fabriquen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I manufactured, was manufacturing'}
       1s: fabricara
       1p: fabricáramos
@@ -125,8 +125,8 @@ fabricar:
       3s: fabricara
       3p: fabricaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will manufacture}
       1s: fabricare
       1p: fabricáremos
@@ -135,8 +135,8 @@ fabricar:
       3s: fabricare
       3p: fabricaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have manufactured, manufactured'}
       1s: haya fabricado
       1p: hayamos fabricado
@@ -145,8 +145,8 @@ fabricar:
       3s: haya fabricado
       3p: hayan fabricado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have manufactured}
       1s: hubiere fabricado
       1p: hubiéremos fabricado
@@ -155,8 +155,8 @@ fabricar:
       3s: hubiere fabricado
       3p: hubieren fabricado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had manufactured}
       1s: hubiera fabricado
       1p: hubiéramos fabricado
@@ -165,8 +165,8 @@ fabricar:
       3s: hubiera fabricado
       3p: hubieran fabricado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Manufacture! Don't manufacture!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ fabricar:
       3s: fabrique
       3p: fabriquen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Manufacture! Don't manufacture!}
       1s: ''
       1p: ''

@@ -2,11 +2,11 @@ inventar:
   infinitive: inventar
   gerund: inventando
   pastparticiple: inventado
-  definitions: {en: to invent}
-  tenses:
+  definition: {en: to invent}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I invent, am inventing'}
       1s: invento
       1p: inventamos
@@ -15,8 +15,8 @@ inventar:
       3s: inventa
       3p: inventan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will invent}
       1s: inventaré
       1p: inventaremos
@@ -25,8 +25,8 @@ inventar:
       3s: inventará
       3p: inventarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was inventing, used to invent, invented'}
       1s: inventaba
       1p: inventábamos
@@ -35,8 +35,8 @@ inventar:
       3s: inventaba
       3p: inventaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I invented}
       1s: inventé
       1p: inventamos
@@ -45,8 +45,8 @@ inventar:
       3s: inventó
       3p: inventaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would invent}
       1s: inventaría
       1p: inventaríamos
@@ -55,8 +55,8 @@ inventar:
       3s: inventaría
       3p: inventarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have invented}
       1s: he inventado
       1p: hemos inventado
@@ -65,8 +65,8 @@ inventar:
       3s: ha inventado
       3p: han inventado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have invented}
       1s: habré inventado
       1p: habremos inventado
@@ -75,8 +75,8 @@ inventar:
       3s: habrá inventado
       3p: habrán inventado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had invented}
       1s: había inventado
       1p: habíamos inventado
@@ -85,8 +85,8 @@ inventar:
       3s: había inventado
       3p: habían inventado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had invented}
       1s: hube inventado
       1p: hubimos inventado
@@ -95,8 +95,8 @@ inventar:
       3s: hubo inventado
       3p: hubieron inventado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have invented}
       1s: habría inventado
       1p: habríamos inventado
@@ -105,8 +105,8 @@ inventar:
       3s: habría inventado
       3p: habrían inventado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I invent, am inventing'}
       1s: invente
       1p: inventemos
@@ -115,8 +115,8 @@ inventar:
       3s: invente
       3p: inventen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I invented, was inventing'}
       1s: inventara
       1p: inventáramos
@@ -125,8 +125,8 @@ inventar:
       3s: inventara
       3p: inventaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will invent}
       1s: inventare
       1p: inventáremos
@@ -135,8 +135,8 @@ inventar:
       3s: inventare
       3p: inventaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have invented, invented'}
       1s: haya inventado
       1p: hayamos inventado
@@ -145,8 +145,8 @@ inventar:
       3s: haya inventado
       3p: hayan inventado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have invented}
       1s: hubiere inventado
       1p: hubiéremos inventado
@@ -155,8 +155,8 @@ inventar:
       3s: hubiere inventado
       3p: hubieren inventado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had invented}
       1s: hubiera inventado
       1p: hubiéramos inventado
@@ -165,8 +165,8 @@ inventar:
       3s: hubiera inventado
       3p: hubieran inventado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Invent! Don't invent!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ inventar:
       3s: invente
       3p: inventen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Invent! Don't invent!}
       1s: ''
       1p: ''

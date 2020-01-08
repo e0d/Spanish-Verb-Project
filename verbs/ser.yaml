@@ -2,11 +2,11 @@ ser:
   infinitive: ser
   gerund: siendo
   pastparticiple: sido
-  definitions: {en: to be}
-  tenses:
+  definition: {en: to be}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I am}
       1s: soy
       1p: somos
@@ -15,8 +15,8 @@ ser:
       3s: es
       3p: son
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will be}
       1s: seré
       1p: seremos
@@ -25,8 +25,8 @@ ser:
       3s: será
       3p: serán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I used to be, was'}
       1s: era
       1p: éramos
@@ -35,8 +35,8 @@ ser:
       3s: era
       3p: eran
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I was}
       1s: fui
       1p: fuimos
@@ -45,8 +45,8 @@ ser:
       3s: fue
       3p: fueron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would be}
       1s: sería
       1p: seríamos
@@ -55,8 +55,8 @@ ser:
       3s: sería
       3p: serían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have been}
       1s: he sido
       1p: hemos sido
@@ -65,8 +65,8 @@ ser:
       3s: ha sido
       3p: han sido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have been}
       1s: habré sido
       1p: habremos sido
@@ -75,8 +75,8 @@ ser:
       3s: habrá sido
       3p: habrán sido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had been}
       1s: había sido
       1p: habíamos sido
@@ -85,8 +85,8 @@ ser:
       3s: había sido
       3p: habían sido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had been}
       1s: hube sido
       1p: hubimos sido
@@ -95,8 +95,8 @@ ser:
       3s: hubo sido
       3p: hubieron sido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have been}
       1s: habría sido
       1p: habríamos sido
@@ -105,8 +105,8 @@ ser:
       3s: habría sido
       3p: habrían sido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I am}
       1s: sea
       1p: seamos
@@ -115,8 +115,8 @@ ser:
       3s: sea
       3p: sean
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I was, was being, were'}
       1s: fuera
       1p: fuéramos
@@ -125,8 +125,8 @@ ser:
       3s: fuera
       3p: fueran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will be}
       1s: fuere
       1p: fuéremos
@@ -135,8 +135,8 @@ ser:
       3s: fuere
       3p: fueren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have been, was'}
       1s: haya sido
       1p: hayamos sido
@@ -145,8 +145,8 @@ ser:
       3s: haya sido
       3p: hayan sido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have been}
       1s: hubiere sido
       1p: hubiéremos sido
@@ -155,8 +155,8 @@ ser:
       3s: hubiere sido
       3p: hubieren sido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had been}
       1s: hubiera sido
       1p: hubiéramos sido
@@ -165,8 +165,8 @@ ser:
       3s: hubiera sido
       3p: hubieran sido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Be! Don't be!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ ser:
       3s: sea
       3p: sean
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Be! Don't be!}
       1s: ''
       1p: ''

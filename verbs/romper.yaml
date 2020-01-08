@@ -2,11 +2,11 @@ romper:
   infinitive: romper
   gerund: rompiendo
   pastparticiple: roto
-  definitions: {en: to break}
-  tenses:
+  definition: {en: to break}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I break, am breaking'}
       1s: rompo
       1p: rompemos
@@ -15,8 +15,8 @@ romper:
       3s: rompe
       3p: rompen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will break}
       1s: romperé
       1p: romperemos
@@ -25,8 +25,8 @@ romper:
       3s: romperá
       3p: romperán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was breaking, used to break, broke'}
       1s: rompía
       1p: rompíamos
@@ -35,8 +35,8 @@ romper:
       3s: rompía
       3p: rompían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I broke}
       1s: rompí
       1p: rompimos
@@ -45,8 +45,8 @@ romper:
       3s: rompió
       3p: rompieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would break}
       1s: rompería
       1p: romperíamos
@@ -55,8 +55,8 @@ romper:
       3s: rompería
       3p: romperían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have broken}
       1s: he roto
       1p: hemos roto
@@ -65,8 +65,8 @@ romper:
       3s: ha roto
       3p: han roto
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have broken}
       1s: habré roto
       1p: habremos roto
@@ -75,8 +75,8 @@ romper:
       3s: habrá roto
       3p: habrán roto
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had broken}
       1s: había roto
       1p: habíamos roto
@@ -85,8 +85,8 @@ romper:
       3s: había roto
       3p: habían roto
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had broken}
       1s: hube roto
       1p: hubimos roto
@@ -95,8 +95,8 @@ romper:
       3s: hubo roto
       3p: hubieron roto
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have broken}
       1s: habría roto
       1p: habríamos roto
@@ -105,8 +105,8 @@ romper:
       3s: habría roto
       3p: habrían roto
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I break, am breaking'}
       1s: rompa
       1p: rompamos
@@ -115,8 +115,8 @@ romper:
       3s: rompa
       3p: rompan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I broke, was breaking'}
       1s: rompiera
       1p: rompiéramos
@@ -125,8 +125,8 @@ romper:
       3s: rompiera
       3p: rompieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will break}
       1s: rompiere
       1p: rompiéremos
@@ -135,8 +135,8 @@ romper:
       3s: rompiere
       3p: rompieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have broken, broke'}
       1s: haya roto
       1p: hayamos roto
@@ -145,8 +145,8 @@ romper:
       3s: haya roto
       3p: hayan roto
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have broken}
       1s: hubiere roto
       1p: hubiéremos roto
@@ -155,8 +155,8 @@ romper:
       3s: hubiere roto
       3p: hubieren roto
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had broken}
       1s: hubiera roto
       1p: hubiéramos roto
@@ -165,8 +165,8 @@ romper:
       3s: hubiera roto
       3p: hubieran roto
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Break! Don't break!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ romper:
       3s: rompa
       3p: rompan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Break! Don't break!}
       1s: ''
       1p: ''

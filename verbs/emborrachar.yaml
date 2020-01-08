@@ -2,11 +2,11 @@ emborrachar:
   infinitive: emborrachar
   gerund: emborrachando
   pastparticiple: emborrachado
-  definitions: {en: 'to make drunk, intoxicate; to get [someone] drunk'}
-  tenses:
+  definition: {en: 'to make drunk, intoxicate; to get [someone] drunk'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I make drunk, am making drunk'}
       1s: emborracho
       1p: emborrachamos
@@ -15,8 +15,8 @@ emborrachar:
       3s: emborracha
       3p: emborrachan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will make drunk}
       1s: emborracharé
       1p: emborracharemos
@@ -25,8 +25,8 @@ emborrachar:
       3s: emborrachará
       3p: emborracharán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was making drunk, used to make drunk, made drunk'}
       1s: emborrachaba
       1p: emborrachábamos
@@ -35,8 +35,8 @@ emborrachar:
       3s: emborrachaba
       3p: emborrachaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I made drunk}
       1s: emborraché
       1p: emborrachamos
@@ -45,8 +45,8 @@ emborrachar:
       3s: emborrachó
       3p: emborracharon
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would make drunk}
       1s: emborracharía
       1p: emborracharíamos
@@ -55,8 +55,8 @@ emborrachar:
       3s: emborracharía
       3p: emborracharían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have made drunk}
       1s: he emborrachado
       1p: hemos emborrachado
@@ -65,8 +65,8 @@ emborrachar:
       3s: ha emborrachado
       3p: han emborrachado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have made drunk}
       1s: habré emborrachado
       1p: habremos emborrachado
@@ -75,8 +75,8 @@ emborrachar:
       3s: habrá emborrachado
       3p: habrán emborrachado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had made drunk}
       1s: había emborrachado
       1p: habíamos emborrachado
@@ -85,8 +85,8 @@ emborrachar:
       3s: había emborrachado
       3p: habían emborrachado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had made drunk}
       1s: hube emborrachado
       1p: hubimos emborrachado
@@ -95,8 +95,8 @@ emborrachar:
       3s: hubo emborrachado
       3p: hubieron emborrachado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have made drunk}
       1s: habría emborrachado
       1p: habríamos emborrachado
@@ -105,8 +105,8 @@ emborrachar:
       3s: habría emborrachado
       3p: habrían emborrachado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I make drunk, am making drunk'}
       1s: emborrache
       1p: emborrachemos
@@ -115,8 +115,8 @@ emborrachar:
       3s: emborrache
       3p: emborrachen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I made drunk, was making drunk'}
       1s: emborrachara
       1p: emborracháramos
@@ -125,8 +125,8 @@ emborrachar:
       3s: emborrachara
       3p: emborracharan
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will make drunk}
       1s: emborrachare
       1p: emborracháremos
@@ -135,8 +135,8 @@ emborrachar:
       3s: emborrachare
       3p: emborracharen
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have made drunk, made drunk'}
       1s: haya emborrachado
       1p: hayamos emborrachado
@@ -145,8 +145,8 @@ emborrachar:
       3s: haya emborrachado
       3p: hayan emborrachado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have made drunk}
       1s: hubiere emborrachado
       1p: hubiéremos emborrachado
@@ -155,8 +155,8 @@ emborrachar:
       3s: hubiere emborrachado
       3p: hubieren emborrachado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had made drunk}
       1s: hubiera emborrachado
       1p: hubiéramos emborrachado
@@ -165,8 +165,8 @@ emborrachar:
       3s: hubiera emborrachado
       3p: hubieran emborrachado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Make drunk! Don't make drunk!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ emborrachar:
       3s: emborrache
       3p: emborrachen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Make drunk! Don't make drunk!}
       1s: ''
       1p: ''

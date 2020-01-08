@@ -2,11 +2,11 @@ sentarse:
   infinitive: sentarse
   gerund: sentándose
   pastparticiple: sentado
-  definitions: {en: 'to sit down, seat oneself'}
-  tenses:
+  definition: {en: 'to sit down, seat oneself'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I sit down, am sitting down'}
       1s: me siento
       1p: nos sentamos
@@ -15,8 +15,8 @@ sentarse:
       3s: se sienta
       3p: se sientan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will sit down}
       1s: me sentaré
       1p: nos sentaremos
@@ -25,8 +25,8 @@ sentarse:
       3s: se sentará
       3p: se sentarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was sitting down, used to sit down, sat down'}
       1s: me sentaba
       1p: nos sentábamos
@@ -35,8 +35,8 @@ sentarse:
       3s: se sentaba
       3p: se sentaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I sat down}
       1s: me senté
       1p: nos sentamos
@@ -45,8 +45,8 @@ sentarse:
       3s: se sentó
       3p: se sentaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would sit down}
       1s: me sentaría
       1p: nos sentaríamos
@@ -55,8 +55,8 @@ sentarse:
       3s: se sentaría
       3p: se sentarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have sat down}
       1s: me he sentado
       1p: nos hemos sentado
@@ -65,8 +65,8 @@ sentarse:
       3s: se ha sentado
       3p: se han sentado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have sat down}
       1s: me habré sentado
       1p: nos habremos sentado
@@ -75,8 +75,8 @@ sentarse:
       3s: se habrá sentado
       3p: se habrán sentado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had sat down}
       1s: me había sentado
       1p: nos habíamos sentado
@@ -85,8 +85,8 @@ sentarse:
       3s: se había sentado
       3p: se habían sentado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had sat down}
       1s: me hube sentado
       1p: nos hubimos sentado
@@ -95,8 +95,8 @@ sentarse:
       3s: se hubo sentado
       3p: se hubieron sentado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have sat down}
       1s: me habría sentado
       1p: nos habríamos sentado
@@ -105,8 +105,8 @@ sentarse:
       3s: se habría sentado
       3p: se habrían sentado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I sit down, am sitting down'}
       1s: me siente
       1p: nos sentemos
@@ -115,8 +115,8 @@ sentarse:
       3s: se siente
       3p: se sienten
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I sat down, was sitting down'}
       1s: me sentara
       1p: nos sentáramos
@@ -125,8 +125,8 @@ sentarse:
       3s: se sentara
       3p: se sentaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will sit down}
       1s: me sentare
       1p: nos sentáremos
@@ -135,8 +135,8 @@ sentarse:
       3s: se sentare
       3p: se sentaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have sat down, sat down'}
       1s: me haya sentado
       1p: nos hayamos sentado
@@ -145,8 +145,8 @@ sentarse:
       3s: se haya sentado
       3p: se hayan sentado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have sat down}
       1s: me hubiere sentado
       1p: nos hubiéremos sentado
@@ -155,8 +155,8 @@ sentarse:
       3s: se hubiere sentado
       3p: se hubieren sentado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had sat down}
       1s: me hubiera sentado
       1p: nos hubiéramos sentado
@@ -165,8 +165,8 @@ sentarse:
       3s: se hubiera sentado
       3p: se hubieran sentado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Sit down! Don't sit down!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ sentarse:
       3s: siéntese
       3p: siéntense
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Sit down! Don't sit down!}
       1s: ''
       1p: ''

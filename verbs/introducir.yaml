@@ -2,11 +2,11 @@ introducir:
   infinitive: introducir
   gerund: introduciendo
   pastparticiple: introducido
-  definitions: {en: 'to introduce, insert'}
-  tenses:
+  definition: {en: 'to introduce, insert'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I introduce, am introducing'}
       1s: introduzco
       1p: introducimos
@@ -15,8 +15,8 @@ introducir:
       3s: introduce
       3p: introducen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will introduce}
       1s: introduciré
       1p: introduciremos
@@ -25,8 +25,8 @@ introducir:
       3s: introducirá
       3p: introducirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was introducing, used to introduce, introduced'}
       1s: introducía
       1p: introducíamos
@@ -35,8 +35,8 @@ introducir:
       3s: introducía
       3p: introducían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I introduced}
       1s: introduje
       1p: introdujimos
@@ -45,8 +45,8 @@ introducir:
       3s: introdujo
       3p: introdujeron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would introduce}
       1s: introduciría
       1p: introduciríamos
@@ -55,8 +55,8 @@ introducir:
       3s: introduciría
       3p: introducirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have introduced}
       1s: he introducido
       1p: hemos introducido
@@ -65,8 +65,8 @@ introducir:
       3s: ha introducido
       3p: han introducido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have introduced}
       1s: habré introducido
       1p: habremos introducido
@@ -75,8 +75,8 @@ introducir:
       3s: habrá introducido
       3p: habrán introducido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had introduced}
       1s: había introducido
       1p: habíamos introducido
@@ -85,8 +85,8 @@ introducir:
       3s: había introducido
       3p: habían introducido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had introduced}
       1s: hube introducido
       1p: hubimos introducido
@@ -95,8 +95,8 @@ introducir:
       3s: hubo introducido
       3p: hubieron introducido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have introduced}
       1s: habría introducido
       1p: habríamos introducido
@@ -105,8 +105,8 @@ introducir:
       3s: habría introducido
       3p: habrían introducido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I introduce, am introducing'}
       1s: introduzca
       1p: introduzcamos
@@ -115,8 +115,8 @@ introducir:
       3s: introduzca
       3p: introduzcan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I introduced, was introducing'}
       1s: introdujera
       1p: introdujéramos
@@ -125,8 +125,8 @@ introducir:
       3s: introdujera
       3p: introdujeran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will introduce}
       1s: introdujere
       1p: introdujéremos
@@ -135,8 +135,8 @@ introducir:
       3s: introdujere
       3p: introdujeren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have introduced, introduced'}
       1s: haya introducido
       1p: hayamos introducido
@@ -145,8 +145,8 @@ introducir:
       3s: haya introducido
       3p: hayan introducido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have introduced}
       1s: hubiere introducido
       1p: hubiéremos introducido
@@ -155,8 +155,8 @@ introducir:
       3s: hubiere introducido
       3p: hubieren introducido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had introduced}
       1s: hubiera introducido
       1p: hubiéramos introducido
@@ -165,8 +165,8 @@ introducir:
       3s: hubiera introducido
       3p: hubieran introducido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Introduce! Don't introduce!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ introducir:
       3s: introduzca
       3p: introduzcan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Introduce! Don't introduce!}
       1s: ''
       1p: ''

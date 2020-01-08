@@ -2,11 +2,11 @@ enfadarse:
   infinitive: enfadarse
   gerund: enfadándose
   pastparticiple: enfadado
-  definitions: {en: 'to get angry, get irratated, get annoyed'}
-  tenses:
+  definition: {en: 'to get angry, get irratated, get annoyed'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I get angry, am getting angry'}
       1s: me enfado
       1p: nos enfadamos
@@ -15,8 +15,8 @@ enfadarse:
       3s: se enfada
       3p: se enfadan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will get angry}
       1s: me enfadaré
       1p: nos enfadaremos
@@ -25,8 +25,8 @@ enfadarse:
       3s: se enfadará
       3p: se enfadarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was getting angry, used to get angry, got angry'}
       1s: me enfadaba
       1p: nos enfadábamos
@@ -35,8 +35,8 @@ enfadarse:
       3s: se enfadaba
       3p: se enfadaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I got angry}
       1s: me enfadé
       1p: nos enfadamos
@@ -45,8 +45,8 @@ enfadarse:
       3s: se enfadó
       3p: se enfadaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would get angry}
       1s: me enfadaría
       1p: nos enfadaríamos
@@ -55,8 +55,8 @@ enfadarse:
       3s: se enfadaría
       3p: se enfadarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have gotten angry}
       1s: me he enfadado
       1p: nos hemos enfadado
@@ -65,8 +65,8 @@ enfadarse:
       3s: se ha enfadado
       3p: se han enfadado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have gotten angry}
       1s: me habré enfadado
       1p: nos habremos enfadado
@@ -75,8 +75,8 @@ enfadarse:
       3s: se habrá enfadado
       3p: se habrán enfadado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten angry}
       1s: me había enfadado
       1p: nos habíamos enfadado
@@ -85,8 +85,8 @@ enfadarse:
       3s: se había enfadado
       3p: se habían enfadado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had gotten angry}
       1s: me hube enfadado
       1p: nos hubimos enfadado
@@ -95,8 +95,8 @@ enfadarse:
       3s: se hubo enfadado
       3p: se hubieron enfadado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have gotten angry}
       1s: me habría enfadado
       1p: nos habríamos enfadado
@@ -105,8 +105,8 @@ enfadarse:
       3s: se habría enfadado
       3p: se habrían enfadado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I get angry, am getting angry'}
       1s: me enfade
       1p: nos enfademos
@@ -115,8 +115,8 @@ enfadarse:
       3s: se enfade
       3p: se enfaden
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I got angry, was getting angry'}
       1s: me enfadara
       1p: nos enfadáramos
@@ -125,8 +125,8 @@ enfadarse:
       3s: se enfadara
       3p: se enfadaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will get angry}
       1s: me enfadare
       1p: nos enfadáremos
@@ -135,8 +135,8 @@ enfadarse:
       3s: se enfadare
       3p: se enfadaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have gotten angry, got angry'}
       1s: me haya enfadado
       1p: nos hayamos enfadado
@@ -145,8 +145,8 @@ enfadarse:
       3s: se haya enfadado
       3p: se hayan enfadado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have gotten angry}
       1s: me hubiere enfadado
       1p: nos hubiéremos enfadado
@@ -155,8 +155,8 @@ enfadarse:
       3s: se hubiere enfadado
       3p: se hubieren enfadado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had gotten angry}
       1s: me hubiera enfadado
       1p: nos hubiéramos enfadado
@@ -165,8 +165,8 @@ enfadarse:
       3s: se hubiera enfadado
       3p: se hubieran enfadado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Get angry! Don't get angry!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ enfadarse:
       3s: enfádese
       3p: enfádense
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Get angry! Don't get angry!}
       1s: ''
       1p: ''

@@ -2,11 +2,11 @@ sustituir:
   infinitive: sustituir
   gerund: sustituyendo
   pastparticiple: sustituido
-  definitions: {en: 'to substitute, replace'}
-  tenses:
+  definition: {en: 'to substitute, replace'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I substitute, am substituting'}
       1s: sustituyo
       1p: sustituimos
@@ -15,8 +15,8 @@ sustituir:
       3s: sustituye
       3p: sustituyen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will substitute}
       1s: sustituiré
       1p: sustituiremos
@@ -25,8 +25,8 @@ sustituir:
       3s: sustituirá
       3p: sustituirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was substituting, used to substitute, substituted'}
       1s: sustituía
       1p: sustituíamos
@@ -35,8 +35,8 @@ sustituir:
       3s: sustituía
       3p: sustituían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I substituted}
       1s: sustituí
       1p: sustituimos
@@ -45,8 +45,8 @@ sustituir:
       3s: sustituyó
       3p: sustituyeron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would substitute}
       1s: sustituiría
       1p: sustituiríamos
@@ -55,8 +55,8 @@ sustituir:
       3s: sustituiría
       3p: sustituirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have substituted}
       1s: he sustituido
       1p: hemos sustituido
@@ -65,8 +65,8 @@ sustituir:
       3s: ha sustituido
       3p: han sustituido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have substituted}
       1s: habré sustituido
       1p: habremos sustituido
@@ -75,8 +75,8 @@ sustituir:
       3s: habrá sustituido
       3p: habrán sustituido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had substituted}
       1s: había sustituido
       1p: habíamos sustituido
@@ -85,8 +85,8 @@ sustituir:
       3s: había sustituido
       3p: habían sustituido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had substituted}
       1s: hube sustituido
       1p: hubimos sustituido
@@ -95,8 +95,8 @@ sustituir:
       3s: hubo sustituido
       3p: hubieron sustituido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have substituted}
       1s: habría sustituido
       1p: habríamos sustituido
@@ -105,8 +105,8 @@ sustituir:
       3s: habría sustituido
       3p: habrían sustituido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I substitute, am substituting'}
       1s: sustituya
       1p: sustituyamos
@@ -115,8 +115,8 @@ sustituir:
       3s: sustituya
       3p: sustituyan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I substituted, was substituting'}
       1s: sustituyera
       1p: sustituyéramos
@@ -125,8 +125,8 @@ sustituir:
       3s: sustituyera
       3p: sustituyeran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will substitute}
       1s: sustituyere
       1p: sustituyéremos
@@ -135,8 +135,8 @@ sustituir:
       3s: sustituyere
       3p: sustituyeren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have substituted, substituted'}
       1s: haya sustituido
       1p: hayamos sustituido
@@ -145,8 +145,8 @@ sustituir:
       3s: haya sustituido
       3p: hayan sustituido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have substituted}
       1s: hubiere sustituido
       1p: hubiéremos sustituido
@@ -155,8 +155,8 @@ sustituir:
       3s: hubiere sustituido
       3p: hubieren sustituido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had substituted}
       1s: hubiera sustituido
       1p: hubiéramos sustituido
@@ -165,8 +165,8 @@ sustituir:
       3s: hubiera sustituido
       3p: hubieran sustituido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Substitute! Don't substitute!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ sustituir:
       3s: sustituya
       3p: sustituyan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Substitute! Don't substitute!}
       1s: ''
       1p: ''

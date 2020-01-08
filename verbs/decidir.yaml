@@ -2,11 +2,11 @@ decidir:
   infinitive: decidir
   gerund: decidiendo
   pastparticiple: decidido
-  definitions: {en: 'to decide, settle, resolve'}
-  tenses:
+  definition: {en: 'to decide, settle, resolve'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I decide, am deciding'}
       1s: decido
       1p: decidimos
@@ -15,8 +15,8 @@ decidir:
       3s: decide
       3p: deciden
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will decide}
       1s: decidiré
       1p: decidiremos
@@ -25,8 +25,8 @@ decidir:
       3s: decidirá
       3p: decidirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was deciding, used to decide, decided'}
       1s: decidía
       1p: decidíamos
@@ -35,8 +35,8 @@ decidir:
       3s: decidía
       3p: decidían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I decided}
       1s: decidí
       1p: decidimos
@@ -45,8 +45,8 @@ decidir:
       3s: decidió
       3p: decidieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would decide}
       1s: decidiría
       1p: decidiríamos
@@ -55,8 +55,8 @@ decidir:
       3s: decidiría
       3p: decidirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have decided}
       1s: he decidido
       1p: hemos decidido
@@ -65,8 +65,8 @@ decidir:
       3s: ha decidido
       3p: han decidido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have decided}
       1s: habré decidido
       1p: habremos decidido
@@ -75,8 +75,8 @@ decidir:
       3s: habrá decidido
       3p: habrán decidido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had decided}
       1s: había decidido
       1p: habíamos decidido
@@ -85,8 +85,8 @@ decidir:
       3s: había decidido
       3p: habían decidido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had decided}
       1s: hube decidido
       1p: hubimos decidido
@@ -95,8 +95,8 @@ decidir:
       3s: hubo decidido
       3p: hubieron decidido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have decided}
       1s: habría decidido
       1p: habríamos decidido
@@ -105,8 +105,8 @@ decidir:
       3s: habría decidido
       3p: habrían decidido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I decide, am deciding'}
       1s: decida
       1p: decidamos
@@ -115,8 +115,8 @@ decidir:
       3s: decida
       3p: decidan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I decided, was deciding'}
       1s: decidiera
       1p: decidiéramos
@@ -125,8 +125,8 @@ decidir:
       3s: decidiera
       3p: decidieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will decide}
       1s: decidiere
       1p: decidiéremos
@@ -135,8 +135,8 @@ decidir:
       3s: decidiere
       3p: decidieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have decided, decided'}
       1s: haya decidido
       1p: hayamos decidido
@@ -145,8 +145,8 @@ decidir:
       3s: haya decidido
       3p: hayan decidido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have decided}
       1s: hubiere decidido
       1p: hubiéremos decidido
@@ -155,8 +155,8 @@ decidir:
       3s: hubiere decidido
       3p: hubieren decidido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had decided}
       1s: hubiera decidido
       1p: hubiéramos decidido
@@ -165,8 +165,8 @@ decidir:
       3s: hubiera decidido
       3p: hubieran decidido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Decide! Don't decide!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ decidir:
       3s: decida
       3p: decidan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Decide! Don't decide!}
       1s: ''
       1p: ''

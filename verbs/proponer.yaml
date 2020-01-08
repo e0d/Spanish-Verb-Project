@@ -2,11 +2,11 @@ proponer:
   infinitive: proponer
   gerund: proponiendo
   pastparticiple: propuesto
-  definitions: {en: to propose}
-  tenses:
+  definition: {en: to propose}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I propose, am proposing'}
       1s: propongo
       1p: proponemos
@@ -15,8 +15,8 @@ proponer:
       3s: propone
       3p: proponen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will propose}
       1s: propondré
       1p: propondremos
@@ -25,8 +25,8 @@ proponer:
       3s: propondrá
       3p: propondrán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was proposing, used to propose, proposed'}
       1s: proponía
       1p: proponíamos
@@ -35,8 +35,8 @@ proponer:
       3s: proponía
       3p: proponían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I proposed}
       1s: propuse
       1p: propusimos
@@ -45,8 +45,8 @@ proponer:
       3s: propuso
       3p: propusieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would propose}
       1s: propondría
       1p: propondríamos
@@ -55,8 +55,8 @@ proponer:
       3s: propondría
       3p: propondrían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have proposed}
       1s: he propuesto
       1p: hemos propuesto
@@ -65,8 +65,8 @@ proponer:
       3s: ha propuesto
       3p: han propuesto
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have proposed}
       1s: habré propuesto
       1p: habremos propuesto
@@ -75,8 +75,8 @@ proponer:
       3s: habrá propuesto
       3p: habrán propuesto
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had proposed}
       1s: había propuesto
       1p: habíamos propuesto
@@ -85,8 +85,8 @@ proponer:
       3s: había propuesto
       3p: habían propuesto
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had proposed}
       1s: hube propuesto
       1p: hubimos propuesto
@@ -95,8 +95,8 @@ proponer:
       3s: hubo propuesto
       3p: hubieron propuesto
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have proposed}
       1s: habría propuesto
       1p: habríamos propuesto
@@ -105,8 +105,8 @@ proponer:
       3s: habría propuesto
       3p: habrían propuesto
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I propose, am proposing'}
       1s: proponga
       1p: propongamos
@@ -115,8 +115,8 @@ proponer:
       3s: proponga
       3p: propongan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I proposed, was proposing'}
       1s: propusiera
       1p: propusiéramos
@@ -125,8 +125,8 @@ proponer:
       3s: propusiera
       3p: propusieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will propose}
       1s: propusiere
       1p: propusiéremos
@@ -135,8 +135,8 @@ proponer:
       3s: propusiere
       3p: propusieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have proposed, proposed'}
       1s: haya propuesto
       1p: hayamos propuesto
@@ -145,8 +145,8 @@ proponer:
       3s: haya propuesto
       3p: hayan propuesto
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have proposed}
       1s: hubiere propuesto
       1p: hubiéremos propuesto
@@ -155,8 +155,8 @@ proponer:
       3s: hubiere propuesto
       3p: hubieren propuesto
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had proposed}
       1s: hubiera propuesto
       1p: hubiéramos propuesto
@@ -165,8 +165,8 @@ proponer:
       3s: hubiera propuesto
       3p: hubieran propuesto
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Propose! Don't propose!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ proponer:
       3s: proponga
       3p: propongan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Propose! Don't propose!}
       1s: ''
       1p: ''

@@ -2,11 +2,11 @@ platicar:
   infinitive: platicar
   gerund: platicando
   pastparticiple: platicado
-  definitions: {en: 'to chat, talk'}
-  tenses:
+  definition: {en: 'to chat, talk'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I chat, am chatting'}
       1s: platico
       1p: platicamos
@@ -15,8 +15,8 @@ platicar:
       3s: platica
       3p: platican
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will chat}
       1s: platicaré
       1p: platicaremos
@@ -25,8 +25,8 @@ platicar:
       3s: platicará
       3p: platicarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was chatting, used to chat, chatted'}
       1s: platicaba
       1p: platicábamos
@@ -35,8 +35,8 @@ platicar:
       3s: platicaba
       3p: platicaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I chatted}
       1s: platiqué
       1p: platicamos
@@ -45,8 +45,8 @@ platicar:
       3s: platicó
       3p: platicaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would chat}
       1s: platicaría
       1p: platicaríamos
@@ -55,8 +55,8 @@ platicar:
       3s: platicaría
       3p: platicarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have chatted}
       1s: he platicado
       1p: hemos platicado
@@ -65,8 +65,8 @@ platicar:
       3s: ha platicado
       3p: han platicado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have chatted}
       1s: habré platicado
       1p: habremos platicado
@@ -75,8 +75,8 @@ platicar:
       3s: habrá platicado
       3p: habrán platicado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had chatted}
       1s: había platicado
       1p: habíamos platicado
@@ -85,8 +85,8 @@ platicar:
       3s: había platicado
       3p: habían platicado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had chatted}
       1s: hube platicado
       1p: hubimos platicado
@@ -95,8 +95,8 @@ platicar:
       3s: hubo platicado
       3p: hubieron platicado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have chatted}
       1s: habría platicado
       1p: habríamos platicado
@@ -105,8 +105,8 @@ platicar:
       3s: habría platicado
       3p: habrían platicado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I chat, am chatting'}
       1s: platique
       1p: platiquemos
@@ -115,8 +115,8 @@ platicar:
       3s: platique
       3p: platiquen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I chatted, was chatting'}
       1s: platicara
       1p: platicáramos
@@ -125,8 +125,8 @@ platicar:
       3s: platicara
       3p: platicaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will chat}
       1s: platicare
       1p: platicáremos
@@ -135,8 +135,8 @@ platicar:
       3s: platicare
       3p: platicaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have chatted, chatted'}
       1s: haya platicado
       1p: hayamos platicado
@@ -145,8 +145,8 @@ platicar:
       3s: haya platicado
       3p: hayan platicado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have chatted}
       1s: hubiere platicado
       1p: hubiéremos platicado
@@ -155,8 +155,8 @@ platicar:
       3s: hubiere platicado
       3p: hubieren platicado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had chatted}
       1s: hubiera platicado
       1p: hubiéramos platicado
@@ -165,8 +165,8 @@ platicar:
       3s: hubiera platicado
       3p: hubieran platicado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Chat! Don't chat!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ platicar:
       3s: platique
       3p: platiquen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Chat! Don't chat!}
       1s: ''
       1p: ''

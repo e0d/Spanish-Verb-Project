@@ -2,11 +2,11 @@ purificar:
   infinitive: purificar
   gerund: purificando
   pastparticiple: purificado
-  definitions: {en: to purify}
-  tenses:
+  definition: {en: to purify}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I purify, am purifying'}
       1s: purifico
       1p: purificamos
@@ -15,8 +15,8 @@ purificar:
       3s: purifica
       3p: purifican
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will purify}
       1s: purificaré
       1p: purificaremos
@@ -25,8 +25,8 @@ purificar:
       3s: purificará
       3p: purificarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was purifying, used to purify, purified'}
       1s: purificaba
       1p: purificábamos
@@ -35,8 +35,8 @@ purificar:
       3s: purificaba
       3p: purificaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I purified}
       1s: purifiqué
       1p: purificamos
@@ -45,8 +45,8 @@ purificar:
       3s: purificó
       3p: purificaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would purify}
       1s: purificaría
       1p: purificaríamos
@@ -55,8 +55,8 @@ purificar:
       3s: purificaría
       3p: purificarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have purified}
       1s: he purificado
       1p: hemos purificado
@@ -65,8 +65,8 @@ purificar:
       3s: ha purificado
       3p: han purificado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have purified}
       1s: habré purificado
       1p: habremos purificado
@@ -75,8 +75,8 @@ purificar:
       3s: habrá purificado
       3p: habrán purificado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had purified}
       1s: había purificado
       1p: habíamos purificado
@@ -85,8 +85,8 @@ purificar:
       3s: había purificado
       3p: habían purificado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had purified}
       1s: hube purificado
       1p: hubimos purificado
@@ -95,8 +95,8 @@ purificar:
       3s: hubo purificado
       3p: hubieron purificado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have purified}
       1s: habría purificado
       1p: habríamos purificado
@@ -105,8 +105,8 @@ purificar:
       3s: habría purificado
       3p: habrían purificado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I purify, am purifying'}
       1s: purifique
       1p: purifiquemos
@@ -115,8 +115,8 @@ purificar:
       3s: purifique
       3p: purifiquen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I purified, was purifying'}
       1s: purificara
       1p: purificáramos
@@ -125,8 +125,8 @@ purificar:
       3s: purificara
       3p: purificaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will purify}
       1s: purificare
       1p: purificáremos
@@ -135,8 +135,8 @@ purificar:
       3s: purificare
       3p: purificaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have purified, purified'}
       1s: haya purificado
       1p: hayamos purificado
@@ -145,8 +145,8 @@ purificar:
       3s: haya purificado
       3p: hayan purificado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have purified}
       1s: hubiere purificado
       1p: hubiéremos purificado
@@ -155,8 +155,8 @@ purificar:
       3s: hubiere purificado
       3p: hubieren purificado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had purified}
       1s: hubiera purificado
       1p: hubiéramos purificado
@@ -165,8 +165,8 @@ purificar:
       3s: hubiera purificado
       3p: hubieran purificado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Purify! Don't purify!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ purificar:
       3s: purifique
       3p: purifiquen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Purify! Don't purify!}
       1s: ''
       1p: ''

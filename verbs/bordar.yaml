@@ -2,11 +2,11 @@ bordar:
   infinitive: bordar
   gerund: bordando
   pastparticiple: bordado
-  definitions: {en: to embroider}
-  tenses:
+  definition: {en: to embroider}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I embroider, am embroidering'}
       1s: bordo
       1p: bordamos
@@ -15,8 +15,8 @@ bordar:
       3s: borda
       3p: bordan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will embroider}
       1s: bordaré
       1p: bordaremos
@@ -25,8 +25,8 @@ bordar:
       3s: bordará
       3p: bordarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was embroidering, used to embroider, embroidered'}
       1s: bordaba
       1p: bordábamos
@@ -35,8 +35,8 @@ bordar:
       3s: bordaba
       3p: bordaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I embroidered}
       1s: bordé
       1p: bordamos
@@ -45,8 +45,8 @@ bordar:
       3s: bordó
       3p: bordaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would embroider}
       1s: bordaría
       1p: bordaríamos
@@ -55,8 +55,8 @@ bordar:
       3s: bordaría
       3p: bordarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have embroidered}
       1s: he bordado
       1p: hemos bordado
@@ -65,8 +65,8 @@ bordar:
       3s: ha bordado
       3p: han bordado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have embroidered}
       1s: habré bordado
       1p: habremos bordado
@@ -75,8 +75,8 @@ bordar:
       3s: habrá bordado
       3p: habrán bordado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had embroidered}
       1s: había bordado
       1p: habíamos bordado
@@ -85,8 +85,8 @@ bordar:
       3s: había bordado
       3p: habían bordado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had embroidered}
       1s: hube bordado
       1p: hubimos bordado
@@ -95,8 +95,8 @@ bordar:
       3s: hubo bordado
       3p: hubieron bordado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have embroidered}
       1s: habría bordado
       1p: habríamos bordado
@@ -105,8 +105,8 @@ bordar:
       3s: habría bordado
       3p: habrían bordado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I embroider, am embroidering'}
       1s: borde
       1p: bordemos
@@ -115,8 +115,8 @@ bordar:
       3s: borde
       3p: borden
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I embroidered, was embroidering'}
       1s: bordara
       1p: bordáramos
@@ -125,8 +125,8 @@ bordar:
       3s: bordara
       3p: bordaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will embroider}
       1s: bordare
       1p: bordáremos
@@ -135,8 +135,8 @@ bordar:
       3s: bordare
       3p: bordaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have embroidered, embroidered'}
       1s: haya bordado
       1p: hayamos bordado
@@ -145,8 +145,8 @@ bordar:
       3s: haya bordado
       3p: hayan bordado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have embroidered}
       1s: hubiere bordado
       1p: hubiéremos bordado
@@ -155,8 +155,8 @@ bordar:
       3s: hubiere bordado
       3p: hubieren bordado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had embroidered}
       1s: hubiera bordado
       1p: hubiéramos bordado
@@ -165,8 +165,8 @@ bordar:
       3s: hubiera bordado
       3p: hubieran bordado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Embroider! Don't embroider!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ bordar:
       3s: borde
       3p: borden
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Embroider! Don't embroider!}
       1s: ''
       1p: ''

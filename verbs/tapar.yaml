@@ -2,12 +2,11 @@ tapar:
   infinitive: tapar
   gerund: tapando
   pastparticiple: tapado
-  definitions: {en: 'to cover; to put the lid on, put the cap on, put the stopper
-      in'}
-  tenses:
+  definition: {en: 'to cover; to put the lid on, put the cap on, put the stopper in'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I cover, am covering'}
       1s: tapo
       1p: tapamos
@@ -16,8 +15,8 @@ tapar:
       3s: tapa
       3p: tapan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will cover}
       1s: taparé
       1p: taparemos
@@ -26,8 +25,8 @@ tapar:
       3s: tapará
       3p: taparán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was covering, used to cover, covered'}
       1s: tapaba
       1p: tapábamos
@@ -36,8 +35,8 @@ tapar:
       3s: tapaba
       3p: tapaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I covered}
       1s: tapé
       1p: tapamos
@@ -46,8 +45,8 @@ tapar:
       3s: tapó
       3p: taparon
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would cover}
       1s: taparía
       1p: taparíamos
@@ -56,8 +55,8 @@ tapar:
       3s: taparía
       3p: taparían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have covered}
       1s: he tapado
       1p: hemos tapado
@@ -66,8 +65,8 @@ tapar:
       3s: ha tapado
       3p: han tapado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have covered}
       1s: habré tapado
       1p: habremos tapado
@@ -76,8 +75,8 @@ tapar:
       3s: habrá tapado
       3p: habrán tapado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had covered}
       1s: había tapado
       1p: habíamos tapado
@@ -86,8 +85,8 @@ tapar:
       3s: había tapado
       3p: habían tapado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had covered}
       1s: hube tapado
       1p: hubimos tapado
@@ -96,8 +95,8 @@ tapar:
       3s: hubo tapado
       3p: hubieron tapado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have covered}
       1s: habría tapado
       1p: habríamos tapado
@@ -106,8 +105,8 @@ tapar:
       3s: habría tapado
       3p: habrían tapado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I cover, am covering'}
       1s: tape
       1p: tapemos
@@ -116,8 +115,8 @@ tapar:
       3s: tape
       3p: tapen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I covered, was covering'}
       1s: tapara
       1p: tapáramos
@@ -126,8 +125,8 @@ tapar:
       3s: tapara
       3p: taparan
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will cover}
       1s: tapare
       1p: tapáremos
@@ -136,8 +135,8 @@ tapar:
       3s: tapare
       3p: taparen
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have covered, covered'}
       1s: haya tapado
       1p: hayamos tapado
@@ -146,8 +145,8 @@ tapar:
       3s: haya tapado
       3p: hayan tapado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have covered}
       1s: hubiere tapado
       1p: hubiéremos tapado
@@ -156,8 +155,8 @@ tapar:
       3s: hubiere tapado
       3p: hubieren tapado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had covered}
       1s: hubiera tapado
       1p: hubiéramos tapado
@@ -166,8 +165,8 @@ tapar:
       3s: hubiera tapado
       3p: hubieran tapado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Cover! Don't cover!}
       1s: ''
       1p: ''
@@ -176,8 +175,8 @@ tapar:
       3s: tape
       3p: tapen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Cover! Don't cover!}
       1s: ''
       1p: ''

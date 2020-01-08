@@ -2,11 +2,11 @@ legalizar:
   infinitive: legalizar
   gerund: legalizando
   pastparticiple: legalizado
-  definitions: {en: 'to legalize, make lawful'}
-  tenses:
+  definition: {en: 'to legalize, make lawful'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I legalize, am legalizing'}
       1s: legalizo
       1p: legalizamos
@@ -15,8 +15,8 @@ legalizar:
       3s: legaliza
       3p: legalizan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will legalize}
       1s: legalizaré
       1p: legalizaremos
@@ -25,8 +25,8 @@ legalizar:
       3s: legalizará
       3p: legalizarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was legalizing, used to legalize, legalized'}
       1s: legalizaba
       1p: legalizábamos
@@ -35,8 +35,8 @@ legalizar:
       3s: legalizaba
       3p: legalizaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I legalized}
       1s: legalicé
       1p: legalizamos
@@ -45,8 +45,8 @@ legalizar:
       3s: legalizó
       3p: legalizaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would legalize}
       1s: legalizaría
       1p: legalizaríamos
@@ -55,8 +55,8 @@ legalizar:
       3s: legalizaría
       3p: legalizarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have legalized}
       1s: he legalizado
       1p: hemos legalizado
@@ -65,8 +65,8 @@ legalizar:
       3s: ha legalizado
       3p: han legalizado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have legalized}
       1s: habré legalizado
       1p: habremos legalizado
@@ -75,8 +75,8 @@ legalizar:
       3s: habrá legalizado
       3p: habrán legalizado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had legalized}
       1s: había legalizado
       1p: habíamos legalizado
@@ -85,8 +85,8 @@ legalizar:
       3s: había legalizado
       3p: habían legalizado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had legalized}
       1s: hube legalizado
       1p: hubimos legalizado
@@ -95,8 +95,8 @@ legalizar:
       3s: hubo legalizado
       3p: hubieron legalizado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have legalized}
       1s: habría legalizado
       1p: habríamos legalizado
@@ -105,8 +105,8 @@ legalizar:
       3s: habría legalizado
       3p: habrían legalizado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I legalize, am legalizing'}
       1s: legalice
       1p: legalicemos
@@ -115,8 +115,8 @@ legalizar:
       3s: legalice
       3p: legalicen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I legalized, was legalizing'}
       1s: legalizara
       1p: legalizáramos
@@ -125,8 +125,8 @@ legalizar:
       3s: legalizara
       3p: legalizaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will legalize}
       1s: legalizare
       1p: legalizáremos
@@ -135,8 +135,8 @@ legalizar:
       3s: legalizare
       3p: legalizaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have legalized, legalized'}
       1s: haya legalizado
       1p: hayamos legalizado
@@ -145,8 +145,8 @@ legalizar:
       3s: haya legalizado
       3p: hayan legalizado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have legalized}
       1s: hubiere legalizado
       1p: hubiéremos legalizado
@@ -155,8 +155,8 @@ legalizar:
       3s: hubiere legalizado
       3p: hubieren legalizado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had legalized}
       1s: hubiera legalizado
       1p: hubiéramos legalizado
@@ -165,8 +165,8 @@ legalizar:
       3s: hubiera legalizado
       3p: hubieran legalizado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Legalize! Don't legalize!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ legalizar:
       3s: legalice
       3p: legalicen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Legalize! Don't legalize!}
       1s: ''
       1p: ''

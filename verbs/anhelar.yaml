@@ -2,11 +2,11 @@ anhelar:
   infinitive: anhelar
   gerund: anhelando
   pastparticiple: anhelado
-  definitions: {en: 'to be eager for/to, long for/to, yearn for/to'}
-  tenses:
+  definition: {en: 'to be eager for/to, long for/to, yearn for/to'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I am eager for}
       1s: anhelo
       1p: anhelamos
@@ -15,8 +15,8 @@ anhelar:
       3s: anhela
       3p: anhelan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will be eager for}
       1s: anhelaré
       1p: anhelaremos
@@ -25,8 +25,8 @@ anhelar:
       3s: anhelará
       3p: anhelarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was eager for, used to be eager for'}
       1s: anhelaba
       1p: anhelábamos
@@ -35,8 +35,8 @@ anhelar:
       3s: anhelaba
       3p: anhelaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I was eager for}
       1s: anhelé
       1p: anhelamos
@@ -45,8 +45,8 @@ anhelar:
       3s: anheló
       3p: anhelaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would be eager for}
       1s: anhelaría
       1p: anhelaríamos
@@ -55,8 +55,8 @@ anhelar:
       3s: anhelaría
       3p: anhelarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have been eager for}
       1s: he anhelado
       1p: hemos anhelado
@@ -65,8 +65,8 @@ anhelar:
       3s: ha anhelado
       3p: han anhelado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have been eager for}
       1s: habré anhelado
       1p: habremos anhelado
@@ -75,8 +75,8 @@ anhelar:
       3s: habrá anhelado
       3p: habrán anhelado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had been eager for}
       1s: había anhelado
       1p: habíamos anhelado
@@ -85,8 +85,8 @@ anhelar:
       3s: había anhelado
       3p: habían anhelado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had been eager for}
       1s: hube anhelado
       1p: hubimos anhelado
@@ -95,8 +95,8 @@ anhelar:
       3s: hubo anhelado
       3p: hubieron anhelado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have been eager for}
       1s: habría anhelado
       1p: habríamos anhelado
@@ -105,8 +105,8 @@ anhelar:
       3s: habría anhelado
       3p: habrían anhelado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I am eager for}
       1s: anhele
       1p: anhelemos
@@ -115,8 +115,8 @@ anhelar:
       3s: anhele
       3p: anhelen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I was eager for}
       1s: anhelara
       1p: anheláramos
@@ -125,8 +125,8 @@ anhelar:
       3s: anhelara
       3p: anhelaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will be eager for}
       1s: anhelare
       1p: anheláremos
@@ -135,8 +135,8 @@ anhelar:
       3s: anhelare
       3p: anhelaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I have been eager for}
       1s: haya anhelado
       1p: hayamos anhelado
@@ -145,8 +145,8 @@ anhelar:
       3s: haya anhelado
       3p: hayan anhelado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have been eager for}
       1s: hubiere anhelado
       1p: hubiéremos anhelado
@@ -155,8 +155,8 @@ anhelar:
       3s: hubiere anhelado
       3p: hubieren anhelado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had been eager for}
       1s: hubiera anhelado
       1p: hubiéramos anhelado
@@ -165,8 +165,8 @@ anhelar:
       3s: hubiera anhelado
       3p: hubieran anhelado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Be eager for! Don't be eager for!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ anhelar:
       3s: anhele
       3p: anhelen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Be eager for! Don't be eager for!}
       1s: ''
       1p: ''

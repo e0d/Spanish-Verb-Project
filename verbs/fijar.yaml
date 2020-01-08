@@ -2,11 +2,11 @@ fijar:
   infinitive: fijar
   gerund: fijando
   pastparticiple: fijado
-  definitions: {en: 'to fix, fasten, secure'}
-  tenses:
+  definition: {en: 'to fix, fasten, secure'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I fix, am fixing'}
       1s: fijo
       1p: fijamos
@@ -15,8 +15,8 @@ fijar:
       3s: fija
       3p: fijan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will fix}
       1s: fijaré
       1p: fijaremos
@@ -25,8 +25,8 @@ fijar:
       3s: fijará
       3p: fijarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was fixing, used to fix, fixed'}
       1s: fijaba
       1p: fijábamos
@@ -35,8 +35,8 @@ fijar:
       3s: fijaba
       3p: fijaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I fixed}
       1s: fijé
       1p: fijamos
@@ -45,8 +45,8 @@ fijar:
       3s: fijó
       3p: fijaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would fix}
       1s: fijaría
       1p: fijaríamos
@@ -55,8 +55,8 @@ fijar:
       3s: fijaría
       3p: fijarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have fixed}
       1s: he fijado
       1p: hemos fijado
@@ -65,8 +65,8 @@ fijar:
       3s: ha fijado
       3p: han fijado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have fixed}
       1s: habré fijado
       1p: habremos fijado
@@ -75,8 +75,8 @@ fijar:
       3s: habrá fijado
       3p: habrán fijado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had fixed}
       1s: había fijado
       1p: habíamos fijado
@@ -85,8 +85,8 @@ fijar:
       3s: había fijado
       3p: habían fijado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had fixed}
       1s: hube fijado
       1p: hubimos fijado
@@ -95,8 +95,8 @@ fijar:
       3s: hubo fijado
       3p: hubieron fijado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have fixed}
       1s: habría fijado
       1p: habríamos fijado
@@ -105,8 +105,8 @@ fijar:
       3s: habría fijado
       3p: habrían fijado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fix, am fixing'}
       1s: fije
       1p: fijemos
@@ -115,8 +115,8 @@ fijar:
       3s: fije
       3p: fijen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I fixed, was fixing'}
       1s: fijara
       1p: fijáramos
@@ -125,8 +125,8 @@ fijar:
       3s: fijara
       3p: fijaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will fix}
       1s: fijare
       1p: fijáremos
@@ -135,8 +135,8 @@ fijar:
       3s: fijare
       3p: fijaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have fixed, fixed'}
       1s: haya fijado
       1p: hayamos fijado
@@ -145,8 +145,8 @@ fijar:
       3s: haya fijado
       3p: hayan fijado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have fixed}
       1s: hubiere fijado
       1p: hubiéremos fijado
@@ -155,8 +155,8 @@ fijar:
       3s: hubiere fijado
       3p: hubieren fijado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had fixed}
       1s: hubiera fijado
       1p: hubiéramos fijado
@@ -165,8 +165,8 @@ fijar:
       3s: hubiera fijado
       3p: hubieran fijado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Fix! Don't fix!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ fijar:
       3s: fije
       3p: fijen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Fix! Don't fix!}
       1s: ''
       1p: ''

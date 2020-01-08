@@ -2,11 +2,11 @@ buscar:
   infinitive: buscar
   gerund: buscando
   pastparticiple: buscado
-  definitions: {en: 'to search for, look for'}
-  tenses:
+  definition: {en: 'to search for, look for'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I search for, am searching for'}
       1s: busco
       1p: buscamos
@@ -15,8 +15,8 @@ buscar:
       3s: busca
       3p: buscan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will search for}
       1s: buscaré
       1p: buscaremos
@@ -25,8 +25,8 @@ buscar:
       3s: buscará
       3p: buscarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was searching for, used to search for, searched for'}
       1s: buscaba
       1p: buscábamos
@@ -35,8 +35,8 @@ buscar:
       3s: buscaba
       3p: buscaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I searched for}
       1s: busqué
       1p: buscamos
@@ -45,8 +45,8 @@ buscar:
       3s: buscó
       3p: buscaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would search for}
       1s: buscaría
       1p: buscaríamos
@@ -55,8 +55,8 @@ buscar:
       3s: buscaría
       3p: buscarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have searched for}
       1s: he buscado
       1p: hemos buscado
@@ -65,8 +65,8 @@ buscar:
       3s: ha buscado
       3p: han buscado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have searched for}
       1s: habré buscado
       1p: habremos buscado
@@ -75,8 +75,8 @@ buscar:
       3s: habrá buscado
       3p: habrán buscado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had searched for}
       1s: había buscado
       1p: habíamos buscado
@@ -85,8 +85,8 @@ buscar:
       3s: había buscado
       3p: habían buscado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had searched for}
       1s: hube buscado
       1p: hubimos buscado
@@ -95,8 +95,8 @@ buscar:
       3s: hubo buscado
       3p: hubieron buscado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have searched for}
       1s: habría buscado
       1p: habríamos buscado
@@ -105,8 +105,8 @@ buscar:
       3s: habría buscado
       3p: habrían buscado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I search for, am searching for'}
       1s: busque
       1p: busquemos
@@ -115,8 +115,8 @@ buscar:
       3s: busque
       3p: busquen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I searched for, was searching for'}
       1s: buscara
       1p: buscáramos
@@ -125,8 +125,8 @@ buscar:
       3s: buscara
       3p: buscaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will search for}
       1s: buscare
       1p: buscáremos
@@ -135,8 +135,8 @@ buscar:
       3s: buscare
       3p: buscaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have searched for, searched for'}
       1s: haya buscado
       1p: hayamos buscado
@@ -145,8 +145,8 @@ buscar:
       3s: haya buscado
       3p: hayan buscado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have searched for}
       1s: hubiere buscado
       1p: hubiéremos buscado
@@ -155,8 +155,8 @@ buscar:
       3s: hubiere buscado
       3p: hubieren buscado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had searched for}
       1s: hubiera buscado
       1p: hubiéramos buscado
@@ -165,8 +165,8 @@ buscar:
       3s: hubiera buscado
       3p: hubieran buscado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Search for! Don't search for!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ buscar:
       3s: busque
       3p: busquen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Search for! Don't search for!}
       1s: ''
       1p: ''

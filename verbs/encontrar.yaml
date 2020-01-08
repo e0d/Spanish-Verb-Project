@@ -2,11 +2,11 @@ encontrar:
   infinitive: encontrar
   gerund: encontrando
   pastparticiple: encontrado
-  definitions: {en: 'to find, encounter'}
-  tenses:
+  definition: {en: 'to find, encounter'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I find, am finding'}
       1s: encuentro
       1p: encontramos
@@ -15,8 +15,8 @@ encontrar:
       3s: encuentra
       3p: encuentran
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will find}
       1s: encontraré
       1p: encontraremos
@@ -25,8 +25,8 @@ encontrar:
       3s: encontrará
       3p: encontrarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was finding, used to find, found'}
       1s: encontraba
       1p: encontrábamos
@@ -35,8 +35,8 @@ encontrar:
       3s: encontraba
       3p: encontraban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I found}
       1s: encontré
       1p: encontramos
@@ -45,8 +45,8 @@ encontrar:
       3s: encontró
       3p: encontraron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would find}
       1s: encontraría
       1p: encontraríamos
@@ -55,8 +55,8 @@ encontrar:
       3s: encontraría
       3p: encontrarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have found}
       1s: he encontrado
       1p: hemos encontrado
@@ -65,8 +65,8 @@ encontrar:
       3s: ha encontrado
       3p: han encontrado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have found}
       1s: habré encontrado
       1p: habremos encontrado
@@ -75,8 +75,8 @@ encontrar:
       3s: habrá encontrado
       3p: habrán encontrado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had found}
       1s: había encontrado
       1p: habíamos encontrado
@@ -85,8 +85,8 @@ encontrar:
       3s: había encontrado
       3p: habían encontrado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had found}
       1s: hube encontrado
       1p: hubimos encontrado
@@ -95,8 +95,8 @@ encontrar:
       3s: hubo encontrado
       3p: hubieron encontrado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have found}
       1s: habría encontrado
       1p: habríamos encontrado
@@ -105,8 +105,8 @@ encontrar:
       3s: habría encontrado
       3p: habrían encontrado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I find, am finding'}
       1s: encuentre
       1p: encontremos
@@ -115,8 +115,8 @@ encontrar:
       3s: encuentre
       3p: encuentren
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I found, was finding'}
       1s: encontrara
       1p: encontráramos
@@ -125,8 +125,8 @@ encontrar:
       3s: encontrara
       3p: encontraran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will find}
       1s: encontrare
       1p: encontráremos
@@ -135,8 +135,8 @@ encontrar:
       3s: encontrare
       3p: encontraren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have found, found'}
       1s: haya encontrado
       1p: hayamos encontrado
@@ -145,8 +145,8 @@ encontrar:
       3s: haya encontrado
       3p: hayan encontrado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have found}
       1s: hubiere encontrado
       1p: hubiéremos encontrado
@@ -155,8 +155,8 @@ encontrar:
       3s: hubiere encontrado
       3p: hubieren encontrado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had found}
       1s: hubiera encontrado
       1p: hubiéramos encontrado
@@ -165,8 +165,8 @@ encontrar:
       3s: hubiera encontrado
       3p: hubieran encontrado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Find! Don't find!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ encontrar:
       3s: encuentre
       3p: encuentren
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Find! Don't find!}
       1s: ''
       1p: ''

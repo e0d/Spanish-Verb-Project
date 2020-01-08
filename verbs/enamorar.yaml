@@ -2,11 +2,11 @@ enamorar:
   infinitive: enamorar
   gerund: enamorando
   pastparticiple: enamorado
-  definitions: {en: 'to inspire love in, win the love of'}
-  tenses:
+  definition: {en: 'to inspire love in, win the love of'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I inspire love in, am inspiring love in'}
       1s: enamoro
       1p: enamoramos
@@ -15,8 +15,8 @@ enamorar:
       3s: enamora
       3p: enamoran
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will inspire love in}
       1s: enamoraré
       1p: enamoraremos
@@ -25,8 +25,8 @@ enamorar:
       3s: enamorará
       3p: enamorarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was inspiring love in, used to inspire love in, inspired love
           in'}
       1s: enamoraba
@@ -36,8 +36,8 @@ enamorar:
       3s: enamoraba
       3p: enamoraban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I inspired love in}
       1s: enamoré
       1p: enamoramos
@@ -46,8 +46,8 @@ enamorar:
       3s: enamoró
       3p: enamoraron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would inspire love in}
       1s: enamoraría
       1p: enamoraríamos
@@ -56,8 +56,8 @@ enamorar:
       3s: enamoraría
       3p: enamorarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have inspired love in}
       1s: he enamorado
       1p: hemos enamorado
@@ -66,8 +66,8 @@ enamorar:
       3s: ha enamorado
       3p: han enamorado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have inspired love in}
       1s: habré enamorado
       1p: habremos enamorado
@@ -76,8 +76,8 @@ enamorar:
       3s: habrá enamorado
       3p: habrán enamorado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had inspired love in}
       1s: había enamorado
       1p: habíamos enamorado
@@ -86,8 +86,8 @@ enamorar:
       3s: había enamorado
       3p: habían enamorado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had inspired love in}
       1s: hube enamorado
       1p: hubimos enamorado
@@ -96,8 +96,8 @@ enamorar:
       3s: hubo enamorado
       3p: hubieron enamorado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have inspired love in}
       1s: habría enamorado
       1p: habríamos enamorado
@@ -106,8 +106,8 @@ enamorar:
       3s: habría enamorado
       3p: habrían enamorado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I inspire love in, am inspiring love in'}
       1s: enamore
       1p: enamoremos
@@ -116,8 +116,8 @@ enamorar:
       3s: enamore
       3p: enamoren
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I inspired love in, was inspiring love in'}
       1s: enamorara
       1p: enamoráramos
@@ -126,8 +126,8 @@ enamorar:
       3s: enamorara
       3p: enamoraran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will inspire love in}
       1s: enamorare
       1p: enamoráremos
@@ -136,8 +136,8 @@ enamorar:
       3s: enamorare
       3p: enamoraren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have inspired love in, inspired love in'}
       1s: haya enamorado
       1p: hayamos enamorado
@@ -146,8 +146,8 @@ enamorar:
       3s: haya enamorado
       3p: hayan enamorado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have inspired love in}
       1s: hubiere enamorado
       1p: hubiéremos enamorado
@@ -156,8 +156,8 @@ enamorar:
       3s: hubiere enamorado
       3p: hubieren enamorado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had inspired love in}
       1s: hubiera enamorado
       1p: hubiéramos enamorado
@@ -166,8 +166,8 @@ enamorar:
       3s: hubiera enamorado
       3p: hubieran enamorado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Inspire love in! Don't inspire love in!}
       1s: ''
       1p: ''
@@ -176,8 +176,8 @@ enamorar:
       3s: enamore
       3p: enamoren
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Inspire love in! Don't inspire love in!}
       1s: ''
       1p: ''

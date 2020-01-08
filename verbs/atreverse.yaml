@@ -2,11 +2,11 @@ atreverse:
   infinitive: atreverse
   gerund: atreviéndose
   pastparticiple: atrevido
-  definitions: {en: to dare}
-  tenses:
+  definition: {en: to dare}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I dare, am daring'}
       1s: me atrevo
       1p: nos atrevemos
@@ -15,8 +15,8 @@ atreverse:
       3s: se atreve
       3p: se atreven
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will dare}
       1s: me atreveré
       1p: nos atreveremos
@@ -25,8 +25,8 @@ atreverse:
       3s: se atreverá
       3p: se atreverán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was daring, used to dare, dared'}
       1s: me atrevía
       1p: nos atrevíamos
@@ -35,8 +35,8 @@ atreverse:
       3s: se atrevía
       3p: se atrevían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I dared}
       1s: me atreví
       1p: nos atrevimos
@@ -45,8 +45,8 @@ atreverse:
       3s: se atrevió
       3p: se atrevieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would dare}
       1s: me atrevería
       1p: nos atreveríamos
@@ -55,8 +55,8 @@ atreverse:
       3s: se atrevería
       3p: se atreverían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have dared}
       1s: me he atrevido
       1p: nos hemos atrevido
@@ -65,8 +65,8 @@ atreverse:
       3s: se ha atrevido
       3p: se han atrevido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have dared}
       1s: me habré atrevido
       1p: nos habremos atrevido
@@ -75,8 +75,8 @@ atreverse:
       3s: se habrá atrevido
       3p: se habrán atrevido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had dared}
       1s: me había atrevido
       1p: nos habíamos atrevido
@@ -85,8 +85,8 @@ atreverse:
       3s: se había atrevido
       3p: se habían atrevido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had dared}
       1s: me hube atrevido
       1p: nos hubimos atrevido
@@ -95,8 +95,8 @@ atreverse:
       3s: se hubo atrevido
       3p: se hubieron atrevido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have dared}
       1s: me habría atrevido
       1p: nos habríamos atrevido
@@ -105,8 +105,8 @@ atreverse:
       3s: se habría atrevido
       3p: se habrían atrevido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I dare, am daring'}
       1s: me atreva
       1p: nos atrevamos
@@ -115,8 +115,8 @@ atreverse:
       3s: se atreva
       3p: se atrevan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I dared, was daring'}
       1s: me atreviera
       1p: nos atreviéramos
@@ -125,8 +125,8 @@ atreverse:
       3s: se atreviera
       3p: se atrevieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will dare}
       1s: me atreviere
       1p: nos atreviéremos
@@ -135,8 +135,8 @@ atreverse:
       3s: se atreviere
       3p: se atrevieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have dared, dared'}
       1s: me haya atrevido
       1p: nos hayamos atrevido
@@ -145,8 +145,8 @@ atreverse:
       3s: se haya atrevido
       3p: se hayan atrevido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have dared}
       1s: me hubiere atrevido
       1p: nos hubiéremos atrevido
@@ -155,8 +155,8 @@ atreverse:
       3s: se hubiere atrevido
       3p: se hubieren atrevido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had dared}
       1s: me hubiera atrevido
       1p: nos hubiéramos atrevido
@@ -165,8 +165,8 @@ atreverse:
       3s: se hubiera atrevido
       3p: se hubieran atrevido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Dare! Don't dare!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ atreverse:
       3s: atrévase
       3p: atrévanse
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Dare! Don't dare!}
       1s: ''
       1p: ''

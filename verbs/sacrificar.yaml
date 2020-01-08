@@ -2,11 +2,11 @@ sacrificar:
   infinitive: sacrificar
   gerund: sacrificando
   pastparticiple: sacrificado
-  definitions: {en: to sacrifice}
-  tenses:
+  definition: {en: to sacrifice}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I sacrifice, am sacrificing'}
       1s: sacrifico
       1p: sacrificamos
@@ -15,8 +15,8 @@ sacrificar:
       3s: sacrifica
       3p: sacrifican
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will sacrifice}
       1s: sacrificaré
       1p: sacrificaremos
@@ -25,8 +25,8 @@ sacrificar:
       3s: sacrificará
       3p: sacrificarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was sacrificing, used to sacrifice, sacrificed'}
       1s: sacrificaba
       1p: sacrificábamos
@@ -35,8 +35,8 @@ sacrificar:
       3s: sacrificaba
       3p: sacrificaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I sacrificed}
       1s: sacrifiqué
       1p: sacrificamos
@@ -45,8 +45,8 @@ sacrificar:
       3s: sacrificó
       3p: sacrificaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would sacrifice}
       1s: sacrificaría
       1p: sacrificaríamos
@@ -55,8 +55,8 @@ sacrificar:
       3s: sacrificaría
       3p: sacrificarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have sacrificed}
       1s: he sacrificado
       1p: hemos sacrificado
@@ -65,8 +65,8 @@ sacrificar:
       3s: ha sacrificado
       3p: han sacrificado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have sacrificed}
       1s: habré sacrificado
       1p: habremos sacrificado
@@ -75,8 +75,8 @@ sacrificar:
       3s: habrá sacrificado
       3p: habrán sacrificado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had sacrificed}
       1s: había sacrificado
       1p: habíamos sacrificado
@@ -85,8 +85,8 @@ sacrificar:
       3s: había sacrificado
       3p: habían sacrificado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had sacrificed}
       1s: hube sacrificado
       1p: hubimos sacrificado
@@ -95,8 +95,8 @@ sacrificar:
       3s: hubo sacrificado
       3p: hubieron sacrificado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have sacrificed}
       1s: habría sacrificado
       1p: habríamos sacrificado
@@ -105,8 +105,8 @@ sacrificar:
       3s: habría sacrificado
       3p: habrían sacrificado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I sacrifice, am sacrificing'}
       1s: sacrifique
       1p: sacrifiquemos
@@ -115,8 +115,8 @@ sacrificar:
       3s: sacrifique
       3p: sacrifiquen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I sacrificed, was sacrificing'}
       1s: sacrificara
       1p: sacrificáramos
@@ -125,8 +125,8 @@ sacrificar:
       3s: sacrificara
       3p: sacrificaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will sacrifice}
       1s: sacrificare
       1p: sacrificáremos
@@ -135,8 +135,8 @@ sacrificar:
       3s: sacrificare
       3p: sacrificaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have sacrificed, sacrificed'}
       1s: haya sacrificado
       1p: hayamos sacrificado
@@ -145,8 +145,8 @@ sacrificar:
       3s: haya sacrificado
       3p: hayan sacrificado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have sacrificed}
       1s: hubiere sacrificado
       1p: hubiéremos sacrificado
@@ -155,8 +155,8 @@ sacrificar:
       3s: hubiere sacrificado
       3p: hubieren sacrificado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had sacrificed}
       1s: hubiera sacrificado
       1p: hubiéramos sacrificado
@@ -165,8 +165,8 @@ sacrificar:
       3s: hubiera sacrificado
       3p: hubieran sacrificado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Sacrifice! Don't sacrifice!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ sacrificar:
       3s: sacrifique
       3p: sacrifiquen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Sacrifice! Don't sacrifice!}
       1s: ''
       1p: ''

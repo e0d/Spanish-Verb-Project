@@ -2,11 +2,11 @@ matricular:
   infinitive: matricular
   gerund: matriculando
   pastparticiple: matriculado
-  definitions: {en: to register}
-  tenses:
+  definition: {en: to register}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I register, am registering'}
       1s: matriculo
       1p: matriculamos
@@ -15,8 +15,8 @@ matricular:
       3s: matricula
       3p: matriculan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will register}
       1s: matricularé
       1p: matricularemos
@@ -25,8 +25,8 @@ matricular:
       3s: matriculará
       3p: matricularán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was registering, used to register, registered'}
       1s: matriculaba
       1p: matriculábamos
@@ -35,8 +35,8 @@ matricular:
       3s: matriculaba
       3p: matriculaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I registered}
       1s: matriculé
       1p: matriculamos
@@ -45,8 +45,8 @@ matricular:
       3s: matriculó
       3p: matricularon
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would register}
       1s: matricularía
       1p: matricularíamos
@@ -55,8 +55,8 @@ matricular:
       3s: matricularía
       3p: matricularían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have registered}
       1s: he matriculado
       1p: hemos matriculado
@@ -65,8 +65,8 @@ matricular:
       3s: ha matriculado
       3p: han matriculado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have registered}
       1s: habré matriculado
       1p: habremos matriculado
@@ -75,8 +75,8 @@ matricular:
       3s: habrá matriculado
       3p: habrán matriculado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had registered}
       1s: había matriculado
       1p: habíamos matriculado
@@ -85,8 +85,8 @@ matricular:
       3s: había matriculado
       3p: habían matriculado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had registered}
       1s: hube matriculado
       1p: hubimos matriculado
@@ -95,8 +95,8 @@ matricular:
       3s: hubo matriculado
       3p: hubieron matriculado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have registered}
       1s: habría matriculado
       1p: habríamos matriculado
@@ -105,8 +105,8 @@ matricular:
       3s: habría matriculado
       3p: habrían matriculado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I register, am registering'}
       1s: matricule
       1p: matriculemos
@@ -115,8 +115,8 @@ matricular:
       3s: matricule
       3p: matriculen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I registered, was registering'}
       1s: matriculara
       1p: matriculáramos
@@ -125,8 +125,8 @@ matricular:
       3s: matriculara
       3p: matricularan
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will register}
       1s: matriculare
       1p: matriculáremos
@@ -135,8 +135,8 @@ matricular:
       3s: matriculare
       3p: matricularen
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have registered, registered'}
       1s: haya matriculado
       1p: hayamos matriculado
@@ -145,8 +145,8 @@ matricular:
       3s: haya matriculado
       3p: hayan matriculado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have registered}
       1s: hubiere matriculado
       1p: hubiéremos matriculado
@@ -155,8 +155,8 @@ matricular:
       3s: hubiere matriculado
       3p: hubieren matriculado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had registered}
       1s: hubiera matriculado
       1p: hubiéramos matriculado
@@ -165,8 +165,8 @@ matricular:
       3s: hubiera matriculado
       3p: hubieran matriculado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Register! Don't register!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ matricular:
       3s: matricule
       3p: matriculen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Register! Don't register!}
       1s: ''
       1p: ''

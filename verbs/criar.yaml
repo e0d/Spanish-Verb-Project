@@ -2,11 +2,11 @@ criar:
   infinitive: criar
   gerund: criando
   pastparticiple: criado
-  definitions: {en: to raise}
-  tenses:
+  definition: {en: to raise}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I raise, am raising'}
       1s: crío
       1p: criamos
@@ -15,8 +15,8 @@ criar:
       3s: cría
       3p: crían
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will raise}
       1s: criaré
       1p: criaremos
@@ -25,8 +25,8 @@ criar:
       3s: criará
       3p: criarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was raising, used to raise, raised'}
       1s: criaba
       1p: criábamos
@@ -35,8 +35,8 @@ criar:
       3s: criaba
       3p: criaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I raised}
       1s: crié
       1p: criamos
@@ -45,8 +45,8 @@ criar:
       3s: crio
       3p: criaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would raise}
       1s: criaría
       1p: criaríamos
@@ -55,8 +55,8 @@ criar:
       3s: criaría
       3p: criarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have raised}
       1s: he criado
       1p: hemos criado
@@ -65,8 +65,8 @@ criar:
       3s: ha criado
       3p: han criado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have raised}
       1s: habré criado
       1p: habremos criado
@@ -75,8 +75,8 @@ criar:
       3s: habrá criado
       3p: habrán criado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had raised}
       1s: había criado
       1p: habíamos criado
@@ -85,8 +85,8 @@ criar:
       3s: había criado
       3p: habían criado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had raised}
       1s: hube criado
       1p: hubimos criado
@@ -95,8 +95,8 @@ criar:
       3s: hubo criado
       3p: hubieron criado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have raised}
       1s: habría criado
       1p: habríamos criado
@@ -105,8 +105,8 @@ criar:
       3s: habría criado
       3p: habrían criado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I raise, am raising'}
       1s: críe
       1p: criemos
@@ -115,8 +115,8 @@ criar:
       3s: críe
       3p: críen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I raised, was raising'}
       1s: criara
       1p: criáramos
@@ -125,8 +125,8 @@ criar:
       3s: criara
       3p: criaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will raise}
       1s: criare
       1p: criáremos
@@ -135,8 +135,8 @@ criar:
       3s: criare
       3p: criaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have raised, raised'}
       1s: haya criado
       1p: hayamos criado
@@ -145,8 +145,8 @@ criar:
       3s: haya criado
       3p: hayan criado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have raised}
       1s: hubiere criado
       1p: hubiéremos criado
@@ -155,8 +155,8 @@ criar:
       3s: hubiere criado
       3p: hubieren criado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had raised}
       1s: hubiera criado
       1p: hubiéramos criado
@@ -165,8 +165,8 @@ criar:
       3s: hubiera criado
       3p: hubieran criado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Raise! Don't raise!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ criar:
       3s: críe
       3p: críen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Raise! Don't raise!}
       1s: ''
       1p: ''

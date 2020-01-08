@@ -2,11 +2,11 @@ cazar:
   infinitive: cazar
   gerund: cazando
   pastparticiple: cazado
-  definitions: {en: 'to hunt, represent, stand for'}
-  tenses:
+  definition: {en: 'to hunt, represent, stand for'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I hunt, am hunting'}
       1s: cazo
       1p: cazamos
@@ -15,8 +15,8 @@ cazar:
       3s: caza
       3p: cazan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will hunt}
       1s: cazaré
       1p: cazaremos
@@ -25,8 +25,8 @@ cazar:
       3s: cazará
       3p: cazarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was hunting, used to hunt, hunted'}
       1s: cazaba
       1p: cazábamos
@@ -35,8 +35,8 @@ cazar:
       3s: cazaba
       3p: cazaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I hunted}
       1s: cacé
       1p: cazamos
@@ -45,8 +45,8 @@ cazar:
       3s: cazó
       3p: cazaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would hunt}
       1s: cazaría
       1p: cazaríamos
@@ -55,8 +55,8 @@ cazar:
       3s: cazaría
       3p: cazarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have hunted}
       1s: he cazado
       1p: hemos cazado
@@ -65,8 +65,8 @@ cazar:
       3s: ha cazado
       3p: han cazado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have hunted}
       1s: habré cazado
       1p: habremos cazado
@@ -75,8 +75,8 @@ cazar:
       3s: habrá cazado
       3p: habrán cazado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had hunted}
       1s: había cazado
       1p: habíamos cazado
@@ -85,8 +85,8 @@ cazar:
       3s: había cazado
       3p: habían cazado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had hunted}
       1s: hube cazado
       1p: hubimos cazado
@@ -95,8 +95,8 @@ cazar:
       3s: hubo cazado
       3p: hubieron cazado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have hunted}
       1s: habría cazado
       1p: habríamos cazado
@@ -105,8 +105,8 @@ cazar:
       3s: habría cazado
       3p: habrían cazado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I hunt, am hunting'}
       1s: cace
       1p: cacemos
@@ -115,8 +115,8 @@ cazar:
       3s: cace
       3p: cacen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I hunted, was hunting'}
       1s: cazara
       1p: cazáramos
@@ -125,8 +125,8 @@ cazar:
       3s: cazara
       3p: cazaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will hunt}
       1s: cazare
       1p: cazáremos
@@ -135,8 +135,8 @@ cazar:
       3s: cazare
       3p: cazaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have hunted, hunted'}
       1s: haya cazado
       1p: hayamos cazado
@@ -145,8 +145,8 @@ cazar:
       3s: haya cazado
       3p: hayan cazado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have hunted}
       1s: hubiere cazado
       1p: hubiéremos cazado
@@ -155,8 +155,8 @@ cazar:
       3s: hubiere cazado
       3p: hubieren cazado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had hunted}
       1s: hubiera cazado
       1p: hubiéramos cazado
@@ -165,8 +165,8 @@ cazar:
       3s: hubiera cazado
       3p: hubieran cazado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Hunt! Don't hunt!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ cazar:
       3s: cace
       3p: cacen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Hunt! Don't hunt!}
       1s: ''
       1p: ''

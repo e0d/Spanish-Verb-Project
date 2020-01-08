@@ -2,11 +2,11 @@ eliminar:
   infinitive: eliminar
   gerund: eliminando
   pastparticiple: eliminado
-  definitions: {en: 'to eliminate, remove, get rid of'}
-  tenses:
+  definition: {en: 'to eliminate, remove, get rid of'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I eliminate, am eliminating'}
       1s: elimino
       1p: eliminamos
@@ -15,8 +15,8 @@ eliminar:
       3s: elimina
       3p: eliminan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will eliminate}
       1s: eliminaré
       1p: eliminaremos
@@ -25,8 +25,8 @@ eliminar:
       3s: eliminará
       3p: eliminarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was eliminating, used to eliminate, eliminated'}
       1s: eliminaba
       1p: eliminábamos
@@ -35,8 +35,8 @@ eliminar:
       3s: eliminaba
       3p: eliminaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I eliminated}
       1s: eliminé
       1p: eliminamos
@@ -45,8 +45,8 @@ eliminar:
       3s: eliminó
       3p: eliminaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would eliminate}
       1s: eliminaría
       1p: eliminaríamos
@@ -55,8 +55,8 @@ eliminar:
       3s: eliminaría
       3p: eliminarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have eliminated}
       1s: he eliminado
       1p: hemos eliminado
@@ -65,8 +65,8 @@ eliminar:
       3s: ha eliminado
       3p: han eliminado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have eliminated}
       1s: habré eliminado
       1p: habremos eliminado
@@ -75,8 +75,8 @@ eliminar:
       3s: habrá eliminado
       3p: habrán eliminado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had eliminated}
       1s: había eliminado
       1p: habíamos eliminado
@@ -85,8 +85,8 @@ eliminar:
       3s: había eliminado
       3p: habían eliminado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had eliminated}
       1s: hube eliminado
       1p: hubimos eliminado
@@ -95,8 +95,8 @@ eliminar:
       3s: hubo eliminado
       3p: hubieron eliminado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have eliminated}
       1s: habría eliminado
       1p: habríamos eliminado
@@ -105,8 +105,8 @@ eliminar:
       3s: habría eliminado
       3p: habrían eliminado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I eliminate, am eliminating'}
       1s: elimine
       1p: eliminemos
@@ -115,8 +115,8 @@ eliminar:
       3s: elimine
       3p: eliminen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I eliminated, was eliminating'}
       1s: eliminara
       1p: elimináramos
@@ -125,8 +125,8 @@ eliminar:
       3s: eliminara
       3p: eliminaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will eliminate}
       1s: eliminare
       1p: elimináremos
@@ -135,8 +135,8 @@ eliminar:
       3s: eliminare
       3p: eliminaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have eliminated, eliminated'}
       1s: haya eliminado
       1p: hayamos eliminado
@@ -145,8 +145,8 @@ eliminar:
       3s: haya eliminado
       3p: hayan eliminado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have eliminated}
       1s: hubiere eliminado
       1p: hubiéremos eliminado
@@ -155,8 +155,8 @@ eliminar:
       3s: hubiere eliminado
       3p: hubieren eliminado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had eliminated}
       1s: hubiera eliminado
       1p: hubiéramos eliminado
@@ -165,8 +165,8 @@ eliminar:
       3s: hubiera eliminado
       3p: hubieran eliminado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Eliminate! Don't eliminate!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ eliminar:
       3s: elimine
       3p: eliminen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Eliminate! Don't eliminate!}
       1s: ''
       1p: ''

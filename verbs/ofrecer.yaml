@@ -2,11 +2,11 @@ ofrecer:
   infinitive: ofrecer
   gerund: ofreciendo
   pastparticiple: ofrecido
-  definitions: {en: to offer}
-  tenses:
+  definition: {en: to offer}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I offer, am offering'}
       1s: ofrezco
       1p: ofrecemos
@@ -15,8 +15,8 @@ ofrecer:
       3s: ofrece
       3p: ofrecen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will offer}
       1s: ofreceré
       1p: ofreceremos
@@ -25,8 +25,8 @@ ofrecer:
       3s: ofrecerá
       3p: ofrecerán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was offering, used to offer, offered'}
       1s: ofrecía
       1p: ofrecíamos
@@ -35,8 +35,8 @@ ofrecer:
       3s: ofrecía
       3p: ofrecían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I offered}
       1s: ofrecí
       1p: ofrecimos
@@ -45,8 +45,8 @@ ofrecer:
       3s: ofreció
       3p: ofrecieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would offer}
       1s: ofrecería
       1p: ofreceríamos
@@ -55,8 +55,8 @@ ofrecer:
       3s: ofrecería
       3p: ofrecerían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have offered}
       1s: he ofrecido
       1p: hemos ofrecido
@@ -65,8 +65,8 @@ ofrecer:
       3s: ha ofrecido
       3p: han ofrecido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have offered}
       1s: habré ofrecido
       1p: habremos ofrecido
@@ -75,8 +75,8 @@ ofrecer:
       3s: habrá ofrecido
       3p: habrán ofrecido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had offered}
       1s: había ofrecido
       1p: habíamos ofrecido
@@ -85,8 +85,8 @@ ofrecer:
       3s: había ofrecido
       3p: habían ofrecido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had offered}
       1s: hube ofrecido
       1p: hubimos ofrecido
@@ -95,8 +95,8 @@ ofrecer:
       3s: hubo ofrecido
       3p: hubieron ofrecido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have offered}
       1s: habría ofrecido
       1p: habríamos ofrecido
@@ -105,8 +105,8 @@ ofrecer:
       3s: habría ofrecido
       3p: habrían ofrecido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I offer, am offering'}
       1s: ofrezca
       1p: ofrezcamos
@@ -115,8 +115,8 @@ ofrecer:
       3s: ofrezca
       3p: ofrezcan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I offered, was offering'}
       1s: ofreciera
       1p: ofreciéramos
@@ -125,8 +125,8 @@ ofrecer:
       3s: ofreciera
       3p: ofrecieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will offer}
       1s: ofreciere
       1p: ofreciéremos
@@ -135,8 +135,8 @@ ofrecer:
       3s: ofreciere
       3p: ofrecieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have offered, offered'}
       1s: haya ofrecido
       1p: hayamos ofrecido
@@ -145,8 +145,8 @@ ofrecer:
       3s: haya ofrecido
       3p: hayan ofrecido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have offered}
       1s: hubiere ofrecido
       1p: hubiéremos ofrecido
@@ -155,8 +155,8 @@ ofrecer:
       3s: hubiere ofrecido
       3p: hubieren ofrecido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had offered}
       1s: hubiera ofrecido
       1p: hubiéramos ofrecido
@@ -165,8 +165,8 @@ ofrecer:
       3s: hubiera ofrecido
       3p: hubieran ofrecido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Offer! Don't offer!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ ofrecer:
       3s: ofrezca
       3p: ofrezcan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Offer! Don't offer!}
       1s: ''
       1p: ''

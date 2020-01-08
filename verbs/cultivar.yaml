@@ -2,11 +2,11 @@ cultivar:
   infinitive: cultivar
   gerund: cultivando
   pastparticiple: cultivado
-  definitions: {en: to cultivate; to grow}
-  tenses:
+  definition: {en: to cultivate; to grow}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I cultivate, am cultivating'}
       1s: cultivo
       1p: cultivamos
@@ -15,8 +15,8 @@ cultivar:
       3s: cultiva
       3p: cultivan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will cultivate}
       1s: cultivaré
       1p: cultivaremos
@@ -25,8 +25,8 @@ cultivar:
       3s: cultivará
       3p: cultivarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was cultivating, used to cultivate, cultivated'}
       1s: cultivaba
       1p: cultivábamos
@@ -35,8 +35,8 @@ cultivar:
       3s: cultivaba
       3p: cultivaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I cultivated}
       1s: cultivé
       1p: cultivamos
@@ -45,8 +45,8 @@ cultivar:
       3s: cultivó
       3p: cultivaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would cultivate}
       1s: cultivaría
       1p: cultivaríamos
@@ -55,8 +55,8 @@ cultivar:
       3s: cultivaría
       3p: cultivarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have cultivated}
       1s: he cultivado
       1p: hemos cultivado
@@ -65,8 +65,8 @@ cultivar:
       3s: ha cultivado
       3p: han cultivado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have cultivated}
       1s: habré cultivado
       1p: habremos cultivado
@@ -75,8 +75,8 @@ cultivar:
       3s: habrá cultivado
       3p: habrán cultivado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had cultivated}
       1s: había cultivado
       1p: habíamos cultivado
@@ -85,8 +85,8 @@ cultivar:
       3s: había cultivado
       3p: habían cultivado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had cultivated}
       1s: hube cultivado
       1p: hubimos cultivado
@@ -95,8 +95,8 @@ cultivar:
       3s: hubo cultivado
       3p: hubieron cultivado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have cultivated}
       1s: habría cultivado
       1p: habríamos cultivado
@@ -105,8 +105,8 @@ cultivar:
       3s: habría cultivado
       3p: habrían cultivado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I cultivate, am cultivating'}
       1s: cultive
       1p: cultivemos
@@ -115,8 +115,8 @@ cultivar:
       3s: cultive
       3p: cultiven
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I cultivated, was cultivating'}
       1s: cultivara
       1p: cultiváramos
@@ -125,8 +125,8 @@ cultivar:
       3s: cultivara
       3p: cultivaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will cultivate}
       1s: cultivare
       1p: cultiváremos
@@ -135,8 +135,8 @@ cultivar:
       3s: cultivare
       3p: cultivaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have cultivated, cultivated'}
       1s: haya cultivado
       1p: hayamos cultivado
@@ -145,8 +145,8 @@ cultivar:
       3s: haya cultivado
       3p: hayan cultivado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have cultivated}
       1s: hubiere cultivado
       1p: hubiéremos cultivado
@@ -155,8 +155,8 @@ cultivar:
       3s: hubiere cultivado
       3p: hubieren cultivado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had cultivated}
       1s: hubiera cultivado
       1p: hubiéramos cultivado
@@ -165,8 +165,8 @@ cultivar:
       3s: hubiera cultivado
       3p: hubieran cultivado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Cultivate! Don't cultivate!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ cultivar:
       3s: cultive
       3p: cultiven
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Cultivate! Don't cultivate!}
       1s: ''
       1p: ''

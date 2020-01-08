@@ -2,11 +2,11 @@ efectuar:
   infinitive: efectuar
   gerund: efectuando
   pastparticiple: efectuado
-  definitions: {en: 'to effect, carry out, bring about'}
-  tenses:
+  definition: {en: 'to effect, carry out, bring about'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I effect, am effecting'}
       1s: efectúo
       1p: efectuamos
@@ -15,8 +15,8 @@ efectuar:
       3s: efectúa
       3p: efectúan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will effect}
       1s: efectuaré
       1p: efectuaremos
@@ -25,8 +25,8 @@ efectuar:
       3s: efectuará
       3p: efectuarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was effecting, used to effect, effected'}
       1s: efectuaba
       1p: efectuábamos
@@ -35,8 +35,8 @@ efectuar:
       3s: efectuaba
       3p: efectuaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I effected}
       1s: efectué
       1p: efectuamos
@@ -45,8 +45,8 @@ efectuar:
       3s: efectuó
       3p: efectuaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would effect}
       1s: efectuaría
       1p: efectuaríamos
@@ -55,8 +55,8 @@ efectuar:
       3s: efectuaría
       3p: efectuarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have effected}
       1s: he efectuado
       1p: hemos efectuado
@@ -65,8 +65,8 @@ efectuar:
       3s: ha efectuado
       3p: han efectuado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have effected}
       1s: habré efectuado
       1p: habremos efectuado
@@ -75,8 +75,8 @@ efectuar:
       3s: habrá efectuado
       3p: habrán efectuado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had effected}
       1s: había efectuado
       1p: habíamos efectuado
@@ -85,8 +85,8 @@ efectuar:
       3s: había efectuado
       3p: habían efectuado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had effected}
       1s: hube efectuado
       1p: hubimos efectuado
@@ -95,8 +95,8 @@ efectuar:
       3s: hubo efectuado
       3p: hubieron efectuado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have effected}
       1s: habría efectuado
       1p: habríamos efectuado
@@ -105,8 +105,8 @@ efectuar:
       3s: habría efectuado
       3p: habrían efectuado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I effect, am effecting'}
       1s: efectúe
       1p: efectuemos
@@ -115,8 +115,8 @@ efectuar:
       3s: efectúe
       3p: efectúen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I effected, was effecting'}
       1s: efectuara
       1p: efectuáramos
@@ -125,8 +125,8 @@ efectuar:
       3s: efectuara
       3p: efectuaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will effect}
       1s: efectuare
       1p: efectuáremos
@@ -135,8 +135,8 @@ efectuar:
       3s: efectuare
       3p: efectuaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have effected, effected'}
       1s: haya efectuado
       1p: hayamos efectuado
@@ -145,8 +145,8 @@ efectuar:
       3s: haya efectuado
       3p: hayan efectuado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have effected}
       1s: hubiere efectuado
       1p: hubiéremos efectuado
@@ -155,8 +155,8 @@ efectuar:
       3s: hubiere efectuado
       3p: hubieren efectuado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had effected}
       1s: hubiera efectuado
       1p: hubiéramos efectuado
@@ -165,8 +165,8 @@ efectuar:
       3s: hubiera efectuado
       3p: hubieran efectuado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Effect! Don't effect!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ efectuar:
       3s: efectúe
       3p: efectúen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Effect! Don't effect!}
       1s: ''
       1p: ''

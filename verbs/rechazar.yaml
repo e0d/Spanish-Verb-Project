@@ -2,11 +2,11 @@ rechazar:
   infinitive: rechazar
   gerund: rechazando
   pastparticiple: rechazado
-  definitions: {en: 'to reject; to push back, repel'}
-  tenses:
+  definition: {en: 'to reject; to push back, repel'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I reject, am rejecting'}
       1s: rechazo
       1p: rechazamos
@@ -15,8 +15,8 @@ rechazar:
       3s: rechaza
       3p: rechazan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will reject}
       1s: rechazaré
       1p: rechazaremos
@@ -25,8 +25,8 @@ rechazar:
       3s: rechazará
       3p: rechazarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was rejecting, used to reject, rejected'}
       1s: rechazaba
       1p: rechazábamos
@@ -35,8 +35,8 @@ rechazar:
       3s: rechazaba
       3p: rechazaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I rejected}
       1s: rechacé
       1p: rechazamos
@@ -45,8 +45,8 @@ rechazar:
       3s: rechazó
       3p: rechazaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would reject}
       1s: rechazaría
       1p: rechazaríamos
@@ -55,8 +55,8 @@ rechazar:
       3s: rechazaría
       3p: rechazarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have rejected}
       1s: he rechazado
       1p: hemos rechazado
@@ -65,8 +65,8 @@ rechazar:
       3s: ha rechazado
       3p: han rechazado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have rejected}
       1s: habré rechazado
       1p: habremos rechazado
@@ -75,8 +75,8 @@ rechazar:
       3s: habrá rechazado
       3p: habrán rechazado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had rejected}
       1s: había rechazado
       1p: habíamos rechazado
@@ -85,8 +85,8 @@ rechazar:
       3s: había rechazado
       3p: habían rechazado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had rejected}
       1s: hube rechazado
       1p: hubimos rechazado
@@ -95,8 +95,8 @@ rechazar:
       3s: hubo rechazado
       3p: hubieron rechazado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have rejected}
       1s: habría rechazado
       1p: habríamos rechazado
@@ -105,8 +105,8 @@ rechazar:
       3s: habría rechazado
       3p: habrían rechazado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I reject, am rejecting'}
       1s: rechace
       1p: rechacemos
@@ -115,8 +115,8 @@ rechazar:
       3s: rechace
       3p: rechacen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I rejected, was rejecting'}
       1s: rechazara
       1p: rechazáramos
@@ -125,8 +125,8 @@ rechazar:
       3s: rechazara
       3p: rechazaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will reject}
       1s: rechazare
       1p: rechazáremos
@@ -135,8 +135,8 @@ rechazar:
       3s: rechazare
       3p: rechazaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have rejected, rejected'}
       1s: haya rechazado
       1p: hayamos rechazado
@@ -145,8 +145,8 @@ rechazar:
       3s: haya rechazado
       3p: hayan rechazado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have rejected}
       1s: hubiere rechazado
       1p: hubiéremos rechazado
@@ -155,8 +155,8 @@ rechazar:
       3s: hubiere rechazado
       3p: hubieren rechazado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had rejected}
       1s: hubiera rechazado
       1p: hubiéramos rechazado
@@ -165,8 +165,8 @@ rechazar:
       3s: hubiera rechazado
       3p: hubieran rechazado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Reject! Don't reject!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ rechazar:
       3s: rechace
       3p: rechacen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Reject! Don't reject!}
       1s: ''
       1p: ''

@@ -2,11 +2,11 @@ traer:
   infinitive: traer
   gerund: trayendo
   pastparticiple: traído
-  definitions: {en: 'to bring; to get, fetch; to carry'}
-  tenses:
+  definition: {en: 'to bring; to get, fetch; to carry'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I bring, am bringing'}
       1s: traigo
       1p: traemos
@@ -15,8 +15,8 @@ traer:
       3s: trae
       3p: traen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will bring}
       1s: traeré
       1p: traeremos
@@ -25,8 +25,8 @@ traer:
       3s: traerá
       3p: traerán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was bringing, used to bring, brought'}
       1s: traía
       1p: traíamos
@@ -35,8 +35,8 @@ traer:
       3s: traía
       3p: traían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I brought}
       1s: traje
       1p: trajimos
@@ -45,8 +45,8 @@ traer:
       3s: trajo
       3p: trajeron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would bring}
       1s: traería
       1p: traeríamos
@@ -55,8 +55,8 @@ traer:
       3s: traería
       3p: traerían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have brought}
       1s: he traído
       1p: hemos traído
@@ -65,8 +65,8 @@ traer:
       3s: ha traído
       3p: han traído
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have brought}
       1s: habré traído
       1p: habremos traído
@@ -75,8 +75,8 @@ traer:
       3s: habrá traído
       3p: habrán traído
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had brought}
       1s: había traído
       1p: habíamos traído
@@ -85,8 +85,8 @@ traer:
       3s: había traído
       3p: habían traído
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had brought}
       1s: hube traído
       1p: hubimos traído
@@ -95,8 +95,8 @@ traer:
       3s: hubo traído
       3p: hubieron traído
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have brought}
       1s: habría traído
       1p: habríamos traído
@@ -105,8 +105,8 @@ traer:
       3s: habría traído
       3p: habrían traído
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I bring, am bringing'}
       1s: traiga
       1p: traigamos
@@ -115,8 +115,8 @@ traer:
       3s: traiga
       3p: traigan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I was bringing, brought'}
       1s: trajera
       1p: trajéramos
@@ -125,8 +125,8 @@ traer:
       3s: trajera
       3p: trajeran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will bring}
       1s: trajere
       1p: trajéremos
@@ -135,8 +135,8 @@ traer:
       3s: trajere
       3p: trajeren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have brought, brought'}
       1s: haya traído
       1p: hayamos traído
@@ -145,8 +145,8 @@ traer:
       3s: haya traído
       3p: hayan traído
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have brought}
       1s: hubiere traído
       1p: hubiéremos traído
@@ -155,8 +155,8 @@ traer:
       3s: hubiere traído
       3p: hubieren traído
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had brought}
       1s: hubiera traído
       1p: hubiéramos traído
@@ -165,8 +165,8 @@ traer:
       3s: hubiera traído
       3p: hubieran traído
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: 'Bring!, Don''t bring!'}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ traer:
       3s: traiga
       3p: traigan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: 'Bring!, Don''t bring!'}
       1s: ''
       1p: ''

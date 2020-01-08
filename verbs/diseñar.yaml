@@ -2,11 +2,11 @@ diseñar:
   infinitive: diseñar
   gerund: diseñando
   pastparticiple: diseñado
-  definitions: {en: to design}
-  tenses:
+  definition: {en: to design}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I design, am designing'}
       1s: diseño
       1p: diseñamos
@@ -15,8 +15,8 @@ diseñar:
       3s: diseña
       3p: diseñan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will design}
       1s: diseñaré
       1p: diseñaremos
@@ -25,8 +25,8 @@ diseñar:
       3s: diseñará
       3p: diseñarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was designing, used to design, designed'}
       1s: diseñaba
       1p: diseñábamos
@@ -35,8 +35,8 @@ diseñar:
       3s: diseñaba
       3p: diseñaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I designed}
       1s: diseñé
       1p: diseñamos
@@ -45,8 +45,8 @@ diseñar:
       3s: diseñó
       3p: diseñaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would design}
       1s: diseñaría
       1p: diseñaríamos
@@ -55,8 +55,8 @@ diseñar:
       3s: diseñaría
       3p: diseñarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have designed}
       1s: he diseñado
       1p: hemos diseñado
@@ -65,8 +65,8 @@ diseñar:
       3s: ha diseñado
       3p: han diseñado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have designed}
       1s: habré diseñado
       1p: habremos diseñado
@@ -75,8 +75,8 @@ diseñar:
       3s: habrá diseñado
       3p: habrán diseñado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had designed}
       1s: había diseñado
       1p: habíamos diseñado
@@ -85,8 +85,8 @@ diseñar:
       3s: había diseñado
       3p: habían diseñado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had designed}
       1s: hube diseñado
       1p: hubimos diseñado
@@ -95,8 +95,8 @@ diseñar:
       3s: hubo diseñado
       3p: hubieron diseñado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have designed}
       1s: habría diseñado
       1p: habríamos diseñado
@@ -105,8 +105,8 @@ diseñar:
       3s: habría diseñado
       3p: habrían diseñado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I design, am designing'}
       1s: diseñe
       1p: diseñemos
@@ -115,8 +115,8 @@ diseñar:
       3s: diseñe
       3p: diseñen
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I designed, was designing'}
       1s: diseñara
       1p: diseñáramos
@@ -125,8 +125,8 @@ diseñar:
       3s: diseñara
       3p: diseñaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will design}
       1s: diseñare
       1p: diseñáremos
@@ -135,8 +135,8 @@ diseñar:
       3s: diseñare
       3p: diseñaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have designed, designed'}
       1s: haya diseñado
       1p: hayamos diseñado
@@ -145,8 +145,8 @@ diseñar:
       3s: haya diseñado
       3p: hayan diseñado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have designed}
       1s: hubiere diseñado
       1p: hubiéremos diseñado
@@ -155,8 +155,8 @@ diseñar:
       3s: hubiere diseñado
       3p: hubieren diseñado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had designed}
       1s: hubiera diseñado
       1p: hubiéramos diseñado
@@ -165,8 +165,8 @@ diseñar:
       3s: hubiera diseñado
       3p: hubieran diseñado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Design! Don't design!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ diseñar:
       3s: diseñe
       3p: diseñen
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Design! Don't design!}
       1s: ''
       1p: ''

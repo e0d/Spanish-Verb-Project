@@ -2,11 +2,11 @@ afeitar:
   infinitive: afeitar
   gerund: afeitando
   pastparticiple: afeitado
-  definitions: {en: to shave}
-  tenses:
+  definition: {en: to shave}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I shave, am shaving'}
       1s: afeito
       1p: afeitamos
@@ -15,8 +15,8 @@ afeitar:
       3s: afeita
       3p: afeitan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will shave}
       1s: afeitaré
       1p: afeitaremos
@@ -25,8 +25,8 @@ afeitar:
       3s: afeitará
       3p: afeitarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was shaving, used to shave, shaved'}
       1s: afeitaba
       1p: afeitábamos
@@ -35,8 +35,8 @@ afeitar:
       3s: afeitaba
       3p: afeitaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I shaved}
       1s: afeité
       1p: afeitamos
@@ -45,8 +45,8 @@ afeitar:
       3s: afeitó
       3p: afeitaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would shave}
       1s: afeitaría
       1p: afeitaríamos
@@ -55,8 +55,8 @@ afeitar:
       3s: afeitaría
       3p: afeitarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have shaved}
       1s: he afeitado
       1p: hemos afeitado
@@ -65,8 +65,8 @@ afeitar:
       3s: ha afeitado
       3p: han afeitado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have shaved}
       1s: habré afeitado
       1p: habremos afeitado
@@ -75,8 +75,8 @@ afeitar:
       3s: habrá afeitado
       3p: habrán afeitado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had shaved}
       1s: había afeitado
       1p: habíamos afeitado
@@ -85,8 +85,8 @@ afeitar:
       3s: había afeitado
       3p: habían afeitado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had shaved}
       1s: hube afeitado
       1p: hubimos afeitado
@@ -95,8 +95,8 @@ afeitar:
       3s: hubo afeitado
       3p: hubieron afeitado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have shaved}
       1s: habría afeitado
       1p: habríamos afeitado
@@ -105,8 +105,8 @@ afeitar:
       3s: habría afeitado
       3p: habrían afeitado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I shave, am shaving'}
       1s: afeite
       1p: afeitemos
@@ -115,8 +115,8 @@ afeitar:
       3s: afeite
       3p: afeiten
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I shaved, was shaving'}
       1s: afeitara
       1p: afeitáramos
@@ -125,8 +125,8 @@ afeitar:
       3s: afeitara
       3p: afeitaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will shave}
       1s: afeitare
       1p: afeitáremos
@@ -135,8 +135,8 @@ afeitar:
       3s: afeitare
       3p: afeitaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have shaved, shaved'}
       1s: haya afeitado
       1p: hayamos afeitado
@@ -145,8 +145,8 @@ afeitar:
       3s: haya afeitado
       3p: hayan afeitado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have shaved}
       1s: hubiere afeitado
       1p: hubiéremos afeitado
@@ -155,8 +155,8 @@ afeitar:
       3s: hubiere afeitado
       3p: hubieren afeitado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had shaved}
       1s: hubiera afeitado
       1p: hubiéramos afeitado
@@ -165,8 +165,8 @@ afeitar:
       3s: hubiera afeitado
       3p: hubieran afeitado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Shave! Don't shave!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ afeitar:
       3s: afeite
       3p: afeiten
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Shave! Don't shave!}
       1s: ''
       1p: ''

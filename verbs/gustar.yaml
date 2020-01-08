@@ -2,11 +2,11 @@ gustar:
   infinitive: gustar
   gerund: gustando
   pastparticiple: gustado
-  definitions: {en: 'to please, be pleasing'}
-  tenses:
+  definition: {en: 'to please, be pleasing'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I please, am pleasing'}
       1s: gusto
       1p: gustamos
@@ -15,8 +15,8 @@ gustar:
       3s: gusta
       3p: gustan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will please}
       1s: gustaré
       1p: gustaremos
@@ -25,8 +25,8 @@ gustar:
       3s: gustará
       3p: gustarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was pleasing, used to please, pleased'}
       1s: gustaba
       1p: gustábamos
@@ -35,8 +35,8 @@ gustar:
       3s: gustaba
       3p: gustaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I pleased}
       1s: gusté
       1p: gustamos
@@ -45,8 +45,8 @@ gustar:
       3s: gustó
       3p: gustaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would please}
       1s: gustaría
       1p: gustaríamos
@@ -55,8 +55,8 @@ gustar:
       3s: gustaría
       3p: gustarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have pleased}
       1s: he gustado
       1p: hemos gustado
@@ -65,8 +65,8 @@ gustar:
       3s: ha gustado
       3p: han gustado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have pleased}
       1s: habré gustado
       1p: habremos gustado
@@ -75,8 +75,8 @@ gustar:
       3s: habrá gustado
       3p: habrán gustado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had pleased}
       1s: había gustado
       1p: habíamos gustado
@@ -85,8 +85,8 @@ gustar:
       3s: había gustado
       3p: habían gustado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had pleased}
       1s: hube gustado
       1p: hubimos gustado
@@ -95,8 +95,8 @@ gustar:
       3s: hubo gustado
       3p: hubieron gustado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have pleased}
       1s: habría gustado
       1p: habríamos gustado
@@ -105,8 +105,8 @@ gustar:
       3s: habría gustado
       3p: habrían gustado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I please, am pleasing'}
       1s: guste
       1p: gustemos
@@ -115,8 +115,8 @@ gustar:
       3s: guste
       3p: gusten
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I pleased, was pleasing'}
       1s: gustara
       1p: gustáramos
@@ -125,8 +125,8 @@ gustar:
       3s: gustara
       3p: gustaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will please}
       1s: gustare
       1p: gustáremos
@@ -135,8 +135,8 @@ gustar:
       3s: gustare
       3p: gustaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have pleased, pleased'}
       1s: haya gustado
       1p: hayamos gustado
@@ -145,8 +145,8 @@ gustar:
       3s: haya gustado
       3p: hayan gustado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have pleased}
       1s: hubiere gustado
       1p: hubiéremos gustado
@@ -155,8 +155,8 @@ gustar:
       3s: hubiere gustado
       3p: hubieren gustado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had pleased}
       1s: hubiera gustado
       1p: hubiéramos gustado
@@ -165,8 +165,8 @@ gustar:
       3s: hubiera gustado
       3p: hubieran gustado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Please! Don't please!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ gustar:
       3s: guste
       3p: gusten
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Please! Don't please!}
       1s: ''
       1p: ''

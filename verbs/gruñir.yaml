@@ -2,11 +2,11 @@ gruñir:
   infinitive: gruñir
   gerund: gruñendo
   pastparticiple: gruñido
-  definitions: {en: 'to grunt, growl'}
-  tenses:
+  definition: {en: 'to grunt, growl'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I grunt, am grunting'}
       1s: gruño
       1p: gruñimos
@@ -15,8 +15,8 @@ gruñir:
       3s: gruñe
       3p: gruñen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will grunt}
       1s: gruñiré
       1p: gruñiremos
@@ -25,8 +25,8 @@ gruñir:
       3s: gruñirá
       3p: gruñirán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was grunting, used to grunt, grunted'}
       1s: gruñía
       1p: gruñíamos
@@ -35,8 +35,8 @@ gruñir:
       3s: gruñía
       3p: gruñían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I grunted}
       1s: gruñí
       1p: gruñimos
@@ -45,8 +45,8 @@ gruñir:
       3s: gruñó
       3p: gruñeron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would grunt}
       1s: gruñiría
       1p: gruñiríamos
@@ -55,8 +55,8 @@ gruñir:
       3s: gruñiría
       3p: gruñirían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have grunted}
       1s: he gruñido
       1p: hemos gruñido
@@ -65,8 +65,8 @@ gruñir:
       3s: ha gruñido
       3p: han gruñido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have grunted}
       1s: habré gruñido
       1p: habremos gruñido
@@ -75,8 +75,8 @@ gruñir:
       3s: habrá gruñido
       3p: habrán gruñido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had grunted}
       1s: había gruñido
       1p: habíamos gruñido
@@ -85,8 +85,8 @@ gruñir:
       3s: había gruñido
       3p: habían gruñido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had grunted}
       1s: hube gruñido
       1p: hubimos gruñido
@@ -95,8 +95,8 @@ gruñir:
       3s: hubo gruñido
       3p: hubieron gruñido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have grunted}
       1s: habría gruñido
       1p: habríamos gruñido
@@ -105,8 +105,8 @@ gruñir:
       3s: habría gruñido
       3p: habrían gruñido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I grunt, am grunting'}
       1s: gruña
       1p: gruñamos
@@ -115,8 +115,8 @@ gruñir:
       3s: gruña
       3p: gruñan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I grunted, was grunting'}
       1s: gruñera
       1p: gruñéramos
@@ -125,8 +125,8 @@ gruñir:
       3s: gruñera
       3p: gruñeran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will grunt}
       1s: gruñere
       1p: gruñéremos
@@ -135,8 +135,8 @@ gruñir:
       3s: gruñere
       3p: gruñeren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have grunted, grunted'}
       1s: haya gruñido
       1p: hayamos gruñido
@@ -145,8 +145,8 @@ gruñir:
       3s: haya gruñido
       3p: hayan gruñido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have grunted}
       1s: hubiere gruñido
       1p: hubiéremos gruñido
@@ -155,8 +155,8 @@ gruñir:
       3s: hubiere gruñido
       3p: hubieren gruñido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had grunted}
       1s: hubiera gruñido
       1p: hubiéramos gruñido
@@ -165,8 +165,8 @@ gruñir:
       3s: hubiera gruñido
       3p: hubieran gruñido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Grunt! Don't grunt!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ gruñir:
       3s: gruña
       3p: gruñan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Grunt! Don't grunt!}
       1s: ''
       1p: ''

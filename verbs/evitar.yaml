@@ -2,11 +2,11 @@ evitar:
   infinitive: evitar
   gerund: evitando
   pastparticiple: evitado
-  definitions: {en: to avoid; to prevent}
-  tenses:
+  definition: {en: to avoid; to prevent}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I avoid, am avoiding'}
       1s: evito
       1p: evitamos
@@ -15,8 +15,8 @@ evitar:
       3s: evita
       3p: evitan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will avoid}
       1s: evitaré
       1p: evitaremos
@@ -25,8 +25,8 @@ evitar:
       3s: evitará
       3p: evitarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was avoiding, used to avoid, avoided'}
       1s: evitaba
       1p: evitábamos
@@ -35,8 +35,8 @@ evitar:
       3s: evitaba
       3p: evitaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I avoided}
       1s: evité
       1p: evitamos
@@ -45,8 +45,8 @@ evitar:
       3s: evitó
       3p: evitaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would avoid}
       1s: evitaría
       1p: evitaríamos
@@ -55,8 +55,8 @@ evitar:
       3s: evitaría
       3p: evitarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have avoided}
       1s: he evitado
       1p: hemos evitado
@@ -65,8 +65,8 @@ evitar:
       3s: ha evitado
       3p: han evitado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have avoided}
       1s: habré evitado
       1p: habremos evitado
@@ -75,8 +75,8 @@ evitar:
       3s: habrá evitado
       3p: habrán evitado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had avoided}
       1s: había evitado
       1p: habíamos evitado
@@ -85,8 +85,8 @@ evitar:
       3s: había evitado
       3p: habían evitado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had avoided}
       1s: hube evitado
       1p: hubimos evitado
@@ -95,8 +95,8 @@ evitar:
       3s: hubo evitado
       3p: hubieron evitado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have avoided}
       1s: habría evitado
       1p: habríamos evitado
@@ -105,8 +105,8 @@ evitar:
       3s: habría evitado
       3p: habrían evitado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I avoid, am avoiding'}
       1s: evite
       1p: evitemos
@@ -115,8 +115,8 @@ evitar:
       3s: evite
       3p: eviten
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I avoided, was avoiding'}
       1s: evitara
       1p: evitáramos
@@ -125,8 +125,8 @@ evitar:
       3s: evitara
       3p: evitaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will avoid}
       1s: evitare
       1p: evitáremos
@@ -135,8 +135,8 @@ evitar:
       3s: evitare
       3p: evitaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have avoided, avoided'}
       1s: haya evitado
       1p: hayamos evitado
@@ -145,8 +145,8 @@ evitar:
       3s: haya evitado
       3p: hayan evitado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have avoided}
       1s: hubiere evitado
       1p: hubiéremos evitado
@@ -155,8 +155,8 @@ evitar:
       3s: hubiere evitado
       3p: hubieren evitado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had avoided}
       1s: hubiera evitado
       1p: hubiéramos evitado
@@ -165,8 +165,8 @@ evitar:
       3s: hubiera evitado
       3p: hubieran evitado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Avoid! Don't avoid!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ evitar:
       3s: evite
       3p: eviten
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Avoid! Don't avoid!}
       1s: ''
       1p: ''

@@ -2,11 +2,11 @@ sorprender:
   infinitive: sorprender
   gerund: sorprendiendo
   pastparticiple: sorprendido
-  definitions: {en: 'to surprise, take by surprise, startle, amaze'}
-  tenses:
+  definition: {en: 'to surprise, take by surprise, startle, amaze'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I surprise, am surprising'}
       1s: sorprendo
       1p: sorprendemos
@@ -15,8 +15,8 @@ sorprender:
       3s: sorprende
       3p: sorprenden
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will surprise}
       1s: sorprenderé
       1p: sorprenderemos
@@ -25,8 +25,8 @@ sorprender:
       3s: sorprenderá
       3p: sorprenderán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was surprising, used to surprise, surprised'}
       1s: sorprendía
       1p: sorprendíamos
@@ -35,8 +35,8 @@ sorprender:
       3s: sorprendía
       3p: sorprendían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I surprised}
       1s: sorprendí
       1p: sorprendimos
@@ -45,8 +45,8 @@ sorprender:
       3s: sorprendió
       3p: sorprendieron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would surprise}
       1s: sorprendería
       1p: sorprenderíamos
@@ -55,8 +55,8 @@ sorprender:
       3s: sorprendería
       3p: sorprenderían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have surprised}
       1s: he sorprendido
       1p: hemos sorprendido
@@ -65,8 +65,8 @@ sorprender:
       3s: ha sorprendido
       3p: han sorprendido
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have surprised}
       1s: habré sorprendido
       1p: habremos sorprendido
@@ -75,8 +75,8 @@ sorprender:
       3s: habrá sorprendido
       3p: habrán sorprendido
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had surprised}
       1s: había sorprendido
       1p: habíamos sorprendido
@@ -85,8 +85,8 @@ sorprender:
       3s: había sorprendido
       3p: habían sorprendido
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had surprised}
       1s: hube sorprendido
       1p: hubimos sorprendido
@@ -95,8 +95,8 @@ sorprender:
       3s: hubo sorprendido
       3p: hubieron sorprendido
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have surprised}
       1s: habría sorprendido
       1p: habríamos sorprendido
@@ -105,8 +105,8 @@ sorprender:
       3s: habría sorprendido
       3p: habrían sorprendido
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I surprise, am surprising'}
       1s: sorprenda
       1p: sorprendamos
@@ -115,8 +115,8 @@ sorprender:
       3s: sorprenda
       3p: sorprendan
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I surprised, was surprising'}
       1s: sorprendiera
       1p: sorprendiéramos
@@ -125,8 +125,8 @@ sorprender:
       3s: sorprendiera
       3p: sorprendieran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will surprise}
       1s: sorprendiere
       1p: sorprendiéremos
@@ -135,8 +135,8 @@ sorprender:
       3s: sorprendiere
       3p: sorprendieren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have surprised, surprised'}
       1s: haya sorprendido
       1p: hayamos sorprendido
@@ -145,8 +145,8 @@ sorprender:
       3s: haya sorprendido
       3p: hayan sorprendido
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have surprised}
       1s: hubiere sorprendido
       1p: hubiéremos sorprendido
@@ -155,8 +155,8 @@ sorprender:
       3s: hubiere sorprendido
       3p: hubieren sorprendido
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had surprised}
       1s: hubiera sorprendido
       1p: hubiéramos sorprendido
@@ -165,8 +165,8 @@ sorprender:
       3s: hubiera sorprendido
       3p: hubieran sorprendido
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Surprise! Don't surprise!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ sorprender:
       3s: sorprenda
       3p: sorprendan
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Surprise! Don't surprise!}
       1s: ''
       1p: ''

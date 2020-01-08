@@ -2,11 +2,11 @@ montar:
   infinitive: montar
   gerund: montando
   pastparticiple: montado
-  definitions: {en: 'to mount, to get on, to ride'}
-  tenses:
+  definition: {en: 'to mount, to get on, to ride'}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I mount, am mounting'}
       1s: monto
       1p: montamos
@@ -15,8 +15,8 @@ montar:
       3s: monta
       3p: montan
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will mount}
       1s: montaré
       1p: montaremos
@@ -25,8 +25,8 @@ montar:
       3s: montará
       3p: montarán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was mounting, used to mount, mounted'}
       1s: montaba
       1p: montábamos
@@ -35,8 +35,8 @@ montar:
       3s: montaba
       3p: montaban
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I mounted}
       1s: monté
       1p: montamos
@@ -45,8 +45,8 @@ montar:
       3s: montó
       3p: montaron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would mount}
       1s: montaría
       1p: montaríamos
@@ -55,8 +55,8 @@ montar:
       3s: montaría
       3p: montarían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have mounted}
       1s: he montado
       1p: hemos montado
@@ -65,8 +65,8 @@ montar:
       3s: ha montado
       3p: han montado
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have mounted}
       1s: habré montado
       1p: habremos montado
@@ -75,8 +75,8 @@ montar:
       3s: habrá montado
       3p: habrán montado
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had mounted}
       1s: había montado
       1p: habíamos montado
@@ -85,8 +85,8 @@ montar:
       3s: había montado
       3p: habían montado
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had mounted}
       1s: hube montado
       1p: hubimos montado
@@ -95,8 +95,8 @@ montar:
       3s: hubo montado
       3p: hubieron montado
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have mounted}
       1s: habría montado
       1p: habríamos montado
@@ -105,8 +105,8 @@ montar:
       3s: habría montado
       3p: habrían montado
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I mount, am mounting'}
       1s: monte
       1p: montemos
@@ -115,8 +115,8 @@ montar:
       3s: monte
       3p: monten
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I mounted, was mounting'}
       1s: montara
       1p: montáramos
@@ -125,8 +125,8 @@ montar:
       3s: montara
       3p: montaran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will mount}
       1s: montare
       1p: montáremos
@@ -135,8 +135,8 @@ montar:
       3s: montare
       3p: montaren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have mounted, mounted'}
       1s: haya montado
       1p: hayamos montado
@@ -145,8 +145,8 @@ montar:
       3s: haya montado
       3p: hayan montado
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have mounted}
       1s: hubiere montado
       1p: hubiéremos montado
@@ -155,8 +155,8 @@ montar:
       3s: hubiere montado
       3p: hubieren montado
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had mounted}
       1s: hubiera montado
       1p: hubiéramos montado
@@ -165,8 +165,8 @@ montar:
       3s: hubiera montado
       3p: hubieran montado
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: mount! Don't mount!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ montar:
       3s: monte
       3p: monten
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: mount! Don't mount!}
       1s: ''
       1p: ''

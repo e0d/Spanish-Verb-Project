@@ -2,11 +2,11 @@ creer:
   infinitive: creer
   gerund: creyendo
   pastparticiple: creído
-  definitions: {en: to believe}
-  tenses:
+  definition: {en: to believe}
+  conjugations:
   - Presente Indicativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I believe, am believing'}
       1s: creo
       1p: creemos
@@ -15,8 +15,8 @@ creer:
       3s: cree
       3p: creen
   - Futuro Indicativo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will believe}
       1s: creeré
       1p: creeremos
@@ -25,8 +25,8 @@ creer:
       3s: creerá
       3p: creerán
   - Imperfecto Indicativo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: 'I was believing, used to believe, believed'}
       1s: creía
       1p: creíamos
@@ -35,8 +35,8 @@ creer:
       3s: creía
       3p: creían
   - Pretérito Indicativo:
-      tenses: {en: Preterite, es: Pretérito}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite, es: Pretérito}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I believed}
       1s: creí
       1p: creímos
@@ -45,8 +45,8 @@ creer:
       3s: creyó
       3p: creyeron
   - Condicional Indicativo:
-      tenses: {en: Conditional, es: Condicional}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional, es: Condicional}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would believe}
       1s: creería
       1p: creeríamos
@@ -55,8 +55,8 @@ creer:
       3s: creería
       3p: creerían
   - Presente perfecto Indicativo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I have believed}
       1s: he creído
       1p: hemos creído
@@ -65,8 +65,8 @@ creer:
       3s: ha creído
       3p: han creído
   - Futuro perfecto Indicativo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I will have believed}
       1s: habré creído
       1p: habremos creído
@@ -75,8 +75,8 @@ creer:
       3s: habrá creído
       3p: habrán creído
   - Pluscuamperfecto Indicativo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had believed}
       1s: había creído
       1p: habíamos creído
@@ -85,8 +85,8 @@ creer:
       3s: había creído
       3p: habían creído
   - Pretérito anterior Indicativo:
-      tenses: {en: Preterite (Archaic), es: Pretérito anterior}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Preterite (Archaic), es: Pretérito anterior}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I had believed}
       1s: hube creído
       1p: hubimos creído
@@ -95,8 +95,8 @@ creer:
       3s: hubo creído
       3p: hubieron creído
   - Condicional perfecto Indicativo:
-      tenses: {en: Conditional Perfect, es: Condicional perfecto}
-      moods: {en: Indicative, es: Indicativo}
+      tense: {en: Conditional Perfect, es: Condicional perfecto}
+      mood: {en: Indicative, es: Indicativo}
       samples: {en: I would have believed}
       1s: habría creído
       1p: habríamos creído
@@ -105,8 +105,8 @@ creer:
       3s: habría creído
       3p: habrían creído
   - Presente Subjuntivo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I believe, am believing'}
       1s: crea
       1p: creamos
@@ -115,8 +115,8 @@ creer:
       3s: crea
       3p: crean
   - Imperfecto Subjuntivo:
-      tenses: {en: Imperfect, es: Imperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Imperfect, es: Imperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I believed, was believing'}
       1s: creyera
       1p: creyéramos
@@ -125,8 +125,8 @@ creer:
       3s: creyera
       3p: creyeran
   - Futuro Subjuntivo:
-      tenses: {en: Future, es: Futuro}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future, es: Futuro}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will believe}
       1s: creyere
       1p: creyéremos
@@ -135,8 +135,8 @@ creer:
       3s: creyere
       3p: creyeren
   - Presente perfecto Subjuntivo:
-      tenses: {en: Present Perfect, es: Presente perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Present Perfect, es: Presente perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: 'I have believed, believed'}
       1s: haya creído
       1p: hayamos creído
@@ -145,8 +145,8 @@ creer:
       3s: haya creído
       3p: hayan creído
   - Futuro perfecto Subjuntivo:
-      tenses: {en: Future Perfect, es: Futuro perfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Future Perfect, es: Futuro perfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I will have believed}
       1s: hubiere creído
       1p: hubiéremos creído
@@ -155,8 +155,8 @@ creer:
       3s: hubiere creído
       3p: hubieren creído
   - Pluscuamperfecto Subjuntivo:
-      tenses: {en: Past Perfect, es: Pluscuamperfecto}
-      moods: {en: Subjunctive, es: Subjuntivo}
+      tense: {en: Past Perfect, es: Pluscuamperfecto}
+      mood: {en: Subjunctive, es: Subjuntivo}
       samples: {en: I had believed}
       1s: hubiera creído
       1p: hubiéramos creído
@@ -165,8 +165,8 @@ creer:
       3s: hubiera creído
       3p: hubieran creído
   - Presente Imperativo Afirmativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Affirmative, es: Imperativo Afirmativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Affirmative, es: Imperativo Afirmativo}
       samples: {en: Believe! Don't believe!}
       1s: ''
       1p: ''
@@ -175,8 +175,8 @@ creer:
       3s: crea
       3p: crean
   - Presente Imperativo Negativo:
-      tenses: {en: Present, es: Presente}
-      moods: {en: Imperative Negative, es: Imperativo Negativo}
+      tense: {en: Present, es: Presente}
+      mood: {en: Imperative Negative, es: Imperativo Negativo}
       samples: {en: Believe! Don't believe!}
       1s: ''
       1p: ''
