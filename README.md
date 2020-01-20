@@ -12,4 +12,26 @@ Rather than providing multiple serializations, I will, over time, add scripts th
 
 Contributions of new verbs or fixes to existing ones are welcomed. Please do not make any contributions based on work that is not your own and not avaiable via an appropriate license like Creative Commons.
 
+The following verbs are missing and wanted:
+
++ sofreír
++ hospedar
++ henchir
++ quejar
++ hartar
++ habilitar
++ sumergir
++ prestar
++ hostigar
++ habituar
++ habitar
++ quitar
++ halagar
++ remar
++ hackear
++ velar
++ cantar
++ cambiar
++ hinchar
+
 Flashcards for memorizing the definitions of the 600+ existing verbs have been uploaded to [Quizlet](https://quizlet.com/es/469497341/spanish-verbs-from-fred-jehles-database-flash-cards/).
